@@ -1772,3 +1772,14 @@ A pesquisa acadêmica reforça que a identificação com o clube, o comprometime
 - **Eixo:** distinção entre o posicionamento social e democrático do Flamengo como instituição e a utilização do clube por dirigentes em manifestações ou interesses político-partidários.
 - **Registro editorial:** publicação confirmada; pauta encerrada e retirada das pendências.
 
+
+## Publicação confirmada — Pós-jogo Flamengo x Real Heips (31/10/2026)
+
+- **Estado:** publicada em 31/10/2026, conforme confirmação explícita do editor.
+- **Título:** *Estreia com o pé direito: Flamengo Maricá vence o Real Heips por 2 a 1, mantém 100% de aproveitamento e segue na liderança do Carioca Feminino*.
+- **URL pública:** https://fla10.news/noticias/flamengo-vence-o-real-heips-por-2-a-1-e-mantem-lideranca-do-carioca-feminino
+- **Formato:** notícia pós-jogo — Campeonato Carioca Feminino, segunda fase, segunda rodada.
+- **Resultado:** Flamengo Maricá 2 x 1 Real Heips, no Estádio Municipal João Saldanha, em Maricá.
+- **Gols do Flamengo:** Nina Garrit, aos 2 minutos do primeiro tempo, e Campos. O Real Heips marcou uma vez no segundo tempo.
+- **Contexto:** o Flamengo utilizou a equipe Sub-20, venceu o Araruama por 7 a 0 na estreia da segunda fase e chegou a seis pontos em dois jogos, mantendo 100% de aproveitamento e a liderança.
+- **Registro editorial:** pauta encerrada e retirada das pendências. Publicação confirmada pelo editor; não inferir autoria do gol do Real Heips, que não consta no registro editorial disponível.
