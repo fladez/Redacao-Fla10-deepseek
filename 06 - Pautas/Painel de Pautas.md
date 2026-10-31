@@ -1752,3 +1752,13 @@ A dimensão da torcida do Flamengo se transforma em ativos comerciais observáve
 
 **13. Possível eixo interpretativo — segmentação, não massa homogênea**
 A pesquisa acadêmica reforça que a identificação com o clube, o comprometimento, a lealdade e o consumo são dimensões relacionadas, mas distintas. A reportagem deve evitar falar da torcida como um bloco uniforme ou usar seguidores, torcedores declarados, compradores, sócios e frequentadores como se fossem o mesmo público. A pergunta comercial passa a ser: quais segmentos o Flamengo consegue conhecer e atender, e quais permanecem apenas no alcance simbólico/digital?
+
+
+## Publicação confirmada — Reportagem Fla10: A força da Nação (31/10/2026)
+
+- **Estado:** **publicada em 31/10/2026**, conforme confirmação explícita do editor.
+- **Título:** *A força da Nação: como a torcida do Flamengo se transforma em poder econômico e influência no futebol brasileiro*.
+- **URL pública:** https://fla10.news/reportagens/a-forca-da-nacao-como-a-torcida-do-flamengo-se-transforma-em-poder-economico-e-influencia-no-futebol-brasileiro
+- **Formato:** Reportagem Fla10 — investigação documental sobre a dimensão econômica, cultural e comercial da torcida rubro-negra.
+- **Síntese:** a matéria examina como a dimensão nacional da torcida se relaciona com receitas, patrocínios, licenciamento, bilheteria, audiência, presença digital e programas de relacionamento. Também aborda os limites da conversão de popularidade em consumo, a heterogeneidade socioeconômica da Nação e as lacunas de dados públicos sobre conversão e retorno comercial.
+- **Registro editorial:** pauta encerrada e retirada das pendências. A pesquisa documental e as ressalvas metodológicas permanecem preservadas no dossiê desta pauta. Entrevistas e pedidos institucionais preparados, mas não enviados, não foram apresentados como respostas ou apuração realizada.
