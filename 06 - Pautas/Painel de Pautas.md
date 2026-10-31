@@ -1787,3 +1787,15 @@ A pesquisa acadêmica reforça que a identificação com o clube, o comprometime
 - **Contexto:** o Flamengo venceu o Araruama por 7 a 0 na estreia da segunda fase e chegou a seis pontos em dois jogos, mantendo 100% de aproveitamento e a liderança. A partida marcou a estreia oficial do projeto Flamengo Maricá em jogos no município.
 - **Fonte complementar de apuração:** https://www.flamengo.com.br/noticias/futebol-feminino/flamengo-marica-vence-o-real-heips-por-2-a-1-pelo-carioca-feminino (relato oficial publicado em 31/10/2026).
 - **Registro editorial:** pauta encerrada e retirada das pendências. Publicação confirmada pelo editor.
+
+
+## Publicação confirmada — Onde assistir Flamengo x Ceisc/União Corinthians (31/10/2026)
+
+- **Estado:** publicada em 31/10/2026, conforme confirmação explícita do editor.
+- **Título:** *Flamengo x Ceisc/União Corinthians: onde assistir ao vivo, horário e informações do jogo pelo NBB*.
+- **URL pública:** https://fla10.news/noticias/flamengo-x-ceiscuniao-corinthians-onde-assistir-ao-vivo-horario-e-informacoes-do-jogo-pelo-nbb
+- **Formato:** serviço de jogo — NBB CAIXA 2026/27, quarta rodada do primeiro turno.
+- **Partida:** Flamengo x Ceisc/União Corinthians, domingo, 1º de novembro de 2026, às 11h (de Brasília), no Maracanãzinho, Rio de Janeiro.
+- **Transmissão:** YouTube do NBB CAIXA e FlamengoTV (YouTube). A cobertura da FlamengoTV tem narração de Emerson Santos (Emershow), comentários de Duda Machado e reportagem de Bruna Gosling.
+- **Contexto registrado na matéria:** Flamengo vinha de vitórias sobre Botafogo (81 a 71) e Caxias do Sul (77 a 59); o Ceisc/União Corinthians chegava após vencer o Botafogo por 87 a 80.
+- **Registro editorial:** publicação confirmada pelo editor; pauta de serviço encerrada e retirada das pendências.
