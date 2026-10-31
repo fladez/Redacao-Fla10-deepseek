@@ -1446,26 +1446,28 @@ A pedido do editor, esta seção atualiza a programação corrente e prevalece s
 ## Programação editorial — sábado, 31/10/2026
 
 ### Seções especiais
-
 1. **Reportagens Fla10**
    - **Estado:** oito temas aprovados em 31/10/2026; cronograma de publicação definido a cada cinco dias, de 05/11 a 10/12/2026.
    - **Pauta em desenvolvimento hoje:** proposta original 2 — *A força da torcida do Flamengo se traduz em influência fora dos estádios?*
    - **Regra de produção:** debate editorial individual obrigatório antes de cada reportagem, com definição da pergunta central, recorte temporal, hipótese de trabalho, evidências e plano de apuração. Aprovação do tema não equivale a autorização para iniciar todas as reportagens.
    - **Agenda completa:** consultar a seção “Cronologia de publicação — Reportagens Fla10 (novembro e dezembro de 2026)” neste painel.
 
-2. **FlaTirinhas**
-   - **Estado:** pauta reservada; conteúdo a definir.
-   - **Próximo passo:** decidir personagem ou situação, abordagem e formato da tirinha antes da criação.
-
-3. **Flamengo na História**
-   - **Estado:** pauta reservada; conteúdo a definir.
-   - **Próximo passo:** escolher episódio histórico, efeméride ou personagem e validar datas e fontes antes da produção.
-
 ### Coberturas esportivas já previstas para 31/10
 - **Pós-jogo — Flamengo x Real Heips (futebol feminino):** produção após a partida.
 - **Pós-jogo — Sesc RJ Flamengo x Batavo Mackenzie (Superliga Feminina):** produção após a partida.
 
-**Controle de fluxo:** as três pautas especiais estão incluídas na agenda, mas permanecem sem tema aprovado. A definição será feita individualmente, preservando a regra de debate editorial antes da produção de Reportagens Fla10.
+## Programação editorial — domingo, 01/11/2026
+
+### Seções especiais
+1. **FlaTirinhas**
+   - **Estado:** transferida de 31/10 para 01/11; pauta reservada, conteúdo a definir.
+   - **Próximo passo:** decidir personagem ou situação, abordagem e formato da tirinha antes da criação.
+
+2. **Flamengo na História**
+   - **Estado:** transferida de 31/10 para 01/11; pauta reservada, conteúdo a definir.
+   - **Próximo passo:** escolher episódio histórico, efeméride ou personagem e validar datas e fontes antes da produção.
+
+**Controle de fluxo:** as duas pautas especiais foram transferidas para 01/11/2026 por solicitação do editor. Permanecem sem tema aprovado; a definição será feita individualmente antes da produção.
 
 ## Programação editorial — 31 de outubro e 1º de novembro de 2026
 
