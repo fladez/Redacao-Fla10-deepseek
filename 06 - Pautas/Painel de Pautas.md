@@ -1762,3 +1762,13 @@ A pesquisa acadêmica reforça que a identificação com o clube, o comprometime
 - **Formato:** Reportagem Fla10 — investigação documental sobre a dimensão econômica, cultural e comercial da torcida rubro-negra.
 - **Síntese:** a matéria examina como a dimensão nacional da torcida se relaciona com receitas, patrocínios, licenciamento, bilheteria, audiência, presença digital e programas de relacionamento. Também aborda os limites da conversão de popularidade em consumo, a heterogeneidade socioeconômica da Nação e as lacunas de dados públicos sobre conversão e retorno comercial.
 - **Registro editorial:** pauta encerrada e retirada das pendências. A pesquisa documental e as ressalvas metodológicas permanecem preservadas no dossiê desta pauta. Entrevistas e pedidos institucionais preparados, mas não enviados, não foram apresentados como respostas ou apuração realizada.
+
+## Publicação confirmada — Coluna Na Pena do Urubu (31/10/2026)
+
+### O Flamengo deve ser apartidário, nunca apolítico
+- **Estado:** **publicada em 31/10/2026**, conforme confirmação explícita do editor.
+- **Formato:** crônica de opinião — coluna Na Pena do Urubu.
+- **URL pública:** https://fla10.news/colunas/o-flamengo-deve-ser-apartidario-nunca-apolitico
+- **Eixo:** distinção entre o posicionamento social e democrático do Flamengo como instituição e a utilização do clube por dirigentes em manifestações ou interesses político-partidários.
+- **Registro editorial:** publicação confirmada; pauta encerrada e retirada das pendências.
+
