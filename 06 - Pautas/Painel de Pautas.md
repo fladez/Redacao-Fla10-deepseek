@@ -1799,3 +1799,17 @@ A pesquisa acadêmica reforça que a identificação com o clube, o comprometime
 - **Transmissão:** YouTube do NBB CAIXA e FlamengoTV (YouTube). A cobertura da FlamengoTV tem narração de Emerson Santos (Emershow), comentários de Duda Machado e reportagem de Bruna Gosling.
 - **Contexto registrado na matéria:** Flamengo vinha de vitórias sobre Botafogo (81 a 71) e Caxias do Sul (77 a 59); o Ceisc/União Corinthians chegava após vencer o Botafogo por 87 a 80.
 - **Registro editorial:** publicação confirmada pelo editor; pauta de serviço encerrada e retirada das pendências.
+
+## Publicação confirmada — Pós-jogo Sesc RJ Flamengo x Batavo Mackenzie (31/10/2026)
+
+- **Estado:** publicada em 31/10/2026, conforme confirmação explícita do editor.
+- **Título:** *Sesc RJ Flamengo vence o Mackenzie por 3 a 0 e mantém liderança invicta na Superliga*.
+- **URL pública:** https://fla10.news/noticias/sesc-rj-flamengo-vence-o-mackenzie-por-3-a-0-e-mantem-lideranca-invicta-na-superliga
+- **Ficha editorial:** [[2026-10-31 - Sesc RJ Flamengo x Batavo Mackenzie - pós-jogo vôlei feminino]].
+- **Formato:** notícia pós-jogo — terceira rodada da fase classificatória da Superliga Feminina 2026/27.
+- **Resultado:** Sesc RJ Flamengo 3 x 0 Batavo Mackenzie, no Ginásio do Tijuca Tênis Clube, no Rio de Janeiro.
+- **Parciais:** 25/23, 25/23 e 25/20.
+- **Destaques:** Tainara foi a maior pontuadora, com 17 pontos; Simone Lee marcou 16; Lorena anotou nove; Roberta fez 12 pelo Mackenzie. Giovana recebeu o Troféu VivaVôlei.
+- **Contexto:** terceira vitória consecutiva do Flamengo, que chegou a nove pontos, manteve 100% de aproveitamento e ainda não perdeu sets na competição. O Mackenzie sofreu a terceira derrota seguida.
+- **Próximos jogos:** Sesc RJ Flamengo x Sancor Londrina, em 06/11, às 18h30, em Londrina; Batavo Mackenzie x Gerdau Minas, em 05/11, às 18h30.
+- **Registro editorial:** pauta encerrada e retirada das pendências de produção.
