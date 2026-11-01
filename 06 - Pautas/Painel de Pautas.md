@@ -1814,3 +1814,13 @@ A pesquisa acadêmica reforça que a identificação com o clube, o comprometime
 - **Contexto:** terceira vitória consecutiva do Flamengo, que chegou a nove pontos, manteve 100% de aproveitamento e ainda não perdeu sets na competição. O Mackenzie sofreu a terceira derrota seguida.
 - **Próximos jogos:** Sesc RJ Flamengo x Sancor Londrina, em 06/11, às 18h30, em Londrina; Batavo Mackenzie x Gerdau Minas, em 05/11, às 18h30.
 - **Registro editorial:** pauta encerrada e retirada das pendências de produção.
+
+
+## Publicação confirmada — FlaTirinhas: Ressaca de 4 (01/11/2026)
+
+- **Estado:** publicada em 01/11/2026, conforme confirmação explícita do editor.
+- **Formato:** tirinha — FlaTirinhas.
+- **Título/identificação:** *Ressaca de 4*.
+- **URL pública:** https://fla10.news/tirinhas/ressaca-de-4
+- **Ficha editorial:** [[2026-11-01 - FlaTirinhas - Ressaca de 4]].
+- **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e retirada das pendências.
