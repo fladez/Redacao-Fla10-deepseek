@@ -1839,3 +1839,46 @@ A pesquisa acadêmica reforça que a identificação com o clube, o comprometime
 - **Síntese:** depois de três períodos equilibrados, o Flamengo decidiu a partida no último quarto, vencido por 26 a 12, e conquistou a terceira vitória consecutiva. A equipe encerrou a sequência de dois jogos em casa com 100% de aproveitamento.
 - **Próximo compromisso informado na matéria:** Brasília x Flamengo, em 04/11/2026, às 20h15.
 - **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e retirada das pendências.
+
+## Programação editorial — 2 de novembro de 2026
+
+**Estado geral:** quatro pautas aprovadas pelo editor para produção e publicação em 02/11/2026. A ordem abaixo considera urgência, potencial editorial e janela de audiência. As sugestões de horário são planejamento, não confirmação de publicação.
+
+### Ordem de publicação
+
+1. **Flamengo retira pedido cautelar no CAS, mas mantém disputa sobre Marcos Rojo**
+   - **Estado:** aprovada; produção e publicação pendentes.
+   - **Formato:** Últimas Notícias.
+   - **Janela sugerida:** 12h–13h.
+   - **Ângulo:** explicar a retirada do pedido cautelar relativo à venda de ingressos da final da Libertadores e distinguir essa decisão da contestação de mérito sobre a regularidade da escalação de Marcos Rojo. Não afirmar que o Flamengo desistiu da ação principal.
+   - **Checagens:** confirmar o teor e o alcance da manifestação no CAS; separar decisão processual, pedido cautelar e mérito da disputa.
+
+2. **Finanças do Flamengo: superávit até setembro, projeção de déficit em 2026 e vendas de atletas em 2027**
+   - **Estado:** aprovada; produção e publicação pendentes.
+   - **Formato:** análise econômica / Reportagem Fla10.
+   - **Janela sugerida:** 14h–15h30, com flexibilidade para apuração.
+   - **Ângulo:** confrontar os indicadores do relatório financeiro oficial do terceiro trimestre com a projeção de déficit para o fechamento de 2026 e a meta de arrecadação com vendas de atletas em 2027. Explicar como receitas, resultado contábil, fluxo de caixa, investimentos e dívida podem apresentar sinais diferentes.
+   - **Dados do relatório oficial até setembro:** R$ 1,17 bilhão em receita recorrente; R$ 289,9 milhões em EBITDA recorrente; superávit acumulado de R$ 4,5 milhões; R$ 667,7 milhões investidos em atletas; R$ 333,9 milhões em dívida líquida com atletas; R$ 84,1 milhões de caixa livre consolidado.
+   - **Projeções reportadas:** déficit de R$ 40 milhões em 2026 e captação de 40–45 milhões de euros em vendas de atletas em 2027. Tratar como projeções atribuídas às fontes, não como resultados já realizados.
+   - **Checagens:** trabalhar com o relatório oficial do Flamengo e conferir a base, o período e a natureza de cada indicador; atribuir corretamente as projeções; não inferir crise de caixa apenas a partir do déficit projetado.
+
+3. **Flamengo Maricá: parceria de R$ 10 milhões começa a ganhar dimensão prática no futebol feminino**
+   - **Estado:** aprovada; produção e publicação pendentes.
+   - **Formato:** notícia explicativa.
+   - **Janela sugerida:** 17h–18h.
+   - **Ângulo:** explicar o que a parceria com a Prefeitura de Maricá já entregou no futebol feminino e o que permanece como projeto, incluindo o investimento anual anunciado e a formação de meninas.
+   - **Contexto apurado:** Flamengo Maricá venceu o Real Heips por 2 a 1 em 31/10/2026, em sua estreia oficial na cidade, e lidera o Carioca Feminino.
+   - **Checagens:** confirmar os termos, valores, contrapartidas e vigência do acordo; distinguir recursos anunciados, repasses efetivos, ações implementadas e metas futuras.
+
+4. **Flamengo x Operário-PR (Sub-20): onde assistir, horário e informações do jogo**
+   - **Estado:** aprovada; produção e publicação pendentes.
+   - **Formato:** serviço de jogo.
+   - **Janela sugerida:** 20h–21h.
+   - **Partida:** terça-feira, 03/11/2026, às 16h30 (de Brasília), no Estádio Luso-Brasileiro, Rio de Janeiro; jogo de volta das quartas de final da Copa do Brasil Sub-20.
+   - **Checagens obrigatórias antes da publicação:** transmissão oficial, resultado e contexto do jogo de ida, critérios de classificação/desempate, horário, estádio e demais informações de serviço. Não presumir transmissão sem confirmação.
+
+### Diretriz de execução
+- A ordem é a sequência editorial aprovada; os horários são janelas sugeridas e podem ser ajustados conforme a apuração.
+- A pauta financeira tem prioridade de qualidade: não sacrificar a conferência dos números para cumprir a janela sugerida.
+- Marcar cada item como publicado somente após confirmação explícita do editor e registro da URL pública.
+- Preservar a distinção entre fatos confirmados, projeções atribuídas e interpretações da análise.
