@@ -1864,12 +1864,12 @@ A pesquisa acadêmica reforça que a identificação com o clube, o comprometime
    - **Checagens:** trabalhar com o relatório oficial do Flamengo e conferir a base, o período e a natureza de cada indicador; atribuir corretamente as projeções; não inferir crise de caixa apenas a partir do déficit projetado.
 
 3. **Flamengo Maricá: parceria de R$ 10 milhões começa a ganhar dimensão prática no futebol feminino**
-   - **Estado:** aprovada; produção e publicação pendentes.
+   - **Estado:** **publicada em 02/11/2026**, conforme confirmação explícita do editor.
    - **Formato:** notícia explicativa.
    - **Janela sugerida:** 17h–18h.
    - **Ângulo:** explicar o que a parceria com a Prefeitura de Maricá já entregou no futebol feminino e o que permanece como projeto, incluindo o investimento anual anunciado e a formação de meninas.
    - **Contexto apurado:** Flamengo Maricá venceu o Real Heips por 2 a 1 em 31/10/2026, em sua estreia oficial na cidade, e lidera o Carioca Feminino.
-   - **Checagens:** confirmar os termos, valores, contrapartidas e vigência do acordo; distinguir recursos anunciados, repasses efetivos, ações implementadas e metas futuras.
+   - **Checagens concluídas:** termos, valor contratado, vigência, contrapartidas e distinção entre ações já realizadas e metas futuras conferidos na apuração.
 
 4. **Flamengo x Operário-PR (Sub-20): onde assistir, horário e informações do jogo**
    - **Estado:** aprovada; produção e publicação pendentes.
@@ -2012,4 +2012,15 @@ A pesquisa acadêmica reforça que a identificação com o clube, o comprometime
 - **URL pública:** https://fla10.news/noticias/flamengo-retira-pedido-cautelar-no-cas-mas-mantem-disputa-sobre-marcos-rojo
 - **Formato:** Últimas Notícias.
 - **Ângulo:** retirada integral do pedido de medidas provisórias que buscava suspender a venda de ingressos da final da Libertadores; distinção expressa entre o pedido cautelar e a posição do Flamengo sobre o mérito da controvérsia envolvendo Marcos Rojo.
+- **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e retirada das pendências de produção.
+
+
+## Publicação confirmada — Flamengo Maricá (02/11/2026)
+
+- **Estado:** publicada em 02/11/2026, conforme confirmação explícita do editor.
+- **Título:** *Flamengo Maricá: parceria de R$ 10 milhões começa a sair do papel e mira formação de atletas*.
+- **URL pública:** https://fla10.news/noticias/flamengo-marica-parceria-de-r-10-milhoes-comeca-a-sair-do-papel-e-mira-formacao-de-atletas
+- **Formato:** notícia explicativa — futebol feminino / parceria institucional.
+- **Ângulo:** explicar o acordo de R$ 10 milhões por 12 meses entre Flamengo e Prefeitura de Maricá, as contrapartidas de exposição e realização de jogos, os núcleos de desenvolvimento previstos para meninas de 10 a 17 anos e o início esportivo da parceria com a vitória sobre o Real Heips por 2 a 1, em 31/10/2026.
+- **Controle de precisão:** valor contratado não tratado como integralmente repassado; pagamentos mensais condicionados à comprovação das entregas e à fiscalização municipal; núcleos, avaliações de talentos e capacitação apresentados como ações previstas, sem afirmar implantação integral.
 - **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e retirada das pendências de produção.
