@@ -1847,7 +1847,8 @@ A pesquisa acadêmica reforça que a identificação com o clube, o comprometime
 ### Ordem de publicação
 
 1. **Flamengo retira pedido cautelar no CAS, mas mantém disputa sobre Marcos Rojo**
-   - **Estado:** aprovada; produção e publicação pendentes.
+   - **Estado:** **publicada em 02/11/2026**, conforme confirmação explícita do editor.
+   - **URL pública:** https://fla10.news/noticias/flamengo-retira-pedido-cautelar-no-cas-mas-mantem-disputa-sobre-marcos-rojo
    - **Formato:** Últimas Notícias.
    - **Janela sugerida:** 12h–13h.
    - **Ângulo:** explicar a retirada do pedido cautelar relativo à venda de ingressos da final da Libertadores e distinguir essa decisão da contestação de mérito sobre a regularidade da escalação de Marcos Rojo. Não afirmar que o Flamengo desistiu da ação principal.
@@ -2002,3 +2003,13 @@ A pesquisa acadêmica reforça que a identificação com o clube, o comprometime
 - **10/11 — Flamengo x Sesi Franca, NBB, 20h30, Maracanãzinho.** A tabela oficial da LNB lista o jogo; a pauta Onde Assistir deve ser publicada em 09/11.
 
 **Fontes para conferência:** calendário oficial de futebol feminino do Flamengo (https://www.flamengo.com.br/futebol-feminino/proximos-jogos), tabela de jogos da LNB (https://lnb.com.br/nbb/tabela-de-jogos), agenda semanal de transmissões da LNB (https://lnb.com.br/noticias/onde-assistir-ao-nbb-caixa-2026-27-agenda-de-transmissoes-da-semana-3/) e calendário oficial do vôlei do Flamengo (https://www.flamengo.com.br/volei/proximos-jogos). Transmissões não confirmadas ficam pendentes; não presumir que todo jogo terá transmissão disponível.
+
+
+## Publicação confirmada — Flamengo retira pedido cautelar no CAS (02/11/2026)
+
+- **Estado:** publicada em 02/11/2026, conforme confirmação explícita do editor.
+- **Título:** *Flamengo retira pedido cautelar no CAS, mas mantém disputa sobre Marcos Rojo*.
+- **URL pública:** https://fla10.news/noticias/flamengo-retira-pedido-cautelar-no-cas-mas-mantem-disputa-sobre-marcos-rojo
+- **Formato:** Últimas Notícias.
+- **Ângulo:** retirada integral do pedido de medidas provisórias que buscava suspender a venda de ingressos da final da Libertadores; distinção expressa entre o pedido cautelar e a posição do Flamengo sobre o mérito da controvérsia envolvendo Marcos Rojo.
+- **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e retirada das pendências de produção.
