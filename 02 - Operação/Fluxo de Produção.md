@@ -51,14 +51,16 @@ A programação de matérias deve ser organizada em relação à **data efetiva 
 
 ### No dia do evento
 
-**a) Futebol masculino**
+**a) Futebol masculino profissional — equipe principal**
 1. **Pré-jogo:** publicar pela manhã, com contexto, informações atualizadas e serviço pertinente.
 2. **Pós-jogo:** produzir e publicar logo após o término da partida. É uma primeira notícia de panorama geral, baseada nos fatos e nas poucas informações confiáveis já disponíveis na internet naquele momento. Não tentar antecipar uma análise aprofundada.
 3. **Análise jornalística:** publicar mais tarde, depois de aguardar a circulação de informações adicionais, declarações, dados e repercussões que permitam uma abordagem mais profunda. Deve ter pergunta, recorte e interpretação próprios, sem repetir o pós-jogo.
 4. **Depois do Apito:** produzir a crônica de Miguel Sampaio após a partida, respeitando integralmente a identidade, a voz, o método e os limites definidos em [[Depois do Apito]]. A crônica deve ter leitura autoral e literária, não funcionar como notícia nem como análise tática.
 5. **Raio-X Tático:** produzir a análise estritamente tática da partida, examinando estruturas, comportamentos, funções, ajustes e decisões técnicas com base em evidências do jogo. Não misturar com avaliação jornalística geral ou crônica.
 
-**b) Todas as outras modalidades esportivas**
+**b) Todas as demais categorias e modalidades esportivas**
+
+Esta categoria inclui expressamente o **futebol masculino de base**, como Sub-20, Sub-17 e demais equipes de formação. Portanto, essas equipes seguem o fluxo de pós-jogo previsto para as outras modalidades, e não a sequência especial destinada ao futebol masculino profissional da equipe principal.
 - **Pós-jogo:** produzir após o término do evento, quando já houver informações confiáveis e suficientes para construir uma matéria consistente. Não é necessário replicar a sequência de conteúdos prevista para o futebol masculino.
 
 ### Regras de execução
