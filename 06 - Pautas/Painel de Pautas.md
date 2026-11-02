@@ -1892,3 +1892,82 @@ A pesquisa acadêmica reforça que a identificação com o clube, o comprometime
 - **Partida:** quarta-feira, 04/11/2026, conforme correção do editor; horário, estádio e demais dados a confirmar na apuração.
 - **Apuração pendente:** confirmar horário oficial, estádio, transmissão, rodada, situação das equipes, prováveis escalações, desfalques e arbitragem, conforme disponibilidade de informações oficiais.
 - **Controle editorial:** a data do evento está confirmada pelo editor como 04/11/2026; não confundir com a data de publicação da matéria de serviço, prevista para 03/11.
+
+
+## Agenda esportiva prospectiva — novembro de 2026
+
+**Critério:** calendário consultado em 02/11/2026, priorizando a programação oficial do Flamengo. As datas abaixo são eventos identificados em fontes oficiais; horários, locais e transmissões não publicados ou não confirmados permanecem pendentes. A agenda gera pautas de serviço na véspera e cobertura no dia do evento conforme [[Fluxo de Produção]]. Não marcar publicação como concluída antes da produção e confirmação do editor.
+
+### 03/11/2026 — terça-feira
+- **Evento:** Flamengo Sub-20 x Operário-PR — Copa do Brasil Sub-20, jogo de volta das quartas de final; 16h30, Estádio Luso-Brasileiro.
+- **Pauta de serviço:** Onde assistir — prevista para 02/11 (ver programação já registrada).
+- **Cobertura no evento:** pós-jogo, após o término e quando houver informações suficientes.
+- **Classificação editorial:** futebol masculino de base; segue a regra de outras modalidades, não a sequência da equipe principal.
+
+### 04/11/2026 — quarta-feira
+- **Evento 1:** Flamengo x Grêmio — Brasileirão, 34ª rodada; 19h30, Maracanã.
+  - **Pauta de serviço:** Onde assistir — 03/11 (já incluída na programação de 03/11).
+  - **Cobertura no evento:** pré-jogo pela manhã; pós-jogo logo após o término; análise jornalística após apuração complementar; crônica Depois do Apito; Raio-X Tático.
+  - **Classificação editorial:** futebol masculino profissional — equipe principal.
+- **Evento 2:** Brasília x Flamengo — NBB 2026/27, 5ª rodada; 20h15, Brasília (DF).
+  - **Pauta de serviço:** Onde assistir — 03/11; produção e publicação pendentes de confirmação de transmissão e demais dados.
+  - **Cobertura no evento:** pós-jogo quando houver informações suficientes.
+  - **Classificação editorial:** basquete.
+- **Atenção de planejamento:** os dois eventos acontecem simultaneamente; organizar previamente a equipe/produção e priorizar o fluxo de publicação sem confundir as coberturas.
+
+### 06/11/2026 — sexta-feira
+- **Evento:** Sancor Seguros Vôlei Londrina x Sesc RJ Flamengo — Superliga Feminina; 18h30, Londrina.
+- **Pauta de serviço:** Onde assistir — 05/11; confirmar transmissão.
+- **Cobertura no evento:** pós-jogo quando houver informações suficientes.
+
+### 07/11/2026 — sábado
+- **Evento:** Pato Basquete x Flamengo — NBB 2026/27; 19h (horário divulgado pelo Flamengo); Paraná.
+- **Pauta de serviço:** Onde assistir — 06/11; confirmar local exato e transmissão.
+- **Cobertura no evento:** pós-jogo quando houver informações suficientes.
+
+### 11/11/2026 — quarta-feira
+- **Evento:** Flamengo Maricá x Botafogo — Campeonato Carioca Feminino, 3ª rodada.
+- **Pauta de serviço:** Onde assistir — 10/11; confirmar horário, estádio e transmissão.
+- **Cobertura no evento:** pós-jogo quando houver informações suficientes.
+
+### 12/11/2026 — quinta-feira
+- **Evento:** Sesc RJ Flamengo x Fluminense — Superliga Feminina; 21h, Tijuca (RJ).
+- **Pauta de serviço:** Onde assistir — 11/11; confirmar transmissão.
+- **Cobertura no evento:** pós-jogo quando houver informações suficientes.
+
+### 14/11/2026 — sábado
+- **Evento:** Vasco x Flamengo Maricá — Campeonato Carioca Feminino, 4ª rodada.
+- **Pauta de serviço:** Onde assistir — 13/11; confirmar horário, estádio e transmissão.
+- **Cobertura no evento:** pós-jogo quando houver informações suficientes.
+
+### 17/11/2026 — terça-feira
+- **Evento:** SESI Vôlei Bauru x Sesc RJ Flamengo — Superliga Feminina; 21h, Bauru.
+- **Pauta de serviço:** Onde assistir — 16/11; confirmar transmissão.
+- **Cobertura no evento:** pós-jogo quando houver informações suficientes.
+
+### 18/11/2026 — quarta-feira
+- **Evento 1:** Flamengo x Athletico Paranaense — Brasileirão; 20h30, Maracanã.
+  - **Pauta de serviço:** Onde assistir — 17/11.
+  - **Cobertura no evento:** pré-jogo pela manhã; pós-jogo; análise jornalística; Depois do Apito; Raio-X Tático.
+  - **Classificação editorial:** futebol masculino profissional — equipe principal.
+- **Evento 2:** Flamengo Maricá x Fluminense — Campeonato Carioca Feminino, 5ª rodada.
+  - **Pauta de serviço:** Onde assistir — 17/11; confirmar horário, estádio e transmissão.
+  - **Cobertura no evento:** pós-jogo quando houver informações suficientes.
+- **Atenção de planejamento:** verificar os horários oficiais para identificar eventual sobreposição de produção e publicação.
+
+### 21/11/2026 — sábado
+- **Evento:** Palmeiras x Flamengo — Brasileirão; 16h30, Nubank Parque.
+- **Pauta de serviço:** Onde assistir — 20/11.
+- **Cobertura no evento:** pré-jogo pela manhã; pós-jogo; análise jornalística; Depois do Apito; Raio-X Tático.
+- **Classificação editorial:** futebol masculino profissional — equipe principal.
+
+### 23/11/2026 — segunda-feira
+- **Evento:** Sesc RJ Flamengo x Osasco São Cristóvão Saúde — Superliga Feminina; 21h, Tijuca (RJ).
+- **Pauta de serviço:** Onde assistir — 22/11; confirmar transmissão.
+- **Cobertura no evento:** pós-jogo quando houver informações suficientes.
+
+### Pendências de atualização
+- Consultar diariamente os calendários oficiais para identificar novos jogos, mudanças de data, horário, local e transmissão.
+- Completar a agenda do NBB, futebol feminino, base e demais modalidades conforme divulgação das tabelas e boletins oficiais.
+- A página oficial do Flamengo lista jogos posteriores da equipe principal contra Coritiba e Chapecoense ainda sem data/horário confirmados; não gerar pauta com data presumida.
+- Datas do Carioca Feminino estão sujeitas a alteração, conforme ressalva da tabela divulgada pelo clube.
