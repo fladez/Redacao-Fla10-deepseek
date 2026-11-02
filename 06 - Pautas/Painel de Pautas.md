@@ -1888,7 +1888,7 @@ A pesquisa acadêmica reforça que a identificação com o clube, o comprometime
 ### Onde assistir — Flamengo x Grêmio (Brasileirão)
 - **Estado:** pauta incluída na programação por solicitação do editor; aprovada para produção e publicação.
 - **Formato:** serviço de jogo — onde assistir.
-- **Publicação prevista:** noite de 03/11/2026.
-- **Partida:** Flamengo x Grêmio, pelo Campeonato Brasileiro.
-- **Apuração pendente:** confirmar data e horário oficiais da partida, estádio, transmissão, rodada, situação das equipes, prováveis escalações, desfalques e arbitragem, conforme disponibilidade de informações oficiais.
-- **Controle editorial:** não presumir que a partida será disputada em 03/11; a data acima é a janela de produção/publicação solicitada. Confirmar a data efetiva do jogo e adequar o serviço antes de redigir.
+- **Publicação prevista:** noite de 03/11/2026 (véspera da partida).
+- **Partida:** quarta-feira, 04/11/2026, conforme correção do editor; horário, estádio e demais dados a confirmar na apuração.
+- **Apuração pendente:** confirmar horário oficial, estádio, transmissão, rodada, situação das equipes, prováveis escalações, desfalques e arbitragem, conforme disponibilidade de informações oficiais.
+- **Controle editorial:** a data do evento está confirmada pelo editor como 04/11/2026; não confundir com a data de publicação da matéria de serviço, prevista para 03/11.
