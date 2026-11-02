@@ -40,3 +40,30 @@ Registrar regras novas apenas quando forem duradouras; não transformar cada aju
 5. Atualizar estado das pautas.
 6. Planejar distribuição social relacionada ao conteúdo publicado.
 7. Registrar decisões e lições relevantes.
+
+
+## Regra permanente — fluxo de cobertura por evento esportivo
+
+A programação de matérias deve ser organizada em relação à **data efetiva do evento**, e não apenas à data em que a pauta foi incluída ou será publicada.
+
+### Na véspera do evento
+- Produzir e publicar a matéria **Onde assistir**, com os dados de serviço confirmados e as informações disponíveis no momento da apuração.
+
+### No dia do evento
+
+**a) Futebol masculino**
+1. **Pré-jogo:** publicar pela manhã, com contexto, informações atualizadas e serviço pertinente.
+2. **Pós-jogo:** produzir e publicar logo após o término da partida. É uma primeira notícia de panorama geral, baseada nos fatos e nas poucas informações confiáveis já disponíveis na internet naquele momento. Não tentar antecipar uma análise aprofundada.
+3. **Análise jornalística:** publicar mais tarde, depois de aguardar a circulação de informações adicionais, declarações, dados e repercussões que permitam uma abordagem mais profunda. Deve ter pergunta, recorte e interpretação próprios, sem repetir o pós-jogo.
+4. **Depois do Apito:** produzir a crônica de Miguel Sampaio após a partida, respeitando integralmente a identidade, a voz, o método e os limites definidos em [[Depois do Apito]]. A crônica deve ter leitura autoral e literária, não funcionar como notícia nem como análise tática.
+5. **Raio-X Tático:** produzir a análise estritamente tática da partida, examinando estruturas, comportamentos, funções, ajustes e decisões técnicas com base em evidências do jogo. Não misturar com avaliação jornalística geral ou crônica.
+
+**b) Todas as outras modalidades esportivas**
+- **Pós-jogo:** produzir após o término do evento, quando já houver informações confiáveis e suficientes para construir uma matéria consistente. Não é necessário replicar a sequência de conteúdos prevista para o futebol masculino.
+
+### Regras de execução
+- A sequência define a programação padrão; horários podem ser ajustados pela duração do evento e pela disponibilidade real de informações.
+- O pós-jogo inicial não deve esperar a apuração aprofundada, mas também não pode preencher lacunas com suposições.
+- A análise jornalística deve aguardar material suficiente e acrescentar interpretação; não reescrever o pós-jogo.
+- O Raio-X Tático e Depois do Apito têm escopos próprios e devem seguir seus documentos de formato.
+- Se não houver informação confiável suficiente, adiar a publicação em vez de especular.
