@@ -1882,3 +1882,13 @@ A pesquisa acadêmica reforça que a identificação com o clube, o comprometime
 - A pauta financeira tem prioridade de qualidade: não sacrificar a conferência dos números para cumprir a janela sugerida.
 - Marcar cada item como publicado somente após confirmação explícita do editor e registro da URL pública.
 - Preservar a distinção entre fatos confirmados, projeções atribuídas e interpretações da análise.
+
+## Programação editorial — 3 de novembro de 2026
+
+### Onde assistir — Flamengo x Grêmio (Brasileirão)
+- **Estado:** pauta incluída na programação por solicitação do editor; aprovada para produção e publicação.
+- **Formato:** serviço de jogo — onde assistir.
+- **Publicação prevista:** noite de 03/11/2026.
+- **Partida:** Flamengo x Grêmio, pelo Campeonato Brasileiro.
+- **Apuração pendente:** confirmar data e horário oficiais da partida, estádio, transmissão, rodada, situação das equipes, prováveis escalações, desfalques e arbitragem, conforme disponibilidade de informações oficiais.
+- **Controle editorial:** não presumir que a partida será disputada em 03/11; a data acima é a janela de produção/publicação solicitada. Confirmar a data efetiva do jogo e adequar o serviço antes de redigir.
