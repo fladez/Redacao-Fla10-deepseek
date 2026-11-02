@@ -1971,3 +1971,34 @@ A pesquisa acadêmica reforça que a identificação com o clube, o comprometime
 - Completar a agenda do NBB, futebol feminino, base e demais modalidades conforme divulgação das tabelas e boletins oficiais.
 - A página oficial do Flamengo lista jogos posteriores da equipe principal contra Coritiba e Chapecoense ainda sem data/horário confirmados; não gerar pauta com data presumida.
 - Datas do Carioca Feminino estão sujeitas a alteração, conforme ressalva da tabela divulgada pelo clube.
+
+
+## Complemento obrigatório da agenda — pautas Onde Assistir
+
+**Correção editorial em 02/11/2026:** a agenda prospectiva anterior indicava em alguns itens a data prevista para a matéria Onde Assistir, mas não apresentava uma programação completa e explícita dessas pautas. A tabela abaixo passa a ser o controle operacional: cada evento gera uma pauta de serviço na véspera, além da cobertura no dia do jogo conforme a modalidade. A inclusão na agenda não significa que a matéria já esteja produzida ou publicada.
+
+| Data de publicação | Pauta Onde Assistir | Data do evento | Estado / observações |
+|---|---|---|---|
+| 02/11 | Flamengo x Operário-PR — Copa do Brasil Sub-20 | 03/11 | Já consta como pauta aprovada; confirmar transmissão, ida e critérios antes de publicar. |
+| 02/11 | Bahia x Flamengo — Copa do Brasil Feminina | 03/11 | Nova pauta identificada no calendário oficial; 19h, Arena Fonte Nova. Confirmar transmissão e serviço. |
+| 03/11 | Flamengo x Grêmio — Brasileirão | 04/11 | Pauta já aprovada; 19h30, Maracanã. |
+| 03/11 | CAIXA/Brasília x Flamengo — NBB | 04/11 | Nova pauta de serviço; 20h15, Arena Nilson Nelson. Transmissão indicada pela LNB: YouTube do NBB CAIXA, SporTV e Flamengo TV. |
+| 05/11 | Sancor Seguros Vôlei Londrina x Sesc RJ Flamengo — Superliga Feminina | 06/11 | 18h30, Londrina; confirmar transmissão. |
+| 06/11 | Flamengo x Bahia — Copa do Brasil Feminina | 07/11 | 21h30, Luso-Brasileiro; confirmar transmissão. |
+| 06/11 | Pato Basquete x Flamengo — NBB | 07/11 | 19h; transmissão indicada pela LNB: Xsports e Flamengo TV. Confirmar local exato. |
+| 09/11 | Flamengo x Sesi Franca — NBB | 10/11 | 20h30, Maracanãzinho; confirmar transmissão. |
+| 10/11 | Flamengo x Botafogo — Campeonato Carioca Feminino | 11/11 | 15h, Estádio João Saldanha; confirmar transmissão. |
+| 11/11 | Sesc RJ Flamengo x Fluminense — Superliga Feminina | 12/11 | 21h, Tijuca; confirmar transmissão. |
+| 13/11 | Vasco x Flamengo — Campeonato Carioca Feminino | 14/11 | 15h, Estádio Nivaldo Pereira; confirmar transmissão. |
+| 16/11 | SESI Vôlei Bauru x Sesc RJ Flamengo — Superliga Feminina | 17/11 | 21h, Bauru; confirmar transmissão. |
+| 17/11 | Flamengo x Athletico Paranaense — Brasileirão | 18/11 | 20h30, Maracanã; equipe principal masculina. |
+| 17/11 | Flamengo x Fluminense — Campeonato Carioca Feminino | 18/11 | 15h, Estádio João Saldanha; confirmar transmissão. |
+| 20/11 | Palmeiras x Flamengo — Brasileirão | 21/11 | 16h30; equipe principal masculina. Confirmar estádio e transmissão na apuração. |
+| 22/11 | Sesc RJ Flamengo x Osasco São Cristóvão Saúde — Superliga Feminina | 23/11 | 21h, Tijuca; confirmar transmissão. |
+
+### Eventos acrescentados após nova checagem
+- **03/11 — Bahia x Flamengo, Copa do Brasil Feminina, 19h, Arena Fonte Nova.** A página oficial do Flamengo lista o compromisso; a pauta Onde Assistir deve ser publicada em 02/11.
+- **07/11 — Flamengo x Bahia, Copa do Brasil Feminina, 21h30, Luso-Brasileiro.** A página oficial do Flamengo lista o compromisso; a pauta Onde Assistir deve ser publicada em 06/11.
+- **10/11 — Flamengo x Sesi Franca, NBB, 20h30, Maracanãzinho.** A tabela oficial da LNB lista o jogo; a pauta Onde Assistir deve ser publicada em 09/11.
+
+**Fontes para conferência:** calendário oficial de futebol feminino do Flamengo (https://www.flamengo.com.br/futebol-feminino/proximos-jogos), tabela de jogos da LNB (https://lnb.com.br/nbb/tabela-de-jogos), agenda semanal de transmissões da LNB (https://lnb.com.br/noticias/onde-assistir-ao-nbb-caixa-2026-27-agenda-de-transmissoes-da-semana-3/) e calendário oficial do vôlei do Flamengo (https://www.flamengo.com.br/volei/proximos-jogos). Transmissões não confirmadas ficam pendentes; não presumir que todo jogo terá transmissão disponível.
