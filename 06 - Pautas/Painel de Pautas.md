@@ -1906,7 +1906,7 @@ A pesquisa acadêmica reforça que a identificação com o clube, o comprometime
 ### 03/11/2026 — terça-feira
 - **Evento:** Flamengo Sub-20 x Operário-PR — Copa do Brasil Sub-20, jogo de volta das quartas de final; 16h30, Estádio Luso-Brasileiro.
 - **Pauta de serviço:** Onde assistir — **publicada em 03/11/2026**; URL registrada na pauta concluída.
-- **Cobertura no evento:** pós-jogo, após o término e quando houver informações suficientes.
+- **Cobertura no evento:** pós-jogo — **cancelada em 03/11/2026 por decisão do editor**; não produzir.
 - **Classificação editorial:** futebol masculino de base; segue a regra de outras modalidades, não a sequência da equipe principal.
 
 ### 04/11/2026 — quarta-feira
@@ -2038,3 +2038,9 @@ A pesquisa acadêmica reforça que a identificação com o clube, o comprometime
 - **Formato:** A Voz do Torcedor — crônica / Boteco Fla10 News.
 - **Ângulo:** goleada por 4 a 1 sobre o Vasco, liderança do Brasileirão com três pontos de vantagem sobre o Palmeiras, investimento em contratações e debate sobre a projeção de vendas de atletas em 2027.
 - **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e retirada das pendências de produção.
+
+## Pauta cancelada — Flamengo x Operário-PR (Sub-20), pós-jogo — 03/11/2026
+
+- **Estado:** cancelada em 03/11/2026 por decisão explícita do editor; não produzir nem publicar.
+- **Motivo operacional:** o resultado da partida de volta das quartas de final da Copa do Brasil Sub-20 não pôde ser confirmado em fontes confiáveis durante a apuração, e o editor decidiu encerrar a pauta.
+- **Preservação do registro:** a pauta Onde Assistir do mesmo confronto permanece publicada; o cancelamento se aplica exclusivamente à cobertura pós-jogo.
