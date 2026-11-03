@@ -1872,11 +1872,14 @@ A pesquisa acadêmica reforça que a identificação com o clube, o comprometime
    - **Checagens concluídas:** termos, valor contratado, vigência, contrapartidas e distinção entre ações já realizadas e metas futuras conferidos na apuração.
 
 4. **Flamengo x Operário-PR (Sub-20): onde assistir, horário e informações do jogo**
-   - **Estado:** aprovada; produção e publicação pendentes.
-   - **Formato:** serviço de jogo.
-   - **Janela sugerida:** 20h–21h.
+   - **Estado:** produção concluída em 03/11/2026; publicação pendente de confirmação do editor.
+   - **Formato:** serviço de jogo — Onde Assistir.
    - **Partida:** terça-feira, 03/11/2026, às 16h30 (de Brasília), no Estádio Luso-Brasileiro, Rio de Janeiro; jogo de volta das quartas de final da Copa do Brasil Sub-20.
-   - **Checagens obrigatórias antes da publicação:** transmissão oficial, resultado e contexto do jogo de ida, critérios de classificação/desempate, horário, estádio e demais informações de serviço. Não presumir transmissão sem confirmação.
+   - **Transmissão confirmada na tabela detalhada da CBF:** SporTV e Mil Sports.
+   - **Ida:** Operário-PR 0 x 0 Flamengo, em 27/10, no Germano Krüger, em Ponta Grossa. Vitória classifica; novo empate leva aos pênaltis.
+   - **Prováveis escalações:** Flamengo — Leo Nannetti; Diego Guimarães, João Victor, Daniel Silva e Johnny; Lucas Falcone, Jhefinho, Sayago, Rogério Araújo e João Vitor Couto (Rafael Henrique); Josmar. Técnico: Marcelo Salazar. Operário-PR — Matheus Lopes; João Gabriel, Élcio, Buquera e Vassão; Juan Bueno, Mateus Meurer, Gabriel Cardozo e Caio; Germano e Leo Erig. Técnico: Thiago Schumacher.
+   - **Arbitragem:** não incluída na versão produzida. As publicações consultadas divergem na indicação da equipe, e a página pública da FERJ consultada não apresentou a escala em texto verificável. Não publicar nomes sem confirmação oficial.
+   - **Controle editorial:** diferenciar escalações prováveis de oficiais; não marcar como publicada até confirmação explícita e registro da URL.
 
 ### Diretriz de execução
 - A ordem é a sequência editorial aprovada; os horários são janelas sugeridas e podem ser ajustados conforme a apuração.
@@ -1901,7 +1904,7 @@ A pesquisa acadêmica reforça que a identificação com o clube, o comprometime
 
 ### 03/11/2026 — terça-feira
 - **Evento:** Flamengo Sub-20 x Operário-PR — Copa do Brasil Sub-20, jogo de volta das quartas de final; 16h30, Estádio Luso-Brasileiro.
-- **Pauta de serviço:** Onde assistir — prevista para 02/11 (ver programação já registrada).
+- **Pauta de serviço:** Onde assistir — produção concluída em 03/11; publicação pendente de confirmação do editor.
 - **Cobertura no evento:** pós-jogo, após o término e quando houver informações suficientes.
 - **Classificação editorial:** futebol masculino de base; segue a regra de outras modalidades, não a sequência da equipe principal.
 
@@ -1980,7 +1983,7 @@ A pesquisa acadêmica reforça que a identificação com o clube, o comprometime
 
 | Data de publicação | Pauta Onde Assistir | Data do evento | Estado / observações |
 |---|---|---|---|
-| 02/11 | Flamengo x Operário-PR — Copa do Brasil Sub-20 | 03/11 | Já consta como pauta aprovada; confirmar transmissão, ida e critérios antes de publicar. |
+| 03/11 | Flamengo x Operário-PR — Copa do Brasil Sub-20 | 03/11 | Produção concluída; transmissão, ida e critérios confirmados. Publicação pendente de confirmação. |
 | 02/11 | Bahia x Flamengo — Copa do Brasil Feminina | 03/11 | Nova pauta identificada no calendário oficial; 19h, Arena Fonte Nova. Confirmar transmissão e serviço. |
 | 03/11 | Flamengo x Grêmio — Brasileirão | 04/11 | Pauta já aprovada; 19h30, Maracanã. |
 | 03/11 | CAIXA/Brasília x Flamengo — NBB | 04/11 | Nova pauta de serviço; 20h15, Arena Nilson Nelson. Transmissão indicada pela LNB: YouTube do NBB CAIXA, SporTV e Flamengo TV. |
