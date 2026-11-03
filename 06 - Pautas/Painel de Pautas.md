@@ -2028,3 +2028,13 @@ A pesquisa acadêmica reforça que a identificação com o clube, o comprometime
 - **Ângulo:** explicar o acordo de R$ 10 milhões por 12 meses entre Flamengo e Prefeitura de Maricá, as contrapartidas de exposição e realização de jogos, os núcleos de desenvolvimento previstos para meninas de 10 a 17 anos e o início esportivo da parceria com a vitória sobre o Real Heips por 2 a 1, em 31/10/2026.
 - **Controle de precisão:** valor contratado não tratado como integralmente repassado; pagamentos mensais condicionados à comprovação das entregas e à fiscalização municipal; núcleos, avaliações de talentos e capacitação apresentados como ações previstas, sem afirmar implantação integral.
 - **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e retirada das pendências de produção.
+
+
+## Publicação confirmada — Boteco Fla10 News (03/11/2026)
+
+- **Estado:** publicada em 03/11/2026, conforme confirmação explícita do editor.
+- **Título:** *Boteco Fla10 News — Entre uma gelada e outra, o papo é Mengão!*
+- **URL pública:** https://fla10.news/voz-torcedor/entre-uma-gelada-e-outra-o-papo-e-mengao
+- **Formato:** A Voz do Torcedor — crônica / Boteco Fla10 News.
+- **Ângulo:** goleada por 4 a 1 sobre o Vasco, liderança do Brasileirão com três pontos de vantagem sobre o Palmeiras, investimento em contratações e debate sobre a projeção de vendas de atletas em 2027.
+- **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e retirada das pendências de produção.
