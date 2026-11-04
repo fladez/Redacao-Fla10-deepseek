@@ -1914,7 +1914,7 @@ A pesquisa acadêmica reforça que a identificação com o clube, o comprometime
 ### 04/11/2026 — quarta-feira
 - **Evento 1:** Flamengo x Grêmio — Brasileirão, 34ª rodada; 19h30, Maracanã.
   - **Pauta de serviço:** Onde assistir — 03/11 (já incluída na programação de 03/11).
-  - **Cobertura no evento:** pré-jogo pela manhã; pós-jogo logo após o término; análise jornalística após apuração complementar; crônica Depois do Apito; Raio-X Tático.
+  - **Cobertura no evento:** **pré-jogo publicada em 04/11/2026**; pós-jogo logo após o término; análise jornalística após apuração complementar; crônica Depois do Apito; Raio-X Tático.
   - **Classificação editorial:** futebol masculino profissional — equipe principal.
 - **Evento 2:** Brasília x Flamengo — NBB 2026/27, 5ª rodada; 20h15, Brasília (DF).
   - **Pauta de serviço:** Onde assistir — 03/11; produção e publicação pendentes de confirmação de transmissão e demais dados.
@@ -2078,3 +2078,14 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 - **Partida:** Flamengo x Grêmio, quarta-feira, 04/11/2026, às 19h30, no Maracanã, pela 34ª rodada do Brasileirão.
 - **Transmissão informada na matéria:** Premiere; FlamengoTV com narração do jogo.
 - **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e retirada das pendências de produção.
+
+
+## Publicação confirmada — Flamengo x Grêmio (pré-jogo) — 04/11/2026
+
+- **Estado:** publicada em 04/11/2026, conforme confirmação explícita do editor.
+- **Título:** *Flamengo x Grêmio: líder busca ampliar vantagem sobre o Palmeiras em confronto decisivo no Maracanã*.
+- **URL pública:** https://fla10.news/noticias/flamengo-x-gremio-lider-busca-ampliar-vantagem-sobre-o-palmeiras-em-confronto-decisivo-no-maracana
+- **Formato:** pré-jogo analítico — Brasileirão, 34ª rodada.
+- **Partida:** Flamengo x Grêmio, quarta-feira, 04/11/2026, às 19h30, no Maracanã.
+- **Ângulo:** Flamengo tenta ampliar a vantagem na liderança; Grêmio chega pressionado pela zona de rebaixamento e administra o calendário antes da semifinal da Copa do Brasil.
+- **Registro editorial:** publicação confirmada pelo editor; pauta de pré-jogo encerrada e retirada das pendências de produção.
