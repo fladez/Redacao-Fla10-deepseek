@@ -1925,6 +1925,13 @@ A pesquisa acadêmica reforça que a identificação com o clube, o comprometime
   - **Tema:** qual tipo de gramado o Maracanã utilizará a partir de 2027 e quais mudanças estão previstas.
   - **Apuração necessária:** confirmar anúncio oficial e responsáveis pelo projeto; identificar tipo e composição do piso, cronograma de implantação, custos e responsáveis pelo custeio, impactos para Flamengo e Fluminense, calendário de obras e condições de uso do estádio durante a transição.
   - **Critério editorial:** não antecipar especificações, valores ou decisões sem documentação ou confirmação oficial; distinguir projeto anunciado de decisão contratada ou já executada.
+- **Reportagem Fla10 — Finanças do Flamengo: superávit até setembro, projeção de déficit em 2026 e vendas de atletas em 2027**
+  - **Estado:** pauta aprovada anteriormente; incluída na lista de produção de 04/11/2026. Apuração e redação pendentes.
+  - **Formato:** análise econômica / Reportagem Fla10.
+  - **Ângulo:** confrontar os indicadores do relatório financeiro oficial do terceiro trimestre com a projeção de déficit para o fechamento de 2026 e a meta de arrecadação com vendas de atletas em 2027. Explicar diferenças entre receitas, resultado contábil, fluxo de caixa, investimentos e dívida.
+  - **Base documental já registrada:** relatório oficial até setembro aponta R$ 1,17 bilhão em receita recorrente, R$ 289,9 milhões em EBITDA recorrente, superávit acumulado de R$ 4,5 milhões, R$ 667,7 milhões investidos em atletas, R$ 333,9 milhões em dívida líquida com atletas e R$ 84,1 milhões de caixa livre consolidado.
+  - **Projeções a atribuir às fontes:** déficit de R$ 40 milhões em 2026 e captação de 40–45 milhões de euros em vendas de atletas em 2027. Não tratar como resultados realizados.
+  - **Checagens obrigatórias:** conferir base, período e natureza de cada indicador no relatório oficial; atribuir as projeções; não inferir crise de caixa apenas a partir do déficit projetado; distinguir orçamento, resultado contábil e fluxo de caixa.
 - **Atenção de planejamento:** os dois eventos esportivos acontecem simultaneamente; organizar previamente a equipe/produção e priorizar o fluxo de publicação sem confundir as coberturas.
 
 ### 06/11/2026 — sexta-feira
