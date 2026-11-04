@@ -1932,6 +1932,12 @@ A pesquisa acadêmica reforça que a identificação com o clube, o comprometime
   - **Base documental já registrada:** relatório oficial até setembro aponta R$ 1,17 bilhão em receita recorrente, R$ 289,9 milhões em EBITDA recorrente, superávit acumulado de R$ 4,5 milhões, R$ 667,7 milhões investidos em atletas, R$ 333,9 milhões em dívida líquida com atletas e R$ 84,1 milhões de caixa livre consolidado.
   - **Projeções a atribuir às fontes:** déficit de R$ 40 milhões em 2026 e captação de 40–45 milhões de euros em vendas de atletas em 2027. Não tratar como resultados realizados.
   - **Checagens obrigatórias:** conferir base, período e natureza de cada indicador no relatório oficial; atribuir as projeções; não inferir crise de caixa apenas a partir do déficit projetado; distinguir orçamento, resultado contábil e fluxo de caixa.
+- **Reportagem — Flamengo bate recorde de arrecadação com Maracanã e deve superar barreira dos R$ 100 milhões**
+  - **Estado:** incluída na programação de 04/11/2026; apuração e produção pendentes.
+  - **Formato:** notícia econômica / reportagem Fla10.
+  - **Ângulo:** investigar o recorde de arrecadação do Flamengo com o Maracanã e a expectativa de superar R$ 100 milhões, esclarecendo a que período e rubricas o valor se refere.
+  - **Checagens obrigatórias:** localizar a origem da informação e confirmar os números em documentos do clube; distinguir receita bruta de bilheteria, receitas de estádio e resultado líquido após custos; verificar se o recorde é anual, acumulado ou projetado; comparar com exercícios anteriores usando a mesma base contábil.
+  - **Controle de redundância:** pauta independente da reportagem sobre superávit, déficit projetado e vendas de atletas. Pode dialogar com ela, mas deve se concentrar na geração de receitas do Maracanã e na composição dos valores.
 - **Atenção de planejamento:** os dois eventos esportivos acontecem simultaneamente; organizar previamente a equipe/produção e priorizar o fluxo de publicação sem confundir as coberturas.
 
 ### 06/11/2026 — sexta-feira
