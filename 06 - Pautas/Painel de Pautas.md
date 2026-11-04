@@ -1987,7 +1987,7 @@ A pesquisa acadêmica reforça que a identificação com o clube, o comprometime
 | 03/11 | Flamengo x Operário-PR — Copa do Brasil Sub-20 | 03/11 | **Publicada em 03/11/2026**. URL registrada na pauta concluída. |
 | 02/11 | Bahia x Flamengo — Copa do Brasil Feminina | 03/11 | Nova pauta identificada no calendário oficial; 19h, Arena Fonte Nova. Confirmar transmissão e serviço. |
 | 03/11 | Flamengo x Grêmio — Brasileirão | 04/11 | Pauta já aprovada; 19h30, Maracanã. |
-| 03/11 | CAIXA/Brasília x Flamengo — NBB | 04/11 | Nova pauta de serviço; 20h15, Arena Nilson Nelson. Transmissão indicada pela LNB: YouTube do NBB CAIXA, SporTV e Flamengo TV. |
+| 03/11 | CAIXA/Brasília x Flamengo — NBB | 04/11 | **Onde Assistir publicada em 03/11/2026**. URL registrada na pauta concluída. 20h15, Arena Nilson Nelson; transmissão: YouTube do NBB CAIXA, SporTV e Flamengo TV. |
 | 05/11 | Sancor Seguros Vôlei Londrina x Sesc RJ Flamengo — Superliga Feminina | 06/11 | 18h30, Londrina; confirmar transmissão. |
 | 06/11 | Flamengo x Bahia — Copa do Brasil Feminina | 07/11 | 21h30, Luso-Brasileiro; confirmar transmissão. |
 | 06/11 | Pato Basquete x Flamengo — NBB | 07/11 | 19h; transmissão indicada pela LNB: Xsports e Flamengo TV. Confirmar local exato. |
@@ -2044,3 +2044,25 @@ A pesquisa acadêmica reforça que a identificação com o clube, o comprometime
 - **Estado:** cancelada em 03/11/2026 por decisão explícita do editor; não produzir nem publicar.
 - **Motivo operacional:** o resultado da partida de volta das quartas de final da Copa do Brasil Sub-20 não pôde ser confirmado em fontes confiáveis durante a apuração, e o editor decidiu encerrar a pauta.
 - **Preservação do registro:** a pauta Onde Assistir do mesmo confronto permanece publicada; o cancelamento se aplica exclusivamente à cobertura pós-jogo.
+
+## Publicações confirmadas — 3 de novembro de 2026
+
+### Brasília x Flamengo: onde assistir ao vivo, horário e informações do jogo pelo NBB
+- **Estado:** publicada em 03/11/2026, conforme confirmação explícita do editor.
+- **URL pública:** https://fla10.news/noticias/brasilia-x-flamengo-onde-assistir-ao-vivo-horario-e-informacoes-do-jogo-pelo-nbb
+- **Formato:** serviço de jogo — Onde Assistir.
+- **Partida:** CAIXA/Brasília x Flamengo, NBB 2026/27, quarta-feira, 04/11/2026, às 20h15, na Arena Nilson Nelson, em Brasília.
+- **Transmissão:** YouTube do NBB CAIXA, SporTV e Flamengo TV.
+- **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e retirada das pendências de produção.
+
+### Flamengo empata com o Bahia e deixa semifinal da Copa do Brasil Feminina em aberto
+- **Estado:** publicada em 03/11/2026, conforme confirmação explícita do editor.
+- **URL pública:** https://fla10.news/noticias/flamengo-empata-com-o-bahia-e-deixa-semifinal-da-copa-do-brasil-feminina-em-aberto
+- **Formato:** notícia pós-jogo — semifinal da Copa do Brasil Feminina.
+- **Partida:** Bahia 0 x 0 Flamengo, jogo de ida da semifinal, em 03/11/2026, na Arena Fonte Nova.
+- **Resumo:** Laysa acertou a trave; Vivi Holzel fez defesas importantes; Tchula foi expulsa, Djeni saiu lesionada e as equipes terminaram com dez jogadoras.
+- **Decisão:** jogo de volta no sábado, 07/11/2026, às 21h30, no Luso-Brasileiro.
+- **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e retirada das pendências de produção.
+
+## Regra operacional — sincronização de publicações
+Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, atualizar imediatamente este painel no GitHub, sem exigir novo pedido. Registrar data, título, URL, formato e os dados essenciais do evento; atualizar também a linha correspondente da agenda ou da pauta original. Se a publicação não corresponder exatamente à pauta existente, criar um registro separado, sem alterar indevidamente o estado de outra matéria. Só confirmar a sincronização depois do retorno de sucesso do GitHub.
