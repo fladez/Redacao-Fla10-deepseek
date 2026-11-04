@@ -1891,12 +1891,14 @@ A pesquisa acadêmica reforça que a identificação com o clube, o comprometime
 ## Programação editorial — 3 de novembro de 2026
 
 ### Onde assistir — Flamengo x Grêmio (Brasileirão)
-- **Estado:** pauta incluída na programação por solicitação do editor; aprovada para produção e publicação.
-- **Formato:** serviço de jogo — onde assistir.
-- **Publicação prevista:** noite de 03/11/2026 (véspera da partida).
-- **Partida:** quarta-feira, 04/11/2026, conforme correção do editor; horário, estádio e demais dados a confirmar na apuração.
-- **Apuração pendente:** confirmar horário oficial, estádio, transmissão, rodada, situação das equipes, prováveis escalações, desfalques e arbitragem, conforme disponibilidade de informações oficiais.
-- **Controle editorial:** a data do evento está confirmada pelo editor como 04/11/2026; não confundir com a data de publicação da matéria de serviço, prevista para 03/11.
+- **Estado:** **publicada em 03/11/2026**, conforme confirmação explícita do editor.
+- **Título:** *Flamengo x Grêmio: onde assistir ao vivo, horário e prováveis escalações pelo Brasileirão*.
+- **URL pública:** https://fla10.news/noticias/flamengo-x-gremio-onde-assistir-ao-vivo-horario-e-provaveis-escalacoes-pelo-brasileirao
+- **Formato:** serviço de jogo — Onde Assistir.
+- **Partida:** quarta-feira, 04/11/2026, às 19h30, no Maracanã, pela 34ª rodada do Campeonato Brasileiro.
+- **Transmissão:** Premiere; FlamengoTV com narração do jogo.
+- **Contexto registrado na matéria:** Flamengo líder com 73 pontos, três à frente do Palmeiras; Grêmio em 15º, com 37 pontos.
+- **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e retirada das pendências de produção.
 
 
 ## Agenda esportiva prospectiva — novembro de 2026
@@ -1986,7 +1988,7 @@ A pesquisa acadêmica reforça que a identificação com o clube, o comprometime
 |---|---|---|---|
 | 03/11 | Flamengo x Operário-PR — Copa do Brasil Sub-20 | 03/11 | **Publicada em 03/11/2026**. URL registrada na pauta concluída. |
 | 02/11 | Bahia x Flamengo — Copa do Brasil Feminina | 03/11 | Nova pauta identificada no calendário oficial; 19h, Arena Fonte Nova. Confirmar transmissão e serviço. |
-| 03/11 | Flamengo x Grêmio — Brasileirão | 04/11 | Pauta já aprovada; 19h30, Maracanã. |
+| 03/11 | Flamengo x Grêmio — Brasileirão | 04/11 | **Onde Assistir publicada em 03/11/2026**. URL registrada na pauta concluída; 19h30, Maracanã. |
 | 03/11 | CAIXA/Brasília x Flamengo — NBB | 04/11 | **Onde Assistir publicada em 03/11/2026**. URL registrada na pauta concluída. 20h15, Arena Nilson Nelson; transmissão: YouTube do NBB CAIXA, SporTV e Flamengo TV. |
 | 05/11 | Sancor Seguros Vôlei Londrina x Sesc RJ Flamengo — Superliga Feminina | 06/11 | 18h30, Londrina; confirmar transmissão. |
 | 06/11 | Flamengo x Bahia — Copa do Brasil Feminina | 07/11 | 21h30, Luso-Brasileiro; confirmar transmissão. |
@@ -2066,3 +2068,13 @@ A pesquisa acadêmica reforça que a identificação com o clube, o comprometime
 
 ## Regra operacional — sincronização de publicações
 Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, atualizar imediatamente este painel no GitHub, sem exigir novo pedido. Registrar data, título, URL, formato e os dados essenciais do evento; atualizar também a linha correspondente da agenda ou da pauta original. Se a publicação não corresponder exatamente à pauta existente, criar um registro separado, sem alterar indevidamente o estado de outra matéria. Só confirmar a sincronização depois do retorno de sucesso do GitHub.
+
+## Publicação confirmada — Flamengo x Grêmio (03/11/2026)
+
+- **Estado:** publicada em 03/11/2026, conforme confirmação explícita do editor.
+- **Título:** *Flamengo x Grêmio: onde assistir ao vivo, horário e prováveis escalações pelo Brasileirão*.
+- **URL pública:** https://fla10.news/noticias/flamengo-x-gremio-onde-assistir-ao-vivo-horario-e-provaveis-escalacoes-pelo-brasileirao
+- **Formato:** serviço de jogo — Onde Assistir.
+- **Partida:** Flamengo x Grêmio, quarta-feira, 04/11/2026, às 19h30, no Maracanã, pela 34ª rodada do Brasileirão.
+- **Transmissão informada na matéria:** Premiere; FlamengoTV com narração do jogo.
+- **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e retirada das pendências de produção.
