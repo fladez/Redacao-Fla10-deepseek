@@ -1920,7 +1920,12 @@ A pesquisa acadêmica reforça que a identificação com o clube, o comprometime
   - **Pauta de serviço:** Onde assistir — 03/11; produção e publicação pendentes de confirmação de transmissão e demais dados.
   - **Cobertura no evento:** pós-jogo quando houver informações suficientes.
   - **Classificação editorial:** basquete.
-- **Atenção de planejamento:** os dois eventos acontecem simultaneamente; organizar previamente a equipe/produção e priorizar o fluxo de publicação sem confundir as coberturas.
+- **Pauta especial — Gramado do Maracanã em 2027**
+  - **Estado:** incluída na programação de 04/11/2026; apuração e produção pendentes.
+  - **Tema:** qual tipo de gramado o Maracanã utilizará a partir de 2027 e quais mudanças estão previstas.
+  - **Apuração necessária:** confirmar anúncio oficial e responsáveis pelo projeto; identificar tipo e composição do piso, cronograma de implantação, custos e responsáveis pelo custeio, impactos para Flamengo e Fluminense, calendário de obras e condições de uso do estádio durante a transição.
+  - **Critério editorial:** não antecipar especificações, valores ou decisões sem documentação ou confirmação oficial; distinguir projeto anunciado de decisão contratada ou já executada.
+- **Atenção de planejamento:** os dois eventos esportivos acontecem simultaneamente; organizar previamente a equipe/produção e priorizar o fluxo de publicação sem confundir as coberturas.
 
 ### 06/11/2026 — sexta-feira
 - **Evento:** Sancor Seguros Vôlei Londrina x Sesc RJ Flamengo — Superliga Feminina; 18h30, Londrina.
