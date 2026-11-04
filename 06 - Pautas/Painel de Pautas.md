@@ -2107,3 +2107,13 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 - **Partida:** Flamengo x Grêmio, quarta-feira, 04/11/2026, às 19h30, no Maracanã.
 - **Ângulo:** Flamengo tenta ampliar a vantagem na liderança; Grêmio chega pressionado pela zona de rebaixamento e administra o calendário antes da semifinal da Copa do Brasil.
 - **Registro editorial:** publicação confirmada pelo editor; pauta de pré-jogo encerrada e retirada das pendências de produção.
+
+
+## Publicação confirmada — Coluna sobre a arbitragem brasileira (04/11/2026)
+
+- **Estado:** publicada em 04/11/2026, conforme confirmação explícita do editor.
+- **Título:** *Arbitragem brasileira: um problema que está destruindo a credibilidade dos campeonatos!*
+- **URL pública:** https://fla10.news/colunas/arbitragem-brasileira-um-problema-que-esta-destruindo-a-credibilidade-dos-campeonatos
+- **Formato:** coluna / opinião editorial.
+- **Ângulo:** crítica aos erros, à inconsistência de critérios e aos efeitos das decisões de arbitragem e do VAR sobre a credibilidade das competições brasileiras; cobrança por providências institucionais da CBF.
+- **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e retirada das pendências de produção.
