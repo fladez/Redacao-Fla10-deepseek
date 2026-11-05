@@ -1920,25 +1920,25 @@ A pesquisa acadêmica reforça que a identificação com o clube, o comprometime
   - **Pauta de serviço:** Onde assistir — 03/11; produção e publicação pendentes de confirmação de transmissão e demais dados.
   - **Cobertura no evento:** pós-jogo quando houver informações suficientes.
   - **Classificação editorial:** basquete.
-- **Pauta especial — Gramado do Maracanã em 2027**
-  - **Estado:** incluída na programação de 04/11/2026; apuração e produção pendentes.
-  - **Tema:** qual tipo de gramado o Maracanã utilizará a partir de 2027 e quais mudanças estão previstas.
-  - **Apuração necessária:** confirmar anúncio oficial e responsáveis pelo projeto; identificar tipo e composição do piso, cronograma de implantação, custos e responsáveis pelo custeio, impactos para Flamengo e Fluminense, calendário de obras e condições de uso do estádio durante a transição.
-  - **Critério editorial:** não antecipar especificações, valores ou decisões sem documentação ou confirmação oficial; distinguir projeto anunciado de decisão contratada ou já executada.
+- **Pautas remanejadas para 05/11/2026:** a reportagem de finanças e a pauta especial sobre o gramado do Maracanã foram transferidas para a programação do dia seguinte, por decisão do editor.
+- **Pauta de arrecadação do Maracanã:** publicada em 04/11/2026; registro completo na seção de publicações confirmadas ao final deste painel.
+- **Atenção de planejamento:** os dois eventos esportivos acontecem simultaneamente; organizar previamente a equipe/produção e priorizar o fluxo de publicação sem confundir as coberturas.
+
+### 05/11/2026 — quinta-feira
+
 - **Reportagem Fla10 — Finanças do Flamengo: superávit até setembro, projeção de déficit em 2026 e vendas de atletas em 2027**
-  - **Estado:** pauta aprovada anteriormente; incluída na lista de produção de 04/11/2026. Apuração e redação pendentes.
+  - **Estado:** remanejada de 04/11 para 05/11/2026; aprovada, com apuração e redação pendentes.
   - **Formato:** análise econômica / Reportagem Fla10.
   - **Ângulo:** confrontar os indicadores do relatório financeiro oficial do terceiro trimestre com a projeção de déficit para o fechamento de 2026 e a meta de arrecadação com vendas de atletas em 2027. Explicar diferenças entre receitas, resultado contábil, fluxo de caixa, investimentos e dívida.
   - **Base documental já registrada:** relatório oficial até setembro aponta R$ 1,17 bilhão em receita recorrente, R$ 289,9 milhões em EBITDA recorrente, superávit acumulado de R$ 4,5 milhões, R$ 667,7 milhões investidos em atletas, R$ 333,9 milhões em dívida líquida com atletas e R$ 84,1 milhões de caixa livre consolidado.
   - **Projeções a atribuir às fontes:** déficit de R$ 40 milhões em 2026 e captação de 40–45 milhões de euros em vendas de atletas em 2027. Não tratar como resultados realizados.
   - **Checagens obrigatórias:** conferir base, período e natureza de cada indicador no relatório oficial; atribuir as projeções; não inferir crise de caixa apenas a partir do déficit projetado; distinguir orçamento, resultado contábil e fluxo de caixa.
-- **Reportagem — Flamengo bate recorde de arrecadação com Maracanã e deve superar barreira dos R$ 100 milhões**
-  - **Estado:** incluída na programação de 04/11/2026; apuração e produção pendentes.
-  - **Formato:** notícia econômica / reportagem Fla10.
-  - **Ângulo:** investigar o recorde de arrecadação do Flamengo com o Maracanã e a expectativa de superar R$ 100 milhões, esclarecendo a que período e rubricas o valor se refere.
-  - **Checagens obrigatórias:** localizar a origem da informação e confirmar os números em documentos do clube; distinguir receita bruta de bilheteria, receitas de estádio e resultado líquido após custos; verificar se o recorde é anual, acumulado ou projetado; comparar com exercícios anteriores usando a mesma base contábil.
-  - **Controle de redundância:** pauta independente da reportagem sobre superávit, déficit projetado e vendas de atletas. Pode dialogar com ela, mas deve se concentrar na geração de receitas do Maracanã e na composição dos valores.
-- **Atenção de planejamento:** os dois eventos esportivos acontecem simultaneamente; organizar previamente a equipe/produção e priorizar o fluxo de publicação sem confundir as coberturas.
+- **Pauta especial — Gramado do Maracanã em 2027**
+  - **Estado:** remanejada de 04/11 para 05/11/2026; apuração e produção pendentes.
+  - **Tema:** qual tipo de gramado o Maracanã utilizará a partir de 2027 e quais mudanças estão previstas.
+  - **Apuração necessária:** confirmar anúncio oficial e responsáveis pelo projeto; identificar tipo e composição do piso, cronograma de implantação, custos e responsáveis pelo custeio, impactos para Flamengo e Fluminense, calendário de obras e condições de uso do estádio durante a transição.
+  - **Critério editorial:** não antecipar especificações, valores ou decisões sem documentação ou confirmação oficial; distinguir projeto anunciado de decisão contratada ou já executada.
+- **Agenda esportiva:** Onde assistir Sancor Londrina x Sesc RJ Flamengo, conforme programação da Superliga Feminina já registrada acima.
 
 ### 06/11/2026 — sexta-feira
 - **Evento:** Sancor Seguros Vôlei Londrina x Sesc RJ Flamengo — Superliga Feminina; 18h30, Londrina.
@@ -2175,3 +2175,14 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 - **Próximo compromisso informado na matéria:** Pato Basquete, em 07/11/2026, fora de casa.
 - **Arquivo de produção:** [[2026-11-04 - Flamengo x Brasília - pós-jogo NBB]].
 - **Registro editorial:** publicação confirmada; pauta encerrada e retirada das pendências de produção.
+
+## Publicação confirmada — Flamengo bate recorde de bilheteria no Maracanã e mira R$ 100 milhões em resultado líquido (04/11/2026)
+
+- **Estado:** publicada em 04/11/2026, conforme confirmação explícita do editor.
+- **Título:** *Flamengo bate recorde de bilheteria no Maracanã e mira R$ 100 milhões em resultado líquido*.
+- **URL pública:** https://fla10.news/noticias/flamengo-bate-recorde-de-bilheteria-no-maracana-e-mira-r-100-milhoes-em-resultado-liquido
+- **Formato:** notícia econômica / reportagem Fla10.
+- **Síntese:** a matéria registra aproximadamente R$ 142,2 milhões em receitas brutas com jogos do futebol profissional em 2026, considerando os valores conhecidos até a semifinal da Libertadores contra o Estudiantes. O resultado líquido conhecido, antes de incluir o confronto continental, é estimado em cerca de R$ 87,6 milhões, acima dos R$ 84,326 milhões registrados em 2025.
+- **Ressalva contábil:** o resultado líquido do jogo contra o Estudiantes não foi incorporado por falta de borderô público da Conmebol; os R$ 100 milhões são uma meta/projeção, não um resultado já alcançado. A matéria distingue bilheteria de receitas ligadas à operação do estádio.
+- **Registro editorial:** pauta encerrada e retirada das pendências de produção. Ficha editorial criada em [[2026-11-04 - Flamengo bate recorde de bilheteria no Maracanã]].
+
