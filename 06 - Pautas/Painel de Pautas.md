@@ -1934,10 +1934,17 @@ A pesquisa acadêmica reforça que a identificação com o clube, o comprometime
   - **Projeções a atribuir às fontes:** déficit de R$ 40 milhões em 2026 e captação de 40–45 milhões de euros em vendas de atletas em 2027. Não tratar como resultados realizados.
   - **Checagens obrigatórias:** conferir base, período e natureza de cada indicador no relatório oficial; atribuir as projeções; não inferir crise de caixa apenas a partir do déficit projetado; distinguir orçamento, resultado contábil e fluxo de caixa.
 - **Pauta especial — Gramado do Maracanã em 2027**
-  - **Estado:** remanejada de 04/11 para 05/11/2026; apuração e produção pendentes.
-  - **Tema:** qual tipo de gramado o Maracanã utilizará a partir de 2027 e quais mudanças estão previstas.
-  - **Apuração necessária:** confirmar anúncio oficial e responsáveis pelo projeto; identificar tipo e composição do piso, cronograma de implantação, custos e responsáveis pelo custeio, impactos para Flamengo e Fluminense, calendário de obras e condições de uso do estádio durante a transição.
-  - **Critério editorial:** não antecipar especificações, valores ou decisões sem documentação ou confirmação oficial; distinguir projeto anunciado de decisão contratada ou já executada.
+  - **Estado:** publicada em 05/11/2026; pauta encerrada.
+  - **Título:** *Maracanã prepara troca de gramado para 2027, mas novo piso terá de superar desafios que vão além da escolha da grama*.
+  - **URL:** https://fla10.news/noticias/maracana-prepara-troca-de-gramado-para-2027-mas-novo-piso-tera-de-superar-desafios-que-vao-alem-da-escolha-da-grama
+  - **Registro:** substituição da Bermuda Celebration pela Celebration Hybrid; análise dos problemas do campo em 2026, exigências do calendário e limites da troca de variedade sem melhorias de infraestrutura e manutenção.
+- **Nova pauta — Flamengo amplia vantagem, transfere pressão ao Palmeiras e se aproxima de decisão do Brasileirão**
+  - **Estado:** incluída na programação de 05/11/2026; matéria redigida em versão inicial; revisão factual final e publicação pendentes.
+  - **Formato:** notícia de contexto / disputa pelo título do Brasileirão.
+  - **Gancho:** vitória do Flamengo por 3 a 1 sobre o Grêmio, liderança com 76 pontos e pressão sobre o Palmeiras, então com 70 pontos e jogo a menos, antes de enfrentar o Remo.
+  - **Ângulo:** explicar o efeito da rodada na disputa pelo título, a sequência de jogos dos concorrentes e a importância do confronto direto previsto para 21/11.
+  - **Título de trabalho:** *Flamengo amplia vantagem, transfere pressão ao Palmeiras e se aproxima de decisão do Brasileirão*.
+  - **Controle de apuração:** conferir classificação, jogos restantes, datas, horários e cenários matemáticos antes da publicação; atualizar o texto se resultados posteriores alterarem o quadro.
 - **Agenda esportiva:** Onde assistir Sancor Londrina x Sesc RJ Flamengo, conforme programação da Superliga Feminina já registrada acima.
 
 ### 06/11/2026 — sexta-feira
