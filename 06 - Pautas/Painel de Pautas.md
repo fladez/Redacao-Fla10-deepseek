@@ -2240,3 +2240,16 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 - **Formato:** notícia de contexto — disputa pelo título do Campeonato Brasileiro.
 - **Ângulo:** efeito da vitória por 3 a 1 sobre o Grêmio, vantagem provisória de seis pontos sobre o Palmeiras, pressão sobre o concorrente e importância da sequência de novembro, com destaque para o confronto direto.
 - **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações.
+
+
+## Pauta em produção — Pedro recupera protagonismo no Flamengo (05/11/2026)
+
+- **Estado:** em produção; apuração concluída e primeira versão da matéria preparada. Ainda não publicada.
+- **Título de trabalho:** *Pedro sai do jejum com dois dobletes, chega a 39 participações em gols no ano e assume protagonismo no Flamengo*.
+- **Formato:** notícia analítica / desempenho individual.
+- **Ângulo:** números de gols e assistências na temporada e no Brasileirão, recuperação após período sem marcar, quatro gols nas vitórias sobre Vasco e Grêmio, participação na produção ofensiva rubro-negra e disputa pela artilharia.
+- **Dados centrais apurados:** 29 gols e 10 assistências em 55 jogos pelo Flamengo em 2026; no Brasileirão, 20 gols e seis assistências em 34 partidas. Pedro soma 26 participações diretas em gols na competição e está a um gol de Kevin Viveros na artilharia, segundo levantamento publicado em 05/11/2026.
+- **Contexto coletivo:** Pedro e Samuel Lino somam 47 participações diretas nos 71 gols do Flamengo no Brasileirão, segundo levantamento do UOL.
+- **Pontos de checagem:** manter a distinção entre gols e participações diretas; não usar totais desatualizados de bases estatísticas; registrar que Pedro está suspenso para o próximo jogo contra o Athletico-PR.
+- **Arquivo de produção:** matéria preparada em WritingBlock ID 58317; transferir para o arquivo editorial correspondente quando solicitado.
+- **Próxima etapa:** revisão final e eventual publicação, mediante confirmação do editor.
