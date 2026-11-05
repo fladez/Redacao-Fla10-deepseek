@@ -2161,3 +2161,17 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 - **Partida:** Flamengo 3 x 1 Grêmio, Campeonato Brasileiro, 34ª rodada, em 04/11/2026, no Maracanã.
 - **Gols:** Samuel Lino e Pedro (duas vezes) para o Flamengo; Amuzu para o Grêmio.
 - **Registro editorial:** publicação confirmada; item encerrado e incluído no histórico de publicações.
+
+
+## Publicação confirmada — Brasília 87 x 91 Flamengo (04/11/2026)
+
+- **Estado:** publicada em 04/11/2026, conforme confirmação explícita do editor.
+- **Título:** *Flamengo supera reação do Brasília, vence por 91 a 87 e conquista quarta vitória seguida no NBB*.
+- **URL pública:** https://fla10.news/noticias/flamengo-supera-reacao-do-brasilia-vence-por-91-a-87-e-conquista-quarta-vitoria-seguida-no-nbb
+- **Formato:** notícia pós-jogo — NBB CAIXA 2026/27, quarta rodada do primeiro turno.
+- **Partida:** Brasília 87 x 91 Flamengo, em 04/11/2026, na Arena Nilson Nelson, em Brasília.
+- **Destaques:** Yago Mateus (22 pontos e seis assistências), Alex Negrete (18 pontos) e Yan Djalo (14 pontos).
+- **Síntese:** Flamengo abriu 17 pontos, sofreu a reação e o empate no terceiro quarto, mas venceu o período final por 18 a 14 e confirmou a quarta vitória consecutiva.
+- **Próximo compromisso informado na matéria:** Pato Basquete, em 07/11/2026, fora de casa.
+- **Arquivo de produção:** [[2026-11-04 - Flamengo x Brasília - pós-jogo NBB]].
+- **Registro editorial:** publicação confirmada; pauta encerrada e retirada das pendências de produção.
