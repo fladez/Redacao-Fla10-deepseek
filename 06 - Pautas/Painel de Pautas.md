@@ -2230,3 +2230,13 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 - **Formato:** reportagem especial / infraestrutura e gestão do Maracanã.
 - **Ângulo:** substituição da Bermuda Celebration pela Celebration Hybrid após o Campeonato Brasileiro de 2026; características da nova cultivar natural; problemas observados no gramado durante a temporada; pressão do calendário de Flamengo e Fluminense e dos nove jogos da Copa do Mundo Feminina de 2027; limites da troca de variedade sem melhorias de manutenção, infraestrutura e gestão do calendário.
 - **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações.
+
+
+## Publicação confirmada — Flamengo amplia vantagem, transfere pressão ao Palmeiras (05/11/2026)
+
+- **Estado:** publicada em 05/11/2026, conforme confirmação explícita do editor.
+- **Título:** *Flamengo amplia vantagem, transfere pressão ao Palmeiras e se aproxima de decisão do Brasileirão*.
+- **URL pública:** https://fla10.news/noticias/flamengo-amplia-vantagem-transfere-pressao-ao-palmeiras-e-se-aproxima-de-decisao-do-brasileirao
+- **Formato:** notícia de contexto — disputa pelo título do Campeonato Brasileiro.
+- **Ângulo:** efeito da vitória por 3 a 1 sobre o Grêmio, vantagem provisória de seis pontos sobre o Palmeiras, pressão sobre o concorrente e importância da sequência de novembro, com destaque para o confronto direto.
+- **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações.
