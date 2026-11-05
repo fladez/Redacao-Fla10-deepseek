@@ -2150,3 +2150,14 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 - **Partida:** Flamengo 3 x 1 Grêmio, no Maracanã.
 - **Eixo editorial:** domínio ofensivo rubro-negro no primeiro tempo, queda de intensidade na etapa final, saída de Carrascal no intervalo e debate sobre a gestão da vantagem por Leonardo Jardim.
 - **Registro editorial:** publicação confirmada pelo editor; peça encerrada e registrada no histórico de publicações.
+
+
+## Publicação confirmada — Vídeo dos gols de Flamengo 3 x 1 Grêmio (04/11/2026)
+
+- **Estado:** publicado em 04/11/2026, conforme confirmação explícita do editor.
+- **Título:** *Os gols de Flamengo 3 x 1 Grêmio*.
+- **URL pública:** https://fla10.news/videos/os-gols-de-flamengo-3-x-1-gremio
+- **Formato:** vídeo — gols da partida.
+- **Partida:** Flamengo 3 x 1 Grêmio, Campeonato Brasileiro, 34ª rodada, em 04/11/2026, no Maracanã.
+- **Gols:** Samuel Lino e Pedro (duas vezes) para o Flamengo; Amuzu para o Grêmio.
+- **Registro editorial:** publicação confirmada; item encerrado e incluído no histórico de publicações.
