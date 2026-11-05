@@ -2213,3 +2213,13 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 - **Ângulo:** organização ofensiva do Flamengo no primeiro tempo, circulação e ocupação dos espaços diante do bloco baixo gremista; perda de conexão ofensiva após as substituições e maior iniciativa do Grêmio na segunda etapa.
 - **Elementos visuais previstos:** campinho tático da organização ofensiva do Flamengo e campinho da organização defensiva/transições do Grêmio.
 - **Arquivo de produção:** [[2026-11-05 - Raio-X Tático - Flamengo x Grêmio]].
+
+
+## Publicação confirmada — Maracanã prepara troca de gramado para 2027 (05/11/2026)
+
+- **Estado:** publicada em 05/11/2026, conforme confirmação explícita do editor.
+- **Título:** *Maracanã prepara troca de gramado para 2027, mas novo piso terá de superar desafios que vão além da escolha da grama*.
+- **URL pública:** https://fla10.news/noticias/maracana-prepara-troca-de-gramado-para-2027-mas-novo-piso-tera-de-superar-desafios-que-vao-alem-da-escolha-da-grama
+- **Formato:** reportagem especial / infraestrutura e gestão do Maracanã.
+- **Ângulo:** substituição da Bermuda Celebration pela Celebration Hybrid após o Campeonato Brasileiro de 2026; características da nova cultivar natural; problemas observados no gramado durante a temporada; pressão do calendário de Flamengo e Fluminense e dos nove jogos da Copa do Mundo Feminina de 2027; limites da troca de variedade sem melhorias de manutenção, infraestrutura e gestão do calendário.
+- **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações.
