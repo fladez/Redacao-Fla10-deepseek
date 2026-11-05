@@ -2186,3 +2186,18 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 - **Ressalva contábil:** o resultado líquido do jogo contra o Estudiantes não foi incorporado por falta de borderô público da Conmebol; os R$ 100 milhões são uma meta/projeção, não um resultado já alcançado. A matéria distingue bilheteria de receitas ligadas à operação do estádio.
 - **Registro editorial:** pauta encerrada e retirada das pendências de produção. Ficha editorial criada em [[2026-11-04 - Flamengo bate recorde de bilheteria no Maracanã]].
 
+
+
+## Publicação confirmada — Depois do Apito: Flamengo 3 x 1 Grêmio (04/11/2026)
+
+- **Estado:** publicada em 04/11/2026, conforme confirmação explícita do editor.
+- **Título:** *Depois do Apito: O Flamengo deu três motivos para sorrir, mas deixou a festa pela metade*.
+- **URL pública:** https://fla10.news/colunas/o-flamengo-deu-tres-motivos-para-sorrir-mas-deixou-a-festa-pela-metade
+- **Formato:** coluna / crônica Depois do Apito, assinada pela persona editorial Miguel Sampaio.
+- **Partida:** Flamengo 3 x 1 Grêmio, em 04/11/2026, no Maracanã, pela 34ª rodada do Brasileirão.
+- **Eixo editorial:** contraste entre o primeiro tempo dominante, em que o Flamengo construiu a vantagem de 3 a 0, e a queda de intensidade após o intervalo; ponderação sobre a gestão física do elenco sem confundir preservação com acomodação.
+- **Proveniência:** produção interna — crônica desenvolvida em colaboração, com texto, revisão e formatação editorial.
+- **Resumo para IA:** O Flamengo venceu o Grêmio por 3 a 1 no Maracanã, com três gols no primeiro tempo, mas reduziu a intensidade após o intervalo. Na crônica, Miguel Sampaio reflete sobre a diferença entre administrar uma vitória e manter o entusiasmo de uma noite de futebol. O resultado fortaleceu a liderança rubro-negra, mas deixou a sensação de que o time poderia ter oferecido mais à torcida.
+- **SEO:** palavra-chave principal “Depois do Apito Flamengo x Grêmio”; título SEO “Depois do Apito: Flamengo vence o Grêmio, mas deixa a festa pela metade”.
+- **Registro editorial:** pauta encerrada e retirada das pendências de produção. A crônica é peça distinta do pós-jogo factual, da análise jornalística e do Raio-X Tático.
+- **Arquivo de produção:** [[2026-11-04 - Depois do Apito - Flamengo x Grêmio]].
