@@ -1914,7 +1914,7 @@ A pesquisa acadêmica reforça que a identificação com o clube, o comprometime
 ### 04/11/2026 — quarta-feira
 - **Evento 1:** Flamengo x Grêmio — Brasileirão, 34ª rodada; 19h30, Maracanã.
   - **Pauta de serviço:** Onde assistir — 03/11 (já incluída na programação de 03/11).
-  - **Cobertura no evento:** **pré-jogo publicada em 04/11/2026**; pós-jogo logo após o término; análise jornalística após apuração complementar; crônica Depois do Apito; Raio-X Tático.
+  - **Cobertura no evento:** **pré-jogo publicada em 04/11/2026**; **pós-jogo publicado em 04/11/2026** (URL registrada na seção de publicações confirmadas); análise jornalística após apuração complementar; crônica Depois do Apito; Raio-X Tático.
   - **Classificação editorial:** futebol masculino profissional — equipe principal.
 - **Evento 2:** Brasília x Flamengo — NBB 2026/27, 5ª rodada; 20h15, Brasília (DF).
   - **Pauta de serviço:** Onde assistir — 03/11; produção e publicação pendentes de confirmação de transmissão e demais dados.
@@ -2117,3 +2117,15 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 - **Formato:** coluna / opinião editorial.
 - **Ângulo:** crítica aos erros, à inconsistência de critérios e aos efeitos das decisões de arbitragem e do VAR sobre a credibilidade das competições brasileiras; cobrança por providências institucionais da CBF.
 - **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e retirada das pendências de produção.
+
+
+## Publicação confirmada — Flamengo vence o Grêmio por 3 a 1 (04/11/2026)
+
+- **Estado:** publicada em 04/11/2026, conforme confirmação explícita do editor.
+- **Título:** *Flamengo vence o Grêmio por 3 a 1 e amplia vantagem na liderança do Brasileirão*.
+- **URL pública:** https://fla10.news/noticias/flamengo-vence-o-gremio-por-3-a-1-e-amplia-vantagem-na-lideranca-do-brasileirao
+- **Formato:** notícia pós-jogo — Campeonato Brasileiro, 34ª rodada.
+- **Partida:** Flamengo 3 x 1 Grêmio, em 04/11/2026, no Maracanã.
+- **Gols:** Samuel Lino (19'/1ºT), Pedro (27'/1ºT e 46'/1ºT); Amuzu (24'/2ºT).
+- **Contexto:** Flamengo chegou a 76 pontos e abriu provisoriamente seis de vantagem sobre o Palmeiras; Grêmio permaneceu com 37 pontos, na 17ª colocação.
+- **Registro editorial:** publicação confirmada pelo editor; pauta pós-jogo encerrada e retirada das pendências de produção. Permanecem como peças distintas da cobertura a análise jornalística, a crônica Depois do Apito e o Raio-X Tático.
