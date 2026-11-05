@@ -917,3 +917,12 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - Criada a ficha editorial `06 - Pautas/2026-11-04 - Flamengo bate recorde de bilheteria no Maracanã.md`; atualizado o Painel de Pautas para encerrar a pauta e registrar a URL.
 - A matéria informa cerca de R$ 142,2 milhões em receitas brutas de jogos do futebol profissional em 2026; o resultado líquido conhecido, antes de incluir o jogo contra o Estudiantes, é estimado em cerca de R$ 87,6 milhões. A renda líquida desse confronto não foi calculada por ausência de borderô público da Conmebol. A meta de R$ 100 milhões permanece projeção.
 - Alterações realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.
+
+
+## 2026-11-04 — Publicação confirmada: Depois do Apito — Flamengo 3 x 1 Grêmio
+- O editor confirmou a publicação da crônica **“Depois do Apito: O Flamengo deu três motivos para sorrir, mas deixou a festa pela metade”**, assinada pela persona editorial Miguel Sampaio.
+- **URL pública:** https://fla10.news/colunas/o-flamengo-deu-tres-motivos-para-sorrir-mas-deixou-a-festa-pela-metade
+- Criada a ficha editorial `06 - Pautas/2026-11-04 - Depois do Apito - Flamengo x Grêmio.md`, com status publicado, URL, eixo interpretativo, resumo para IA, pacote SEO e proveniência.
+- Atualizado o Painel de Pautas para registrar a publicação e encerrar a crônica.
+- A peça trabalha o contraste entre o primeiro tempo dominante e a queda de intensidade após o intervalo, sem se confundir com o pós-jogo factual, a análise jornalística ou o Raio-X Tático.
+- Alterações realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.
