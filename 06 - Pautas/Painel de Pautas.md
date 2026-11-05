@@ -2129,3 +2129,14 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 - **Gols:** Samuel Lino (19'/1ºT), Pedro (27'/1ºT e 46'/1ºT); Amuzu (24'/2ºT).
 - **Contexto:** Flamengo chegou a 76 pontos e abriu provisoriamente seis de vantagem sobre o Palmeiras; Grêmio permaneceu com 37 pontos, na 17ª colocação.
 - **Registro editorial:** publicação confirmada pelo editor; pauta pós-jogo encerrada e retirada das pendências de produção. Permanecem como peças distintas da cobertura a análise jornalística, a crônica Depois do Apito e o Raio-X Tático.
+
+## Publicação confirmada — Boteco Fla10 News: Pedro, Lino e a corneta em Jardim (04/11/2026)
+
+- **Estado:** publicada em 04/11/2026, conforme confirmação explícita do editor.
+- **Título:** *Pedro e Lino fazem a festa, Carrascal distribui presente e Jardim precisa parar de inventar moda*.
+- **URL pública:** https://fla10.news/voz-torcedor/pedro-e-lino-fazem-a-festa-carrascal-distribui-presente-e-jardim-precisa-parar-de-inventar-moda
+- **Formato:** A Voz do Torcedor — Boteco Fla10 News / Cadu na Mesa do Bar.
+- **Autor/personagem editorial:** Cadu.
+- **Ângulo:** elogios às atuações de Pedro e Samuel Lino, às duas assistências de Carrascal e à qualidade de Arrascaeta; crítica bem-humorada às substituições e às mudanças táticas de Leonardo Jardim, com cobrança por consistência na reta decisiva do Brasileirão.
+- **Proveniência:** texto-base fornecido pelo editor; formatação editorial, marcadores de parágrafo e pacote de SEO preparados em colaboração.
+- **Registro editorial:** publicação confirmada pelo editor; peça encerrada e registrada no histórico de publicações.
