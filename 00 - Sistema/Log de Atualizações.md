@@ -899,3 +899,11 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - Preparados prompts dos campinhos táticos das duas equipes como material visual complementar; as setas são interpretações editoriais, não dados de rastreamento.
 - A publicação é distinta do pós-jogo factual, da análise jornalística e da crônica Depois do Apito sobre Vasco 1 x 4 Flamengo.
 - Alterações realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.
+
+
+## 2026-11-04 — Publicação confirmada: pós-jogo Brasília 87 x 91 Flamengo (NBB)
+- O editor confirmou a publicação de **“Flamengo supera reação do Brasília, vence por 91 a 87 e conquista quarta vitória seguida no NBB”**.
+- **URL pública:** https://fla10.news/noticias/flamengo-supera-reacao-do-brasilia-vence-por-91-a-87-e-conquista-quarta-vitoria-seguida-no-nbb
+- Criada a ficha editorial `06 - Pautas/2026-11-04 - Flamengo x Brasília - pós-jogo NBB.md`, com status publicado, resultado, destaques, parciais e próximo compromisso.
+- Registrado: Brasília 87 x 91 Flamengo; Yago Mateus marcou 22 pontos e distribuiu seis assistências; Alex Negrete anotou 18 pontos e Yan Djalo, 14. Flamengo chegou à quarta vitória consecutiva.
+- Atualizados o Painel de Pautas e o histórico de atualizações no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.
