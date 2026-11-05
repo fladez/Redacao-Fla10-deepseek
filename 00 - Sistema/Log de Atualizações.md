@@ -926,3 +926,11 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - Atualizado o Painel de Pautas para registrar a publicação e encerrar a crônica.
 - A peça trabalha o contraste entre o primeiro tempo dominante e a queda de intensidade após o intervalo, sem se confundir com o pós-jogo factual, a análise jornalística ou o Raio-X Tático.
 - Alterações realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.
+
+
+## 2026-11-05 — Publicação confirmada: Raio-X Tático Flamengo x Grêmio
+- O responsável editorial confirmou a publicação de “Raio-X Tático: Flamengo desmonta o bloco do Grêmio no primeiro tempo, mas perde conexão após mudanças no intervalo”.
+- **URL pública:** https://fla10.news/raio-x/raio-x-tatico-flamengo-desmonta-o-bloco-do-gremio-no-primeiro-tempo-mas-perde-conexao-apos-mudancas-no-intervalo
+- Criada a ficha editorial `06 - Pautas/2026-11-05 - Raio-X Tático - Flamengo x Grêmio.md`, com metadados, recorte tático, contexto da partida, elementos visuais e estado de publicação.
+- Atualizado o Painel de Pautas para registrar a publicação e preservar o vínculo com a ficha.
+- Alterações documentais realizadas no GitHub. A sincronização do vault local não foi verificada; o conteúdo publicado no site não foi alterado por esta operação.
