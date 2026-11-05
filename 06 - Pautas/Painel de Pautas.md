@@ -2140,3 +2140,13 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 - **Ângulo:** elogios às atuações de Pedro e Samuel Lino, às duas assistências de Carrascal e à qualidade de Arrascaeta; crítica bem-humorada às substituições e às mudanças táticas de Leonardo Jardim, com cobrança por consistência na reta decisiva do Brasileirão.
 - **Proveniência:** texto-base fornecido pelo editor; formatação editorial, marcadores de parágrafo e pacote de SEO preparados em colaboração.
 - **Registro editorial:** publicação confirmada pelo editor; peça encerrada e registrada no histórico de publicações.
+
+## Publicação confirmada — Análise Flamengo 3 x 1 Grêmio: gestão do jogo de Jardim (04/11/2026)
+
+- **Estado:** publicada em 04/11/2026, conforme confirmação explícita do editor.
+- **Título:** *Flamengo faz primeiro tempo dominante, mas volta a expor problema na gestão do jogo de Jardim*.
+- **URL pública:** https://fla10.news/noticias/flamengo-faz-primeiro-tempo-dominante-mas-volta-a-expor-problema-na-gestao-do-jogo-de-jardim
+- **Formato:** análise jornalística — Brasileirão, 34ª rodada.
+- **Partida:** Flamengo 3 x 1 Grêmio, no Maracanã.
+- **Eixo editorial:** domínio ofensivo rubro-negro no primeiro tempo, queda de intensidade na etapa final, saída de Carrascal no intervalo e debate sobre a gestão da vantagem por Leonardo Jardim.
+- **Registro editorial:** publicação confirmada pelo editor; peça encerrada e registrada no histórico de publicações.
