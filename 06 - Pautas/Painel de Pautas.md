@@ -2201,3 +2201,15 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 - **SEO:** palavra-chave principal “Depois do Apito Flamengo x Grêmio”; título SEO “Depois do Apito: Flamengo vence o Grêmio, mas deixa a festa pela metade”.
 - **Registro editorial:** pauta encerrada e retirada das pendências de produção. A crônica é peça distinta do pós-jogo factual, da análise jornalística e do Raio-X Tático.
 - **Arquivo de produção:** [[2026-11-04 - Depois do Apito - Flamengo x Grêmio]].
+
+
+## Publicação confirmada — 5 de novembro de 2026
+
+### Raio-X Tático: Flamengo desmonta o bloco do Grêmio no primeiro tempo, mas perde conexão após mudanças no intervalo
+- **Estado:** publicada em 05/11/2026, conforme confirmação do responsável editorial.
+- **Partida:** Flamengo 3 x 1 Grêmio, em 04/11/2026, no Maracanã, pelo Campeonato Brasileiro.
+- **Formato:** Raio-X Tático.
+- **URL pública:** https://fla10.news/raio-x/raio-x-tatico-flamengo-desmonta-o-bloco-do-gremio-no-primeiro-tempo-mas-perde-conexao-apos-mudancas-no-intervalo
+- **Ângulo:** organização ofensiva do Flamengo no primeiro tempo, circulação e ocupação dos espaços diante do bloco baixo gremista; perda de conexão ofensiva após as substituições e maior iniciativa do Grêmio na segunda etapa.
+- **Elementos visuais previstos:** campinho tático da organização ofensiva do Flamengo e campinho da organização defensiva/transições do Grêmio.
+- **Arquivo de produção:** [[2026-11-05 - Raio-X Tático - Flamengo x Grêmio]].
