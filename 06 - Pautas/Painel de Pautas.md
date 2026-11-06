@@ -2327,3 +2327,16 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 - **Apuração:** ficha da LNB confirmou data, horário e ginásio; agenda oficial da LNB e programação da FlamengoTV confirmaram as transmissões. Arbitragem não constava na ficha oficial consultada. O quinteto usado contra Brasília foi registrado como referência, não como escalação confirmada para este jogo.
 - **Ficha editorial:** [[2026-11-07 - Pato Basquete x Flamengo - Onde assistir NBB]].
 - **Registro editorial:** publicação confirmada pelo editor; pauta de serviço encerrada. A pauta de pós-jogo permanece condicionada ao resultado e à disponibilidade de informações.
+
+
+## Publicação confirmada — Flamengo x Bahia: onde assistir à semifinal da Copa do Brasil Feminina (07/11/2026)
+
+- **Estado:** publicada em 07/11/2026, conforme confirmação explícita do editor.
+- **Título editorial:** *Flamengo x Bahia: onde assistir ao vivo, horário e informações da semifinal da Copa do Brasil Feminina*.
+- **URL pública:** https://fla10.news/noticias/flamengo-marica-x-bahia-onde-assistir-ao-vivo-horario-e-informacoes-da-semifinal-da-copa-do-brasil-feminina
+- **Formato:** serviço de jogo — Onde Assistir.
+- **Partida:** Flamengo x Bahia, jogo de volta da semifinal da Copa do Brasil Feminina 2026, sábado, 07/11/2026, às 21h30, no Estádio Luso-Brasileiro.
+- **Transmissão:** SporTV; acompanhamento em tempo real pelo ge. Não houve confirmação oficial de transmissão/acompanhamento pela FlamengoTV na programação consultada.
+- **Contexto:** ida terminou 0 a 0; vitória simples classifica e novo empate leva aos pênaltis.
+- **Ficha editorial:** [[2026-11-07 - Flamengo x Bahia - Onde assistir Copa do Brasil Feminina]].
+- **Registro editorial:** publicação confirmada pelo editor; pauta de serviço encerrada e incluída no histórico de publicações.
