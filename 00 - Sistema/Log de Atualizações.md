@@ -992,3 +992,12 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - A ficha oficial da LNB confirmou data, horário e local; a agenda da LNB e a programação da FlamengoTV confirmaram as transmissões. A arbitragem não constava na ficha consultada.
 - A pauta de pós-jogo não foi marcada como concluída; depende da realização da partida e da disponibilidade de informações.
 - Alterações realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.
+
+
+## 2026-11-07 — Publicação confirmada: Flamengo x Bahia feminino (Onde Assistir)
+- O editor confirmou a publicação da matéria **“Flamengo x Bahia: onde assistir ao vivo, horário e informações da semifinal da Copa do Brasil Feminina”**.
+- **URL:** https://fla10.news/noticias/flamengo-marica-x-bahia-onde-assistir-ao-vivo-horario-e-informacoes-da-semifinal-da-copa-do-brasil-feminina
+- Criada a ficha editorial `06 - Pautas/2026-11-07 - Flamengo x Bahia - Onde assistir Copa do Brasil Feminina.md`, com status `publicada`, confirmação de publicação, URL, serviço, contexto e ressalvas factuais.
+- Atualizado o Painel de Pautas para registrar a publicação e encerrar a pauta de serviço.
+- Serviço registrado: SporTV como transmissão e ge como acompanhamento em tempo real; não foi encontrada confirmação oficial de cobertura pela FlamengoTV na programação consultada.
+- Alterações realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.
