@@ -2313,3 +2313,17 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 - **Apuração:** programação oficial da FlamengoTV confirmou a transmissão e a equipe de cobertura; ficha da FERJ confirmou data, horário e estádio. Arbitragem e prováveis escalações não estavam divulgadas na ficha oficial consultada durante a produção.
 - **Ficha editorial:** [[2026-11-07 - Flamengo x Vasco - Onde assistir Carioca Sub-20]].
 - **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações.
+
+
+## Publicação confirmada — Pato Basquete x Flamengo: onde assistir ao NBB (07/11/2026)
+
+- **Estado:** publicada em 07/11/2026, conforme confirmação explícita do editor.
+- **Título:** *Pato Basquete x Flamengo: onde assistir ao vivo, horário e informações do jogo pelo NBB*.
+- **URL pública:** https://fla10.news/noticias/pato-basquete-x-flamengo-onde-assistir-ao-vivo-horario-e-informacoes-do-jogo-pelo-nbb
+- **Formato:** serviço de jogo — Onde Assistir.
+- **Partida:** Pato Basquete x Flamengo, sábado, 07/11/2026, às 19h, no Ginásio do Sesi, em Pato Branco (PR), pela quarta rodada do primeiro turno do NBB 2026/2027.
+- **Transmissão:** Xsports e FlamengoTV, no YouTube; programação da FlamengoTV com narração de Emerson Santos (Emershow) e comentários de Duda Machado.
+- **Contexto:** Flamengo chega após vencer o Brasília por 91 a 87 e conquistar a quarta vitória consecutiva no início da temporada.
+- **Apuração:** ficha da LNB confirmou data, horário e ginásio; agenda oficial da LNB e programação da FlamengoTV confirmaram as transmissões. Arbitragem não constava na ficha oficial consultada. O quinteto usado contra Brasília foi registrado como referência, não como escalação confirmada para este jogo.
+- **Ficha editorial:** [[2026-11-07 - Pato Basquete x Flamengo - Onde assistir NBB]].
+- **Registro editorial:** publicação confirmada pelo editor; pauta de serviço encerrada. A pauta de pós-jogo permanece condicionada ao resultado e à disponibilidade de informações.
