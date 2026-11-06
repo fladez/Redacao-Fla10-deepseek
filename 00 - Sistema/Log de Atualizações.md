@@ -982,3 +982,13 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - Atualizada a ficha editorial com status `publicada` e `publicacao_confirmada: true`.
 - Atualizado o Painel de Pautas para registrar a publicação e encerrar a pauta.
 - Alterações realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.
+
+
+## 2026-11-07 — Publicação confirmada: Pato Basquete x Flamengo (Onde Assistir NBB)
+- O editor confirmou a publicação da matéria **“Pato Basquete x Flamengo: onde assistir ao vivo, horário e informações do jogo pelo NBB”**.
+- **URL:** https://fla10.news/noticias/pato-basquete-x-flamengo-onde-assistir-ao-vivo-horario-e-informacoes-do-jogo-pelo-nbb
+- Criada a ficha editorial `06 - Pautas/2026-11-07 - Pato Basquete x Flamengo - Onde assistir NBB.md`, com status `publicada`, URL, serviço da partida, contexto, ressalvas factuais e fontes.
+- Atualizado o Painel de Pautas para registrar a publicação e encerrar a pauta de serviço.
+- A ficha oficial da LNB confirmou data, horário e local; a agenda da LNB e a programação da FlamengoTV confirmaram as transmissões. A arbitragem não constava na ficha consultada.
+- A pauta de pós-jogo não foi marcada como concluída; depende da realização da partida e da disponibilidade de informações.
+- Alterações realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.
