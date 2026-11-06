@@ -597,8 +597,7 @@ A transferência de data não equivale a autorização automática para redigir;
 ### Análise — Leonardo Jardim protegeu demais o Flamengo e comprometeu sua força ofensiva
 - **Estado:** publicada em 23/10/2026, conforme confirmação explícita do editor.
 - **Título publicado:** *Análise: Leonardo Jardim tentou proteger demais o Flamengo dos riscos, comprometeu sua força ofensiva e foi eliminado na Libertadores mesmo invicto*.
-- **URL pública:** https://fla10.news/noticias/analise-leonardo-jardim-tentou-proteger-demais-o-flamengo-dos-riscos-comprometeu-sua-forca-ofensiva-e-foi-eliminado-na-libertadores-mesmo-invicto
-- **Ficha editorial:** [[2026-10-23 - Análise Leonardo Jardim protegeu demais o Flamengo na Libertadores]].
+- **URL pública:** https://fla10.news/noticias/analise-leonardo-jardim-tentou-proteger-demais-o-flamengo-dos-riscos-comprometeu-sua-forca-ofensiva-e-foi-eliminado-na-libertadores-mesmo-invicto- **Ficha editorial:** [[2026-10-23 - Análise Leonardo Jardim protegeu demais o Flamengo na Libertadores]].
 - **Formato:** análise jornalística aprofundada / análise de treinador e gestão de jogo.
 - **Tese:** o Flamengo não foi eliminado apenas nos pênaltis; não conseguiu combinar proteção defensiva e agressividade ofensiva, criar chances consistentes ou adaptar o plano quando o Estudiantes neutralizou seus caminhos.
 - **Eixos desenvolvidos:** cautela em La Plata; alertas contra o Independiente del Valle; resposta à expulsão no Maracanã; substituições e leitura de jogo; Paquetá na armação; alternativas de criação; rigidez posicional e redução das subidas dos laterais; desconexão entre volância e armação diante da linha de cinco; desgaste físico como fator contributivo, não explicação total.
@@ -1199,7 +1198,6 @@ A pedido do editor, esta seção atualiza a programação corrente e prevalece s
 - **Limites:** os dados públicos não permitem calcular uma taxa completa de conversão; os valores de transferências e participação em gols precisam manter os recortes temporais originais.
 - Esta atualização substitui a indicação anterior de que a pauta aguardava debate antes da redação. A autorização para pesquisa e rascunho foi dada pelo editor em 28/10/2026.
 
-
 ## Publicação confirmada — Reportagens Fla10: Garotos do Ninho (28/10/2026)
 
 - **Título:** Da base ao profissional: o caminho dos Garotos do Ninho expõe um gargalo no Flamengo
@@ -1797,8 +1795,7 @@ A pesquisa acadêmica reforça que a identificação com o clube, o comprometime
 - **URL pública:** https://fla10.news/noticias/flamengo-x-ceiscuniao-corinthians-onde-assistir-ao-vivo-horario-e-informacoes-do-jogo-pelo-nbb
 - **Formato:** serviço de jogo — NBB CAIXA 2026/27, quarta rodada do primeiro turno.
 - **Partida:** Flamengo x Ceisc/União Corinthians, domingo, 1º de novembro de 2026, às 11h (de Brasília), no Maracanãzinho, Rio de Janeiro.
-- **Transmissão:** YouTube do NBB CAIXA e FlamengoTV (YouTube). A cobertura da FlamengoTV tem narração de Emerson Santos (Emershow), comentários de Duda Machado e reportagem de Bruna Gosling.
-- **Contexto registrado na matéria:** Flamengo vinha de vitórias sobre Botafogo (81 a 71) e Caxias do Sul (77 a 59); o Ceisc/União Corinthians chegava após vencer o Botafogo por 87 a 80.
+- **Transmissão:** YouTube do NBB CAIXA e FlamengoTV (YouTube). A cobertura da FlamengoTV tem narração de Emerson Santos (Emershow), comentários de Duda Machado e reportagem de Bruna Gosling.- **Contexto registrado na matéria:** Flamengo vinha de vitórias sobre Botafogo (81 a 71) e Caxias do Sul (77 a 59); o Ceisc/União Corinthians chegava após vencer o Botafogo por 87 a 80.
 - **Registro editorial:** publicação confirmada pelo editor; pauta de serviço encerrada e retirada das pendências.
 
 ## Publicação confirmada — Pós-jogo Sesc RJ Flamengo x Batavo Mackenzie (31/10/2026)
@@ -2197,8 +2194,7 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 
 ## Publicação confirmada — Depois do Apito: Flamengo 3 x 1 Grêmio (04/11/2026)
 
-- **Estado:** publicada em 04/11/2026, conforme confirmação explícita do editor.
-- **Título:** *Depois do Apito: O Flamengo deu três motivos para sorrir, mas deixou a festa pela metade*.
+- **Estado:** publicada em 04/11/2026, conforme confirmação explícita do editor.- **Título:** *Depois do Apito: O Flamengo deu três motivos para sorrir, mas deixou a festa pela metade*.
 - **URL pública:** https://fla10.news/colunas/o-flamengo-deu-tres-motivos-para-sorrir-mas-deixou-a-festa-pela-metade
 - **Formato:** coluna / crônica Depois do Apito, assinada pela persona editorial Miguel Sampaio.
 - **Partida:** Flamengo 3 x 1 Grêmio, em 04/11/2026, no Maracanã, pela 34ª rodada do Brasileirão.
@@ -2264,3 +2260,15 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 - **Transmissão:** ge tv.
 - **Contexto:** Sesc RJ Flamengo chega com três vitórias em três jogos, todas por 3 sets a 0, e busca recuperar a liderança da competição.
 - **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações.
+
+
+## Agenda editorial — sexta-feira, 6 de novembro de 2026
+
+### Reportagem Fla10 — Finanças do Flamengo: superávit até setembro, déficit projetado em 2026 e vendas de atletas em 2027
+- **Estado:** transferida de 05/11 para 06/11/2026, por decisão do editor; aprovada, com apuração e produção pendentes.
+- **Formato:** reportagem / análise econômica.
+- **Ângulo:** confrontar os indicadores do relatório financeiro oficial do terceiro trimestre com a projeção de déficit no fechamento de 2026 e a meta de arrecadação com vendas de atletas em 2027. Explicar as diferenças entre receitas, resultado contábil, fluxo de caixa, investimentos e dívida.
+- **Base documental a conferir no relatório oficial:** R$ 1,17 bilhão em receita recorrente; R$ 289,9 milhões em EBITDA recorrente; superávit acumulado de R$ 4,5 milhões; R$ 667,7 milhões investidos em atletas; R$ 333,9 milhões em dívida líquida com atletas; e R$ 84,1 milhões de caixa livre consolidado.
+- **Projeções a atribuir às fontes:** déficit de R$ 40 milhões em 2026 e captação de 40–45 milhões de euros em vendas de atletas em 2027. Não apresentar projeções como resultados realizados.
+- **Checagens obrigatórias:** confirmar período, base e natureza de cada indicador; atribuir as projeções; não inferir crise de caixa apenas a partir do déficit projetado; distinguir orçamento, resultado contábil e fluxo de caixa.
+
