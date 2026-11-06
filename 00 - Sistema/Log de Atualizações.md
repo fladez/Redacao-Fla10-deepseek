@@ -967,3 +967,10 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - Atualizado o Painel de Pautas para encerrar a produção e registrar a publicação.
 - Permanecem como acompanhamento: respostas da Brax, FFU, Flamengo e CBF, detalhamento de valores/garantias e evolução jurídica da MP 1.394/2026 e das ADIs.
 - Alterações realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.
+
+
+## 2026-11-06 — Atualização da agenda de 7 de novembro
+- Por solicitação do editor, a reportagem **“O Flamengo que arrecada mais, mas precisa rever sua estratégia financeira”** foi mantida/remanejada para a agenda de sábado, 07/11/2026, preservando o recorte de crescimento das receitas, números acumulados até setembro, revisão do orçamento de 2026 e desafios do planejamento financeiro.
+- Incluída na mesma agenda uma matéria da seção **Flamengo na História**, com pauta e recorte histórico ainda a definir; a produção depende da escolha e validação do tema.
+- Atualizado o Painel de Pautas no GitHub, branch `main`.
+- A sincronização do vault local do Obsidian não foi verificada.
