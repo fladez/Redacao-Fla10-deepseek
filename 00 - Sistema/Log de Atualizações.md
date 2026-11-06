@@ -949,3 +949,12 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - Mantidos o status **aprovada / pendente de apuração e produção** e o recorte econômico já definido; a mudança é somente de programação.
 - Atualizado o Painel de Pautas no GitHub, branch `main`.
 - A sincronização do vault local do Obsidian não foi verificada.
+
+
+## 2026-11-06 — Rascunho de reportagem: Brax, bets e receitas do futebol
+- Criado o arquivo `06 - Pautas/2026-11-06 - O dinheiro das apostas e os riscos para as receitas do futebol brasileiro.md`, com texto editorial, pacote SEO, ficha de apuração, fontes e pendências.
+- O rascunho diferencia atrasos de pagamentos, renegociação contratual e perdas projetadas. Registra que o Flamengo renegociou o cronograma de um contrato de R$ 66 milhões com a Brax, sem atraso no novo parcelamento segundo a informação disponível em 06/11.
+- Registrado que os atrasos de setembro e outubro teriam começado antes da publicação da MP 1.394/2026; não atribuir todos os problemas exclusivamente à medida.
+- A pauta permanece como **rascunho para revisão editorial**, não publicada. Pendentes respostas/confirmacões da Brax, FFU, Flamengo e CBF, além da atualização jurídica da MP e das ADIs.
+- Atualizados o Painel de Pautas e este Log no GitHub, branch `main`.
+- A sincronização do vault local do Obsidian não foi verificada.
