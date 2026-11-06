@@ -2262,10 +2262,10 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 - **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações.
 
 
-## Agenda editorial — sexta-feira, 6 de novembro de 2026
+## Agenda editorial — sábado, 7 de novembro de 2026
 
 ### Reportagem Fla10 — Finanças do Flamengo: superávit até setembro, déficit projetado em 2026 e vendas de atletas em 2027
-- **Estado:** transferida de 05/11 para 06/11/2026, por decisão do editor; aprovada, com apuração e produção pendentes.
+- **Estado:** transferida de 06/11 para 07/11/2026, por decisão do editor; aprovada, com apuração e produção pendentes.
 - **Formato:** reportagem / análise econômica.
 - **Ângulo:** confrontar os indicadores do relatório financeiro oficial do terceiro trimestre com a projeção de déficit no fechamento de 2026 e a meta de arrecadação com vendas de atletas em 2027. Explicar as diferenças entre receitas, resultado contábil, fluxo de caixa, investimentos e dívida.
 - **Base documental a conferir no relatório oficial:** R$ 1,17 bilhão em receita recorrente; R$ 289,9 milhões em EBITDA recorrente; superávit acumulado de R$ 4,5 milhões; R$ 667,7 milhões investidos em atletas; R$ 333,9 milhões em dívida líquida com atletas; e R$ 84,1 milhões de caixa livre consolidado.
