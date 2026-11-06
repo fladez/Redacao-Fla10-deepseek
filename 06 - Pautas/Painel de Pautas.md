@@ -2300,3 +2300,16 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 - **Cautela central:** os atrasos de setembro e outubro teriam começado antes da publicação da MP em 25/09/2026. Não atribuir toda a inadimplência exclusivamente à medida. As estimativas da CBF e do Flamengo têm escopos diferentes e não devem ser somadas nem atribuídas integralmente à Brax.
 - **Acompanhamento pós-publicação:** obter respostas da Brax, FFU, Flamengo e CBF; confirmar valores em atraso, garantias e calendário de quitação; acompanhar a situação jurídica da MP e das ADIs.
 - **Ficha completa, texto, fontes e histórico:** [[2026-11-06 - O dinheiro das apostas e os riscos para as receitas do futebol brasileiro]].
+
+
+## Publicação confirmada — Flamengo x Vasco: onde assistir à semifinal do Carioca Sub-20 (07/11/2026)
+
+- **Estado:** publicada em 07/11/2026, conforme confirmação explícita do editor.
+- **Título:** *Flamengo x Vasco: onde assistir ao vivo, horário e informações da semifinal do Carioca Sub-20*.
+- **URL pública:** https://fla10.news/noticias/flamengo-x-vasco-onde-assistir-ao-vivo-horario-e-informacoes-da-semifinal-do-carioca-sub-20
+- **Formato:** serviço de jogo — Onde Assistir.
+- **Partida:** Flamengo x Vasco, jogo de ida da semifinal do Campeonato Carioca Sub-20, sábado, 07/11/2026, às 10h, no Estádio José Bastos Padilha, na Gávea.
+- **Transmissão:** FlamengoTV, no YouTube.
+- **Apuração:** programação oficial da FlamengoTV confirmou a transmissão e a equipe de cobertura; ficha da FERJ confirmou data, horário e estádio. Arbitragem e prováveis escalações não estavam divulgadas na ficha oficial consultada durante a produção.
+- **Ficha editorial:** [[2026-11-07 - Flamengo x Vasco - Onde assistir Carioca Sub-20]].
+- **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações.
