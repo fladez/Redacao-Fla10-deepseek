@@ -1852,7 +1852,7 @@ A pesquisa acadêmica reforça que a identificação com o clube, o comprometime
    - **Checagens:** confirmar o teor e o alcance da manifestação no CAS; separar decisão processual, pedido cautelar e mérito da disputa.
 
 2. **Finanças do Flamengo: superávit até setembro, projeção de déficit em 2026 e vendas de atletas em 2027**
-   - **Estado:** aprovada; produção e publicação pendentes.
+   - **Estado:** registro histórico consolidado em 06/11/2026 com a pauta da agenda de 07/11/2026 intitulada “O Flamengo que arrecada mais, mas precisa rever sua estratégia financeira”. Não produzir como segunda reportagem; preservar este título como formulação anterior e manter o histórico da transferência original.
    - **Formato:** análise econômica / Reportagem Fla10.
    - **Janela sugerida:** 14h–15h30, com flexibilidade para apuração.
    - **Ângulo:** confrontar os indicadores do relatório financeiro oficial do terceiro trimestre com a projeção de déficit para o fechamento de 2026 e a meta de arrecadação com vendas de atletas em 2027. Explicar como receitas, resultado contábil, fluxo de caixa, investimentos e dívida podem apresentar sinais diferentes.
@@ -2265,12 +2265,12 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 ## Agenda editorial — sábado, 7 de novembro de 2026
 
 ### Reportagem Fla10 — O Flamengo que arrecada mais, mas precisa rever sua estratégia financeira
-- **Estado:** transferida de 06/11 para 07/11/2026, por decisão do editor; aprovada, com apuração e produção pendentes.
-- **Formato:** reportagem / análise econômica.
-- **Ângulo:** confrontar os indicadores do relatório financeiro oficial do terceiro trimestre com a projeção de déficit no fechamento de 2026 e a meta de arrecadação com vendas de atletas em 2027. Explicar as diferenças entre receitas, resultado contábil, fluxo de caixa, investimentos e dívida.
+- **Estado:** pauta única consolidada em 06/11/2026; aprovada, com apuração e produção pendentes para 07/11/2026. Substitui, sem duplicar, o registro anterior “Finanças do Flamengo: superávit até setembro, projeção de déficit em 2026 e vendas de atletas em 2027”, cuja transferência original constava no histórico.
+- **Formato:** reportagem especial — análise econômica.
+- **Ângulo:** confrontar o crescimento das receitas e os indicadores do relatório financeiro oficial do terceiro trimestre com a projeção de déficit no fechamento de 2026 e a meta de arrecadação com vendas de atletas em 2027. Explicar como receitas, resultado contábil, orçamento, fluxo de caixa, investimentos e dívida podem apresentar sinais diferentes.
 - **Base documental a conferir no relatório oficial:** R$ 1,17 bilhão em receita recorrente; R$ 289,9 milhões em EBITDA recorrente; superávit acumulado de R$ 4,5 milhões; R$ 667,7 milhões investidos em atletas; R$ 333,9 milhões em dívida líquida com atletas; e R$ 84,1 milhões de caixa livre consolidado.
 - **Projeções a atribuir às fontes:** déficit de R$ 40 milhões em 2026 e captação de 40–45 milhões de euros em vendas de atletas em 2027. Não apresentar projeções como resultados realizados.
-- **Checagens obrigatórias:** confirmar período, base e natureza de cada indicador; atribuir as projeções; não inferir crise de caixa apenas a partir do déficit projetado; distinguir orçamento, resultado contábil e fluxo de caixa.
+- **Checagens obrigatórias:** confirmar período, base e natureza de cada indicador; reconciliar diferenças entre fontes e documentos; atribuir as projeções; não inferir crise de caixa apenas a partir do déficit projetado; separar resultado contábil, orçamento e fluxo de caixa.
 
 ### Flamengo na História — pauta a definir
 - **Estado:** incluída na agenda de 07/11/2026 por decisão do editor; tema e recorte histórico ainda não definidos.
