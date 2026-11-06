@@ -958,3 +958,12 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - A pauta permanece como **rascunho para revisão editorial**, não publicada. Pendentes respostas/confirmacões da Brax, FFU, Flamengo e CBF, além da atualização jurídica da MP e das ADIs.
 - Atualizados o Painel de Pautas e este Log no GitHub, branch `main`.
 - A sincronização do vault local do Obsidian não foi verificada.
+
+
+## 2026-11-06 — Publicação confirmada: Brax, bets e receitas do futebol
+- O editor confirmou a publicação de **“O dinheiro das apostas e os riscos para as receitas do futebol brasileiro”**.
+- **URL pública:** https://fla10.news/noticias/o-dinheiro-das-apostas-e-os-riscos-para-as-receitas-do-futebol-brasileiro
+- Atualizada a ficha editorial para `status: publicada` e `publicacao_confirmada: true`, com registro da URL e manutenção do acompanhamento pós-publicação.
+- Atualizado o Painel de Pautas para encerrar a produção e registrar a publicação.
+- Permanecem como acompanhamento: respostas da Brax, FFU, Flamengo e CBF, detalhamento de valores/garantias e evolução jurídica da MP 1.394/2026 e das ADIs.
+- Alterações realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.
