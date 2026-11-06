@@ -1,8 +1,8 @@
 ---
 data: 2026-11-06
 formato: reportagem-fla10
-status: rascunho-para-revisao-editorial
-publicacao_confirmada: false
+status: publicada
+publicacao_confirmada: true
 proveniencia: producao-interna-colaborativa
 ---
 
@@ -145,9 +145,16 @@ No Flamengo, o novo cronograma do contrato com a Brax permanece, até a informa�
 - Flamengo, nota oficial de 30/09/2026 — https://wap.flamengo.com.br/noticias/notas-oficiais/nota-a-imprensa-30-09-26
 - O Globo, repercutido por veículos em 06/11/2026 — relatos de atrasos de setembro e outubro iniciados antes da publicação da MP; confirmação documental primária ainda pendente.
 
-### Pendências de apuração antes da publicação
+### Acompanhamento e apuração complementar pós-publicação
 - Solicitar à Brax esclarecimento sobre valores em atraso, datas de vencimento, garantias contratuais e plano de regularização.
 - Solicitar à FFU confirmação dos repasses pendentes, valores, cláusulas de garantia e eventual deliberação sobre rescisão.
 - Solicitar ao Flamengo confirmação do cronograma do contrato de R$ 66 milhões, valores já recebidos e saldo pendente.
 - Solicitar à CBF discriminação da parcela dos R$ 215 milhões de 2026 diretamente relacionada a contratos com a Brax.
-- Atualizar o status jurídico da MP e das ADIs no STF antes da publicação.
+- Acompanhar a atualização do status jurídico da MP e das ADIs no STF e publicar eventuais correções ou desdobramentos relevantes.
+
+
+## Publicação confirmada
+- **Data:** 06/11/2026.
+- **URL pública:** https://fla10.news/noticias/o-dinheiro-das-apostas-e-os-riscos-para-as-receitas-do-futebol-brasileiro
+- **Confirmação:** enviada explicitamente pelo editor.
+- **Estado:** publicada; acompanhamento de respostas e desdobramentos permanece aberto.
