@@ -2272,3 +2272,13 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 - **Projeções a atribuir às fontes:** déficit de R$ 40 milhões em 2026 e captação de 40–45 milhões de euros em vendas de atletas em 2027. Não apresentar projeções como resultados realizados.
 - **Checagens obrigatórias:** confirmar período, base e natureza de cada indicador; atribuir as projeções; não inferir crise de caixa apenas a partir do déficit projetado; distinguir orçamento, resultado contábil e fluxo de caixa.
 
+
+
+## Publicação confirmada — Data Fifa e recuperação física do Flamengo (06/11/2026)
+
+### Data Fifa chega em momento decisivo para recuperação física do Flamengo
+- **Estado:** publicada em 06/11/2026, conforme confirmação explícita do editor.
+- **URL pública:** https://fla10.news/noticias/data-fifa-chega-em-momento-decisivo-para-recuperacao-fisica-do-flamengo
+- **Formato:** reportagem Fla10 — contexto, gestão física e preparação do elenco.
+- **Ângulo:** recuperação de jogadores no departamento médico, controle de sobrecarga, convocações e preparação para a sequência contra Athletico-PR e Palmeiras.
+- **Registro editorial:** pauta encerrada e retirada das pendências de produção. Ficha editorial criada em [[2026-11-06 - Data Fifa chega em momento decisivo para recuperação física do Flamengo]].

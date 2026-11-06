@@ -934,3 +934,11 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - Criada a ficha editorial `06 - Pautas/2026-11-05 - Raio-X Tático - Flamengo x Grêmio.md`, com metadados, recorte tático, contexto da partida, elementos visuais e estado de publicação.
 - Atualizado o Painel de Pautas para registrar a publicação e preservar o vínculo com a ficha.
 - Alterações documentais realizadas no GitHub. A sincronização do vault local não foi verificada; o conteúdo publicado no site não foi alterado por esta operação.
+
+
+## 2026-11-06 — Publicação confirmada: Data Fifa e recuperação física do Flamengo
+- O editor confirmou a publicação de **“Data Fifa chega em momento decisivo para recuperação física do Flamengo”**.
+- **URL pública:** https://fla10.news/noticias/data-fifa-chega-em-momento-decisivo-para-recuperacao-fisica-do-flamengo
+- Criada a ficha editorial `06 - Pautas/2026-11-06 - Data Fifa chega em momento decisivo para recuperação física do Flamengo.md`, com síntese, fatos centrais, ressalvas de integridade factual e fontes de apuração.
+- Atualizado o Painel de Pautas para encerrar a pauta e registrar a publicação.
+- Alterações documentais realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.
