@@ -974,3 +974,11 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - Incluída na mesma agenda uma matéria da seção **Flamengo na História**, com pauta e recorte histórico ainda a definir; a produção depende da escolha e validação do tema.
 - Atualizado o Painel de Pautas no GitHub, branch `main`.
 - A sincronização do vault local do Obsidian não foi verificada.
+
+
+## 2026-11-07 — Publicação de Flamengo x Vasco Sub-20 (Onde Assistir)
+- O editor confirmou a publicação da matéria **“Flamengo x Vasco: onde assistir ao vivo, horário e informações da semifinal do Carioca Sub-20”**.
+- URL: https://fla10.news/noticias/flamengo-x-vasco-onde-assistir-ao-vivo-horario-e-informacoes-da-semifinal-do-carioca-sub-20
+- Atualizada a ficha editorial com status `publicada` e `publicacao_confirmada: true`.
+- Atualizado o Painel de Pautas para registrar a publicação e encerrar a pauta.
+- Alterações realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.
