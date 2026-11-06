@@ -2253,3 +2253,14 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 - **Contexto coletivo:** Pedro e Samuel Lino somam 47 participações diretas nos 71 gols do Flamengo no Brasileirão, segundo levantamento do UOL.
 - **Arquivo de produção:** WritingBlock ID 58317.
 - **Registro editorial:** pauta encerrada e incluída no histórico de publicações.
+
+## Publicação confirmada — Sancor Londrina x Sesc RJ Flamengo (05/11/2026)
+
+- **Estado:** publicada em 05/11/2026, conforme confirmação explícita do editor.
+- **Título:** *Sancor Londrina x Sesc RJ Flamengo: onde assistir ao vivo, horário e informações da partida pela Superliga*.
+- **URL pública:** https://fla10.news/noticias/sancor-londrina-x-sesc-rj-flamengo-onde-assistir-ao-vivo-horario-e-informacoes-da-partida-pela-superliga
+- **Formato:** serviço de jogo — Onde Assistir.
+- **Partida:** Sancor Londrina x Sesc RJ Flamengo, sexta-feira, 06/11/2026, às 18h30, no Ginásio Moringão, em Londrina (PR), pela quarta rodada da Superliga Feminina 2026/2027.
+- **Transmissão:** ge tv.
+- **Contexto:** Sesc RJ Flamengo chega com três vitórias em três jogos, todas por 3 sets a 0, e busca recuperar a liderança da competição.
+- **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações.
