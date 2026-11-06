@@ -2277,6 +2277,18 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 - **Formato:** matéria da seção Flamengo na História.
 - **Próxima etapa:** selecionar um episódio/personagem/marco histórico, delimitar a pergunta editorial e validar datas, documentos e fontes antes da produção.
 
+### Reportagem Fla10 — Oito jogadores do Flamengo estão pendurados antes de confronto decisivo com o Palmeiras
+- **Estado:** incluída na agenda de 07/11/2026 por solicitação do editor; apuração e produção pendentes.
+- **Formato:** notícia de contexto / serviço de cenário disciplinar para a reta final do Brasileirão.
+- **Ângulo:** oito jogadores do Flamengo têm dois cartões amarelos e podem desfalcar a equipe contra o Palmeiras caso recebam novo amarelo diante do Athletico-PR. O foco é o impacto potencial das suspensões no confronto direto que pode ser decisivo para o título.
+- **Lista divulgada:** Léo Pereira, Alex Sandro, Erick Pulgar, Arrascaeta, Pedro, Bruno Henrique, Luiz Araújo e Vitão. Cinco são apontados como titulares habituais; Bruno Henrique, Luiz Araújo e Vitão aparecem como opções de banco.
+- **Calendário informado:** Flamengo x Athletico-PR em 18/11/2026, no Maracanã; Palmeiras x Flamengo em 21/11/2026, em São Paulo. Confirmar data, horário, estádio e mando nos canais oficiais antes da publicação.
+- **Contexto de comissão técnica:** Leonardo Jardim declarou que não pretende poupar jogadores contra o Athletico-PR apenas para evitar suspensões; atribuir a decisão e as declarações ao treinador, sem apresentar interpretação como fato.
+- **Checagens obrigatórias:** confirmar a lista atualizada de pendurados na véspera e no dia da partida; conferir súmulas e cartões acumulados; verificar o regulamento disciplinar aplicável; atualizar calendário oficial; distinguir titularidade habitual de escalação confirmada; não afirmar que o jogo contra o Palmeiras decidirá matematicamente o campeonato sem conferir a tabela e os cenários vigentes.
+- **Fontes iniciais:** ge, 06/11/2026 — https://ge.globo.com/google/amp/futebol/times/flamengo/noticia/2026/11/06/flamengo-define-planejamento-e-jardim-pretende-usar-pendurados-antes-do-jogo-contra-palmeiras.ghtml ; Lance!, 05/11/2026 — https://www.lance.com.br/flamengo/jardim-descarta-poupar-jogadores-no-flamengo-e-explica-situacao-dos-oito-pendurados.html ; Diário do Rio, 06/11/2026 — https://diariodorio.com/esporte/2026/11/06/flamengo-tem-8-pendurados-que-podem-ficar-fora-de-final-contra-o-palmeiras-veja-lista.html .
+- **Ficha editorial:** [[2026-11-07 - Oito jogadores pendurados antes de Flamengo x Palmeiras]].
+
+
 
 
 ## Publicação confirmada — Data Fifa e recuperação física do Flamengo (06/11/2026)
