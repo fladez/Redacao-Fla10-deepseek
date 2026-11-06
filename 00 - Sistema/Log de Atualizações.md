@@ -942,3 +942,10 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - Criada a ficha editorial `06 - Pautas/2026-11-06 - Data Fifa chega em momento decisivo para recuperação física do Flamengo.md`, com síntese, fatos centrais, ressalvas de integridade factual e fontes de apuração.
 - Atualizado o Painel de Pautas para encerrar a pauta e registrar a publicação.
 - Alterações documentais realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.
+
+
+## 2026-11-06 — Transferência de pauta financeira para 7 de novembro
+- Por solicitação do editor, a reportagem **“Finanças do Flamengo: superávit até setembro, déficit projetado em 2026 e vendas de atletas em 2027”** foi retirada da agenda de 06/11 e transferida para sábado, 07/11/2026.
+- Mantidos o status **aprovada / pendente de apuração e produção** e o recorte econômico já definido; a mudança é somente de programação.
+- Atualizado o Painel de Pautas no GitHub, branch `main`.
+- A sincronização do vault local do Obsidian não foi verificada.
