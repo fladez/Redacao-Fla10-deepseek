@@ -2284,15 +2284,14 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 - **Registro editorial:** pauta encerrada e retirada das pendências de produção. Ficha editorial criada em [[2026-11-06 - Data Fifa chega em momento decisivo para recuperação física do Flamengo]].
 
 
-## Rascunho criado — O dinheiro das apostas e os riscos para as receitas do futebol brasileiro (06/11/2026)
+## Publicação confirmada — O dinheiro das apostas e os riscos para as receitas do futebol brasileiro (06/11/2026)
 
-- **Estado:** rascunho produzido; pendente de revisão editorial e complementação das respostas dos envolvidos. Não publicado.
+- **Estado:** publicada em 06/11/2026, conforme confirmação explícita do editor.
 - **Título:** *O dinheiro das apostas e os riscos para as receitas do futebol brasileiro*.
-- **Subtítulo:** Crise nos repasses da Brax expõe a dependência comercial dos clubes em relação às casas de apostas; Flamengo renegociou contrato de R$ 66 milhões, mas não registra atraso no novo cronograma.
+- **URL pública:** https://fla10.news/noticias/o-dinheiro-das-apostas-e-os-riscos-para-as-receitas-do-futebol-brasileiro
 - **Formato:** reportagem Fla10 — economia do futebol.
-- **Ângulo:** investigar os atrasos de repasses atribuídos à Brax, a exposição dos clubes e da CBF, os efeitos da MP 1.394/2026 e a situação contratual específica do Flamengo.
-- **Conclusão factual provisória:** há relatos de atrasos da Brax à FFU e à CBF e em contrato individual com o Botafogo. O Flamengo renegociou o cronograma de um contrato de R$ 66 milhões e, segundo a informação publicada em 06/11, não tinha atraso no novo parcelamento.
-- **Cautela central:** os atrasos de setembro e outubro teriam começado antes da publicação da MP em 25/09/2026. Não atribuir toda a inadimplência exclusivamente à medida. A estimativa de R$ 215 milhões da CBF para 2026 e a projeção de R$ 420 milhões para 2027 abrangem diferentes propriedades comerciais e não podem ser atribuídas integralmente à Brax.
-- **Pendências antes da publicação:** obter posicionamentos da Brax, FFU, Flamengo e CBF; confirmar valores em atraso, garantias, calendário de quitação e situação atual da MP/ADIs.
-- **Pacote SEO:** palavra-chave principal “Brax”; secundárias “bets no futebol brasileiro”, “Flamengo contrato Brax”, “atrasos da Brax”, “receitas dos clubes”.
-- **Ficha completa, texto e fontes:** [[2026-11-06 - O dinheiro das apostas e os riscos para as receitas do futebol brasileiro]].
+- **Ângulo:** atrasos de repasses atribuídos à Brax, dependência comercial das casas de apostas, efeitos da MP 1.394/2026, impactos para a CBF e situação contratual específica do Flamengo.
+- **Conclusão factual central:** há relatos de atrasos da Brax à FFU e à CBF e em contrato individual com o Botafogo. O Flamengo renegociou o cronograma de um contrato de R$ 66 milhões e, segundo a informação publicada em 06/11, não tinha atraso no novo parcelamento.
+- **Cautela central:** os atrasos de setembro e outubro teriam começado antes da publicação da MP em 25/09/2026. Não atribuir toda a inadimplência exclusivamente à medida. As estimativas da CBF e do Flamengo têm escopos diferentes e não devem ser somadas nem atribuídas integralmente à Brax.
+- **Acompanhamento pós-publicação:** obter respostas da Brax, FFU, Flamengo e CBF; confirmar valores em atraso, garantias e calendário de quitação; acompanhar a situação jurídica da MP e das ADIs.
+- **Ficha completa, texto, fontes e histórico:** [[2026-11-06 - O dinheiro das apostas e os riscos para as receitas do futebol brasileiro]].
