@@ -2269,10 +2269,12 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 - **Projeções a atribuir às fontes:** déficit de R$ 40 milhões em 2026 e captação de 40–45 milhões de euros em vendas de atletas em 2027. Não apresentar projeções como resultados realizados.
 - **Checagens obrigatórias:** confirmar período, base e natureza de cada indicador; atribuir as projeções; não inferir crise de caixa apenas a partir do déficit projetado; distinguir orçamento, resultado contábil e fluxo de caixa.
 
-### Flamengo na História — pauta a definir
-- **Estado:** incluída na agenda de 07/11/2026 por decisão do editor; tema e recorte histórico ainda não definidos.
-- **Formato:** matéria da seção Flamengo na História.
-- **Próxima etapa:** selecionar um episódio/personagem/marco histórico, delimitar a pergunta editorial e validar datas, documentos e fontes antes da produção.
+### Flamengo na História — 1912: Quando o Flamengo entrou em campo pela primeira vez
+- **Estado:** pauta definida pelo editor em 07/11/2026; pesquisa e apuração realizadas; redação final pendente.
+- **Formato:** reportagem histórica da seção Flamengo na História.
+- **Pergunta central:** como um clube criado para o remo incorporou o futebol em 1911 e chegou à primeira partida oficial em maio de 1912?
+- **Ficha completa:** ver a seção “Pauta de 07/11/2026 — 1912: Quando o Flamengo entrou em campo pela primeira vez” e a auditoria complementar neste painel.
+- **Próxima etapa:** revisão editorial das evidências e redação final, seguindo as diretrizes de produção Fla10.
 
 ### Reportagem Fla10 — Oito jogadores do Flamengo estão pendurados antes de confronto decisivo com o Palmeiras
 - **Estado:** incluída na agenda de 07/11/2026 por solicitação do editor; apuração e produção pendentes.
