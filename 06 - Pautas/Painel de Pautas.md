@@ -2361,3 +2361,54 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 - **Destaques:** Tainara foi a maior pontuadora, com 18 pontos, e recebeu o Troféu VivaVôlei; Simone Lee marcou 15.
 - **Resultado esportivo:** quarta vitória em quatro jogos, todas por 3 sets a 0; Flamengo chegou a 12 pontos e reassumiu a liderança conforme classificação divulgada após a rodada.
 - **Registro editorial:** publicação confirmada pelo editor; pauta de pós-jogo encerrada e incluída no histórico de publicações.
+
+
+## Série editorial — Flamengo na História (sábados)
+
+**Estado:** série aprovada pelo editor em 07/11/2026. Publicar uma pauta por sábado, na ordem abaixo. O tema do Fla-Flu de 1963 foi excluído porque já está publicado.
+
+| Data | Pauta | Estado |
+|---|---|---|
+| 07/11/2026 | 1912: Quando o Flamengo entrou em campo pela primeira vez | Em apuração/produção |
+| 14/11/2026 | 1914: O primeiro título estadual que começou a construir a grandeza do Flamengo | Programada |
+| 21/11/2026 | Leônidas da Silva: o Diamante Negro que ajudou a transformar o Flamengo | Programada |
+| 28/11/2026 | 1953–1955: O primeiro tricampeonato — como o Flamengo dominou o Rio | Programada |
+| 05/12/2026 | Como o Flamengo se tornou o clube de uma Nação | Programada |
+| 12/12/2026 | 1992: A conquista brasileira que marcou a despedida de uma geração | Programada |
+| 19/12/2026 | 1995: Romário, Sávio e Edmundo — o time dos sonhos que não conquistou o mundo | Programada |
+| 26/12/2026 | 2001: O gol de Petkovic que virou patrimônio da memória rubro-negra | Programada |
+| 02/01/2027 | 2009: A arrancada histórica que devolveu o Flamengo ao topo do Brasil | Programada |
+| 09/01/2027 | 23 de novembro de 2019: os minutos que mudaram a história recente do Flamengo | Programada |
+| 16/01/2027 | 2022: O Flamengo de Dorival e a conquista da América em Guayaquil | Programada |
+
+**Regra:** manter a ordem e as datas; qualquer mudança deve ser decidida pelo editor. Não reintroduzir o Fla-Flu de 1963 nesta série.
+
+### Pauta de 07/11/2026 — 1912: Quando o Flamengo entrou em campo pela primeira vez
+
+- **Estado:** pesquisa e apuração realizadas; redação final ainda não iniciada.
+- **Formato:** Flamengo na História — reportagem histórica narrativa, com cronologia, contexto institucional, personagens e memória material.
+- **Pergunta central:** como um clube criado para o remo decidiu incorporar o futebol em 1911 e chegou à sua primeira partida oficial em maio de 1912?
+- **Tese de trabalho:** a estreia de 1912 não foi um episódio isolado; foi o primeiro capítulo esportivo de uma transformação institucional que incorporou o futebol à identidade do Flamengo, sem apagar sua origem no remo.
+- **Data da criação do Departamento de Esportes Terrestres:** 24/12/1911, em assembleia extraordinária, conforme a linha do tempo do Museu Flamengo.
+- **Contexto da criação:** dissidência de jogadores do Fluminense em 1911, após divergência interna; Alberto Borgerth, remador do Flamengo e praticante de futebol, articulou a proposta de levar a modalidade ao clube.
+- **Pioneiros:** fontes históricas consultadas citam o grupo de nove dissidentes e destacam Alberto Borgerth. A lista nominal encontrada em retrospectiva do ge inclui Alberto Borgerth, Armando de Almeida, Emmanuel Nery, Ernesto Amarante, Gustavo de Carvalho, Lawrence Andrews, Orlando Sampaio Mattos, Othon Baena de Figueiredo e Píndaro de Carvalho. Confirmar a grafia dos nomes em documentação primária antes de apresentar a lista como definitiva.
+- **Estreia:** 03/05/1912, contra o Sport Club Mangueira, no campo do America, na Rua Campos Sales, Tijuca.
+- **Placar auditado:** adotar Flamengo 15 x 2 Mangueira. O Museu Flamengo e a retrospectiva do ge publicada em 15/11/2025 registram 15 a 2. Uma nota antiga do ge, de 2013, publicou 16 a 2, mas a própria relação de goleadores nela listada soma 15 gols rubro-negros. Não reproduzir 16 a 2; registrar a divergência apenas no dossiê de apuração, se necessário.
+- **Primeiro gol:** Gustavo de Carvalho, antes de completar o primeiro minuto, segundo o Museu Flamengo.
+- **Uniforme:** camisa quadriculada em vermelho e preto, conhecida como “Papagaio de Vintém”. O apelido fazia referência às pipas baratas; a escolha do padrão quadriculado também diferenciava o futebol do uniforme do remo.
+- **Conflito visual na estreia:** o Mangueira também utilizava combinação rubro-negra em listras verticais, o que provocou confusão visual; o Museu Flamengo registra que em partidas posteriores houve ocasiões em que uma das equipes vestiu branco por acordo.
+- **Primeiro título da história do futebol rubro-negro:** Campeonato Carioca dos Segundos Quadros, em 1912, conquistado ainda com a camisa Papagaio de Vintém. Não confundir com o primeiro Campeonato Carioca do time principal, conquistado em 1914.
+- **Importância do campo:** o Flamengo ainda não tinha estádio próprio; estreou no campo do America. Em 04/06/1916 inauguraria sua praça de esportes na Rua Paysandu, dado que pode entrar como desdobramento breve, sem desviar o foco da estreia.
+- **Primeiro time / escalação:** Flaestatística apresenta Baena; Píndaro e Nery; Curiol, Gilberto e Galo; Baiano, Arnaldo, Amarante, Gustavo de Carvalho e Borgerth. Tratar como escalação atribuída à fonte especializada, não como dado confirmado por súmula primária até localizar documento contemporâneo.
+- **Cuidado cronológico:** a seção de futebol foi criada em 1911; a primeira partida aconteceu em 1912. Não dizer que o Flamengo foi fundado em 1912 nem que nasceu como clube de futebol.
+- **Recorte recomendado:** abrir com a manhã/tarde da estreia e o gol de Gustavo; recuar à assembleia de 24/12/1911 e à chegada dos dissidentes; explicar o uniforme Papagaio de Vintém e a falta de estádio; retornar à goleada e fechar mostrando como o futebol começou a dividir espaço com o remo e a conquistar identidade própria.
+- **Evitar:** transformar a matéria em história geral da fundação de 1895; exagerar o simbolismo da goleada como se já anunciasse a grandeza futura; confundir o título dos segundos quadros de 1912 com o Carioca principal de 1914; usar 16 a 2; inventar público, condições climáticas, renda ou declarações.
+- **Fontes principais consultadas:**
+  1. Museu Flamengo, “Manto Sagrado — História”: https://www.museuflamengo.com.br/manto-sagrado-historia — criação do Departamento de Esportes Terrestres, estreia, placar 15 x 2, gol de Gustavo, uniforme Papagaio de Vintém, título dos segundos quadros e evolução dos uniformes.
+  2. Museu Flamengo, “Linha do Tempo do Futebol”: https://www.museuflamengo.com/LinhaTempoFutebol/linhaTempoFutebol.html — assembleia de 24/12/1911, dissidência no Fluminense e articulação de Alberto Borgerth.
+  3. ge, “130 anos em 13 atos: os fatos que marcaram cada década do Flamengo”, 15/11/2025: https://ge.globo.com/futebol/times/flamengo/noticia/2025/11/15/130-anos-em-13-atos-os-fatos-que-marcaram-cada-decada-do-flamengo.ghtml — confirma 3/5/1912, campo da Rua Campos Sales e placar 15 x 2.
+  4. Flaestatística, “1912 a 1933 — Do Início do Futebol ao Fim do Amadorismo”: https://www.flaestatistica.com.br/historia-ano-a-ano/parte-02-1912-a-1933-do-inicio-do-futebol-ao-fim-do-amadorismo — escalação atribuída, narrativa do jogo e contexto da primeira temporada; fonte especializada independente, a ser confrontada com imprensa da época.
+  5. Museu do Futebol, Centro de Referência do Futebol Brasileiro, registro bibliográfico de “Viagem a 1912: surge o futebol do Flamengo”: https://museudofutebol.org.br/crfb/acervo/530515/ — livro de Maurício Neves, 223 páginas, dedicado ao ano de 1912 e aos primeiros jogos.
+  6. UNESP, tese de Flávio Ismael da Silva Oliveira, 2014: https://www.gov.br/mds/pt-br/acoes-e-programas/outros/programa-academia-futebol/teses-e-dissertacoes/o-camisa-10-em-campo-elementos-do-processo-de-flavio-ismael-da-silva-oliveira.pdf — pesquisa acadêmica que cita divergência bibliográfica entre 15 x 2 e 16 x 2 e sustenta a necessidade de crítica das fontes.
+- **Lacunas para fechar antes da redação final:** localizar registros da imprensa carioca de 03 a 05/05/1912 na Hemeroteca Digital da Biblioteca Nacional; conferir grafia e autoria dos gols; confirmar escalação e condição de partida oficial; buscar imagem histórica licenciável do primeiro uniforme/time.
+- **Controle editorial:** manter distinção entre fatos documentados, dados atribuídos a fontes secundárias e interpretação narrativa. A pesquisa não autoriza inventar cenas, diálogos ou reações de torcedores.
