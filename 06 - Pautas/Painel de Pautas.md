@@ -2372,7 +2372,7 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 | 07/11/2026 | 1912: Quando o Flamengo entrou em campo pela primeira vez | Em apuração/produção |
 | 14/11/2026 | 1914: O primeiro título estadual que começou a construir a grandeza do Flamengo | Programada |
 | 21/11/2026 | Leônidas da Silva: o Diamante Negro que ajudou a transformar o Flamengo | Programada |
-| 28/11/2026 | 1953–1955: O primeiro tricampeonato — como o Flamengo dominou o Rio | Programada |
+| 28/11/2026 | 1953–1955: O segundo tricampeonato carioca — como o Flamengo voltou a dominar o Rio | Programada |
 | 05/12/2026 | Como o Flamengo se tornou o clube de uma Nação | Programada |
 | 12/12/2026 | 1992: A conquista brasileira que marcou a despedida de uma geração | Programada |
 | 19/12/2026 | 1995: Romário, Sávio e Edmundo — o time dos sonhos que não conquistou o mundo | Programada |
@@ -2430,3 +2430,7 @@ A apuração localizou evidência histórica mais forte para resolver a divergê
   - Futebol80, ficha técnica Flamengo 15 x 2 Mangueira: https://futebol80.com.br/links/times/flamengo/flamengoft.htm — placar, campeonato, local, árbitro, gols e escalações.
   - Lance!, 05/09/2025: https://www.lance.com.br/lancepedia/primeiro-jogo-oficial-do-flamengo.html — confirma a estreia e o placar 15 x 2, mas apresenta 08/11/1911 para a criação do departamento, divergindo da cronologia do Museu Flamengo.
 - **Lacuna documental remanescente:** a errata de 05/05/1912 foi localizada por reprodução e transcrição em pesquisa publicada em 2021; ainda não foi aberto nesta apuração o fac-símile original do Jornal do Commercio. A redação pode atribuir a descoberta e a transcrição ao pesquisador/jornalista, sem afirmar que consultamos diretamente a página original.
+
+
+### Correção factual da pauta de 28/11/2026 — 07/11/2026
+A pauta de 1953–1955 não deve ser chamada de primeiro tricampeonato carioca do Flamengo. O primeiro tricampeonato estadual foi conquistado em 1942, 1943 e 1944. A sequência de 1953, 1954 e 1955 foi o segundo tricampeonato carioca do clube. Título e descrição da agenda corrigidos para refletir essa cronologia.
