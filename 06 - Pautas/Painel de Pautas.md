@@ -2367,72 +2367,36 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 
 ## Série editorial — Flamengo na História (sábados)
 
-**Estado:** série aprovada pelo editor em 07/11/2026. Publicar uma pauta por sábado, na ordem abaixo. O tema do Fla-Flu de 1963 foi excluído porque já está publicado.
+**Estado:** programação corrigida em 07/11/2026 por orientação do editor. A pauta de 1912 já foi publicada e sai da fila de produção. O tema escolhido para a edição de hoje é 1914. Publicar uma pauta por sábado, na ordem abaixo. O Fla-Flu de 1963 permanece excluído por já ter sido publicado.
 
 | Data | Pauta | Estado |
 |---|---|---|
-| 07/11/2026 | 1912: Quando o Flamengo entrou em campo pela primeira vez | Em apuração/produção |
-| 14/11/2026 | 1914: O primeiro título estadual que começou a construir a grandeza do Flamengo | Programada |
-| 21/11/2026 | Leônidas da Silva: o Diamante Negro que ajudou a transformar o Flamengo | Programada |
-| 28/11/2026 | 1953–1955: O segundo tricampeonato carioca — como o Flamengo voltou a dominar o Rio | Programada |
-| 05/12/2026 | Como o Flamengo se tornou o clube de uma Nação | Programada |
-| 12/12/2026 | 1992: A conquista brasileira que marcou a despedida de uma geração | Programada |
-| 19/12/2026 | 1995: Romário, Sávio e Edmundo — o time dos sonhos que não conquistou o mundo | Programada |
-| 26/12/2026 | 2001: O gol de Petkovic que virou patrimônio da memória rubro-negra | Programada |
-| 02/01/2027 | 2009: A arrancada histórica que devolveu o Flamengo ao topo do Brasil | Programada |
-| 09/01/2027 | 23 de novembro de 2019: os minutos que mudaram a história recente do Flamengo | Programada |
-| 16/01/2027 | 2022: O Flamengo de Dorival e a conquista da América em Guayaquil | Programada |
+| 07/11/2026 | 1914: O primeiro título estadual que começou a construir a grandeza do Flamengo | **Pauta de hoje — em apuração** |
+| 14/11/2026 | Leônidas da Silva: o Diamante Negro que ajudou a transformar o Flamengo | Programada |
+| 21/11/2026 | 1953–1955: O segundo tricampeonato carioca — como o Flamengo voltou a dominar o Rio | Programada |
+| 28/11/2026 | Como o Flamengo se tornou o clube de uma Nação | Programada |
+| 05/12/2026 | 1992: A conquista brasileira que marcou a despedida de uma geração | Programada |
+| 12/12/2026 | 1995: Romário, Sávio e Edmundo — o time dos sonhos que não conquistou o mundo | Programada |
+| 19/12/2026 | 2001: O gol de Petkovic que virou patrimônio da memória rubro-negra | Programada |
+| 26/12/2026 | 2009: A arrancada histórica que devolveu o Flamengo ao topo do Brasil | Programada |
+| 02/01/2027 | 23 de novembro de 2019: os minutos que mudaram a história recente do Flamengo | Programada |
+| 09/01/2027 | 2022: O Flamengo de Dorival e a conquista da América em Guayaquil | Programada |
 
-**Regra:** manter a ordem e as datas; qualquer mudança deve ser decidida pelo editor. Não reintroduzir o Fla-Flu de 1963 nesta série.
+**Histórico:** “1912: Quando o Flamengo entrou em campo pela primeira vez” — publicada antes da programação desta série, conforme confirmação do editor em 07/11/2026. Não agendar novamente. O Fla-Flu de 1963 também está publicado e permanece fora da sequência.
 
-### Pauta de 07/11/2026 — 1912: Quando o Flamengo entrou em campo pela primeira vez
+### Pauta de 07/11/2026 — 1914: O primeiro título estadual do Flamengo
 
-- **Estado:** pesquisa e apuração realizadas; redação final ainda não iniciada.
-- **Formato:** Flamengo na História — reportagem histórica narrativa, com cronologia, contexto institucional, personagens e memória material.
-- **Pergunta central:** como um clube criado para o remo decidiu incorporar o futebol em 1911 e chegou à sua primeira partida oficial em maio de 1912?
-- **Tese de trabalho:** a estreia de 1912 não foi um episódio isolado; foi o primeiro capítulo esportivo de uma transformação institucional que incorporou o futebol à identidade do Flamengo, sem apagar sua origem no remo.
-- **Data da criação do Departamento de Esportes Terrestres:** 24/12/1911, em assembleia extraordinária, conforme a linha do tempo do Museu Flamengo.
-- **Contexto da criação:** dissidência de jogadores do Fluminense em 1911, após divergência interna; Alberto Borgerth, remador do Flamengo e praticante de futebol, articulou a proposta de levar a modalidade ao clube.
-- **Pioneiros:** fontes históricas consultadas citam o grupo de nove dissidentes e destacam Alberto Borgerth. A lista nominal encontrada em retrospectiva do ge inclui Alberto Borgerth, Armando de Almeida, Emmanuel Nery, Ernesto Amarante, Gustavo de Carvalho, Lawrence Andrews, Orlando Sampaio Mattos, Othon Baena de Figueiredo e Píndaro de Carvalho. Confirmar a grafia dos nomes em documentação primária antes de apresentar a lista como definitiva.
-- **Estreia:** 03/05/1912, contra o Sport Club Mangueira, no campo do America, na Rua Campos Sales, Tijuca.
-- **Placar auditado:** adotar Flamengo 15 x 2 Mangueira. O Museu Flamengo e a retrospectiva do ge publicada em 15/11/2025 registram 15 a 2. Uma nota antiga do ge, de 2013, publicou 16 a 2, mas a própria relação de goleadores nela listada soma 15 gols rubro-negros. Não reproduzir 16 a 2; registrar a divergência apenas no dossiê de apuração, se necessário.
-- **Primeiro gol:** Gustavo de Carvalho, antes de completar o primeiro minuto, segundo o Museu Flamengo.
-- **Uniforme:** camisa quadriculada em vermelho e preto, conhecida como “Papagaio de Vintém”. O apelido fazia referência às pipas baratas; a escolha do padrão quadriculado também diferenciava o futebol do uniforme do remo.
-- **Conflito visual na estreia:** o Mangueira também utilizava combinação rubro-negra em listras verticais, o que provocou confusão visual; o Museu Flamengo registra que em partidas posteriores houve ocasiões em que uma das equipes vestiu branco por acordo.
-- **Primeiro título da história do futebol rubro-negro:** Campeonato Carioca dos Segundos Quadros, em 1912, conquistado ainda com a camisa Papagaio de Vintém. Não confundir com o primeiro Campeonato Carioca do time principal, conquistado em 1914.
-- **Importância do campo:** o Flamengo ainda não tinha estádio próprio; estreou no campo do America. Em 04/06/1916 inauguraria sua praça de esportes na Rua Paysandu, dado que pode entrar como desdobramento breve, sem desviar o foco da estreia.
-- **Primeiro time / escalação:** Flaestatística apresenta Baena; Píndaro e Nery; Curiol, Gilberto e Galo; Baiano, Arnaldo, Amarante, Gustavo de Carvalho e Borgerth. Tratar como escalação atribuída à fonte especializada, não como dado confirmado por súmula primária até localizar documento contemporâneo.
-- **Cuidado cronológico:** a seção de futebol foi criada em 1911; a primeira partida aconteceu em 1912. Não dizer que o Flamengo foi fundado em 1912 nem que nasceu como clube de futebol.
-- **Recorte recomendado:** abrir com a manhã/tarde da estreia e o gol de Gustavo; recuar à assembleia de 24/12/1911 e à chegada dos dissidentes; explicar o uniforme Papagaio de Vintém e a falta de estádio; retornar à goleada e fechar mostrando como o futebol começou a dividir espaço com o remo e a conquistar identidade própria.
-- **Evitar:** transformar a matéria em história geral da fundação de 1895; exagerar o simbolismo da goleada como se já anunciasse a grandeza futura; confundir o título dos segundos quadros de 1912 com o Carioca principal de 1914; usar 16 a 2; inventar público, condições climáticas, renda ou declarações.
-- **Fontes principais consultadas:**
-  1. Museu Flamengo, “Manto Sagrado — História”: https://www.museuflamengo.com.br/manto-sagrado-historia — criação do Departamento de Esportes Terrestres, estreia, placar 15 x 2, gol de Gustavo, uniforme Papagaio de Vintém, título dos segundos quadros e evolução dos uniformes.
-  2. Museu Flamengo, “Linha do Tempo do Futebol”: https://www.museuflamengo.com/LinhaTempoFutebol/linhaTempoFutebol.html — assembleia de 24/12/1911, dissidência no Fluminense e articulação de Alberto Borgerth.
-  3. ge, “130 anos em 13 atos: os fatos que marcaram cada década do Flamengo”, 15/11/2025: https://ge.globo.com/futebol/times/flamengo/noticia/2025/11/15/130-anos-em-13-atos-os-fatos-que-marcaram-cada-decada-do-flamengo.ghtml — confirma 3/5/1912, campo da Rua Campos Sales e placar 15 x 2.
-  4. Flaestatística, “1912 a 1933 — Do Início do Futebol ao Fim do Amadorismo”: https://www.flaestatistica.com.br/historia-ano-a-ano/parte-02-1912-a-1933-do-inicio-do-futebol-ao-fim-do-amadorismo — escalação atribuída, narrativa do jogo e contexto da primeira temporada; fonte especializada independente, a ser confrontada com imprensa da época.
-  5. Museu do Futebol, Centro de Referência do Futebol Brasileiro, registro bibliográfico de “Viagem a 1912: surge o futebol do Flamengo”: https://museudofutebol.org.br/crfb/acervo/530515/ — livro de Maurício Neves, 223 páginas, dedicado ao ano de 1912 e aos primeiros jogos.
-  6. UNESP, tese de Flávio Ismael da Silva Oliveira, 2014: https://www.gov.br/mds/pt-br/acoes-e-programas/outros/programa-academia-futebol/teses-e-dissertacoes/o-camisa-10-em-campo-elementos-do-processo-de-flavio-ismael-da-silva-oliveira.pdf — pesquisa acadêmica que cita divergência bibliográfica entre 15 x 2 e 16 x 2 e sustenta a necessidade de crítica das fontes.
-- **Lacunas para fechar antes da redação final:** localizar registros da imprensa carioca de 03 a 05/05/1912 na Hemeroteca Digital da Biblioteca Nacional; conferir grafia e autoria dos gols; confirmar escalação e condição de partida oficial; buscar imagem histórica licenciável do primeiro uniforme/time.
-- **Controle editorial:** manter distinção entre fatos documentados, dados atribuídos a fontes secundárias e interpretação narrativa. A pesquisa não autoriza inventar cenas, diálogos ou reações de torcedores.
+- **Estado:** pauta escolhida pelo editor; pesquisa e apuração em andamento.
+- **Formato:** Flamengo na História — reportagem histórica narrativa.
+- **Pergunta central:** como o Flamengo conquistou seu primeiro Campeonato Carioca em 1914, apenas dois anos depois de estrear no futebol, e o que essa vitória representou para a consolidação do departamento?
+- **Tese de trabalho:** o título de 1914 foi a primeira grande afirmação competitiva da equipe principal do Flamengo no futebol carioca; a conquista consolidou a modalidade no clube, mas deve ser explicada dentro do contexto de uma equipe ainda em formação, sem transformar o campeonato em mito fundador isolado.
+- **Recorte:** campanha do Campeonato Carioca de 1914, protagonistas, partidas decisivas e a vitória sobre o Fluminense que assegurou o título. Distinguir o campeonato principal do título dos Segundos Quadros conquistado em 1912.
+- **Checagens obrigatórias antes da redação:** confirmar regulamento e formato da competição; tabela completa e resultados da campanha; data e placar do jogo decisivo; escalações e autores dos gols em fontes históricas; classificação final e eventual necessidade de desempate; nome correto do campo/estádio e público somente se documentados.
+- **Cuidado editorial:** não confundir o primeiro título estadual do time principal com o primeiro título futebolístico do clube; não afirmar que a final foi uma “decisão” em jogo único se a competição foi disputada em pontos corridos/turno; evitar anacronismos sobre profissionalismo, rivalidade e estrutura do futebol.
+- **Fontes e evidências:** registrar abaixo, com URL e data de publicação, as fontes efetivamente abertas e as divergências encontradas. Dar prioridade a imprensa da época, acervos digitalizados e documentação do Museu Flamengo; usar retrospectivas modernas como apoio, não como substitutas de fontes primárias.
 
+### Pauta publicada — 1912: Quando o Flamengo entrou em campo pela primeira vez
 
-### Auditoria complementar da estreia de 1912 — atualização de 07/11/2026
+- **Estado:** publicada, conforme confirmação do editor em 07/11/2026.
+- **Ação de agenda:** removida da fila futura da série; preservada aqui apenas como histórico. Não produzir novamente.
 
-A apuração localizou evidência histórica mais forte para resolver a divergência do placar e detalhar a partida:
-
-- **Placar definitivamente confirmado: Flamengo 15 x 2 Mangueira.** O jornalista Gustavo Mariani, em pesquisa publicada no Jornal de Brasília em 13/06/2021, reproduziu a errata publicada pelo Jornal do Commercio em 05/05/1912: o resultado correto foi 15 x 2, e não o número publicado anteriormente por erro tipográfico. A errata também informa que o primeiro tempo terminou 5 x 1. Link: https://jornaldebrasilia.com.br/blogs-e-colunas/historias-da-bola/primeiro-flamengo/
-- A marcha de gols reproduzida a partir dessa pesquisa: Gustavo de Carvalho (1 e 2 min), Arnaldo (24 e 30), Octávio (35) e Gustavo (37) no primeiro tempo; Gallo (5), Amarante (7, 9 e 15), Arnaldo (18), Levy (22), Gustavo (25), Arnaldo (29), Amarante (31), Borgerth (33) e Gustavo (35) no segundo tempo. O placar final e a sequência somam 15 gols do Flamengo e dois do Mangueira.
-- **Árbitro:** João Evangelista Belfort Duarte, conforme o relato do Jornal de Brasília que reproduz a pesquisa histórica e a ficha técnica do Futebol80.
-- **Escalação detalhada corroborada por ficha técnica especializada:** Baena; Píndaro e Nery; Coriolano, Gilberto e Gallo; Orlando Bahiano, Arnaldo Guimarães, Amarante Zalacain, Gustavo de Carvalho e Alberto Borgerth. Fonte: https://futebol80.com.br/links/times/flamengo/flamengoft.htm
-- **Gustavo de Carvalho relatou a jogada do primeiro gol em entrevista retrospectiva:** a construção começou com Gallo na defesa, passou por Gustavo, que lançou Arnaldo pela direita; o cruzamento para trás encontrou Gustavo acompanhando o ataque, que finalizou de primeira. O relato foi reproduzido pelo Jornal de Brasília a partir da publicação “Grandes Clubes Brasileiros”. Pode ser usado como memória oral atribuída, não como descrição contemporânea independente.
-- **Atenção à data de criação do departamento:** há divergência em publicações recentes. O Museu Flamengo e a retrospectiva do ge de 2011 apontam a assembleia extraordinária de 24/12/1911; o Lance! em 05/09/2025 menciona 08/11/1911. Para a matéria, adotar 24/12/1911, respaldado pela linha do tempo institucional do Museu Flamengo e pelo relato histórico do ge, e não repetir 08/11 sem localizar ata ou documento primário que esclareça a divergência.
-- **Não confundir** a data de fundação do Flamengo (1895), a formação do grupo dissidente em 1911, a assembleia de criação do Departamento de Esportes Terrestres (24/12/1911) e a estreia em campo (03/05/1912).
-- Fontes complementares:
-  - Jornal de Brasília, 13/06/2021: https://jornaldebrasilia.com.br/blogs-e-colunas/historias-da-bola/primeiro-flamengo/ — errata do Jornal do Commercio de 05/05/1912, placar, cronologia dos gols, árbitro e relato retrospectivo de Gustavo.
-  - Futebol80, ficha técnica Flamengo 15 x 2 Mangueira: https://futebol80.com.br/links/times/flamengo/flamengoft.htm — placar, campeonato, local, árbitro, gols e escalações.
-  - Lance!, 05/09/2025: https://www.lance.com.br/lancepedia/primeiro-jogo-oficial-do-flamengo.html — confirma a estreia e o placar 15 x 2, mas apresenta 08/11/1911 para a criação do departamento, divergindo da cronologia do Museu Flamengo.
-- **Lacuna documental remanescente:** a errata de 05/05/1912 foi localizada por reprodução e transcrição em pesquisa publicada em 2021; ainda não foi aberto nesta apuração o fac-símile original do Jornal do Commercio. A redação pode atribuir a descoberta e a transcrição ao pesquisador/jornalista, sem afirmar que consultamos diretamente a página original.
-
-
-### Correção factual da pauta de 28/11/2026 — 07/11/2026
-A pauta de 1953–1955 não deve ser chamada de primeiro tricampeonato carioca do Flamengo. O primeiro tricampeonato estadual foi conquistado em 1942, 1943 e 1944. A sequência de 1953, 1954 e 1955 foi o segundo tricampeonato carioca do clube. Título e descrição da agenda corrigidos para refletir essa cronologia.
