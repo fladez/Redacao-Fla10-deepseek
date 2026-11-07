@@ -2386,7 +2386,7 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 
 ### Pauta de 07/11/2026 — 1914: O primeiro título estadual do Flamengo
 
-- **Estado:** pauta escolhida pelo editor; pesquisa e apuração em andamento.
+- **Estado:** pauta escolhida pelo editor; pesquisa e apuração concluídas em 07/11/2026; redação final pendente.
 - **Formato:** Flamengo na História — reportagem histórica narrativa.
 - **Pergunta central:** como o Flamengo conquistou seu primeiro Campeonato Carioca em 1914, apenas dois anos depois de estrear no futebol, e o que essa vitória representou para a consolidação do departamento?
 - **Tese de trabalho:** o título de 1914 foi a primeira grande afirmação competitiva da equipe principal do Flamengo no futebol carioca; a conquista consolidou a modalidade no clube, mas deve ser explicada dentro do contexto de uma equipe ainda em formação, sem transformar o campeonato em mito fundador isolado.
@@ -2395,6 +2395,74 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 - **Cuidado editorial:** não confundir o primeiro título estadual do time principal com o primeiro título futebolístico do clube; não afirmar que a final foi uma “decisão” em jogo único se a competição foi disputada em pontos corridos/turno; evitar anacronismos sobre profissionalismo, rivalidade e estrutura do futebol.
 - **Fontes e evidências:** registrar abaixo, com URL e data de publicação, as fontes efetivamente abertas e as divergências encontradas. Dar prioridade a imprensa da época, acervos digitalizados e documentação do Museu Flamengo; usar retrospectivas modernas como apoio, não como substitutas de fontes primárias.
 
+### Dossiê de pesquisa e apuração — 1914 (atualizado em 07/11/2026)
+
+**Conclusão central:** o Flamengo conquistou seu primeiro Campeonato Carioca da equipe principal em 15/11/1914. A equipe venceu o Fluminense por 2 a 1, em partida da penúltima rodada, e assegurou o título por antecipação. A conquista ocorreu no aniversário oficial do clube, fundado em 15/11/1895. A competição era organizada pela Liga Metropolitana de Sports Athleticos (LMSA).
+
+**Distinção histórica indispensável:** não escrever que 1914 foi o primeiro título do Flamengo em qualquer categoria do futebol. O Museu Flamengo registra que a equipe dos Segundos Quadros já havia sido campeã em 1912. O título de 1914 foi o primeiro Campeonato Carioca da equipe principal/Primeiros Quadros. O Museu também registra que o clube foi bicampeão dos Primeiros Quadros em 1914 e 1915.
+
+**Formato da competição e campanha:**
+- Sete participantes: Flamengo, America, Botafogo, Fluminense, Rio Cricket, São Cristóvão e Paysandu.
+- Turno e returno, 12 jogos por equipe; competição por pontos corridos, com dois pontos por vitória.
+- Flamengo terminou com 19 pontos: 8 vitórias, 3 empates e 1 derrota; 24 gols marcados e 15 sofridos.
+- America e Botafogo terminaram com 17 pontos cada; Fluminense ficou em quarto, com 16.
+- A única derrota rubro-negra foi Botafogo 2 x 1 Flamengo, em 12/10/1914, em General Severiano.
+- Portanto, **o Flamengo não foi campeão invicto**. Evitar reproduzir essa afirmação, presente equivocadamente em algumas páginas secundárias.
+- Em 15/11, a vitória sobre o Fluminense garantiu o título com uma rodada de antecedência. Na última rodada, em 22/11, o Flamengo empatou por 4 a 4 com o São Cristóvão; esse resultado não tirou o título já assegurado.
+
+**A partida que decidiu o campeonato — 15/11/1914:**
+- Flamengo 2 x 1 Fluminense.
+- Local: campo do Botafogo em General Severiano, segundo RSSSF Brasil, Campeões do Futebol e Flaestatística. Atenção: a edição de O Imparcial de 13/11 anunciava previamente a partida para o field da Rua Guanabara; a documentação de retrospectiva e os registros do jogo indicam General Severiano como o local efetivo. Não usar a previsão de 13/11 como confirmação do local realizado.
+- Gols: Alberto Borgerth e Riemer para o Flamengo; Oswaldo Gomes para o Fluminense, segundo RSSSF Brasil e Campeões do Futebol.
+- A vitória ocorreu no aniversário oficial de 19 anos do clube. O Flamengo foi fundado em 15/11/1895; a imprensa da época reconhecia a data como aniversário do clube.
+- O Fluminense precisava vencer o clássico para manter possibilidade de alcançar o Flamengo; o triunfo rubro-negro decidiu o campeonato antecipadamente.
+- A partida foi a penúltima rodada do campeonato, não uma final em jogo único. O título foi definido pela pontuação acumulada ao longo do turno e returno.
+- Escalação reproduzida pelo RSSSF: Baena; Píndaro, Nery; Ângelo, Miguel, Galo; Arnaldo, Borgerth, Orlando, Riemer e Raul. A imagem de equipe da Flaestatística identifica os onze jogadores como Borgerth, Arnaldo, Raul, Gallo, Píndaro, Nery, Miguel, Bahiano, Riemer, Ângelo e Baena. Tratar como formação atribuída aos registros históricos, não como súmula primária definitivamente localizada.
+- Arbitragem: divergência documental. RSSSF indica Sidney Pullen; a retrospectiva de O Imparcial de 31/12/1919 registra J. Teixeira de Carvalho. Não fixar o árbitro na matéria sem nova verificação em fonte primária da data.
+- Há também divergência sobre o local previamente anunciado: O Imparcial, 13/11/1914, informou Rua Guanabara; as fontes de ficha da partida apontam General Severiano. A formulação segura é: o jogo foi realizado em General Severiano segundo as bases históricas de resultados, enquanto a imprensa o anunciava inicialmente para a Rua Guanabara.
+- Não informar público nem horário: não foram confirmados em fonte primária consultada.
+- Não atribuir minuto aos gols: os registros consultados divergem ou não oferecem cronologia completa confiável.
+
+**O que a imprensa da época permite contar:**
+- O Imparcial, edição de 13/11/1914, publicou a prévia “Flamengo versus Fluminense”. O texto chamou o encontro de “brilhante pugna”, disse que os dois clubes estavam bem colocados e disputariam o título de 1914.
+- A prévia descreveu equilíbrio entre as equipes: avaliava o ataque do Fluminense como mais forte, mas considerava a defesa do Flamengo superior. Essa leitura contemporânea é um ótimo recurso narrativo: o título não era inevitável, e o clássico era visto como confronto entre forças próximas.
+- A mesma edição publicou as escalações prováveis. Flamengo: Baena; Píndaro; Negry; Ângelo; Gallo; Miguel; Arnaldo; Borja; Bahiano; Riener; Raul. Fluminense: Marcos; Vidal; Cardoso; Mendes; Mario; Menezes; Oswaldo; Barthô; Welfare; Carlos; Ernani. Usar como provável escalação divulgada antes do jogo, não como escalação efetiva.
+- O Imparcial, em retrospectiva de 31/12/1919, recordou o jogo de 15/11/1914 como vitória do Flamengo por 2 a 1, indicando intervalo em 1 a 1 e gols de Welfare e Borgerth na sequência que conseguiu registrar. A ficha de resultado da RSSSF atribui os gols rubro-negros a Borgerth e Riemer e o gol tricolor a Oswaldo Gomes. A diferença pode decorrer de falha/transcrição incompleta na retrospectiva de 1919; manter os autores dos três gols conforme a convergência das bases de resultados, sem citar a sequência de gols da fonte retrospectiva como completa.
+- O Imparcial, edição de 26/11/1914, já se refere ao Flamengo como “campeão de 1914”, confirmando que o título estava reconhecido publicamente após a última rodada.
+- Em 15/11/1923, O Imparcial publicou matéria sobre o 28º aniversário do clube e registrou expressamente a fundação em 15/11/1895 e os campeonatos de futebol de 1914, 1915, 1920 e 1931. Isso sustenta o vínculo entre a data comemorativa e a vitória de 1914.
+
+**Leitura histórica / linha narrativa recomendada:**
+1. Abrir em 15 de novembro de 1914: o Flamengo entra em campo contra o Fluminense no dia de seu aniversário, com o título em disputa.
+2. Voltar dois anos: o departamento de futebol havia sido criado em 1911 e a equipe estreara em 1912; o time principal ainda buscava transformar os vice-campeonatos iniciais em conquista.
+3. Explicar o campeonato de 1914: sete clubes, turno e returno, 12 jogos, dois pontos por vitória. Mostrar a consistência do Flamengo sem esconder o tropeço contra o Botafogo.
+4. Usar a prévia de O Imparcial como janela para o ambiente esportivo: a imprensa via equilíbrio entre o ataque tricolor e a defesa rubro-negra.
+5. Recontar o 2 a 1 sobre o Fluminense, com Borgerth e Riemer como autores dos gols rubro-negros e Oswaldo Gomes pelo rival.
+6. Explicar que o título foi matematicamente assegurado antes da última rodada; o empate por 4 a 4 com o São Cristóvão apenas encerrou a campanha.
+7. Fechar com o significado institucional: o futebol, incorporado a um clube originalmente ligado ao remo, conquistava seu primeiro campeonato principal e passava a integrar de forma definitiva a trajetória esportiva rubro-negra.
+
+**Cuidados e erros a evitar:**
+- Não chamar a partida de “final” ou “decisão em jogo único”; era a penúltima rodada de um campeonato em pontos corridos.
+- Não afirmar que o Flamengo foi campeão invicto: perdeu para o Botafogo por 2 a 1 em 12/10.
+- Não dizer que 1914 foi o primeiro título do Flamengo em qualquer categoria: o segundo quadro venceu o Carioca de 1912.
+- Não dizer que o título foi confirmado no empate de 22/11; a vitória de 15/11 já assegurara o campeonato por antecipação.
+- Não atribuir a arbitragem a um nome sem resolver a divergência Sidney Pullen x J. Teixeira de Carvalho.
+- Não usar a Rua Guanabara como local definitivo: era o campo anunciado previamente; os registros da partida indicam General Severiano.
+- Não inventar público, renda, horário, minutos dos gols, cenas de arquibancada ou declarações.
+- Evitar chamar os jogadores de profissionais: o futebol carioca ainda era amador.
+- O apelido da camisa Cobra Coral e o momento exato da adoção não são centrais para esta matéria; só incluir após confirmar em fonte institucional, sem afirmar que a camisa foi adotada especificamente para o jogo do título.
+
+**Fontes primárias e de referência:**
+1. O Imparcial, 13/11/1914, edição 682, “Flamengo versus Fluminense” — prévia contemporânea, análise das forças e prováveis equipes. Hemeroteca Digital da Biblioteca Nacional: https://hemeroteca-pdf.bn.gov.br/107670/per107670_1914_00682.pdf
+2. O Imparcial, 26/11/1914, edição 695 — já identifica o Flamengo como campeão de 1914: https://hemeroteca-pdf.bn.gov.br/107670/per107670_1914_00695.pdf
+3. O Imparcial, 31/12/1919 — retrospectiva dos confrontos e ficha do jogo de 15/11/1914; contém divergência sobre arbitragem e lista incompleta de gols: https://hemeroteca-pdf.bn.gov.br/107670/per107670_1919_B01346.pdf
+4. O Imparcial, 15/11/1923 — matéria do 28º aniversário do clube, confirma fundação em 15/11/1895 e enumera títulos estaduais, incluindo 1914: https://hemeroteca-pdf.bn.gov.br/107670/per107670_1923_03985.pdf
+5. RSSSF Brasil, “Rio de Janeiro Championship 1914” — resultados, classificação, ficha da partida e campanha; informa como fonte-base o livro de Roberto Assaf e Clóvis Martins, “Campeonato Carioca: 96 Anos de História 1902-1997”: https://www.rsssfbrasil.com/tablesr/rj1914.htm
+6. Campeões do Futebol, “Campeonato Carioca de 1914”, pesquisa de Pedro Varanda publicada em 24/11/2024; lista partidas, gols e classificação e cita jornais da época como fontes: https://www.campeoesdofutebol.com.br/campeonato_carioca_1914.html
+7. Flaestatística, “Campeonato Estadual 1914” e fotografia do jogo do título: https://flaestatistica.com.br/fotos/trofeu-futebol/1914/campeonato-estadual-1914 e https://flaestatistica.com.br/fotos/time-do-c-r-flamengo-futebol/1914/flamengo-2-x-1-fluminense-em-15-de-novembro-de-1914-10
+8. Museu Flamengo, “Manto Sagrado — História” — distingue o título dos Segundos Quadros de 1912 e os títulos dos Primeiros Quadros de 1914 e 1915: https://www.museuflamengo.com.br/manto-sagrado-historia
+9. Lance!, entrevista com Luiz Brandão Borgerth, neto de Alberto Borgerth, publicada em 14/09/2014; contexto da participação de Borgerth na criação do futebol e formato do campeonato: https://www.torcidaflamengo.com.br/noticia/25976/off-ha-cem-anos-fla-levava-o-primeiro-titulo-carioca-sob-a-lideranca-de-borgeth
+
+**Status de apuração:** pesquisa histórica e cruzamento de fontes concluídos para a redação. Permanecem explicitamente não resolvidas as divergências sobre arbitragem e a mudança entre o local inicialmente anunciado e o campo efetivo; a matéria deve omitir o árbitro e contextualizar o local conforme os registros disponíveis.
 ### Pauta publicada — 1912: Quando o Flamengo entrou em campo pela primeira vez
 
 - **Estado:** publicada, conforme confirmação do editor em 07/11/2026.
