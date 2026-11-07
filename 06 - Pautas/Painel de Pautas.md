@@ -2371,7 +2371,7 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 
 | Data | Pauta | Estado |
 |---|---|---|
-| 07/11/2026 | 1914: O primeiro título estadual que começou a construir a grandeza do Flamengo | **Pauta de hoje — em apuração** |
+| 07/11/2026 | 1914: O primeiro título estadual que começou a construir a grandeza do Flamengo | **Publicada em 07/11/2026** |
 | 14/11/2026 | Leônidas da Silva: o Diamante Negro que ajudou a transformar o Flamengo | Programada |
 | 21/11/2026 | 1953–1955: O segundo tricampeonato carioca — como o Flamengo voltou a dominar o Rio | Programada |
 | 28/11/2026 | Como o Flamengo se tornou o clube de uma Nação | Programada |
@@ -2386,7 +2386,7 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 
 ### Pauta de 07/11/2026 — 1914: O primeiro título estadual do Flamengo
 
-- **Estado:** pauta escolhida pelo editor; pesquisa e apuração concluídas em 07/11/2026; redação final pendente.
+- **Estado:** **publicada em 07/11/2026**, conforme confirmação explícita do editor. Pesquisa, apuração e redação concluídas; pauta encerrada.
 - **Formato:** Flamengo na História — reportagem histórica narrativa.
 - **Pergunta central:** como o Flamengo conquistou seu primeiro Campeonato Carioca em 1914, apenas dois anos depois de estrear no futebol, e o que essa vitória representou para a consolidação do departamento?
 - **Tese de trabalho:** o título de 1914 foi a primeira grande afirmação competitiva da equipe principal do Flamengo no futebol carioca; a conquista consolidou a modalidade no clube, mas deve ser explicada dentro do contexto de uma equipe ainda em formação, sem transformar o campeonato em mito fundador isolado.
@@ -2468,3 +2468,12 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 - **Estado:** publicada, conforme confirmação do editor em 07/11/2026.
 - **Ação de agenda:** removida da fila futura da série; preservada aqui apenas como histórico. Não produzir novamente.
 
+
+
+### Pauta publicada — 1914: Flamengo vence o Fluminense no aniversário do clube e conquista seu primeiro Carioca
+
+- **Estado:** publicada em 07/11/2026, conforme confirmação explícita do editor.
+- **URL pública:** https://fla10.news/flahistoria/1914-flamengo-vence-o-fluminense-no-aniversario-do-clube-e-conquista-seu-primeiro-carioca
+- **Formato:** Flamengo na História — reportagem histórica narrativa.
+- **Tema:** primeiro Campeonato Carioca conquistado pela equipe principal, em 15/11/1914; vitória por 2 a 1 sobre o Fluminense, em General Severiano, com gols de Alberto Borgerth e Riemer.
+- **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico da série.
