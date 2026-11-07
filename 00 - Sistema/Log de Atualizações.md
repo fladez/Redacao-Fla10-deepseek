@@ -1001,3 +1001,13 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - Atualizado o Painel de Pautas para registrar a publicação e encerrar a pauta de serviço.
 - Serviço registrado: SporTV como transmissão e ge como acompanhamento em tempo real; não foi encontrada confirmação oficial de cobertura pela FlamengoTV na programação consultada.
 - Alterações realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.
+
+
+## 2026-11-06 — Publicação confirmada: Sesc RJ Flamengo x Sancor Londrina (pós-jogo)
+- O editor confirmou a publicação da matéria **“Sesc RJ Flamengo vence o Londrina por 3 a 0 e assume a liderança da Superliga Feminina”**.
+- **URL:** https://fla10.news/noticias/sesc-rj-flamengo-vence-o-londrina-por-3-a-0-e-assume-a-lideranca-da-superliga-feminina
+- Atualizado o Painel de Pautas para registrar a publicação e encerrar a pauta de pós-jogo.
+- **Resultado registrado:** Sancor Londrina 0 x 3 Sesc RJ Flamengo, pela quarta rodada da Superliga Feminina 2026/2027, com parciais de 20/25, 21/25 e 17/25.
+- **Destaques:** Tainara marcou 18 pontos e recebeu o Troféu VivaVôlei; Simone Lee anotou 15 pontos.
+- **Situação editorial:** serviço Onde Assistir publicado em 05/11; pós-jogo publicado em 06/11. Cobertura do confronto encerrada.
+- Alterações realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.
