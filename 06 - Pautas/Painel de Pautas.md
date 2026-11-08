@@ -2491,3 +2491,16 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 - **Formato:** Flamengo na História — reportagem histórica narrativa.
 - **Tema:** primeiro Campeonato Carioca conquistado pela equipe principal, em 15/11/1914; vitória por 2 a 1 sobre o Fluminense, em General Severiano, com gols de Alberto Borgerth e Riemer.
 - **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico da série.
+
+
+## Publicação confirmada — Flamengo 1 x 1 Vasco: semifinal do Carioca Sub-20 (07/11/2026)
+
+- **Estado:** publicada em 07/11/2026, conforme confirmação explícita do editor.
+- **Título:** *Flamengo empata com o Vasco na Gávea e terá de vencer fora para chegar à final do Carioca Sub-20*.
+- **URL pública:** https://fla10.news/noticias/flamengo-empata-com-o-vasco-na-gavea-e-tera-de-vencer-fora-para-chegar-a-final-do-carioca-sub-20
+- **Formato:** notícia pós-jogo — semifinal do Campeonato Carioca Sub-20, jogo de ida.
+- **Partida:** Flamengo 1 x 1 Vasco, em 07/11/2026, no Estádio José Bastos Padilha, na Gávea.
+- **Gols:** João Victor marcou para o Flamengo aos 25 minutos do primeiro tempo; Wanyson empatou para o Vasco aos 33 minutos da etapa final.
+- **Lance decisivo:** Johnny teve pênalti defendido por Lucas Andrade aos 37 minutos do segundo tempo; o goleiro voltou a evitar o gol rubro-negro na sequência.
+- **Cenário da volta:** Flamengo precisa vencer em 14/11/2026, às 10h, no Estádio Nivaldo Pereira, em Nova Iguaçu; o Vasco avança com novo empate por ter feito campanha superior na fase anterior.
+- **Registro editorial:** publicação confirmada pelo editor; pauta de pós-jogo encerrada e incluída no histórico de publicações.
