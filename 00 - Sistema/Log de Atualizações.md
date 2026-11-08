@@ -1011,3 +1011,9 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - **Destaques:** Tainara marcou 18 pontos e recebeu o Troféu VivaVôlei; Simone Lee anotou 15 pontos.
 - **Situação editorial:** serviço Onde Assistir publicado em 05/11; pós-jogo publicado em 06/11. Cobertura do confronto encerrada.
 - Alterações realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.
+
+## 2026-11-08 — Pauta incluída na agenda de 9 de novembro
+- A pedido do editor, incluída a pauta **“Cinco Garotos do Ninho na preparação da Seleção Brasileira Sub-17”** na agenda de segunda-feira, 09/11/2026.
+- Registrado o recorte que distingue os três atletas indicados para disputar o Mundial Sub-17 dos dois jogadores do Sub-16 chamados para completar os treinamentos.
+- Apuração, produção e publicação permanecem pendentes; a ficha exige confirmação da lista oficial e do status individual dos atletas antes da redação.
+- Atualizado o Painel de Pautas no GitHub, branch `main`.
