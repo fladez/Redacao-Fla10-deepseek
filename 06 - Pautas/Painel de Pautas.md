@@ -2531,6 +2531,15 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 
 ## Agenda editorial — segunda-feira, 9 de novembro de 2026
 
+### Reportagem Fla10 — VAR no Brasileirão: diferença entre Palmeiras e Flamengo e reclamações de adversários
+- **Estado:** transferida de 08/11 para 09/11/2026 por decisão do editor; pauta em desenvolvimento, com recorte, apuração e redação ainda pendentes. A primeira versão foi considerada insatisfatória e não está aprovada para publicação.
+- **Formato:** reportagem investigativa / análise sobre arbitragem e uso do VAR.
+- **Ponto de partida:** levantamento atribuído à CazéTV, creditado ao jornalista Davi Wimmer, que aponta Palmeiras com saldo de +16 (74 decisões favoráveis e 58 contrárias) e Flamengo com -5 (56 favoráveis e 61 contrárias), diferença de 21 pontos.
+- **Diretriz editorial:** retomar a discussão com o editor antes de reescrever. Não presumir que o ranking comprova favorecimento; distinguir dados estatísticos, decisões tecnicamente reconhecidas, reclamações de clubes, opiniões de comentaristas e inferências.
+- **Apuração a revisar:** origem e metodologia do levantamento; memória de cálculo e relação individual dos lances; recortes temporais e critérios de classificação; episódios envolvendo São Paulo, Vasco, Santos e Vitória; manifestações da CBF e das federações; diferenças entre as bases da CazéTV e do Espião Estatístico/ge.
+- **Ponto de controle:** a primeira versão não deve ser publicada nem tratada como texto aprovado. Na retomada, redefinir a pergunta central, a tese, o conjunto de evidências e a estrutura da reportagem com o editor.
+- **Material de referência:** dossiê em PDF enviado pelo editor nesta conversa; consultar o documento integral e suas páginas finais antes de retomar a redação.
+
 ### Reportagem Fla10 — O Flamengo que arrecada mais, mas precisa rever sua estratégia financeira
 - **Estado:** transferida de 08/11 para 09/11/2026 por decisão do editor; aprovada, com apuração, produção e publicação pendentes.
 - **Formato:** reportagem / análise econômica.
