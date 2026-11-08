@@ -2539,3 +2539,10 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 - **Projeções a atribuir às fontes:** déficit de R$ 40 milhões em 2026 e captação de 40–45 milhões de euros em vendas de atletas em 2027. Não apresentar projeções como resultados realizados.
 - **Checagens obrigatórias:** conferir período, base e natureza de cada indicador no relatório oficial; atribuir as projeções; distinguir orçamento, resultado contábil e fluxo de caixa; não inferir crise de caixa apenas a partir do déficit projetado.
 - **Próxima etapa:** retomar a auditoria dos números e das fontes antes da redação final. A pauta permanece prioritária e não deve ser publicada sem a conferência documental.
+
+
+### Depois do Apito — crônica (tema a definir)
+- **Estado:** incluída na agenda de 08/11/2026 por solicitação do editor; tema, apuração e redação pendentes.
+- **Formato:** crônica autoral da coluna Depois do Apito, na voz editorial de Miguel Sampaio.
+- **Tema:** a definir em conjunto com o editor antes da apuração e da escrita.
+- **Diretriz:** não escolher um assunto por conta própria nem iniciar a redação antes de definir o recorte, a ideia central e o vínculo com os acontecimentos recentes do Flamengo.
