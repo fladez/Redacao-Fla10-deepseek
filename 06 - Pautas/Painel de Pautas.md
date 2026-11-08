@@ -2531,6 +2531,14 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 
 ## Agenda editorial — segunda-feira, 9 de novembro de 2026
 
+### Notícia — Cinco Garotos do Ninho na preparação da Seleção Brasileira Sub-17
+- **Estado:** incluída na agenda de 09/11/2026; apuração, produção e publicação pendentes.
+- **Formato:** notícia sobre a presença de atletas do Flamengo na preparação da Seleção Brasileira Sub-17 para o Mundial.
+- **Ângulo:** destacar a presença de cinco jogadores do clube no grupo de preparação, diferenciando os três atletas convocados para disputar a competição — Gabriel Werneck, Daniel Silva (Thuram) e João Vitor Couto — dos dois jogadores do Sub-16 chamados para completar os treinamentos na Granja Comary — Felipe Pina e Rafael Barreto.
+- **Checagens obrigatórias:** confirmar a lista oficial da CBF, a situação individual de cada atleta, a composição final da delegação e o calendário da preparação/competição; não apresentar os dois atletas do Sub-16 como convocados para o Mundial se estiverem apenas integrando os treinamentos.
+- **Controle editorial:** matéria factual, com foco na formação rubro-negra e na representação do clube nas seleções de base. Verificar se houve atualização da lista ou mudança de status antes da redação.
+
+
 ### Reportagem Fla10 — VAR no Brasileirão: diferença entre Palmeiras e Flamengo e reclamações de adversários
 - **Estado:** transferida de 08/11 para 09/11/2026 por decisão do editor; pauta em desenvolvimento, com recorte, apuração e redação ainda pendentes. A primeira versão foi considerada insatisfatória e não está aprovada para publicação.
 - **Formato:** reportagem investigativa / análise sobre arbitragem e uso do VAR.
