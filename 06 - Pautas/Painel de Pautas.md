@@ -2504,3 +2504,16 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 - **Lance decisivo:** Johnny teve pênalti defendido por Lucas Andrade aos 37 minutos do segundo tempo; o goleiro voltou a evitar o gol rubro-negro na sequência.
 - **Cenário da volta:** Flamengo precisa vencer em 14/11/2026, às 10h, no Estádio Nivaldo Pereira, em Nova Iguaçu; o Vasco avança com novo empate por ter feito campanha superior na fase anterior.
 - **Registro editorial:** publicação confirmada pelo editor; pauta de pós-jogo encerrada e incluída no histórico de publicações.
+
+
+## Publicação confirmada — Flamengo Maricá 3 x 2 Bahia: final da Copa do Brasil Feminina (07/11/2026)
+
+- **Estado:** publicada em 07/11/2026, conforme confirmação explícita do editor.
+- **Título:** *Flamengo Maricá vence o Bahia por 3 a 2, confirma vaga na final e fica a dois jogos do título da Copa do Brasil Feminina*.
+- **URL pública:** https://fla10.news/noticias/flamengo-marica-vence-o-bahia-por-3-a-2-confirma-vaga-na-final-e-fica-a-dois-jogos-do-titulo-da-copa-do-brasil-feminina
+- **Formato:** notícia pós-jogo — semifinal, jogo de volta da Copa do Brasil Feminina 2026.
+- **Partida:** Flamengo Maricá 3 x 2 Bahia, em 07/11/2026, às 21h30, no Estádio Luso-Brasileiro, Rio de Janeiro.
+- **Gols:** Núbia, Cássia (pênalti), Fernanda, Fabiola Sandoval e Ellen Santana. As fontes consultadas apresentam pequenas divergências de minutagem; a matéria adotou a minutagem do relato oficial do Flamengo.
+- **Classificação:** após o empate por 0 a 0 na ida, o Flamengo avançou à final no tempo normal. O adversário será definido entre Internacional e Red Bull Bragantino.
+- **Apuração complementar:** cobertura cruzada com Flamengo, Gazeta Esportiva, Lance!, imprensa baiana e Placar. Confirmada a vitória por 3 a 2 e a classificação.
+- **Registro editorial:** publicação confirmada pelo editor; pauta de pós-jogo encerrada e incluída no histórico de publicações.
