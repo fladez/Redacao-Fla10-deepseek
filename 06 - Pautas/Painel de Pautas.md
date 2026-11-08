@@ -2517,3 +2517,13 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 - **Classificação:** após o empate por 0 a 0 na ida, o Flamengo avançou à final no tempo normal. O adversário será definido entre Internacional e Red Bull Bragantino.
 - **Apuração complementar:** cobertura cruzada com Flamengo, Gazeta Esportiva, Lance!, imprensa baiana e Placar. Confirmada a vitória por 3 a 2 e a classificação.
 - **Registro editorial:** publicação confirmada pelo editor; pauta de pós-jogo encerrada e incluída no histórico de publicações.
+
+
+## Publicação confirmada — Vídeo dos gols da classificação do Flamengo Maricá à final da Copa do Brasil Feminina (07/11/2026)
+
+- **Estado:** publicado em 08/11/2026, conforme confirmação explícita do editor.
+- **Título/URL:** *Os gols que levaram o Flamengo Maricá para a final da Copa do Brasil — Flamengo 3 x 1 Bahia* — https://fla10.news/videos/os-gols-que-levaram-o-flamengo-marica-para-a-final-da-copa-do-brasil---flamengo-3-x-1-bahia
+- **Formato:** vídeo — gols da semifinal da Copa do Brasil Feminina.
+- **Contexto editorial:** conteúdo complementar à notícia pós-jogo já publicada sobre a vitória por 3 a 2 do Flamengo Maricá sobre o Bahia, em 07/11/2026, que confirmou a classificação rubro-negra à final.
+- **Proveniência:** vídeo publicado na seção de vídeos; registrar como conteúdo audiovisual complementar, sem alterar o placar da matéria pós-jogo (3 a 2).
+- **Registro editorial:** publicação confirmada pelo editor; item encerrado e incluído no histórico de publicações.
