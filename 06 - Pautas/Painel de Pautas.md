@@ -1912,7 +1912,7 @@ A pesquisa acadêmica reforça que a identificação com o clube, o comprometime
   - **Classificação editorial:** futebol masculino profissional — equipe principal.
 - **Evento 2:** Brasília x Flamengo — NBB 2026/27, 5ª rodada; 20h15, Brasília (DF).
   - **Pauta de serviço:** Onde assistir — 03/11; produção e publicação pendentes de confirmação de transmissão e demais dados.
-  - **Cobertura no evento:** pós-jogo quando houver informações suficientes.
+  - **Cobertura no evento:** pós-jogo publicado em 07/11/2026 — Pato Basquete 66 x 80 Flamengo. Registro completo na seção de publicações confirmadas.
   - **Classificação editorial:** basquete.
 - **Pautas remanejadas para 05/11/2026:** a reportagem de finanças e a pauta especial sobre o gramado do Maracanã foram transferidas para a programação do dia seguinte, por decisão do editor.
 - **Pauta de arrecadação do Maracanã:** publicada em 04/11/2026; registro completo na seção de publicações confirmadas ao final deste painel.
@@ -2338,6 +2338,20 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 - **Apuração:** ficha da LNB confirmou data, horário e ginásio; agenda oficial da LNB e programação da FlamengoTV confirmaram as transmissões. Arbitragem não constava na ficha oficial consultada. O quinteto usado contra Brasília foi registrado como referência, não como escalação confirmada para este jogo.
 - **Ficha editorial:** [[2026-11-07 - Pato Basquete x Flamengo - Onde assistir NBB]].
 - **Registro editorial:** publicação confirmada pelo editor; pauta de serviço encerrada. A pauta de pós-jogo permanece condicionada ao resultado e à disponibilidade de informações.
+
+## Publicação confirmada — Pato Basquete 66 x 80 Flamengo: quinta vitória seguida no NBB (07/11/2026)
+
+- **Estado:** publicada em 07/11/2026, conforme confirmação explícita do editor.
+- **Título:** *Flamengo vence o Pato Basquete por 80 a 66 e chega à quinta vitória consecutiva no NBB*.
+- **URL pública:** https://fla10.news/noticias/flamengo-vence-o-pato-basquete-por-80-a-66-e-chega-a-quinta-vitoria-consecutiva-no-nbb
+- **Formato:** pós-jogo — NBB 2026/27.
+- **Partida:** Pato Basquete 66 x 80 Flamengo, em 07/11/2026, no Ginásio do Sesi, em Pato Branco (PR).
+- **Síntese:** Flamengo construiu a vitória sobretudo no terceiro quarto, vencido por 24 a 13. Yago foi o principal pontuador rubro-negro, com 24 pontos no box score; Douglas dos Santos marcou 16 pontos com 100% de aproveitamento nos arremessos. A equipe chegou à quinta vitória consecutiva e à quarta posição, conforme a classificação divulgada pela LNB.
+- **Próximo compromisso:** Flamengo x Sesi Franca, em 10/11/2026, no Maracanãzinho.
+- **Fonte estatística principal:** Liga Nacional de Basquete — https://lnb.com.br/noticias/nbb-caixa-2026-27-pato-basquete-66-x-80-flamengo/.
+- **Registro editorial:** publicação confirmada pelo editor; pauta de pós-jogo encerrada.
+
+---
 
 
 ## Publicação confirmada — Flamengo x Bahia: onde assistir à semifinal da Copa do Brasil Feminina (07/11/2026)
