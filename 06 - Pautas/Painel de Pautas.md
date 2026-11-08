@@ -2554,8 +2554,20 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 
 
 
-### Depois do Apito — crônica (tema a definir)
-- **Estado:** incluída na agenda de 08/11/2026 por solicitação do editor; tema, apuração e redação pendentes.
+### Depois do Apito — A camisa pesa do mesmo jeito
+- **Estado:** publicada em 08/11/2026, conforme confirmação explícita do editor.
 - **Formato:** crônica autoral da coluna Depois do Apito, na voz editorial de Miguel Sampaio.
-- **Tema:** a definir em conjunto com o editor antes da apuração e da escrita.
-- **Diretriz:** não escolher um assunto por conta própria nem iniciar a redação antes de definir o recorte, a ideia central e o vínculo com os acontecimentos recentes do Flamengo.
+- **Tema:** identidade rubro-negra para além do futebol masculino; reconhecimento das equipes que representam o Flamengo em outras modalidades.
+- **URL pública:** https://fla10.news/colunas/a-camisa-pesa-do-mesmo-jeito
+- **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações.
+
+
+## Publicação confirmada — Depois do Apito: A camisa pesa do mesmo jeito (08/11/2026)
+
+- **Estado:** publicada em 08/11/2026, conforme confirmação explícita do editor.
+- **Título:** *A camisa pesa do mesmo jeito*.
+- **URL pública:** https://fla10.news/colunas/a-camisa-pesa-do-mesmo-jeito
+- **Formato:** crônica autoral da coluna Depois do Apito, na voz editorial de Miguel Sampaio.
+- **Tema:** identidade rubro-negra para além do futebol masculino e reconhecimento das equipes que representam o Flamengo em outras modalidades.
+- **Ponto de partida:** classificação do Flamengo Maricá para a final da Copa do Brasil Feminina, após vitória por 3 a 2 sobre o Bahia.
+- **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações.
