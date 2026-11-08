@@ -2527,3 +2527,15 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 - **Contexto editorial:** conteúdo complementar à notícia pós-jogo já publicada sobre a vitória por 3 a 2 do Flamengo Maricá sobre o Bahia, em 07/11/2026, que confirmou a classificação rubro-negra à final.
 - **Proveniência:** vídeo publicado na seção de vídeos; registrar como conteúdo audiovisual complementar, sem alterar o placar da matéria pós-jogo (3 a 2).
 - **Registro editorial:** publicação confirmada pelo editor; item encerrado e incluído no histórico de publicações.
+
+
+## Agenda editorial — domingo, 8 de novembro de 2026
+
+### Reportagem Fla10 — O Flamengo que arrecada mais, mas precisa rever sua estratégia financeira
+- **Estado:** incluída na agenda de 08/11/2026 por solicitação do editor; aprovada, com apuração, produção e publicação pendentes.
+- **Formato:** reportagem / análise econômica.
+- **Ângulo:** confrontar os indicadores do relatório financeiro oficial do terceiro trimestre com a projeção de déficit no fechamento de 2026 e a meta de arrecadação com vendas de atletas em 2027. Explicar as diferenças entre receitas, resultado contábil, fluxo de caixa, investimentos e dívida.
+- **Base documental a conferir:** R$ 1,17 bilhão em receita recorrente; R$ 289,9 milhões em EBITDA recorrente; superávit acumulado de R$ 4,5 milhões; R$ 667,7 milhões investidos em atletas; R$ 333,9 milhões em dívida líquida com atletas; e R$ 84,1 milhões de caixa livre consolidado.
+- **Projeções a atribuir às fontes:** déficit de R$ 40 milhões em 2026 e captação de 40–45 milhões de euros em vendas de atletas em 2027. Não apresentar projeções como resultados realizados.
+- **Checagens obrigatórias:** conferir período, base e natureza de cada indicador no relatório oficial; atribuir as projeções; distinguir orçamento, resultado contábil e fluxo de caixa; não inferir crise de caixa apenas a partir do déficit projetado.
+- **Próxima etapa:** retomar a auditoria dos números e das fontes antes da redação final. A pauta permanece prioritária e não deve ser publicada sem a conferência documental.
