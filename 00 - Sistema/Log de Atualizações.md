@@ -1017,3 +1017,14 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - Registrado o recorte que distingue os três atletas indicados para disputar o Mundial Sub-17 dos dois jogadores do Sub-16 chamados para completar os treinamentos.
 - Apuração, produção e publicação permanecem pendentes; a ficha exige confirmação da lista oficial e do status individual dos atletas antes da redação.
 - Atualizado o Painel de Pautas no GitHub, branch `main`.
+
+
+## 2026-11-08 — Publicação confirmada: final inédita da Copa do Brasil Feminina e campanha pelo Maracanã
+- O editor confirmou a publicação da reportagem **“Flamengo chega à final inédita da Copa do Brasil Feminina, e torcida pede Maracanã”**.
+- **URL pública:** https://fla10.news/noticias/flamengo-chega-a-final-inedita-da-copa-do-brasil-feminina-e-torcida-pede-maracana
+- Atualizado o Painel de Pautas para registrar a publicação na agenda de 08/11/2026 e encerrar a pauta.
+- Registrado o contexto: Flamengo enfrentará o Internacional na final em dois jogos, previstos para 11 e 15/11; o sorteio da CBF definirá a ordem dos mandos.
+- A reportagem aborda a mobilização de torcedores nas redes sociais pela realização do mando rubro-negro no Maracanã e mantém como não confirmada a utilização do estádio.
+- A matéria evita afirmar que o Flamengo não disputava decisão nacional desde 2016; o marco histórico adotado é a primeira final do clube na Copa do Brasil Feminina.
+- Criada a ficha editorial `06 - Pautas/2026-11-08 - Flamengo chega à final inédita da Copa do Brasil Feminina e torcida pede Maracanã.md`.
+- Alterações documentais realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.
