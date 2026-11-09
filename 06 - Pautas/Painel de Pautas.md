@@ -2605,3 +2605,15 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 - **Ângulo:** lateral uruguaio considera a renovação contratual seu maior passo no clube, relembra o início difícil, elogia a força da torcida e conta como viveu o Aerofla antes da final da Libertadores de 2025.
 - **Contexto contratual:** renovação oficializada em 15/08/2025, com vínculo até dezembro de 2027.
 - **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações.
+
+
+## Publicação confirmada — Boteco Fla10 News: A taça já está na vitrine (09/11/2026)
+
+- **Estado:** publicada em 09/11/2026, conforme confirmação explícita do editor.
+- **Título:** *A TAÇA JÁ ESTÁ NA VITRINE, MAS AINDA FALTA BUSCAR! E A PORCADA NÃO PARA DE OLHAR PRA NOSSA MESA!*
+- **URL pública:** https://fla10.news/voz-torcedor/a-taca-ja-esta-na-vitrine-mas-ainda-falta-buscar-e-a-porcada-nao-para-de-olhar-pra-nossa-mesa
+- **Formato:** A Voz do Torcedor — Boteco Fla10 News / Cadu na mesa do bar.
+- **Autor/personagem editorial:** Cadu Marques.
+- **Ângulo:** Flamengo lidera o Brasileirão com 76 pontos, três à frente do Palmeiras, a quatro rodadas do fim; a crônica aborda a invencibilidade, a fase de Pedro, os oito jogadores pendurados e os confrontos com Athletico-PR e Palmeiras.
+- **Proveniência:** texto-base fornecido pelo editor; formatação editorial, marcadores de parágrafo e pacote de SEO preparados em colaboração.
+- **Registro editorial:** publicação confirmada pelo editor; peça encerrada e incluída no histórico de publicações.
