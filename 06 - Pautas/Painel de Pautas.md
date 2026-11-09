@@ -2562,6 +2562,15 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 
 
 
+### Reportagem — Flamengo chega à final inédita da Copa do Brasil Feminina, e torcida pede Maracanã
+- **Estado:** publicada em 08/11/2026, conforme confirmação explícita do editor.
+- **URL pública:** https://fla10.news/noticias/flamengo-chega-a-final-inedita-da-copa-do-brasil-feminina-e-torcida-pede-maracana
+- **Formato:** reportagem / notícia especial sobre a classificação inédita à final e a mobilização de torcedores pelo Maracanã.
+- **Adversário:** Internacional; final em dois jogos, previstos para 11 e 15/11/2026.
+- **Ângulo:** primeira final do Flamengo na história da Copa do Brasil Feminina; campanha nas redes sociais para que o clube leve ao Maracanã o jogo em que tiver o mando de campo.
+- **Ressalvas registradas:** ordem dos mandos, estádios e horários dependem de confirmação oficial; não havia posicionamento público do Flamengo confirmando a utilização do Maracanã no momento da publicação. A alegação de “primeira decisão nacional desde 2016” não foi reproduzida como fato absoluto, pois o clube disputou a final da Supercopa em 2023.
+- **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações.
+
 ### Depois do Apito — A camisa pesa do mesmo jeito
 - **Estado:** publicada em 08/11/2026, conforme confirmação explícita do editor.
 - **Formato:** crônica autoral da coluna Depois do Apito, na voz editorial de Miguel Sampaio.
