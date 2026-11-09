@@ -2588,3 +2588,12 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 - **Tema:** identidade rubro-negra para além do futebol masculino e reconhecimento das equipes que representam o Flamengo em outras modalidades.
 - **Ponto de partida:** classificação do Flamengo Maricá para a final da Copa do Brasil Feminina, após vitória por 3 a 2 sobre o Bahia.
 - **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações.
+
+
+### Notícia — Varela aponta renovação como maior passo de sua trajetória no Flamengo e exalta força da torcida
+- **Estado:** publicada em 08/11/2026, conforme confirmação explícita do editor.
+- **URL pública:** https://fla10.news/noticias/varela-aponta-renovacao-como-maior-passo-de-sua-trajetoria-no-flamengo-e-exalta-forca-da-torcida
+- **Formato:** notícia baseada em entrevista concedida à Flamengo TV.
+- **Ângulo:** lateral uruguaio considera a renovação contratual seu maior passo no clube, relembra o início difícil, elogia a força da torcida e conta como viveu o Aerofla antes da final da Libertadores de 2025.
+- **Contexto contratual:** renovação oficializada em 15/08/2025, com vínculo até dezembro de 2027.
+- **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações.
