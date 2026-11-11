@@ -38,10 +38,13 @@ Serviço da final inédita, centrado no jogo de ida e na construção de vantage
 - **Título inédito** para os dois clubes na competição.
 
 ## Pacote de SEO
-- **Título SEO, meta description e palavras-chave:** não informados na confirmação de publicação; conferir no CMS se necessário.
+- O pacote SEO é metadado para mecanismos de busca e não aparece na página publicada; **não verificável na página pública**.
+- Se houver necessidade de conferência editorial, consultar o CMS.
+
+## Nomenclatura
+- O time feminino é identificado como **Flamengo Maricá**, conforme regra registrada na Identidade Editorial. O uso de "Flamengo" isolado no corpo da matéria publicada é uma inconsistência a evitar nas próximas peças.
 
 ## Pendências
-- Confirmar se o nome "Maricá" deve constar em futuras referências: o título publicado usa "Flamengo Maricá" e o corpo usa "Flamengo".
 - A informação de entrada gratuita circulou em veículos de imprensa, mas não aparece na matéria publicada; não tratar como confirmada pelo clube.
 
 ## Estado

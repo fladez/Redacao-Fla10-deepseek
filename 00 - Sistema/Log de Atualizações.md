@@ -1058,3 +1058,12 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - Atualizado o Painel de Pautas: duas publicações confirmadas, agenda de 11/11 com a final da Copa do Brasil Feminina e tabela de Onde Assistir complementada.
 - Proveniência do Onde Assistir registrada como produção interna (autoria na página publicada); proveniência da tirinha marcada como **a confirmar**, pois a origem da arte não foi informada.
 - Alterações documentais realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.
+
+
+## 2026-11-11 — Correção de proveniência e registro de regras editoriais
+- Por informação do editor, a tirinha **“O Gramado Sintético”** foi reclassificada como **fonte externa**; atualizados a ficha (`origem: fonte externa`) e o Painel de Pautas, incluindo a pauta de origem na agenda de 09/11.
+- Registrada a regra de nomenclatura: o time feminino é identificado como **Flamengo Maricá** e o masculino apenas como **Flamengo**. Documento canônico atualizado: `01 - Manual Editorial/Identidade Editorial.md`.
+- Registrada a natureza do pacote SEO: metadado para mecanismos de busca, não visível na página publicada. Documento canônico atualizado: `01 - Manual Editorial/SEO e Google Discover.md`.
+- Corrigidas as fichas das duas publicações de 11/11 quanto à verificação do pacote SEO: registro como “não verificável na página pública”.
+- Decisões de nomenclatura e de visibilidade do pacote SEO registradas em `00 - Sistema/Registro de Decisões.md`.
+- Alterações documentais realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.

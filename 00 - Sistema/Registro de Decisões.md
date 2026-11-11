@@ -59,3 +59,21 @@ Adicionar novas entradas abaixo. Ao mudar uma regra, atualizar também o documen
 - **Impacto operacional:** a confirmação de publicação passa a acionar um ciclo documental completo; mudanças permanentes de método são registradas aqui, enquanto cada publicação é registrada na ficha, no painel e no log.
 - **Documento atualizado:** [[Fluxo de Produção]], [[Painel de Pautas]] e [[Log de Atualizações]].
 - **Estado:** vigente.
+
+
+### Nomenclatura das equipes de futebol
+- **Data:** 2026-11-11
+- **Decisão:** identificar o time feminino do Flamengo como **Flamengo Maricá** e o time masculino apenas como **Flamengo**.
+- **Motivo/contexto:** o time feminino passou a ser identificado como Flamengo Maricá; o uso genérico de “Flamengo” para as duas equipes gera ambiguidade em títulos, fichas e registros.
+- **Impacto operacional:** aplicar em títulos, subtítulos, corpo, pacote SEO e fichas; em registros internos, usar o nome completo da modalidade.
+- **Documento atualizado:** [[Identidade Editorial]].
+- **Estado:** vigente.
+
+
+### Pacote SEO é metadado, não conteúdo visível
+- **Data:** 2026-11-11
+- **Decisão:** o pacote SEO (título SEO, meta description, palavra-chave principal e secundárias) não aparece na matéria publicada; é metadado lido pelos mecanismos de busca.
+- **Motivo/contexto:** evitar que a ausência do bloco na leitura pública seja registrada como falha de publicação ou de preenchimento.
+- **Impacto operacional:** fichas e revisões não devem registrar SEO como ausente com base na página publicada; sem acesso ao CMS, registrar “não verificável na página pública”.
+- **Documento atualizado:** [[SEO e Google Discover]].
+- **Estado:** vigente.

@@ -53,3 +53,10 @@ A perspectiva do torcedor é parte do contexto, não substituto da apuração. O
 
 ## Aplicação por gênero
 A notícia deve priorizar fatos e atualizações; a análise deve explicitar critérios e evidências; a reportagem deve apurar e contextualizar; a crônica deve interpretar sem inventar acontecimentos; o conteúdo de torcedor pode ser coloquial, mas deve distinguir opinião de fato. Consultar o manual específico de cada formato.
+
+## Nomenclatura das equipes de futebol
+
+- **Futebol feminino:** a equipe do Flamengo é identificada como **Flamengo Maricá**, inclusive em títulos, subtítulos, corpo e pacote SEO.
+- **Futebol masculino:** usar apenas **Flamengo**.
+- Não usar “Flamengo” isolado para o time feminino quando isso gerar ambiguidade, nem “Flamengo Maricá” para o time masculino.
+- Nas fichas e registros internos, indicar a equipe pelo nome completo para evitar confusão de modalidade.

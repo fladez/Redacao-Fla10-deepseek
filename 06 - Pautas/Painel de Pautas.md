@@ -2540,6 +2540,7 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 - **URL pública:** https://fla10.news/tirinhas/gramado-sintetico
 - **Formato:** tirinha curta e compartilhável da série Fla Tirinhas, em quatro quadros.
 - **Tema/personagem:** Seu Valdir; confronto entre futebol de barro e gramado sintético.
+- **Proveniência:** fonte externa.
 - **Ficha editorial:** [[2026-11-11 - Fla Tirinhas - O Gramado Sintético]].
 - **Fluxo:** tema definido, produção e publicação concluídas; registro concluído no GitHub em 11/11/2026.
 
@@ -2657,6 +2658,6 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 - **Formato:** Fla10 Tirinhas — tirinha em quatro quadros, com o personagem Seu Valdir.
 - **Ângulo:** humor sobre o contraste entre o futebol "raiz" e o gramado sintético moderno, com chamada final ao torcedor.
 - **Pauta de origem:** Fla Tirinhas — Seu Valdir, incluída na agenda de 09/11/2026.
-- **Proveniência:** publicação confirmada pelo editor; origem da arte e do roteiro não informada — **a confirmar** entre produção interna e fonte externa.
+- **Proveniência:** **fonte externa**, conforme informação do editor; marca de proveniência registrada apenas nos metadados internos, sem inserção no conteúdo público.
 - **Ficha editorial:** [[2026-11-11 - Fla Tirinhas - O Gramado Sintético]].
 - **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações.

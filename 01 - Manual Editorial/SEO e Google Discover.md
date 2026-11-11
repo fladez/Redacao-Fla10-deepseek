@@ -45,3 +45,11 @@ Para informações temporais, incluir datas claras quando isso evitar ambiguidad
 - [ ] Meta description resume o conteúdo real.
 - [ ] Resumo para IA incluído quando solicitado/aplicável.
 - [ ] Nenhuma promessa exagerada ou palavra-chave artificial.
+
+## Visibilidade do pacote SEO
+
+O pacote SEO é metadado de publicação, não conteúdo editorial visível: título SEO, meta description e palavras-chave são lidos pelos mecanismos de busca e não aparecem no corpo ou na página lida pelo torcedor.
+
+- A ausência do bloco na leitura pública não significa que ele não tenha sido preenchido.
+- Em fichas e revisões, não registrar o pacote SEO como ausente com base na página publicada; quando não houver acesso ao CMS, usar “não verificável na página pública”.
+- A conferência editorial do pacote, quando necessária, é feita no CMS ou no código-fonte da página, não no texto visível.
