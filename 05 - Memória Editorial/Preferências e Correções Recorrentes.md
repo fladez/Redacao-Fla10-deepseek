@@ -18,6 +18,7 @@ Este documento reúne preferências duradouras observadas na colaboração. As r
 - Evitar que notícia pós-jogo, análise tática e crônica repitam o mesmo conteúdo.
 - Ser direto, reconhecer erros e incertezas e não concordar automaticamente com premissas duvidosas.
 - Em Onde Assistir das demais modalidades, seguir a composição do padrão do canal: contexto antes do serviço e ficha técnica ao final, corpo de 550 a 650 palavras; manter Resumo para IA e pacote SEO. O Onde Assistir do futebol masculino profissional tem modelo próprio, a ser fornecido pelo editor.
+- Em Onde Assistir, a transmissão só é informada no bloco final; a abertura não nomeia canais, apenas informa que haverá transmissão. Não antecipar canais no lead nem no Resumo para IA.
 
 ## Manutenção
 Adicionar preferências quando forem recorrentes ou explicitamente definidas como regra. Se já houver um documento canônico, manter aqui apenas o resumo e criar link para ele.

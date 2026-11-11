@@ -25,6 +25,7 @@
 - **Contexto sem overreach:** o retrospecto do Campeonato Carioca entra como contexto, com a ressalva de que não determina o cenário atual da Superliga.
 - **Incerteza explícita:** escalações e arbitragem são declaradas não confirmadas ou não localizadas, em vez de silenciadas ou preenchidas com suposição.
 - **Retorno de atleta:** a estreia da central recuperada de lesão entra como informação apurada, descrevendo o tipo de lesão sem especular sobre prazo ou gravidade.
+- **Transmissão apenas no fim:** a abertura diz que haverá transmissão, sem nomear canais; a informação de onde assistir fica no bloco final, por decisão editorial — o leitor precisa percorrer a matéria até o fim. Não antecipar canais no lead nem no Resumo para IA.
 - **Serviço além da TV:** ingressos e atração de pré-jogo são tratados como utilidade para o torcedor.
 - **Fatos dinâmicos:** campanha, resultados e posição são reconstruídos a partir das rodadas; não há reaproveitamento automático de texto anterior.
 

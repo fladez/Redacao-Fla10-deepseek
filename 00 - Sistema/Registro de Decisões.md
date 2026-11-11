@@ -77,3 +77,12 @@ Adicionar novas entradas abaixo. Ao mudar uma regra, atualizar também o documen
 - **Impacto operacional:** fichas e revisões não devem registrar SEO como ausente com base na página publicada; sem acesso ao CMS, registrar “não verificável na página pública”.
 - **Documento atualizado:** [[SEO e Google Discover]].
 - **Estado:** vigente.
+
+
+### Transmissão apenas no fim da matéria de Onde Assistir
+- **Data:** 2026-11-11
+- **Decisão:** em matérias de Onde Assistir, a informação de transmissão (emissoras, canais e plataformas) aparece somente no bloco final "Onde assistir" e na ficha técnica. A abertura e o subtítulo podem dizer que haverá transmissão, sem nomear canais; o Resumo para IA segue a mesma regra.
+- **Motivo/contexto:** a informação de onde assistir ao final obriga o leitor a percorrer a matéria integralmente; antecipar canais no lead encerra a leitura cedo e gerou duplicação na publicação de 11/11.
+- **Impacto operacional:** não inserir canais no lead nem no Resumo para IA; a seção "Onde assistir" fica próxima do fim, antes da ficha técnica.
+- **Documento atualizado:** [[Onde Assistir]].
+- **Estado:** vigente.

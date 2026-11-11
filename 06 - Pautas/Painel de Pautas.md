@@ -2680,6 +2680,6 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 - **Serviço registrado:** 12/11/2026, às 21h (de Brasília), no Maracanãzinho (RJ); transmissão por SporTV 2 e Globoplay; ingressos pela plataforma Guichê Web; DJ Marlboro a partir das 19h30; arbitragem não divulgada nas informações consultadas.
 - **Ângulo:** retorno do time ao Maracanãzinho na temporada, invencibilidade sem sets perdidos e reencontro com o Fluminense, que venceu um dos três confrontos do ano.
 - **Proveniência:** produção interna colaborativa — pauta produzida pela IA em colaboração com o editor.
-- **Ajustes editoriais observados:** Resumo para IA publicado no topo, antes do corpo; a página traz dois parágrafos de abertura equivalentes (duplicação a corrigir no CMS); a seção do Fluminense foi publicada antes da do Flamengo.
+- **Ajustes editoriais observados:** Resumo para IA publicado no topo, antes do corpo; **abertura duplicada a corrigir no CMS** — o parágrafo correto é o segundo, sem canais, e o primeiro (versão inicial da IA, que listava SporTV 2 e Globoplay) deve ser removido; a seção do Fluminense foi publicada antes da do Flamengo. **Regra:** a transmissão aparece apenas no bloco final.
 - **Ficha editorial:** [[2026-11-11 - Sesc RJ Flamengo x Fluminense - onde assistir Superliga Feminina]].
 - **Registro editorial:** publicação confirmada pelo editor; pauta de serviço encerrada e incluída no histórico de publicações. O local do evento no Painel foi corrigido de Tijuca para Maracanãzinho.

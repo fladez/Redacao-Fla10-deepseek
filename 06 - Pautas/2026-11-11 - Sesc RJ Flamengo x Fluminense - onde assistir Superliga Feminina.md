@@ -44,7 +44,8 @@ Serviço da quinta rodada centrado no retorno do time ao Maracanãzinho na tempo
 
 ## Ajustes editoriais observados na publicação
 - **Resumo para IA** reposicionado para o topo, antes do corpo.
-- **Abertura duplicada:** a página publicada traz dois parágrafos de serviço equivalentes — um de abertura e o texto original da IA. A duplicação deve ser corrigida no CMS.
+- **Abertura duplicada:** a página publicada traz dois parágrafos de serviço equivalentes. O parágrafo correto é o segundo ("O Sesc RJ Flamengo volta à quadra nesta quinta-feira..."), que não nomeia canais. O primeiro, que lista SporTV 2 e Globoplay, é a versão inicial da IA e **deve ser removido no CMS**.
+- **Transmissão:** pela regra editorial, canais e plataformas aparecem apenas no bloco final "Onde assistir" e na ficha técnica; confirmar que o bloco permanece ao final após a correção.
 - **Ordem das seções:** "Como chega o Fluminense" foi publicado antes de "Como chega o Sesc RJ Flamengo".
 - Imagens (três) e links internos "Leia Também" acrescentados; o negrito dos canais foi mantido.
 - Autoria atribuída a Thiago Silva no portal.

@@ -47,3 +47,9 @@ Além da estrutura mínima, seguir a ordem editorial observada no padrão de pub
 Extensão de referência: 550 a 650 palavras, em parágrafos curtos e médios. Evitar cravar posição na tabela quando ela muda dentro da rodada; preferir pontos e "disputa pelas primeiras posições". O Resumo para IA e o pacote SEO continuam obrigatórios no fluxo Fla10, mesmo que não apareçam no corpo.
 
 Referência anotada: [[Modelo de Onde Assistir — padrão do canal (anotado)]].
+
+## Divulgação da transmissão
+
+A informação de transmissão (emissoras, canais e plataformas) aparece **somente no bloco final "Onde assistir"** e na ficha técnica. A abertura e o subtítulo podem informar que haverá transmissão, sem nomear canais; o Resumo para IA segue a mesma regra. Não antecipar canais no lead.
+
+Motivo: decisão editorial de 11/11/2026 — a informação de onde assistir ao final obriga o leitor a percorrer a matéria integralmente. A antecipação no lead encerra a leitura cedo e gerou duplicação na publicação de 11/11.

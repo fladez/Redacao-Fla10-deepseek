@@ -1111,3 +1111,11 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - **Observações da publicação:** Resumo para IA publicado no topo, antes do corpo; a página traz dois parágrafos de abertura equivalentes (duplicação a corrigir no CMS); ordem das seções alterada (Fluminense antes do Flamengo); três imagens e links internos "Leia Também" incluídos.
 - Registrada em `01 - Manual Editorial/SEO e Google Discover.md` a posição do Resumo para IA no topo da matéria publicada; exemplar de Onde Assistir atualizado com as observações da primeira publicação.
 - Alterações documentais realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.
+
+
+## 2026-11-11 — Correção editorial: transmissão apenas no fim do Onde Assistir
+- O editor confirmou que a duplicação de abertura na publicação de 11/11 está errada: o parágrafo correto é o que **não** nomeia canais de transmissão; o primeiro parágrafo, versão inicial da IA, deve ser removido no CMS.
+- Registrada a regra: em Onde Assistir, a transmissão (emissoras, canais e plataformas) aparece **somente no bloco final "Onde assistir"** e na ficha técnica; abertura e subtítulo informam apenas que haverá transmissão; o Resumo para IA segue a mesma restrição. Motivo: obrigar o leitor a percorrer a matéria até o fim.
+- Atualizados o manual de Onde Assistir, as Preferências, o Registro de Decisões, a ficha da publicação, o Painel de Pautas e o exemplar anotado.
+- **Correção pendente no CMS:** remover o primeiro parágrafo da matéria publicada e manter o lead sem canais; confirmar que a seção "Onde assistir" permanece ao final, antes da ficha técnica.
+- Alterações documentais realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.
