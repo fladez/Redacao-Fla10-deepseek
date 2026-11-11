@@ -59,6 +59,7 @@
 - [[Modelo de Briefing de Pauta]]
 - [[Modelo de Revisão Editorial]]
 - [[Modelo de Ficha de Apuração]]
+- [[Modelo de Onde Assistir — padrão do canal (anotado)]]
 
 ## Como manter este índice
 Ao criar um documento permanente, adicione aqui um link. Para documentos ainda não escritos, os links funcionam como lista de construção. Não considere um tópico concluído apenas porque aparece no índice.

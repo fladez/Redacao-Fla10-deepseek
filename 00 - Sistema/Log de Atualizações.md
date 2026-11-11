@@ -1085,3 +1085,11 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - Tabela de Onde Assistir reprogramada: linha do Fluminense movida de 17/11 (jogo em 18/11) para 24/11 (jogo em 25/11).
 - **Calendário fechado:** segundo o editor, não houve outras alterações na tabela do Carioca Feminino para o Flamengo Maricá além da 3ª rodada (Botafogo, 18/11) e desta 5ª rodada (Fluminense, 25/11); permanece a 4ª rodada em 14/11 contra o Vasco.
 - Alterações documentais realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.
+
+
+## 2026-11-11 — Registro do padrão do canal para Onde Assistir
+- O editor forneceu um modelo de publicação padrão do canal no formato Onde Assistir; o texto integral não foi reproduzido no vault.
+- Criado o exemplar anotado `09 - Modelos/Modelo de Onde Assistir — padrão do canal (anotado).md`, com estrutura observada, extensão de referência, escolhas jornalísticas e de redação, diferenças em relação à primeira versão da IA e fatos a reconfirmar.
+- Atualizado o manual `03 - Formatos/Onde Assistir.md` com a seção "Composição no padrão do canal", apontando para o exemplar.
+- Incluída a referência no `00 - Sistema/Índice.md` e um resumo em `05 - Memória Editorial/Preferências e Correções Recorrentes.md`.
+- Alterações documentais realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.

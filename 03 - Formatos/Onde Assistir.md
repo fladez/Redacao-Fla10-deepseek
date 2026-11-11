@@ -30,3 +30,18 @@ Responder rapidamente onde, quando e em que contexto o jogo será disputado, sem
 - [ ] Prováveis escalações atribuídas e qualificadas.
 - [ ] Arbitragem verificada ou ausência de divulgação informada.
 - [ ] Resumo para IA e SEO incluídos quando necessários.
+
+## Composição no padrão do canal
+
+Além da estrutura mínima, seguir a ordem editorial observada no padrão de publicação do canal:
+
+1. Abertura em dois parágrafos: serviço essencial e ângulo jornalístico.
+2. Como chega o Flamengo: campanha, resultados e destaques.
+3. Como chega o adversário: campanha e retrospecto contextualizado, com ressalva de que não determina o jogo.
+4. Escalações e arbitragem: declarar a ausência de confirmação quando for o caso.
+5. Onde assistir: canais confirmados e, quando houver, ingressos e ambiente.
+6. Ficha técnica ao final, com competição, data, horário, local, transmissão, ingressos e arbitragem.
+
+Extensão de referência: 550 a 650 palavras, em parágrafos curtos e médios. Evitar cravar posição na tabela quando ela muda dentro da rodada; preferir pontos e "disputa pelas primeiras posições". O Resumo para IA e o pacote SEO continuam obrigatórios no fluxo Fla10, mesmo que não apareçam no corpo.
+
+Referência anotada: [[Modelo de Onde Assistir — padrão do canal (anotado)]].
