@@ -1046,3 +1046,15 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - Registrados os eixos: disputa do Brasileirão, jogadores pendurados, sondagens por Samuel Lino, final da Copa do Brasil Feminina e retorno de Danilo aos trabalhos no gramado.
 - Proveniência: texto-base fornecido pelo editor; marcadores de fim de parágrafo e pacote de SEO preparados em colaboração.
 - Alterações documentais realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo publicado no portal não foi alterado por esta operação.
+
+
+## 2026-11-11 — Publicações confirmadas: Onde Assistir da final feminina e Fla Tirinhas
+- O editor confirmou a publicação de **“Flamengo Maricá x Internacional: onde assistir à final da Copa do Brasil Feminina”**, na seção Feminino, com autoria de Mariana Costa.
+- **URL pública:** https://fla10.news/noticias/flamengo-marica-x-internacional-onde-assistir-a-final-da-copa-do-brasil-feminina
+- Criada a ficha editorial `06 - Pautas/2026-11-11 - Flamengo x Internacional - Onde Assistir final Copa do Brasil Feminina.md`, com status `publicada`, confirmação de publicação, serviço da partida, arbitragem, transmissão e ressalvas.
+- O editor confirmou a publicação da tirinha **“O Gramado Sintético”**, da série Fla Tirinhas, com o personagem Seu Valdir.
+- **URL pública:** https://fla10.news/tirinhas/gramado-sintetico
+- Criada a ficha `06 - Pautas/2026-11-11 - Fla Tirinhas - O Gramado Sintético.md`; a pauta Fla Tirinhas — Seu Valdir, incluída na agenda de 09/11, foi encerrada.
+- Atualizado o Painel de Pautas: duas publicações confirmadas, agenda de 11/11 com a final da Copa do Brasil Feminina e tabela de Onde Assistir complementada.
+- Proveniência do Onde Assistir registrada como produção interna (autoria na página publicada); proveniência da tirinha marcada como **a confirmar**, pois a origem da arte não foi informada.
+- Alterações documentais realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.

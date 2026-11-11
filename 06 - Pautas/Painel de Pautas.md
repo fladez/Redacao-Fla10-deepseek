@@ -1952,9 +1952,12 @@ A pesquisa acadêmica reforça que a identificação com o clube, o comprometime
 - **Cobertura no evento:** pós-jogo quando houver informações suficientes.
 
 ### 11/11/2026 — quarta-feira
-- **Evento:** Flamengo Maricá x Botafogo — Campeonato Carioca Feminino, 3ª rodada.
-- **Pauta de serviço:** Onde assistir — 10/11; confirmar horário, estádio e transmissão.
-- **Cobertura no evento:** pós-jogo quando houver informações suficientes.
+- **Evento 1:** Flamengo Maricá x Botafogo — Campeonato Carioca Feminino, 3ª rodada.
+  - **Pauta de serviço:** Onde assistir — 10/11; confirmar horário, estádio e transmissão.
+  - **Cobertura no evento:** pós-jogo quando houver informações suficientes.
+- **Evento 2:** Flamengo Maricá x Internacional — final da Copa do Brasil Feminina, jogo de ida; 21h30, Estádio Luso-Brasileiro (RJ).
+  - **Pauta de serviço:** Onde Assistir publicada em 11/11/2026; URL registrada na publicação confirmada.
+  - **Cobertura no evento:** pós-jogo após o encerramento da partida.
 
 ### 12/11/2026 — quinta-feira
 - **Evento:** Sesc RJ Flamengo x Fluminense — Superliga Feminina; 21h, Tijuca (RJ).
@@ -2015,6 +2018,7 @@ A pesquisa acadêmica reforça que a identificação com o clube, o comprometime
 | 09/11 | Flamengo x Sesi Franca — NBB | 10/11 | 20h30, Maracanãzinho; confirmar transmissão. |
 | 10/11 | Flamengo x Botafogo — Campeonato Carioca Feminino | 11/11 | 15h, Estádio João Saldanha; confirmar transmissão. |
 | 11/11 | Sesc RJ Flamengo x Fluminense — Superliga Feminina | 12/11 | 21h, Tijuca; confirmar transmissão. |
+| 11/11 | Flamengo Maricá x Internacional — final da Copa do Brasil Feminina (ida) | 11/11 | **Onde Assistir publicada em 11/11/2026**. URL registrada na publicação confirmada. |
 | 13/11 | Vasco x Flamengo — Campeonato Carioca Feminino | 14/11 | 15h, Estádio Nivaldo Pereira; confirmar transmissão. |
 | 16/11 | SESI Vôlei Bauru x Sesc RJ Flamengo — Superliga Feminina | 17/11 | 21h, Bauru; confirmar transmissão. |
 | 17/11 | Flamengo x Athletico Paranaense — Brasileirão | 18/11 | 20h30, Maracanã; equipe principal masculina. |
@@ -2532,11 +2536,12 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 ## Agenda editorial — segunda-feira, 9 de novembro de 2026
 
 ### Fla Tirinhas — Seu Valdir
-- **Estado:** incluída na agenda de 09/11/2026; tema registrado, conceito visual, produção e publicação pendentes.
-- **Formato:** tirinha curta e compartilhável da série Fla Tirinhas.
-- **Tema/personagem:** Seu Valdir.
-- **Próxima etapa:** definir a situação cômica, a fala/punchline e a composição visual antes da produção.
-- **Fluxo:** definir o tema, produzir, publicar e registrar a conclusão no GitHub.
+- **Estado:** publicada em 11/11/2026 como “O Gramado Sintético”, conforme confirmação explícita do editor.
+- **URL pública:** https://fla10.news/tirinhas/gramado-sintetico
+- **Formato:** tirinha curta e compartilhável da série Fla Tirinhas, em quatro quadros.
+- **Tema/personagem:** Seu Valdir; confronto entre futebol de barro e gramado sintético.
+- **Ficha editorial:** [[2026-11-11 - Fla Tirinhas - O Gramado Sintético]].
+- **Fluxo:** tema definido, produção e publicação concluídas; registro concluído no GitHub em 11/11/2026.
 
 
 ### Notícia — Cinco Garotos do Ninho na preparação da Seleção Brasileira Sub-17
@@ -2629,3 +2634,29 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 - **Ângulo:** disputa do Brasileirão entre Flamengo e Palmeiras; oito jogadores rubro-negros pendurados antes do jogo contra o Athletico; sondagens de Roma e clubes sauditas por Samuel Lino; final da Copa do Brasil Feminina contra o Internacional; retorno de Danilo aos trabalhos no gramado.
 - **Proveniência:** texto-base fornecido pelo editor; marcadores de fim de parágrafo e pacote de SEO preparados em colaboração.
 - **Registro editorial:** publicação confirmada pelo editor; peça encerrada e incluída no histórico de publicações.
+
+
+## Publicação confirmada — Flamengo Maricá x Internacional: onde assistir à final da Copa do Brasil Feminina (11/11/2026)
+
+- **Estado:** publicada em 11/11/2026, conforme confirmação explícita do editor.
+- **Título:** *Flamengo Maricá x Internacional: onde assistir à final da Copa do Brasil Feminina*.
+- **URL pública:** https://fla10.news/noticias/flamengo-marica-x-internacional-onde-assistir-a-final-da-copa-do-brasil-feminina
+- **Formato:** Onde Assistir — serviço de jogo da final da Copa do Brasil Feminina (jogo de ida).
+- **Autoria:** Mariana Costa.
+- **Serviço registrado:** 11/11/2026, às 21h30 (de Brasília), no Estádio Luso-Brasileiro, Ilha do Governador (RJ); volta em 15/11/2026, às 16h, no Beira-Rio; transmissão por SporTV, XSports, GE TV, NSports e Lance! (YouTube); arbitragem de Marianna Nanni Batalha (SP), com Neuza Inês Back (SP) e Fabrini Bevilaqua Costa (SP) nas assistências e Elizabete Esmeralda Cordeiro dos Santos Gomes (CE) no VAR.
+- **Ângulo:** serviço da decisão inédita, com foco na construção de vantagem antes da volta em Porto Alegre; não repete a reportagem de 08/11 sobre a classificação e a campanha pelo Maracanã.
+- **Ficha editorial:** [[2026-11-11 - Flamengo x Internacional - Onde Assistir final Copa do Brasil Feminina]].
+- **Registro editorial:** publicação confirmada pelo editor; pauta de serviço encerrada e incluída no histórico de publicações. A agenda de 11/11 foi atualizada para incluir a final, que não constava na programação prospectiva.
+
+
+## Publicação confirmada — Fla Tirinhas: O Gramado Sintético (11/11/2026)
+
+- **Estado:** publicada em 11/11/2026, conforme confirmação explícita do editor.
+- **Título:** *O Gramado Sintético*.
+- **URL pública:** https://fla10.news/tirinhas/gramado-sintetico
+- **Formato:** Fla10 Tirinhas — tirinha em quatro quadros, com o personagem Seu Valdir.
+- **Ângulo:** humor sobre o contraste entre o futebol "raiz" e o gramado sintético moderno, com chamada final ao torcedor.
+- **Pauta de origem:** Fla Tirinhas — Seu Valdir, incluída na agenda de 09/11/2026.
+- **Proveniência:** publicação confirmada pelo editor; origem da arte e do roteiro não informada — **a confirmar** entre produção interna e fonte externa.
+- **Ficha editorial:** [[2026-11-11 - Fla Tirinhas - O Gramado Sintético]].
+- **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações.
