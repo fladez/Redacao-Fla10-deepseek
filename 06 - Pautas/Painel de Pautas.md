@@ -1952,10 +1952,10 @@ A pesquisa acadêmica reforça que a identificação com o clube, o comprometime
 - **Cobertura no evento:** pós-jogo quando houver informações suficientes.
 
 ### 11/11/2026 — quarta-feira
-- **Evento 1:** Flamengo Maricá x Botafogo — Campeonato Carioca Feminino, 3ª rodada.
-  - **Pauta de serviço:** Onde assistir — 10/11; confirmar horário, estádio e transmissão.
-  - **Cobertura no evento:** pós-jogo quando houver informações suficientes.
-- **Evento 2:** Flamengo Maricá x Internacional — final da Copa do Brasil Feminina, jogo de ida; 21h30, Estádio Luso-Brasileiro (RJ).
+- **Evento transferido:** Flamengo Maricá x Botafogo — Campeonato Carioca Feminino, 3ª rodada; transferido para 18/11/2026, às 15h (de Brasília), conforme informação do editor. Não ocorre nesta data.
+  - **Pauta de serviço:** Onde assistir reprogramada para 17/11; confirmar estádio e transmissão.
+  - **Cobertura no evento:** pós-jogo em 18/11, após o encerramento.
+- **Evento:** Flamengo Maricá x Internacional — final da Copa do Brasil Feminina, jogo de ida; 21h30, Estádio Luso-Brasileiro (RJ).
   - **Pauta de serviço:** Onde Assistir publicada em 11/11/2026; URL registrada na publicação confirmada.
   - **Cobertura no evento:** pós-jogo após o encerramento da partida.
 
@@ -1979,10 +1979,15 @@ A pesquisa acadêmica reforça que a identificação com o clube, o comprometime
   - **Pauta de serviço:** Onde assistir — 17/11.
   - **Cobertura no evento:** pré-jogo pela manhã; pós-jogo; análise jornalística; Depois do Apito; Raio-X Tático.
   - **Classificação editorial:** futebol masculino profissional — equipe principal.
-- **Evento 2:** Flamengo Maricá x Fluminense — Campeonato Carioca Feminino, 5ª rodada.
+- **Evento 2:** Flamengo Maricá x Botafogo — Campeonato Carioca Feminino, 3ª rodada; 15h (de Brasília); Estádio João Saldanha (confirmar).
+  - **Pauta de serviço:** Onde assistir — 17/11; confirmar estádio e transmissão.
+  - **Cobertura no evento:** pós-jogo quando houver informações suficientes.
+  - **Observação:** partida transferida de 11/11/2026 por informação do editor.
+- **Evento 3:** Flamengo Maricá x Fluminense — Campeonato Carioca Feminino, 5ª rodada.
   - **Pauta de serviço:** Onde assistir — 17/11; confirmar horário, estádio e transmissão.
   - **Cobertura no evento:** pós-jogo quando houver informações suficientes.
-- **Atenção de planejamento:** verificar os horários oficiais para identificar eventual sobreposição de produção e publicação.
+  - **Observação:** confirmar a validade desta data; com a transferência, o Painel passa a registrar dois jogos do futebol feminino em 18/11, às 15h, e a sequência de rodadas (4ª em 14/11 e 3ª em 18/11) precisa ser reconferida na tabela oficial.
+- **Atenção de planejamento:** verificar os horários oficiais para identificar eventual sobreposição de produção e publicação; em 18/11 há três eventos no mesmo dia, dois deles do futebol feminino.
 
 ### 21/11/2026 — sábado
 - **Evento:** Palmeiras x Flamengo — Brasileirão; 16h30, Nubank Parque.
@@ -2016,13 +2021,13 @@ A pesquisa acadêmica reforça que a identificação com o clube, o comprometime
 | 06/11 | Flamengo x Bahia — Copa do Brasil Feminina | 07/11 | 21h30, Luso-Brasileiro; confirmar transmissão. |
 | 06/11 | Pato Basquete x Flamengo — NBB | 07/11 | 19h; transmissão indicada pela LNB: Xsports e Flamengo TV. Confirmar local exato. |
 | 09/11 | Flamengo x Sesi Franca — NBB | 10/11 | 20h30, Maracanãzinho; confirmar transmissão. |
-| 10/11 | Flamengo x Botafogo — Campeonato Carioca Feminino | 11/11 | 15h, Estádio João Saldanha; confirmar transmissão. |
 | 11/11 | Sesc RJ Flamengo x Fluminense — Superliga Feminina | 12/11 | 21h, Tijuca; confirmar transmissão. |
 | 11/11 | Flamengo Maricá x Internacional — final da Copa do Brasil Feminina (ida) | 11/11 | **Onde Assistir publicada em 11/11/2026**. URL registrada na publicação confirmada. |
-| 13/11 | Vasco x Flamengo — Campeonato Carioca Feminino | 14/11 | 15h, Estádio Nivaldo Pereira; confirmar transmissão. |
+| 13/11 | Vasco x Flamengo Maricá — Campeonato Carioca Feminino (4ª rodada) | 14/11 | 15h, Estádio Nivaldo Pereira; confirmar transmissão. |
 | 16/11 | SESI Vôlei Bauru x Sesc RJ Flamengo — Superliga Feminina | 17/11 | 21h, Bauru; confirmar transmissão. |
+| 17/11 | Flamengo Maricá x Botafogo — Campeonato Carioca Feminino (3ª rodada) | 18/11 | 15h (de Brasília); Estádio João Saldanha (confirmar); transmissão a confirmar. **Pauta transferida de 11/11.** |
 | 17/11 | Flamengo x Athletico Paranaense — Brasileirão | 18/11 | 20h30, Maracanã; equipe principal masculina. |
-| 17/11 | Flamengo x Fluminense — Campeonato Carioca Feminino | 18/11 | 15h, Estádio João Saldanha; confirmar transmissão. |
+| 17/11 | Flamengo Maricá x Fluminense — Campeonato Carioca Feminino (5ª rodada) | 18/11 | 15h, Estádio João Saldanha; confirmar transmissão. **Confirmar data/horário: colide com a 3ª rodada (Botafogo) transferida para 18/11.** |
 | 20/11 | Palmeiras x Flamengo — Brasileirão | 21/11 | 16h30; equipe principal masculina. Confirmar estádio e transmissão na apuração. |
 | 22/11 | Sesc RJ Flamengo x Osasco São Cristóvão Saúde — Superliga Feminina | 23/11 | 21h, Tijuca; confirmar transmissão. |
 

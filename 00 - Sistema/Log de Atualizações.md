@@ -1067,3 +1067,12 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - Corrigidas as fichas das duas publicações de 11/11 quanto à verificação do pacote SEO: registro como “não verificável na página pública”.
 - Decisões de nomenclatura e de visibilidade do pacote SEO registradas em `00 - Sistema/Registro de Decisões.md`.
 - Alterações documentais realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.
+
+
+## 2026-11-11 — Transferência de pauta: Flamengo Maricá x Botafogo para 18/11
+- Por informação do editor, a partida **Flamengo Maricá x Botafogo** (Campeonato Carioca Feminino, 3ª rodada), prevista para 11/11/2026, foi transferida para **18/11/2026, às 15h (de Brasília)**.
+- Agenda de 11/11 atualizada: o evento passou a constar como transferido, sem pós-jogo nesta data.
+- Agenda de 18/11 atualizada: incluída a 3ª rodada com pauta de serviço em 17/11 e cobertura de pós-jogo.
+- Tabela de Onde Assistir reprogramada: linha movida de 10/11 (jogo em 11/11) para 17/11 (jogo em 18/11).
+- **Alerta registrado:** o Painel já tinha, em 18/11, o jogo Flamengo Maricá x Fluminense pela 5ª rodada, às 15h, no mesmo estádio; a sequência de rodadas também fica fora de ordem (4ª rodada em 14/11 e 3ª em 18/11). Aguardando confirmação da tabela oficial do Carioca Feminino antes de programar produção.
+- Alterações documentais realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.
