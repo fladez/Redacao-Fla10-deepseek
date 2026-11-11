@@ -1037,3 +1037,12 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - Atualizado o Painel de Pautas para registrar a publicação e encerrar a peça.
 - Proveniência registrada: texto-base fornecido pelo editor; formatação editorial, marcadores de parágrafo e pacote de SEO preparados em colaboração.
 - Alterações documentais realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo publicado no portal não foi alterado por esta operação.
+
+
+## 2026-11-11 — Publicação confirmada: Boteco Fla10 News — duas frentes, mercado e quebra-cabeça de Jardim
+- O editor confirmou a publicação da crônica **“O Mengão tem duas frentes, o mercado está de olho e o Jardim tem um quebra-cabeça nas mãos!”**, assinada por Cadu Marques.
+- **URL pública:** https://fla10.news/voz-torcedor/o-mengao-tem-duas-frentes-o-mercado-esta-de-olho-e-o-jardim-tem-um-quebra-cabeca-nas-maos
+- Atualizado o Painel de Pautas para registrar a publicação e encerrar a peça.
+- Registrados os eixos: disputa do Brasileirão, jogadores pendurados, sondagens por Samuel Lino, final da Copa do Brasil Feminina e retorno de Danilo aos trabalhos no gramado.
+- Proveniência: texto-base fornecido pelo editor; marcadores de fim de parágrafo e pacote de SEO preparados em colaboração.
+- Alterações documentais realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo publicado no portal não foi alterado por esta operação.
