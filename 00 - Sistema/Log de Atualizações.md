@@ -1076,3 +1076,12 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - Tabela de Onde Assistir reprogramada: linha movida de 10/11 (jogo em 11/11) para 17/11 (jogo em 18/11).
 - **Alerta registrado:** o Painel já tinha, em 18/11, o jogo Flamengo Maricá x Fluminense pela 5ª rodada, às 15h, no mesmo estádio; a sequência de rodadas também fica fora de ordem (4ª rodada em 14/11 e 3ª em 18/11). Aguardando confirmação da tabela oficial do Carioca Feminino antes de programar produção.
 - Alterações documentais realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.
+
+
+## 2026-11-11 — Transferência da 5ª rodada: Flamengo Maricá x Fluminense para 25/11
+- Por informação do editor, o clássico **Flamengo Maricá x Fluminense** (Campeonato Carioca Feminino, 5ª rodada), previsto para 18/11/2026, foi transferido para **25/11/2026, às 15h (de Brasília)**.
+- Agenda de 18/11 atualizada: removido o evento da 5ª rodada; permanecem o Brasileirão contra o Athletico-PR e a 3ª rodada (jogo atrasado) contra o Botafogo.
+- Criada a agenda de 25/11 com a 5ª rodada, pauta de serviço em 24/11 e cobertura de pós-jogo.
+- Tabela de Onde Assistir reprogramada: linha do Fluminense movida de 17/11 (jogo em 18/11) para 24/11 (jogo em 25/11).
+- **Calendário fechado:** segundo o editor, não houve outras alterações na tabela do Carioca Feminino para o Flamengo Maricá além da 3ª rodada (Botafogo, 18/11) e desta 5ª rodada (Fluminense, 25/11); permanece a 4ª rodada em 14/11 contra o Vasco.
+- Alterações documentais realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.
