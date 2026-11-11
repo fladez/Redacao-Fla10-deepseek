@@ -1100,3 +1100,14 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - Restringido o escopo no exemplar anotado (`09 - Modelos/Modelo de Onde Assistir — padrão do canal (anotado).md`), no manual `03 - Formatos/Onde Assistir.md` e no resumo das Preferências, para evitar reutilização indevida da composição no futebol masculino.
 - Pendente: definir, quando houver Onde Assistir de futebol feminino ou de base, se a composição segue este modelo ou o do masculino.
 - Alterações documentais realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.
+
+
+## 2026-11-11 — Publicação confirmada: Onde Assistir Sesc RJ Flamengo x Fluminense
+- O editor confirmou a publicação e forneceu a URL.
+- Matéria: **“Sesc RJ Flamengo x Fluminense: onde assistir ao vivo e horário do clássico da Superliga Feminina”**, na seção Superliga, com autoria de Thiago Silva na página.
+- **URL pública:** https://fla10.news/noticias/sesc-rj-flamengo-x-fluminense-onde-assistir-ao-vivo-e-horario-do-classico-da-superliga-feminina
+- Ficha `06 - Pautas/2026-11-11 - Sesc RJ Flamengo x Fluminense - onde assistir Superliga Feminina.md` reescrita com status `publicada`, confirmação de publicação, serviço, apuração, proveniência e ajustes editoriais observados.
+- Painel de Pautas: agenda de 12/11 com local corrigido para Maracanãzinho e serviço marcado como publicado; tabela de Onde Assistir e bloco da Superliga atualizados; nova seção de publicação confirmada.
+- **Observações da publicação:** Resumo para IA publicado no topo, antes do corpo; a página traz dois parágrafos de abertura equivalentes (duplicação a corrigir no CMS); ordem das seções alterada (Fluminense antes do Flamengo); três imagens e links internos "Leia Também" incluídos.
+- Registrada em `01 - Manual Editorial/SEO e Google Discover.md` a posição do Resumo para IA no topo da matéria publicada; exemplar de Onde Assistir atualizado com as observações da primeira publicação.
+- Alterações documentais realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.

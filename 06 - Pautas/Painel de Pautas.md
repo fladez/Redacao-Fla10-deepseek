@@ -1403,9 +1403,9 @@ A pedido do editor, esta seção atualiza a programação corrente e prevalece s
 - **Horário:** 18h30; **local:** Londrina; **transmissão informada:** GE TV.
 
 ### 12/11/2026 — Sesc RJ Flamengo x Fluminense
-- **11/11/2026 — Onde assistir:** pautada; produção pendente. [[2026-11-11 - Sesc RJ Flamengo x Fluminense - onde assistir Superliga Feminina]].
+- **11/11/2026 — Onde assistir:** **publicada em 11/11/2026**. URL registrada na publicação confirmada. [[2026-11-11 - Sesc RJ Flamengo x Fluminense - onde assistir Superliga Feminina]].
 - **12/11/2026 — Pós-jogo:** pautada; produção após a partida. [[2026-11-12 - Sesc RJ Flamengo x Fluminense - pós-jogo Superliga Feminina]].
-- **Horário:** 21h; **local:** Maracanãzinho, Rio de Janeiro; **transmissão informada:** SporTV 2.
+- **Horário:** 21h; **local:** Maracanãzinho, Rio de Janeiro; **transmissão informada:** SporTV 2 e Globoplay.
 
 ### 17/11/2026 — Sesi Bauru x Sesc RJ Flamengo
 - **16/11/2026 — Onde assistir:** pautada; produção pendente. [[2026-11-16 - Sesi Bauru x Sesc RJ Flamengo - onde assistir Superliga Feminina]].
@@ -1960,8 +1960,8 @@ A pesquisa acadêmica reforça que a identificação com o clube, o comprometime
   - **Cobertura no evento:** pós-jogo após o encerramento da partida.
 
 ### 12/11/2026 — quinta-feira
-- **Evento:** Sesc RJ Flamengo x Fluminense — Superliga Feminina; 21h, Tijuca (RJ).
-- **Pauta de serviço:** Onde assistir — 11/11; confirmar transmissão.
+- **Evento:** Sesc RJ Flamengo x Fluminense — Superliga Feminina; 21h, Maracanãzinho (RJ).
+- **Pauta de serviço:** Onde Assistir publicada em 11/11/2026; URL registrada na publicação confirmada. Local corrigido para Maracanãzinho.
 - **Cobertura no evento:** pós-jogo quando houver informações suficientes.
 
 ### 14/11/2026 — sábado
@@ -2023,7 +2023,7 @@ A pesquisa acadêmica reforça que a identificação com o clube, o comprometime
 | 06/11 | Flamengo x Bahia — Copa do Brasil Feminina | 07/11 | 21h30, Luso-Brasileiro; confirmar transmissão. |
 | 06/11 | Pato Basquete x Flamengo — NBB | 07/11 | 19h; transmissão indicada pela LNB: Xsports e Flamengo TV. Confirmar local exato. |
 | 09/11 | Flamengo x Sesi Franca — NBB | 10/11 | 20h30, Maracanãzinho; confirmar transmissão. |
-| 11/11 | Sesc RJ Flamengo x Fluminense — Superliga Feminina | 12/11 | 21h, Tijuca; confirmar transmissão. |
+| 11/11 | Sesc RJ Flamengo x Fluminense — Superliga Feminina | 12/11 | 21h, Maracanãzinho; SporTV 2 e Globoplay. **Onde Assistir publicada em 11/11/2026**. URL registrada na publicação confirmada. |
 | 11/11 | Flamengo Maricá x Internacional — final da Copa do Brasil Feminina (ida) | 11/11 | **Onde Assistir publicada em 11/11/2026**. URL registrada na publicação confirmada. |
 | 13/11 | Vasco x Flamengo Maricá — Campeonato Carioca Feminino (4ª rodada) | 14/11 | 15h, Estádio Nivaldo Pereira; confirmar transmissão. |
 | 16/11 | SESI Vôlei Bauru x Sesc RJ Flamengo — Superliga Feminina | 17/11 | 21h, Bauru; confirmar transmissão. |
@@ -2668,3 +2668,18 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 - **Proveniência:** **fonte externa**, conforme informação do editor; marca de proveniência registrada apenas nos metadados internos, sem inserção no conteúdo público.
 - **Ficha editorial:** [[2026-11-11 - Fla Tirinhas - O Gramado Sintético]].
 - **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações.
+
+
+## Publicação confirmada — Sesc RJ Flamengo x Fluminense: onde assistir ao vivo e horário do clássico da Superliga Feminina (11/11/2026)
+
+- **Estado:** publicada em 11/11/2026, conforme confirmação explícita do editor.
+- **Título:** *Sesc RJ Flamengo x Fluminense: onde assistir ao vivo e horário do clássico da Superliga Feminina*.
+- **URL pública:** https://fla10.news/noticias/sesc-rj-flamengo-x-fluminense-onde-assistir-ao-vivo-e-horario-do-classico-da-superliga-feminina
+- **Formato:** Onde Assistir — serviço de jogo da quinta rodada da Superliga Feminina 2026/2027.
+- **Autoria na página:** Thiago Silva.
+- **Serviço registrado:** 12/11/2026, às 21h (de Brasília), no Maracanãzinho (RJ); transmissão por SporTV 2 e Globoplay; ingressos pela plataforma Guichê Web; DJ Marlboro a partir das 19h30; arbitragem não divulgada nas informações consultadas.
+- **Ângulo:** retorno do time ao Maracanãzinho na temporada, invencibilidade sem sets perdidos e reencontro com o Fluminense, que venceu um dos três confrontos do ano.
+- **Proveniência:** produção interna colaborativa — pauta produzida pela IA em colaboração com o editor.
+- **Ajustes editoriais observados:** Resumo para IA publicado no topo, antes do corpo; a página traz dois parágrafos de abertura equivalentes (duplicação a corrigir no CMS); a seção do Fluminense foi publicada antes da do Flamengo.
+- **Ficha editorial:** [[2026-11-11 - Sesc RJ Flamengo x Fluminense - onde assistir Superliga Feminina]].
+- **Registro editorial:** publicação confirmada pelo editor; pauta de serviço encerrada e incluída no histórico de publicações. O local do evento no Painel foi corrigido de Tijuca para Maracanãzinho.

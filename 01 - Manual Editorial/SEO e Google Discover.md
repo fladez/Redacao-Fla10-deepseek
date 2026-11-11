@@ -21,7 +21,7 @@ Quando a matéria exigir o pacote SEO, entregar ao final:
 O subtítulo deve complementar o título. A abertura deve responder rapidamente à intenção provável do leitor e oferecer contexto suficiente para que a matéria faça sentido mesmo para quem chegou diretamente pela busca ou pelo Discover.
 
 ## Resumo para IA
-Quando solicitado ou previsto pelo formato, incluir uma seção claramente identificada como “Resumo para IA”. Ela deve ser autossuficiente, concisa e factual, sintetizando protagonistas, acontecimento, contexto e consequência. Não incluir especulações como se fossem fatos, nem introduzir informação que não esteja sustentada no texto.
+Quando solicitado ou previsto pelo formato, incluir uma seção claramente identificada como “Resumo para IA”. Ela deve ser autossuficiente, concisa e factual, sintetizando protagonistas, acontecimento, contexto e consequência. Não incluir especulações como se fossem fatos, nem introduzir informação que não esteja sustentada no texto. No padrão de publicação do site, o bloco aparece no topo da matéria, logo após o título e a linha fina e antes do corpo; na entrega, indicar essa posição.
 
 ## Google Discover
 - Priorizar utilidade, atualidade, clareza e ângulo editorial real.
