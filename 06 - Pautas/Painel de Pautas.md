@@ -2617,3 +2617,15 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 - **Ângulo:** Flamengo lidera o Brasileirão com 76 pontos, três à frente do Palmeiras, a quatro rodadas do fim; a crônica aborda a invencibilidade, a fase de Pedro, os oito jogadores pendurados e os confrontos com Athletico-PR e Palmeiras.
 - **Proveniência:** texto-base fornecido pelo editor; formatação editorial, marcadores de parágrafo e pacote de SEO preparados em colaboração.
 - **Registro editorial:** publicação confirmada pelo editor; peça encerrada e incluída no histórico de publicações.
+
+
+## Publicação confirmada — Boteco Fla10 News: duas frentes, mercado e quebra-cabeça de Jardim (11/11/2026)
+
+- **Estado:** publicada em 11/11/2026, conforme confirmação explícita do editor.
+- **Título:** *O Mengão tem duas frentes, o mercado está de olho e o Jardim tem um quebra-cabeça nas mãos!*
+- **URL pública:** https://fla10.news/voz-torcedor/o-mengao-tem-duas-frentes-o-mercado-esta-de-olho-e-o-jardim-tem-um-quebra-cabeca-nas-maos
+- **Formato:** A Voz do Torcedor — Boteco Fla10 News / Cadu na mesa do bar.
+- **Autor/personagem editorial:** Cadu Marques.
+- **Ângulo:** disputa do Brasileirão entre Flamengo e Palmeiras; oito jogadores rubro-negros pendurados antes do jogo contra o Athletico; sondagens de Roma e clubes sauditas por Samuel Lino; final da Copa do Brasil Feminina contra o Internacional; retorno de Danilo aos trabalhos no gramado.
+- **Proveniência:** texto-base fornecido pelo editor; marcadores de fim de parágrafo e pacote de SEO preparados em colaboração.
+- **Registro editorial:** publicação confirmada pelo editor; peça encerrada e incluída no histórico de publicações.
