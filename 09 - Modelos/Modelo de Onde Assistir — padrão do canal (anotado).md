@@ -47,12 +47,16 @@
 ## O que o exemplar não traz (e o fluxo Fla10 exige)
 - O modelo recebido é o corpo da matéria: não inclui **Resumo para IA** nem **pacote SEO**. Esses blocos continuam obrigatórios no fluxo Fla10 quando o formato pede.
 
-## Fatos registrados no modelo para reconfirmação antes de reutilizar
-- Primeiro compromisso do time no Maracanãzinho na temporada 2026/2027.
-- Estreia da central sérvia Minja Osmajic, recuperada de fratura no terceiro dedo da mão direita.
-- Retrospecto no Campeonato Carioca: Fluminense 3 x 1 Flamengo em 10/10/2026; Flamengo 3 x 0 Fluminense em 13/10/2026.
-- Ingressos pela plataforma Guichê Web; DJ Marlboro a partir das 19h30.
-- Campanha do Flamengo na Superliga: quatro vitórias em quatro jogos, todas por 3 a 0, contra Paulistano Barueri, Brasília Vôlei, Batavo Mackenzie e Sancor Londrina.
+## Fatos do modelo — status de verificação (11/11/2026)
+- **Primeiro compromisso no Maracanãzinho na temporada:** confirmado em substância; o time mandou jogos no Tijuca e em outros ginásios, e a CBV oficializou a troca de três partidas para o Maracanãzinho (Web Vôlei, 04/11 e 11/11).
+- **Minja Osmajic, central sérvia:** contratação confirmada (Jogada10, outubro); a lesão é descrita como "fratura em um dedo da mão direita". A estreia na rodada anterior e o detalhe do terceiro dedo **não foram confirmados em fonte independente** — não usar sem checar.
+- **Retrospecto no Carioca:** confirmado em substância. O Fluminense venceu por 3 a 1 na última rodada do Carioca, em outubro, no Tijuca; três dias depois, o Flamengo venceu por 3 a 0 e conquistou o título estadual (Olimpíada Todo Dia e Web Vôlei). O modelo cita 10/10 e 13/10.
+- **Quarto confronto na temporada:** confirmado (Web Vôlei, 11/11); o primeiro foi em setembro, pela Copa SuperVôlei, na Arena Niterói.
+- **Ingressos pela plataforma Guichê Web e DJ Marlboro a partir das 19h30:** confirmados (Web Vôlei, 11/11).
+- **Campanha do Flamengo (quatro vitórias, todas por 3 a 0, 12 pontos):** confirmada (Web Vôlei e JC/UOL).
+- **Transmissão:** Web Vôlei e o modelo citam apenas SporTV 2; o JC/UOL cita SporTV 2 e Globoplay. Divergência registrada; confirmar no dia.
+- **Arbitragem:** não localizada nas fontes consultadas.
+- **Declaração de Tainara** sobre a atmosfera do Maracanãzinho: disponível na prévia do Web Vôlei de 11/11; pode ser usada como citação direta, sem edição de sentido.
 
 ## Regra de uso
 Seguir esta composição em toda matéria de Onde Assistir. O exemplar é referência de estrutura e de escolha editorial; os dados factuais de cada jogo devem ser apurados e reconfirmados no momento da produção.
