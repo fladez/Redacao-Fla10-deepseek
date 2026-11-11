@@ -61,7 +61,7 @@
 
 ## Observações da primeira publicação produzida com este padrão (11/11/2026)
 - O **Resumo para IA** foi publicado no topo, logo após a linha fina e antes do corpo — posição adotada pelo portal.
-- A abertura ficou **duplicada** na página: um parágrafo de serviço e o parágrafo equivalente do texto produzido. Corrigir no CMS.
+- A abertura ficou **duplicada** na página: um parágrafo de serviço (que nomeava canais) e o parágrafo equivalente do texto produzido. Corrigida em 11/11/2026: o parágrafo com canais foi removido e permaneceu o lead sem canais.
 - A ordem das seções foi ajustada na publicação: "Como chega o adversário" antes de "Como chega o Flamengo", com o parágrafo de ressalva e a citação deslocados para a seção rubro-negra.
 - Foram incluídos três imagens e links internos "Leia Também"; o negrito dos canais foi mantido.
 - A autoria publicada no portal foi atribuída a outro jornalista.

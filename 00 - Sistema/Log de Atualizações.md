@@ -1119,3 +1119,10 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - Atualizados o manual de Onde Assistir, as Preferências, o Registro de Decisões, a ficha da publicação, o Painel de Pautas e o exemplar anotado.
 - **Correção pendente no CMS:** remover o primeiro parágrafo da matéria publicada e manter o lead sem canais; confirmar que a seção "Onde assistir" permanece ao final, antes da ficha técnica.
 - Alterações documentais realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.
+
+
+## 2026-11-11 — Correção aplicada no portal: abertura duplicada removida
+- O editor informou que editou a matéria no portal e apagou o parágrafo errado.
+- Verificação na página publicada: a matéria agora começa no lead sem canais ("O Sesc RJ Flamengo volta à quadra nesta quinta-feira..."), seguida do parágrafo de ângulo; a informação de transmissão aparece apenas no bloco final "Onde assistir" e na ficha técnica.
+- Atualizados a ficha da publicação, o Painel de Pautas e o exemplar anotado, com o registro da correção e a confirmação da verificação.
+- Nenhuma alteração documental adicional além do registro; a correção do conteúdo do portal foi feita pelo editor.
