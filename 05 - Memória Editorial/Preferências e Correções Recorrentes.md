@@ -17,7 +17,7 @@ Este documento reúne preferências duradouras observadas na colaboração. As r
 - Em alterações localizadas, não reescrever o texto inteiro sem necessidade.
 - Evitar que notícia pós-jogo, análise tática e crônica repitam o mesmo conteúdo.
 - Ser direto, reconhecer erros e incertezas e não concordar automaticamente com premissas duvidosas.
-- Em Onde Assistir, seguir a composição do padrão do canal: contexto antes do serviço e ficha técnica ao final, corpo de 550 a 650 palavras; manter Resumo para IA e pacote SEO, exigidos no fluxo Fla10.
+- Em Onde Assistir das demais modalidades, seguir a composição do padrão do canal: contexto antes do serviço e ficha técnica ao final, corpo de 550 a 650 palavras; manter Resumo para IA e pacote SEO. O Onde Assistir do futebol masculino profissional tem modelo próprio, a ser fornecido pelo editor.
 
 ## Manutenção
 Adicionar preferências quando forem recorrentes ou explicitamente definidas como regra. Se já houver um documento canônico, manter aqui apenas o resumo e criar link para ele.

@@ -1093,3 +1093,10 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - Atualizado o manual `03 - Formatos/Onde Assistir.md` com a seção "Composição no padrão do canal", apontando para o exemplar.
 - Incluída a referência no `00 - Sistema/Índice.md` e um resumo em `05 - Memória Editorial/Preferências e Correções Recorrentes.md`.
 - Alterações documentais realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.
+
+
+## 2026-11-11 — Escopo do modelo de Onde Assistir
+- O editor esclareceu que o modelo fornecido é de Onde Assistir para as demais modalidades esportivas; o Onde Assistir do futebol masculino profissional tem modelo próprio, a ser fornecido quando houver matéria desse formato.
+- Restringido o escopo no exemplar anotado (`09 - Modelos/Modelo de Onde Assistir — padrão do canal (anotado).md`), no manual `03 - Formatos/Onde Assistir.md` e no resumo das Preferências, para evitar reutilização indevida da composição no futebol masculino.
+- Pendente: definir, quando houver Onde Assistir de futebol feminino ou de base, se a composição segue este modelo ou o do masculino.
+- Alterações documentais realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.

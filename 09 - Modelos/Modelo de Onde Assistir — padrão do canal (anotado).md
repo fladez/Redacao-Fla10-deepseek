@@ -5,7 +5,7 @@
 ## Identificação
 - **Formato:** Onde Assistir (serviço de jogo).
 - **Origem:** modelo do canal fornecido pelo editor em 11/11/2026.
-- **Aplicação:** matérias de serviço de jogo de todas as modalidades; adaptar o recorte esportivo ao evento e à competição.
+- **Aplicação:** demais modalidades esportivas (o exemplo é de vôlei). O Onde Assistir do futebol masculino profissional tem modelo próprio, ainda a ser fornecido pelo editor; não usar esta composição nesse caso.
 
 ## Estrutura observada (ordem do texto)
 1. **Abertura em dois parágrafos:** o primeiro entrega o serviço essencial (quem joga, quando, onde e que haverá transmissão); o segundo instala o ângulo jornalístico da peça (retorno ao Maracanãzinho, invencibilidade e reencontro).

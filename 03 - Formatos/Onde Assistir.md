@@ -31,9 +31,11 @@ Responder rapidamente onde, quando e em que contexto o jogo será disputado, sem
 - [ ] Arbitragem verificada ou ausência de divulgação informada.
 - [ ] Resumo para IA e SEO incluídos quando necessários.
 
-## Composição no padrão do canal
+## Composição no padrão do canal — outras modalidades
 
-Além da estrutura mínima, seguir a ordem editorial observada no padrão de publicação do canal:
+Este padrão foi validado em matéria de outra modalidade (vôlei). O Onde Assistir do futebol masculino profissional tem modelo próprio, a ser fornecido pelo editor; não reutilizar esta composição nesse caso.
+
+Além da estrutura mínima, seguir a ordem editorial observada no padrão de publicação do canal para as demais modalidades:
 
 1. Abertura em dois parágrafos: serviço essencial e ângulo jornalístico.
 2. Como chega o Flamengo: campanha, resultados e destaques.
