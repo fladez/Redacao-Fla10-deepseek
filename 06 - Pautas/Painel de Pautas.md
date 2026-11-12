@@ -1980,12 +1980,12 @@ A pesquisa acadêmica reforça que a identificação com o clube, o comprometime
   - **Por que agora:** nota oficial de 12/11/2026; treinamento de pódio em 13/11 e provas em 14 e 15/11.
   - **Checagens:** grafia dos nomes, nome oficial do torneio e datas; confirmar a delegação na nota do clube.
   - **Fontes iniciais:** nota oficial do Flamengo (12/11/2026); [Câmara de Gaia](https://www.cm-gaia.pt/pt/eventos/gaia-international-tournament-2026-ginastica-artistica-feminina/) — 9ª edição do Gaia International Tournament, Pavilhão da Lavandeira, provas em 14 e 15/11, treinos oficiais em 13/11, 14 países participantes.
-- **Serviço do dia:** Onde Assistir — Vasco x Flamengo Maricá (jogo em 14/11), com publicação prevista para hoje; confirmar horário, estádio e transmissão antes de produzir.
+- **Serviço do dia:** Onde Assistir — Vasco x Flamengo Maricá (jogo em 14/11), com produção e publicação previstas para esta sexta-feira (13/11); confirmar horário, estádio e transmissão antes de produzir.
 
 ### 14/11/2026 — sábado
 - **Evento:** Vasco x Flamengo Maricá — Campeonato Carioca Feminino, 4ª rodada.
 - **Pauta de serviço:** Onde assistir — 13/11; confirmar horário, estádio e transmissão.
-- **Cobertura no evento:** pós-jogo quando houver informações suficientes.
+- **Cobertura no evento:** pós-jogo no mesmo dia (14/11), após o encerramento da partida.
 
 ### 17/11/2026 — terça-feira
 - **Evento:** SESI Vôlei Bauru x Sesc RJ Flamengo — Superliga Feminina; 21h, Bauru.

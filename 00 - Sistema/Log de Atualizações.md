@@ -1266,3 +1266,11 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - **Complemento de apuração (ginástica):** o Gaia International Tournament (GaiaIT) está na 9ª edição, no Pavilhão da Lavandeira, em Vila Nova de Gaia, com provas em 14 e 15/11 e treinos oficiais em 13/11; participação de 14 países, segundo a Câmara de Gaia.
 - **Pendências:** confirmar números da 13ª edição do Nação Anjo na nota oficial; conferir grafia dos nomes e o nome oficial do torneio na pauta de ginástica.
 - Alterações documentais realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.
+
+
+## 2026-11-12 — Correção de agenda: serviço em 13/11 e pós-jogo em 14/11
+- O editor corrigiu o entendimento: o Onde Assistir de Vasco x Flamengo Maricá entra na agenda de **13/11 (sexta-feira)** e o pós-jogo na de **14/11 (sábado)**.
+- A entrada do Painel foi ajustada: o serviço ficou explicitamente na seção de 13/11, com produção e publicação na sexta, e a cobertura de pós-jogo ficou explícita na seção de 14/11.
+- A menção anterior a "publicação hoje" (12/11) estava incorreta e foi substituída.
+- **Pendência mantida:** definir o modelo de Onde Assistir para o futebol feminino antes da produção de 13/11.
+- Alterações documentais realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.
