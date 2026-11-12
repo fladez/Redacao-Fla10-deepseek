@@ -1258,3 +1258,11 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - Criada a seção "13/11/2026 — sexta-feira" no Painel de Pautas, com as duas pautas da manhã (estado, base conhecida, checagens e controle de redundância) e o lembrete do serviço Onde Assistir de Vasco x Flamengo Maricá.
 - **Pendência de planejamento:** definir se o Onde Assistir do futebol feminino segue o modelo das demais modalidades ou o do masculino, para o serviço de 13/11.
 - Alterações documentais realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.
+
+
+## 2026-11-12 — Correção da agenda de 13/11: pautas originais recebidas
+- O editor recuperou do outro chat os recortes originais das duas pautas alocadas para a manhã de 13/11: **“Nação Anjo chega à 13ª edição com mais de R$ 60 milhões arrecadados”** e **“Fla Ginástica leva cinco atletas a torneio em Portugal e fecha tour europeu”**.
+- As entradas anteriores, reconstruídas por engano a partir de "Projeto Anjo da Guarda Rubro-Negro" e "Jogos da Juventude", foram **substituídas** no Painel pelas pautas corretas, com formato, ângulo, porquê, checagens e fontes iniciais.
+- **Complemento de apuração (ginástica):** o Gaia International Tournament (GaiaIT) está na 9ª edição, no Pavilhão da Lavandeira, em Vila Nova de Gaia, com provas em 14 e 15/11 e treinos oficiais em 13/11; participação de 14 países, segundo a Câmara de Gaia.
+- **Pendências:** confirmar números da 13ª edição do Nação Anjo na nota oficial; conferir grafia dos nomes e o nome oficial do torneio na pauta de ginástica.
+- Alterações documentais realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.

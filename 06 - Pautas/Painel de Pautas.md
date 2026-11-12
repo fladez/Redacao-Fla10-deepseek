@@ -1966,16 +1966,20 @@ A pesquisa acadêmica reforça que a identificação com o clube, o comprometime
 
 ### 13/11/2026 — sexta-feira
 
-- **Manhã — Pauta sugerida: Projeto Anjo da Guarda Rubro-Negro**
-  - **Estado:** alocada para a manhã de 13/11/2026 por decisão do editor; ângulo, formato e apuração a confirmar.
-  - **Base conhecida:** projeto social do Flamengo voltado à formação de atletas e cidadãos além do esporte, com o Espaço CUIDAR; a 5ª edição foi lançada em coquetel no Maracanã.
-  - **Checagens:** confirmar com o clube a edição vigente, número de participantes, critérios de seleção, investimento e resultados; não apresentar reedição como ação inédita.
-  - **Observação:** sugestão não localizada nos registros do vault; recorte original a confirmar com o editor.
-- **Manhã — Pauta sugerida: Ginástica artística — jovens do Flamengo nos Jogos da Juventude**
-  - **Estado:** alocada para a manhã de 13/11/2026 por decisão do editor; recorte a confirmar.
-  - **Base conhecida:** Brayan Oliveira do Nascimento (14 anos) e Millena Cristina dos Santos Lima (13) conquistaram o ouro no individual geral dos Jogos da Juventude CAIXA Foz do Iguaçu 2026; ambos treinam no Flamengo. Brayan chegou ao clube por ação de captação em escola da Rocinha; Millena é da equipe juvenil e treina ao lado de Flávia Saraiva.
-  - **Controle de redundância:** não repetir a publicação de 24/10 sobre o tricampeonato mundial de Rebeca Andrade no salto; a pergunta aqui é a formação de base e a projeção dos jovens atletas.
-  - **Checagens:** confirmar resultados e idades em COB/CBG; verificar os próximos compromissos de Millena (Gaia International Tournament e Copa Pan-Americana).
+- **Manhã — Nação Anjo chega à 13ª edição com mais de R$ 60 milhões arrecadados**
+  - **Estado:** alocada para a manhã de 13/11/2026 por decisão do editor; apuração e redação pendentes.
+  - **Formato:** notícia institucional — Notícias/Olímpicos.
+  - **Ângulo:** programa de captação via Imposto de Renda que já beneficiou mais de 10 mil atletas; recorde de R$ 11 milhões em 2025; cerca de mil jovens por ano em nove modalidades; falas de Rebeca Andrade e Flávia Saraiva; explicar como contribuir.
+  - **Por que agora:** nota oficial do Flamengo de 12/11/2026, sem publicação recente no Fla10; pauta de utilidade e identificação com a Nação.
+  - **Checagens:** conferir números e modalidades na nota oficial; confirmar o período da 13ª edição; não transformar em texto promocional.
+  - **Fontes iniciais:** nota oficial do Flamengo (12/11/2026); repercussão em [Ser Flamengo](https://serflamengo.com.br/flamengo-lanca-13a-edicao-do-nacao-anjo-e-supera-r-60-milhoes-arrecadados/).
+- **Manhã — Fla Ginástica leva cinco atletas a torneio em Portugal e fecha tour europeu**
+  - **Estado:** alocada para a manhã de 13/11/2026 por decisão do editor; apuração e redação pendentes.
+  - **Formato:** notícia — Olímpicos.
+  - **Ângulo:** camp na Espanha, chegada a Vila Nova de Gaia e disputa do Gaia IT – WAG International Tournament, com Stella, Eva e Sarah (infantil), Millena (juvenil) e Duda Montesino (adulto); contexto da temporada — Brasileiro, cinco medalhas na Copa do Mundo da Hungria, ouro de Rebeca no salto e bronze de Flávia na trave no Mundial de Roterdã, quatro medalhas de Millena nos Jogos da Juventude.
+  - **Por que agora:** nota oficial de 12/11/2026; treinamento de pódio em 13/11 e provas em 14 e 15/11.
+  - **Checagens:** grafia dos nomes, nome oficial do torneio e datas; confirmar a delegação na nota do clube.
+  - **Fontes iniciais:** nota oficial do Flamengo (12/11/2026); [Câmara de Gaia](https://www.cm-gaia.pt/pt/eventos/gaia-international-tournament-2026-ginastica-artistica-feminina/) — 9ª edição do Gaia International Tournament, Pavilhão da Lavandeira, provas em 14 e 15/11, treinos oficiais em 13/11, 14 países participantes.
 - **Serviço do dia:** Onde Assistir — Vasco x Flamengo Maricá (jogo em 14/11), com publicação prevista para hoje; confirmar horário, estádio e transmissão antes de produzir.
 
 ### 14/11/2026 — sábado
