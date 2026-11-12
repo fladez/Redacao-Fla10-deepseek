@@ -1241,3 +1241,12 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - Painel de Pautas: nova seção de publicação confirmada e menção ao vídeo na publicação da matéria.
 - **Revisão pós-publicação:** slug com três hífens antes de "flamengotv"; página sem descrição e sem byline; contador "0 visualizações"; chamada no plural. Itens cosméticos, exceto a sugestão de descrição curta para SEO/Discover.
 - Alterações documentais realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.
+
+
+## 2026-11-12 — Correção pós-publicação verificada: formatação da citação na matéria do Danilo
+- O editor informou que aplicou a correção do item 2 da revisão pós-publicação (formatação da citação) na matéria sobre a máscara do Danilo.
+- **Verificado na página publicada em 12/11/2026:** as duas falas passaram a ficar entre itálico, com "afirmou" fora do itálico e cada citação marcada separadamente.
+- Itens 1 (redundância sobre 9/11), 3 (divergência de nomes) e 4 (cosméticos do site) foram **dispensados pelo editor** por não se aplicarem à matéria; permanecem na ficha apenas como histórico.
+- Observações específicas do vídeo (slug, descrição/byline, contador e chamada no plural) seguem registradas como cosméticas, sem pendência editorial.
+- Ficha, Painel e ficha do vídeo atualizados com o status da revisão.
+- Alterações documentais realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.

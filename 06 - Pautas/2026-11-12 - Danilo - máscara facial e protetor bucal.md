@@ -48,10 +48,10 @@ Explicador sobre o equipamento e o protocolo de recuperação, e não apenas uma
 - **Ficha do vídeo:** [[2026-11-12 - Danilo treina com a máscara - vídeo FlamengoTV]].
 
 ## Revisão pós-publicação (12/11/2026)
-1. **Redundância leve:** a informação de que a primeira atividade com o grupo foi em 9/11 aparece duas vezes — na seção sobre a cirurgia ("no dia 9, avançou para atividades em campo") e na seção "Laserterapia e liberação" ("A primeira atividade com o grupo aconteceu em 9 de novembro"). Sugestão: manter apenas uma das menções ou resumir a segunda.
-2. **Formatação de citação:** no bloco "O que diz Danilo", o itálico abre antes da primeira fala, inclui a atribuição "afirmou" e só fecha depois da segunda citação. Sugestão: colocar a atribuição fora do itálico e marcar cada fala separadamente.
-3. **Divergência a confirmar (não é erro confirmado):** a versão publicada atribui a cirurgia a Gustavo Machado; o material do Jogada10 citava Fernando Sassaki como quem solicitou o protetor facial antes da cirurgia. Podem ser funções distintas (solicitação do dispositivo x condução do procedimento); confirmar no material oficial do clube antes de reutilizar os nomes.
-4. **Itens cosméticos do site (já dispensados em outras matérias):** contador "2 acessos" e H2 oculto genérico "Acompanhe todos os detalhes desta notícia…". Não tratar como conteúdo.
+1. **Redundância leve na menção a 9/11** — **dispensada pelo editor**: não se aplica à matéria.
+2. **Formatação de citação — corrigida e verificada:** o editor ajustou o trecho em 12/11/2026. A página agora exibe as duas falas entre itálico, com "afirmou" fora do itálico e cada citação marcada separadamente.
+3. **Divergência de nomes (Gustavo Machado x Fernando Sassaki)** — **dispensada pelo editor**: não se aplica à matéria. Permanece apenas como registro de apuração, sem pendência.
+4. **Itens cosméticos do site (contador e H2 oculto)** — **dispensados pelo editor**.
 
 ## Estado
 Publicada e encerrada. O registro no GitHub não altera o conteúdo do site.

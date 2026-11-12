@@ -34,5 +34,9 @@ origem: fonte externa
 3. **Contador "0 visualizações"** — item cosmético do site, não é conteúdo.
 4. **Chamada no corpo da matéria** usa "Assistam ao vídeo" (imperativo plural); se o padrão for tratamento direto ao leitor, "Assista ao vídeo" seria mais consistente. Ponto cosmético.
 
+## Status da revisão
+- Observações do vídeo (slug, descrição/byline, contador de visualizações e chamada no plural) permanecem como **cosméticas** e não foram corrigidas nesta rodada.
+- O editor dispensou as observações da matéria; as do vídeo ficam registradas apenas como histórico, sem pendência editorial.
+
 ## Estado
 Publicado e encerrado. O registro no GitHub não altera o conteúdo do site.
