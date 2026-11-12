@@ -1183,3 +1183,11 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - **Apuração:** dados restritos à fonte oficial do clube; não foram confirmadas categorias de peso, adversários, horários das lutas nem a composição completa da delegação.
 - Nenhuma mudança no Registro de Decisões.
 - Alterações documentais realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.
+
+
+## 2026-11-12 — Pesquisa complementar e revisão do rascunho de judô
+- Rascunho da notícia sobre o Mundial Júnior de judô revisado com base em pesquisa complementar: IJF, CBJ, COB, Judô Rio, Olimpíada Todo Dia e Federação Gaúcha de Judô.
+- **Confirmados:** Mundial em Tashkent entre 19 e 22/11 (individual de 19 a 21; equipes mistas em 22); edição transferida de Amã (Jordânia) após adiamento; Clarisse Vallim é bicampeã mundial cadete (-70kg, títulos em 2025 e 2026), inscrita na -70kg no Mundial Júnior, e conquistou o ouro nos Jogos Olímpicos da Juventude Dakar 2026 (-78kg, três ippons); Vinícius Oliveira (-60kg) soma duas medalhas internacionais em 2026; finais às 9h (de Brasília) com transmissão da Judo TV.
+- **Divergência registrada:** a nota oficial do Flamengo cita dois atletas do clube, enquanto a lista reproduzida pela Federação Gaúcha inclui Manuela Maia (63kg, C.R. Flamengo); as versões da CBJ divergem entre 16 e 17 convocados e não confirmam a presença dela de forma inequívoca. O texto mantém apenas as informações confirmadas e não afirma a participação da terceira atleta; pendente confirmação com CBJ/clube.
+- Ficha e Painel atualizados; o status segue **rascunho para revisão editorial, não publicado**.
+- Alterações documentais realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.
