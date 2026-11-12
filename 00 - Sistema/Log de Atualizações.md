@@ -1161,3 +1161,15 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - **Observação operacional:** a página retornou HTTP 404 em duas tentativas antes de voltar ao ar; tratar como indisponibilidade temporária, não como despublicação.
 - **Achados cosméticos adicionais (opcionais):** "deixou o intervalo" poderia ser "foi para o intervalo"; "Aos dois minutos" poderia seguir o padrão numérico usado no restante do texto ("Aos 2"). Nenhum afeta fato ou compreensão.
 - Alterações documentais realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.
+
+
+## 2026-11-12 — Publicação confirmada: coluna Na Pena do Urubu (fonte externa)
+- O editor confirmou a publicação e forneceu a URL.
+- Conteúdo: **"Pedir a saída de Jardim fere o bom senso"**, da coluna **Na Pena do Urubu** (Opinião), com autoria de **Carlão Azevedo**, publicado em 12/11/2026.
+- **URL pública:** https://fla10.news/colunas/pedir-a-saida-de-jardim-fere-o-bom-senso
+- Página verificada em 12/11/2026 (HTTP 200), com data e autoria conferidas na publicação.
+- Criada a ficha `06 - Pautas/2026-11-12 - Na Pena do Urubu - Pedir a saída de Jardim fere o bom senso.md` com status `publicada`, confirmação de publicação, classificação **fonte externa**, síntese, proveniência e revisão pós-publicação.
+- Painel de Pautas atualizado com a nova seção de publicação confirmada e referência à ficha.
+- **Revisão pós-publicação — achados principais:** (1) inconsistência entre "três pontos" de vantagem e "três vitórias"; (2) cenário de título com "82 a 86 pontos" e "cinco compromissos" a conferir frente aos 76 pontos e quatro rodadas registrados em 11/11/2026; (3) comparação de aproveitamento com o Mônaco 2016-2017 a conferir; (4) erro de digitação "Canal do Carlção Azevedo"; (5) provável "campanha de 90 anos" por "90 pontos"; (6) chamada na página da coluna e no bloco "Outras Colunas" diferente da abertura atual do corpo. Achados menores: contador "1 acessos" e aspas soltas na biografia do autor (defeitos de template, um deles já presente em 31/10/2026). Nada foi alterado no portal.
+- Nenhuma mudança no Registro de Decisões: publicação individual não é regra editorial.
+- Alterações documentais realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.

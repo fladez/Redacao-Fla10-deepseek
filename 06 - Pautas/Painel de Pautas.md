@@ -2699,3 +2699,18 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 - **Revisão pós-publicação:** erros de digitação "aosAos 21" e "Gabi Barbier" corrigidos pelo editor em 12/11/2026 (verificado na página); ajuste de pontuação realizado e **verificado em 12/11/2026** — a página teve indisponibilidade temporária (HTTP 404) e voltou a responder.
 - **Ficha editorial:** [[2026-11-12 - Flamengo Maricá x Internacional - pós-jogo final Copa do Brasil Feminina]].
 - **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações.
+
+
+## Publicação confirmada — Coluna Na Pena do Urubu: Pedir a saída de Jardim fere o bom senso (12/11/2026)
+
+- **Estado:** publicada em 12/11/2026, conforme confirmação explícita do editor.
+- **Título:** *Pedir a saída de Jardim fere o bom senso* (exibido na página em caixa alta).
+- **URL pública:** https://fla10.news/colunas/pedir-a-saida-de-jardim-fere-o-bom-senso
+- **Formato:** Colunas — coluna **Na Pena do Urubu** (Opinião), texto de opinião assinado.
+- **Autoria na página:** Carlão Azevedo.
+- **Ângulo:** crítica pontual a escolhas de Leonardo Jardim não equivale a defender sua saída; defesa da continuidade do trabalho, do aproveitamento no Brasileirão e do planejamento para 2027.
+- **Proveniência:** **fonte externa**, conforme informação do editor; marca de proveniência registrada apenas nos metadados internos, sem inserção no conteúdo público.
+- **Pauta de origem:** não havia pauta desta coluna no Painel nem em Projetos e Pautas Reservadas.
+- **Revisão pós-publicação:** inconsistências numéricas a conferir (três pontos x três vitórias; cenário de 82 a 86 pontos e número de jogos restantes; comparação de aproveitamento com o Mônaco 2016-2017) e erros de forma ("Canal do Carlção Azevedo"; "campanha de 90 anos"; chamada diferente do corpo). Lista completa na ficha.
+- **Ficha editorial:** [[2026-11-12 - Na Pena do Urubu - Pedir a saída de Jardim fere o bom senso]].
+- **Registro editorial:** publicação confirmada pelo editor; peça encerrada e incluída no histórico de publicações.
