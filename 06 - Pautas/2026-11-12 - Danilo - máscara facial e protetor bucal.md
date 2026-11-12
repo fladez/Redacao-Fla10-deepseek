@@ -42,6 +42,11 @@ Explicador sobre o equipamento e o protocolo de recuperação, e não apenas uma
 - **Novos dados incorporados:** quatro placas e 20 parafusos; cirurgião Gustavo Machado; uso da máscara na academia em 2/11; escaneamento facial; sigla TPU; ressalva de Guto Ferreira de que a proteção não elimina o risco de novo dano.
 - **Aparato:** quatro imagens com créditos e dois blocos "Leia Também".
 
+## Vídeo incorporado
+- Em 12/11/2026 foi inserido no corpo o vídeo **“Danilo treina com a máscara - FlamengoTV”**, com a chamada "Assistam ao vídeo da FlamengoTV sobre a máscara do Danilo:", posicionada entre as seções "O que diz Danilo" e "Retorno aos gramados ainda depende da evolução clínica".
+- **URL do vídeo:** https://fla10.news/videos/danilo-treina-com-a-mascara---flamengotv
+- **Ficha do vídeo:** [[2026-11-12 - Danilo treina com a máscara - vídeo FlamengoTV]].
+
 ## Revisão pós-publicação (12/11/2026)
 1. **Redundância leve:** a informação de que a primeira atividade com o grupo foi em 9/11 aparece duas vezes — na seção sobre a cirurgia ("no dia 9, avançou para atividades em campo") e na seção "Laserterapia e liberação" ("A primeira atividade com o grupo aconteceu em 9 de novembro"). Sugestão: manter apenas uma das menções ou resumir a segunda.
 2. **Formatação de citação:** no bloco "O que diz Danilo", o itálico abre antes da primeira fala, inclui a atribuição "afirmou" e só fecha depois da segunda citação. Sugestão: colocar a atribuição fora do itálico e marcar cada fala separadamente.

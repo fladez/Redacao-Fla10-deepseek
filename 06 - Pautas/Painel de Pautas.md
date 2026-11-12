@@ -2743,5 +2743,19 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 - **Proveniência:** produção interna colaborativa — pauta produzida pela IA em colaboração com o editor.
 - **Ajustes editoriais observados:** nova abertura de gancho; linha fina reescrita para o ângulo tecnológico; ampliação para cerca de 1.300 palavras com cinco seções novas (cirurgia, desenvolvimento da máscara, diferença entre dispositivos, personalização e dependência clínica do retorno); quatro imagens e dois links internos.
 - **Revisão pós-publicação:** (1) redundância leve na menção a 9/11; (2) formatação da citação com itálico englobando atribuição; (3) divergência a confirmar entre os nomes de Gustavo Machado (cirurgia) e Fernando Sassaki (solicitação do protetor) — podem ser funções distintas; (4) itens cosméticos do site já dispensados em outras matérias.
+- **Vídeo incorporado:** *Danilo treina com a máscara - FlamengoTV* (https://fla10.news/videos/danilo-treina-com-a-mascara---flamengotv), inserido no corpo entre as seções "O que diz Danilo" e "Retorno aos gramados ainda depende da evolução clínica"; ficha própria do vídeo registrada.
 - **Ficha editorial:** [[2026-11-12 - Danilo - máscara facial e protetor bucal]].
 - **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações. Correções no portal dependem do editor.
+
+
+## Publicação confirmada — Vídeo: Danilo treina com a máscara (FlamengoTV) — 12/11/2026
+
+- **Estado:** publicado em 12/11/2026, conforme confirmação explícita do editor.
+- **Título:** *Danilo treina com a máscara - FlamengoTV*.
+- **URL pública:** https://fla10.news/videos/danilo-treina-com-a-mascara---flamengotv
+- **Formato:** vídeo — conteúdo audiovisual da FlamengoTV, categoria Treino.
+- **Uso editorial:** incorporado ao corpo da matéria *Danilo treina com máscara facial e protetor bucal; entenda como funcionam*, com chamada entre as seções "O que diz Danilo" e "Retorno aos gramados ainda depende da evolução clínica".
+- **Proveniência:** **fonte externa** — vídeo produzido pela FlamengoTV; publicação e incorporação editoriais. Marca interna, sem inserção no conteúdo público.
+- **Revisão pós-publicação:** slug com três hífens antes de "flamengotv"; página sem descrição e sem byline; contador "0 visualizações"; chamada "Assistam ao vídeo" no plural. Itens cosméticos, exceto a sugestão de descrição curta para SEO/Discover.
+- **Ficha editorial:** [[2026-11-12 - Danilo treina com a máscara - vídeo FlamengoTV]].
+- **Registro editorial:** publicação confirmada pelo editor; item encerrado e incluído no histórico de publicações.

@@ -1228,4 +1228,16 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - Painel de Pautas: nova seção de publicação confirmada.
 - **Aprendizado registrado no manual de Últimas Notícias:** variação explicativa com abertura de gancho, seções em pergunta, dados concretos, vozes atribuídas e fechamento pelo que falta; extensão de 1.200 a 1.400 palavras.
 - **Revisão pós-publicação (achados para o editor):** redundância leve sobre 9/11; formatação do itálico na citação; divergência a confirmar entre Gustavo Machado (cirurgia) e Fernando Sassaki (solicitação do protetor); itens cosméticos do site já dispensados.
+- _Atualização de 12/11/2026:_ vídeo **“Danilo treina com a máscara - FlamengoTV”** publicado e incorporado ao corpo da matéria, com chamada entre as seções "O que diz Danilo" e "Retorno aos gramados ainda depende da evolução clínica". Registro próprio na ficha do vídeo.
+- Alterações documentais realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.
+
+
+## 2026-11-12 — Publicação confirmada: vídeo da FlamengoTV sobre a máscara de Danilo
+- O editor confirmou a publicação do vídeo e informou que ele foi inserido no corpo da matéria sobre a máscara.
+- Vídeo: **“Danilo treina com a máscara - FlamengoTV”**, categoria Treino, publicado em 12/11/2026.
+- **URL pública:** https://fla10.news/videos/danilo-treina-com-a-mascara---flamengotv
+- Verificação na página da matéria: a chamada "Assistam ao vídeo da FlamengoTV sobre a máscara do Danilo:" aparece entre as seções "O que diz Danilo" e "Retorno aos gramados ainda depende da evolução clínica".
+- Criada a ficha `06 - Pautas/2026-11-12 - Danilo treina com a máscara - vídeo FlamengoTV.md`, com proveniência de fonte externa; ficha da matéria atualizada com a seção "Vídeo incorporado".
+- Painel de Pautas: nova seção de publicação confirmada e menção ao vídeo na publicação da matéria.
+- **Revisão pós-publicação:** slug com três hífens antes de "flamengotv"; página sem descrição e sem byline; contador "0 visualizações"; chamada no plural. Itens cosméticos, exceto a sugestão de descrição curta para SEO/Discover.
 - Alterações documentais realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.
