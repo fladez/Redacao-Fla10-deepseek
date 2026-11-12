@@ -1126,3 +1126,14 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - Verificação na página publicada: a matéria agora começa no lead sem canais ("O Sesc RJ Flamengo volta à quadra nesta quinta-feira..."), seguida do parágrafo de ângulo; a informação de transmissão aparece apenas no bloco final "Onde assistir" e na ficha técnica.
 - Atualizados a ficha da publicação, o Painel de Pautas e o exemplar anotado, com o registro da correção e a confirmação da verificação.
 - Nenhuma alteração documental adicional além do registro; a correção do conteúdo do portal foi feita pelo editor.
+
+
+## 2026-11-12 — Publicação confirmada: pós-jogo da final da Copa do Brasil Feminina
+- O editor confirmou a publicação e forneceu a URL.
+- Matéria: **“Flamengo Maricá perde de virada para o Inter e precisa vencer por três gols no Beira-Rio”**, na seção Feminino, com autoria de Thiago Silva na página, publicada em 12/11/2026.
+- **URL pública:** https://fla10.news/noticias/flamengo-marica-perde-de-virada-para-o-inter-e-precisa-vencer-por-tres-gols-no-beira-rio
+- Criada a ficha `06 - Pautas/2026-11-12 - Flamengo Maricá x Internacional - pós-jogo final Copa do Brasil Feminina.md` com placar, gols, arbitragem, cenário da volta, proveniência e ajustes editoriais.
+- Painel de Pautas: agenda de 11/11 com o pós-jogo marcado como publicado e nova seção de publicação confirmada.
+- **Aprendizado registrado no manual de Pós-jogo:** composição observada na primeira publicação (Resumo para IA no topo; lead com placar e explicação central; parágrafo de consequência; cronologia por tempo com mais lances; cenário dos dois times; ficha técnica ao final) e extensão de referência de 700 a 800 palavras.
+- **Erros de digitação identificados na página publicada:** "aosAos 21" e "Gabi Barbier"; sinalizados para correção no CMS.
+- Alterações documentais realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.

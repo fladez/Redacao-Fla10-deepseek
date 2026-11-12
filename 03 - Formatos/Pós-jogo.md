@@ -17,3 +17,18 @@ A matéria pós-jogo não deve substituir automaticamente o Raio-X Tático ou a 
 
 ## Verificações
 Conferir placar, autores dos gols, minutos, cartões, substituições, estatísticas usadas, classificação e calendário. Não deduzir consequências matemáticas sem conferir regulamento e tabela atualizados.
+
+## Composição observada na primeira publicação de pós-jogo (12/11/2026)
+
+Referência: pós-jogo da final da Copa do Brasil Feminina (Flamengo Maricá 1 x 3 Internacional). A publicação confirmou a estrutura abaixo.
+
+1. **Resumo para IA no topo**, antes do corpo.
+2. **Lead:** placar, competição, local e a explicação factual central (a virada e a perda da jogadora).
+3. **Parágrafo de consequência imediata:** vantagem no confronto e o que cada resultado da volta significa.
+4. **Cronologia por tempo**, com seção para cada etapa e mais de um lance por parágrafo: chances, defesas, trave, substituições e mudanças de cenário.
+5. **Seção de cenário:** o que o Flamengo precisa e, em seguida, o que o adversário pode fazer; fechar com a data da volta e o ineditismo.
+6. **Ficha técnica ao final.**
+
+Extensão de referência: **700 a 800 palavras**. A cronologia não deve se limitar aos gols: incluir pelo menos duas ou três jogadas relevantes por tempo, com autoria (quem finalizou, quem defendeu).
+
+Evitar: "qualquer outro resultado" como fórmula única — apresentar o cenário do adversário de forma explícita. Revisar nomes de jogadoras e placares antes de entregar.

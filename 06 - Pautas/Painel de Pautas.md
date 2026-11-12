@@ -1957,7 +1957,7 @@ A pesquisa acadêmica reforça que a identificação com o clube, o comprometime
   - **Cobertura no evento:** pós-jogo em 18/11, após o encerramento.
 - **Evento:** Flamengo Maricá x Internacional — final da Copa do Brasil Feminina, jogo de ida; 21h30, Estádio Luso-Brasileiro (RJ).
   - **Pauta de serviço:** Onde Assistir publicada em 11/11/2026; URL registrada na publicação confirmada.
-  - **Cobertura no evento:** pós-jogo após o encerramento da partida.
+  - **Cobertura no evento:** pós-jogo publicado em 12/11/2026; URL e ficha registradas na publicação confirmada.
 
 ### 12/11/2026 — quinta-feira
 - **Evento:** Sesc RJ Flamengo x Fluminense — Superliga Feminina; 21h, Maracanãzinho (RJ).
@@ -2683,3 +2683,18 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 - **Ajustes editoriais observados:** Resumo para IA publicado no topo, antes do corpo; **abertura duplicada corrigida no portal em 11/11/2026** — o parágrafo que listava SporTV 2 e Globoplay foi removido, permanecendo o lead sem canais; a seção do Fluminense foi publicada antes da do Flamengo. **Regra:** a transmissão aparece apenas no bloco final.
 - **Ficha editorial:** [[2026-11-11 - Sesc RJ Flamengo x Fluminense - onde assistir Superliga Feminina]].
 - **Registro editorial:** publicação confirmada pelo editor; pauta de serviço encerrada e incluída no histórico de publicações. O local do evento no Painel foi corrigido de Tijuca para Maracanãzinho.
+
+
+## Publicação confirmada — Flamengo Maricá x Internacional: pós-jogo da final (12/11/2026)
+
+- **Estado:** publicada em 12/11/2026, conforme confirmação explícita do editor.
+- **Título:** *Flamengo Maricá perde de virada para o Inter e precisa vencer por três gols no Beira-Rio*.
+- **URL pública:** https://fla10.news/noticias/flamengo-marica-perde-de-virada-para-o-inter-e-precisa-vencer-por-tres-gols-no-beira-rio
+- **Formato:** Pós-jogo — notícia factual da final da Copa do Brasil Feminina (jogo de ida).
+- **Autoria na página:** Thiago Silva.
+- **Partida:** Flamengo Maricá 1 x 3 Internacional, em 11/11/2026, no Estádio Luso-Brasileiro (RJ); gols de Letícia (FLA), Valéria Cantuário, Débora e Sole Jaimes (INT); arbitragem de Marianna Nanni Batalha (SP).
+- **Ângulo:** virada no segundo tempo, perda de Cristiane no intervalo e consequência para a volta em 15/11, às 16h, no Beira-Rio — o Flamengo precisa vencer por três gols; dois levam aos pênaltis; o Inter pode perder por um.
+- **Proveniência:** produção interna colaborativa — pauta produzida pela IA em colaboração com o editor.
+- **Ajustes editoriais observados:** segundo parágrafo reescrito para explicitar a vantagem de dois gols; cronologia ampliada com mais lances; cenário do Inter incluído no fechamento; dois links internos e duas imagens. **Erros a corrigir no CMS:** "aosAos 21" e "Gabi Barbier".
+- **Ficha editorial:** [[2026-11-12 - Flamengo Maricá x Internacional - pós-jogo final Copa do Brasil Feminina]].
+- **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações.
