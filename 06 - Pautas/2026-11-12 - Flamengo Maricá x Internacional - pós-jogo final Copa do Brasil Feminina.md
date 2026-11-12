@@ -49,7 +49,7 @@ Pós-jogo factual da virada, com a perda de Cristiane no intervalo e a consequê
 - **Fechamento do cenário:** em vez de "qualquer outro resultado", o texto apresenta o cenário do Inter (pode perder por um gol) e encerra com a data da volta e o título inédito dos dois clubes.
 - **Dois links internos "Leia Também" e duas imagens** inseridos; ficha técnica mantida.
 - **Correções aplicadas:** os erros de digitação "aosAos 21" e "Gabi Barbier" foram corrigidos pelo editor no portal em 12/11/2026; verificado na página publicada.
-- **Ajuste de pontuação (informado pelo editor em 12/11/2026):** correção realizada no parágrafo das chances do Inter. **Verificação pendente:** o link da matéria retornou HTTP 404 na conferência de 12/11/2026, embora o card continue listado em `/noticias`. Reconfirmar quando a página estiver disponível.
+- **Ajuste de pontuação (informado pelo editor em 12/11/2026):** correção realizada e **verificada na página publicada** em 12/11/2026 — o parágrafo passou a usar dois-pontos e ponto e vírgula, sem a duplicação de "e". A página havia retornado HTTP 404 na primeira tentativa de conferência e voltou a responder em seguida.
 
 ## Estado
 Publicada e encerrada. O registro no GitHub não altera o conteúdo do site.

@@ -1153,3 +1153,11 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - Registro atualizado na ficha e no Painel: correção **informada** pelo editor e **verificação pendente**; não se afirma que a página foi conferida após essa correção.
 - Reconfirmar a página quando voltar a responder e, se o endereço tiver mudado, atualizar a URL na ficha e no Painel.
 - Alterações documentais realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.
+
+
+## 2026-11-12 — Verificação concluída: correção de pontuação no pós-jogo
+- A página da matéria voltou a responder e a correção foi confirmada: o parágrafo das chances do Inter agora usa dois-pontos e ponto e vírgula, sem a duplicação de "e".
+- Pendência aberta na entrada anterior encerrada; ficha e Painel atualizados com a verificação.
+- **Observação operacional:** a página retornou HTTP 404 em duas tentativas antes de voltar ao ar; tratar como indisponibilidade temporária, não como despublicação.
+- **Achados cosméticos adicionais (opcionais):** "deixou o intervalo" poderia ser "foi para o intervalo"; "Aos dois minutos" poderia seguir o padrão numérico usado no restante do texto ("Aos 2"). Nenhum afeta fato ou compreensão.
+- Alterações documentais realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.
