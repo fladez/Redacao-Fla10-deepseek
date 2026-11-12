@@ -23,3 +23,16 @@ Este documento reúne preferências duradouras observadas na colaboração. As r
 
 ## Manutenção
 Adicionar preferências quando forem recorrentes ou explicitamente definidas como regra. Se já houver um documento canônico, manter aqui apenas o resumo e criar link para ele.
+
+## Aprendizados de publicação — 12/11/2026 (notícia de judô)
+
+Observações tiradas da edição/publicação de “Flamengo emplaca três judocas na delegação para o Mundial Júnior em Tashkent”; valem como preferência editorial a aplicar nas próximas entregas:
+
+- **Pauta com agenda:** quando a notícia envolver calendário (jogos, campeonatos, torneios), incluir um bloco de serviço com dia, categoria e transmissão, além das datas mencionadas no corpo.
+- **Contexto institucional e fechamento:** prever um parágrafo sobre a implicação para o Flamengo (formação de atletas, presença em seleções de base) e um fechamento com a consequência/projeção do desafio.
+- **Título com verbo de ação:** entregar o título factual e, como alternativa, uma formulação mais dinâmica (ex.: “emplaca”, “avança”, “garante”), sem perder precisão. O editor reescreveu o título nessa direção.
+- **Imagens:** ao sugerir fotos, indicar posição exata, legenda e crédito; evitar “Reprodução” de redes sociais sem autorização e `alt` genérico (“Imagem inserida”).
+- **Resumo para IA e SEO:** manter o Resumo no topo e o pacote completo; nesta publicação, o título SEO e a meta description entregues foram aplicados na íntegra.
+- **Byline, imagens e “Leia Também”** são decisões de edição; não é necessário incluí-los no texto entregue.
+- **Editoria:** o judô é publicado na editoria **Judô** no portal.
+- **Revisão pós-publicação:** conferir pontuação após a edição do editor e evitar repetir informação em parágrafos consecutivos; conferir também posição das imagens em relação aos subtítulos.

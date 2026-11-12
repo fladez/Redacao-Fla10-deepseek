@@ -2716,16 +2716,16 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 - **Registro editorial:** publicação confirmada pelo editor; peça encerrada e incluída no histórico de publicações.
 
 
-## Rascunho para revisão editorial — Notícia de judô: Mundial Júnior (12/11/2026)
+## Publicação confirmada — Flamengo emplaca três judocas na delegação para o Mundial Júnior em Tashkent (12/11/2026)
 
-- **Estado:** matéria produzida; **rascunho para revisão editorial, não publicada**.
-- **Título de trabalho:** *Flamengo terá três judocas no Mundial Júnior em Tashkent*.
-- **Formato:** notícia de últimas notícias — site (seção sugerida: Olímpicos).
+- **Estado:** publicada em 12/11/2026 (21h21 UTC; 18h21 de Brasília), conforme confirmação e URL fornecidas pelo editor.
+- **Título:** *Flamengo emplaca três judocas na delegação para o Mundial Júnior em Tashkent*.
+- **URL pública:** https://fla10.news/noticias/flamengo-emplaca-tres-judocas-na-delegacao-para-o-mundial-junior-em-tashkent
+- **Formato:** Judô — notícia de últimas notícias. **Autoria na página:** Mariana Costa.
+- **Linha fina publicada:** “Clarisse Vallim, Manuela Maia e Vinícius Oliveira integram a delegação brasileira na competição disputada entre 19 e 22 de novembro, no Uzbequistão.”
+- **Ângulo:** três representantes rubro-negros no Mundial Júnior de judô, em Tashkent (19 a 22/11); destaque para a temporada de Clarisse Vallim (bicampeã mundial cadete e ouro nos Jogos Olímpicos da Juventude Dakar 2026), para a campanha de Manuela Maia na base e para a expectativa de Vinícius Oliveira.
+- **Proveniência:** produção interna colaborativa — pauta produzida pela IA em colaboração com o editor.
+- **Ajustes editoriais observados:** título reescrito com verbo de ação (“emplaca”); byline de Mariana Costa; inclusão de parágrafo institucional, de parágrafo sobre a trajetória de Clarisse, de bloco “Confira a programação dos atletas do Flamengo” e de fechamento projetivo; imagens com créditos e blocos “Leia Também”. O Resumo para IA foi mantido no topo e o pacote SEO entregue (título SEO e meta description) foi aplicado integralmente; o slug publicado segue o novo título.
+- **Revisão pós-publicação:** período truncado (“...até 20 anos. e abre espaço...”); redundância sobre a experiência de Clarisse em cadete/júnior/sênior; fotos de Manuela e Vinícius posicionadas ao fim das seções anteriores; créditos “Reprodução - @...” de redes sociais e `alt` genérico; ordem dos nomes no fechamento; “1 acessos” e H2 oculto genérico (template do portal). Lista completa na ficha.
 - **Ficha editorial:** [[2026-11-12 - Judô - Clarisse Vallim, Manuela Maia e Vinícius Oliveira no Mundial Júnior]].
-- **Origem da informação:** nota oficial do Flamengo (11/11/2026) e pesquisa complementar em IJF, CBJ, COB, Judô Rio, Olimpíada Todo Dia e Federação Gaúcha de Judô.
-- **Ângulo:** três representantes rubro-negros no Mundial Júnior de judô, em Tashkent (19 a 22/11); destaque para a temporada de Clarisse Vallim (bicampeã mundial cadete na até 70kg e ouro nos Jogos Olímpicos da Juventude Dakar 2026), para a campanha de Manuela Maia na base e para a expectativa de Vinícius Oliveira.
-- **Dados confirmados na pesquisa:** competição individual de 19 a 21/11 e equipes mistas em 22/11; edição transferida de Amã (Jordânia) para Tashkent; Clarisse na até 70kg, Manuela na até 63kg e Vinícius na até 60kg; finais às 9h (de Brasília) com transmissão da Judo TV.
-- **Divergência registrada:** por orientação do editor, Manuela Maia foi incluída no texto. A lista com 17 atletas reproduzida pela Federação Gaúcha a relaciona na até 63kg; a versão de 16 atletas da CBJ (29/10) não a inclui, e a relação de inscritos da IJF consultada em 12/11 não trazia brasileira na categoria. **Pendente:** confirmar a inscrição de Manuela com a CBJ antes de publicar.
-- **Controle de redundância:** não há registro anterior de pauta de judô no Painel; conferir o site antes de publicar.
-- **Apuração registrada:** adversários, horários das lutas e resultados não foram confirmados; categorias vêm da convocação da CBJ e da lista com 17 atletas.
-- **Registro editorial:** rascunho entregue ao editor em 12/11/2026; o status será atualizado após revisão e confirmação de publicação.
+- **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações. Correções no portal dependem do editor.

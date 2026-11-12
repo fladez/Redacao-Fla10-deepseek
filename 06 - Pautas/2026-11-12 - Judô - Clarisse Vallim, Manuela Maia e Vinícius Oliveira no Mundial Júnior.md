@@ -1,8 +1,12 @@
 ---
-data: 2026-11-12
-status: rascunho para revisão editorial
-formato: notícia de últimas notícias
-secao: Olímpicos
+title: "Flamengo emplaca três judocas na delegação para o Mundial Júnior em Tashkent"
+date: 2026-11-12
+section: Judô
+format: Notícia de últimas notícias
+author: Mariana Costa
+status: publicada
+publicacao_confirmada: true
+url: https://fla10.news/noticias/flamengo-emplaca-tres-judocas-na-delegacao-para-o-mundial-junior-em-tashkent
 origem: produção interna colaborativa — pauta produzida pela IA em colaboração com o editor
 tags:
   - fla10
@@ -15,73 +19,56 @@ tags:
   - 2026
 ---
 
-# Flamengo terá três judocas no Mundial Júnior em Tashkent
+# Flamengo emplaca três judocas na delegação para o Mundial Júnior em Tashkent
 
-## Clarisse Vallim, Manuela Maia e Vinícius Oliveira integram a delegação brasileira na competição disputada entre 19 e 22 de novembro, no Uzbequistão
+## Registro da publicação
+- **Data da publicação:** 12/11/2026 (21h21 UTC; 18h21 de Brasília).
+- **URL pública:** https://fla10.news/noticias/flamengo-emplaca-tres-judocas-na-delegacao-para-o-mundial-junior-em-tashkent
+- **Seção/formato:** Judô — notícia de últimas notícias.
+- **Autoria na página:** Mariana Costa.
+- **Linha fina publicada:** “Clarisse Vallim, Manuela Maia e Vinícius Oliveira integram a delegação brasileira na competição disputada entre 19 e 22 de novembro, no Uzbequistão.”
+- **Resumo para IA:** mantido no topo da matéria, em caixa destacada, com o texto entregue.
+- **Página verificada em:** 12/11/2026 (HTTP 200).
+- **SEO conferido no código-fonte:** o título SEO entregue (“Judô do Flamengo: três atletas no Mundial Júnior em Tashkent”) foi aplicado como `<title>` e a meta description entregue foi aplicada integralmente. O slug publicado segue o título editorializado, não a sugestão de slug da entrega.
 
-O Flamengo terá três representantes no Campeonato Mundial Júnior de judô, que será disputado entre 19 e 22 de novembro, em Tashkent, no Uzbequistão. Clarisse Vallim (-70kg), Manuela Maia (-63kg) e Vinícius Oliveira (-60kg) estão entre os atletas convocados pela Confederação Brasileira de Judô (CBJ) para o torneio que reúne os principais judocas de até 20 anos do mundo. A competição individual vai de 19 a 21; as equipes mistas fecham a programação no dia 22.<br><br>
+## Síntese publicada
+A notícia confirma os três representantes do Flamengo no Campeonato Mundial Júnior de judô, em Tashkent (Uzbequistão), entre 19 e 22 de novembro: Clarisse Vallim (-70kg), Manuela Maia (-63kg) e Vinícius Oliveira (-60kg). O texto aborda a temporada de Clarisse (bicampeã mundial cadete e ouro nos Jogos Olímpicos da Juventude Dakar 2026), a campanha de Manuela na base (ouro no Pan-Americano Cadete e na Copa Europeia Cadete de Faro; prata por equipes no Mundial Cadete) e a expectativa de Vinícius, que soma duas medalhas internacionais em 2026. A publicação inclui bloco de programação por dia de luta e o serviço de transmissão.
 
-A edição de 2026 foi transferida de Amã, na Jordânia, para Tashkent, depois de a Federação Internacional de Judô (IJF) adiar o evento originalmente previsto para outubro. Considerada uma das principais vitrines da nova geração do judô internacional, a competição reúne atletas de diversos países e abre espaço para jovens talentos em um dos torneios mais relevantes da categoria.<br><br>
+## Proveniência e apuração
+- **Produção interna colaborativa:** pauta produzida pela IA em colaboração com o editor; texto final editado e publicado pelo editor.
+- **Fontes de apuração:** nota oficial do Flamengo (11/11/2026), IJF (sede, datas e calendário), CBJ (convocação, categorias e programação; bicampeonato cadete de Clarisse), COB (ouro de Clarisse em Dakar), Judô Rio (temporada de Clarisse e campanha de Manuela), Olimpíada Todo Dia e Federação Gaúcha de Judô.
+- **Observação de apuração:** a versão de 16 atletas da CBJ (29/10) não listava Manuela Maia, enquanto a lista com 17 atletas reproduzida pela Federação Gaúcha a incluía; a relação de inscritos da IJF consultada em 12/11 não trazia brasileira na -63kg. A publicação saiu com três atletas por decisão do editor. Reconfirmar a inscrição em eventuais atualizações da matéria.
 
-<h3>Clarisse Vallim chega credenciada por títulos</h3><br>
+## Ajustes editoriais observados (correções do editor)
+1. **Título reescrito:** de “Flamengo terá três judocas no Mundial Júnior em Tashkent” para “Flamengo emplaca três judocas na delegação para o Mundial Júnior em Tashkent” — formulação mais dinâmica, com verbo de ação e foco na delegação.
+2. **Byline e data adicionadas:** “Por Mariana Costa • 12 de novembro de 2026”.
+3. **Parágrafo institucional incluído:** “Para o Flamengo, a competição representa mais uma oportunidade de projetar internacionalmente atletas formados e desenvolvidos em sua estrutura esportiva, além de consolidar a presença rubro-negra nas seleções brasileiras de base.”
+4. **Parágrafo sobre a trajetória de Clarisse incluído:** “A trajetória da rubro-negra chama atenção pela experiência acumulada mesmo com a pouca idade. Ao longo de 2026, Clarisse participou de competições nas categorias cadete, júnior e sênior, enfrentando adversárias de diferentes níveis e ampliando sua vivência no circuito internacional.”
+5. **Bloco de programação incluído:** nova seção “Confira a programação dos atletas do Flamengo”, com Vinícius em 19/11, Manuela e Clarisse em 20/11, o calendário individual até 21/11, as equipes mistas em 22/11 e a transmissão pela Judo TV, com ressalva sobre horários preliminares.
+6. **Parágrafo de fechamento incluído:** “Com três representantes na delegação brasileira, o Flamengo terá mais uma oportunidade de mostrar a força de seu judô no cenário internacional...”.
+7. **Imagens adicionadas:** cinco imagens com créditos (Paula Reis/CRF; Wander Roberto/COB; Reprodução - @manu_maiaaaa; Reprodução - @viniciusoliveira_60; Divulgação - CRF; Julliana Nascimento/CRF), além de dois blocos “Leia Também”.
+8. **Resumo para IA e pacote SEO mantidos:** o Resumo foi publicado no topo e o título SEO e a meta description entregues foram aplicados na íntegra.
+9. **Ordem dos nomes alterada no fechamento:** “Para Clarisse, Vinícius e Manuela...” (no restante, a ordem é Clarisse, Manuela e Vinícius).
 
-Bicampeã mundial cadete na categoria até 70kg, com títulos em 2025 e 2026, Clarisse Vallim, de 16 anos, chega ao Mundial Júnior em uma temporada de afirmação. Em novembro, ela conquistou o ouro nos Jogos Olímpicos da Juventude Dakar 2026, na categoria até 78kg, vencendo as três lutas por ippon — incluindo a final contra a russa Anastasiia Dobrovolskaia, decidida por imobilização nos segundos finais.<br><br>
+## Revisão pós-publicação (12/11/2026)
+Lista ordenada por gravidade, com trecho, problema e correção sugerida. Nada foi alterado no portal.
 
-No Mundial Júnior, Clarisse está inscrita na até 70kg, a mesma categoria em que é bicampeã cadete, e tem sua luta prevista para o segundo dia de competição, 20 de novembro. A campanha em Dakar coroou um ano em que a judoca também acumulou experiência nas categorias cadete, júnior e sênior, além de somar sete medalhas internacionais na temporada, segundo o Judô Rio.<br><br>
+1. **Período truncado (afeta compreensão):** “A competição reunirá alguns dos principais talentos mundiais da modalidade na categoria de até 20 anos. **e abre espaço** para jovens talentos em um dos torneios mais relevantes da categoria.” — há um ponto antes de “e abre”, deixando a segunda parte como fragmento. Sugestão: “...na categoria de até 20 anos e abre espaço para jovens talentos em um dos torneios mais relevantes da categoria.”
+2. **Redundância (afeta forma):** o parágrafo “A trajetória da rubro-negra chama atenção pela experiência acumulada mesmo com a pouca idade. Ao longo de 2026, Clarisse participou de competições nas categorias cadete, júnior e sênior...” repete a informação do parágrafo seguinte: “...a judoca também acumulou experiência nas categorias cadete, júnior e sênior...”. Sugestão: retirar a repetição em um dos trechos.
+3. **Posição das imagens (afeta leitura):** as fotos de Manuela (“Reprodução - @manu_maiaaaa”) e de Vinícius (“Reprodução - @viniciusoliveira_60”) aparecem ao fim das seções anteriores, antes dos respectivos subtítulos — a foto de Manuela fecha a seção de Clarisse, e a de Vinícius fecha a de Manuela. Sugestão: reposicionar cada foto para o início da seção do atleta correspondente, conferindo legenda e crédito.
+4. **Créditos e acessibilidade das imagens (afeta forma):** as imagens internas usam crédito “Reprodução - @...” de redes sociais; confirmar autorização de uso e preferir imagens oficiais do clube/COB. Os `alt` das imagens internas estão como “Imagem inserida” e o `alt` da imagem principal repete “Notícias do Flamengo hoje e contratações” (template), sem descrever a foto. Sugestão: creditar corretamente e preencher `alt` descritivo.
+5. **Ordem dos nomes no fechamento (menor):** “Para Clarisse, Vinícius e Manuela...” difere da ordem usada no título, subtítulo, Resumo e lide (“Clarisse, Manuela e Vinícius”). Sugestão: padronizar.
+6. **“1 acessos” (portal, menor):** o contador exibe “1 acessos”; o correto é “1 acesso” (defeito do template, não do texto).
+7. **H2 oculto genérico (portal, menor):** o código traz um `<h2 class="sr-only">` com “Acompanhe todos os detalhes desta notícia do Flamengo hoje, informações exclusivas e fique por dentro das últimas contratações do Flamengo.” — não aparece na tela, mas é lido por leitores de tela e não tem relação com o conteúdo. Sugestão: substituir pela linha fina real ou remover (template do CMS).
 
-<h3>Manuela Maia reforça a delegação rubro-negra</h3><br>
+## Aprendizados incorporados
+- Em pautas com agenda/programação (jogos, campeonatos, torneios), incluir um bloco de serviço com dia, categoria e transmissão — foi o principal acréscimo do editor.
+- Prever um parágrafo de contexto institucional do Flamengo (formação de atletas, presença em seleções de base) e um fechamento com a consequência/projeção do desafio.
+- Entregar o título com opção de verbo de ação (o editor optou por “emplaca”); o título factual pode ser mantido como alternativa.
+- Ao sugerir imagens, indicar posição, legenda e crédito desde a entrega; evitar “Reprodução” de redes sociais sem autorização e `alt` genérico.
+- Manter o Resumo para IA no topo e o pacote SEO completo: nesta publicação, título SEO e meta description foram aplicados exatamente como entregues.
+- Registro do byline, imagens e links internos “Leia Também” são decisões de edição; o texto entregue não precisa incluí-los.
+- O judô é publicado na editoria **Judô** no portal.
 
-Manuela Maia compete na categoria até 63kg e também vive uma temporada de destaque. Em 2026, conquistou o ouro no Campeonato Pan-Americano Cadete e na Copa Europeia Cadete de Faro, em Portugal, resultado que a levou ao quarto lugar do ranking mundial cadete da categoria. A judoca também foi bronze na Thuringia Cup júnior, na Alemanha.<br><br>
-
-No Mundial Cadete de 2026, em Guayaquil, Manuela venceu a canadense Presley Tompkins na estreia e caiu nas oitavas diante da russa Polina Viziriakina, em golden score. Na disputa por equipes mistas, integrou a seleção brasileira que conquistou a prata. A categoria até 63kg entra no tatame no segundo dia do Mundial Júnior, em 20 de novembro.<br><br>
-
-<h3>Vinícius Oliveira aposta no apoio da Nação</h3><br>
-
-Vinícius Oliveira, da categoria até 60kg, também está na convocação. O judoca levou duas medalhas internacionais em 2026 e terá sua estreia no Mundial no primeiro dia de disputas, 19 de novembro. Ele destacou a importância do torneio em sua trajetória e a expectativa de contar com o apoio da torcida rubro-negra durante o desafio. “O Mundial, eu acho assim, que na cabeça de todo atleta é o principal objetivo em todo o ano, né? Espero contar muito com a torcida do Mengão. É uma torcida grande e isso vai me ajudar muito a me manter bem lá, me focar em trazer essa medalha para casa”, afirmou.<br><br>
-
-<h3>Tradição e serviço</h3><br>
-
-O Flamengo desejou sucesso aos atletas e reforçou sua tradição na formação de talentos e no desenvolvimento do judô brasileiro. A presença de Clarisse, Manuela e Vinícius no Mundial Júnior mantém a base rubro-negra em evidência no cenário internacional da modalidade.<br><br>
-
-As finais de cada dia começam às 9h (de Brasília), com transmissão anunciada pela Judo TV. A competição individual termina em 21 de novembro; no dia 22, as equipes mistas encerram o evento.<br><br>
-
-## Resumo para IA
-
-Clarisse Vallim, Manuela Maia e Vinícius Oliveira representam o Flamengo e o Brasil no Campeonato Mundial Júnior de judô, entre 19 e 22 de novembro de 2026, em Tashkent, no Uzbequistão. Bicampeã mundial cadete na até 70kg, Clarisse chega ao torneio depois de conquistar o ouro nos Jogos Olímpicos da Juventude Dakar 2026, na até 78kg. Manuela, da até 63kg, foi ouro no Pan-Americano Cadete e na Copa Europeia Cadete de Faro e integrou a equipe prata do Brasil no Mundial Cadete. Vinícius, da até 60kg, soma duas medalhas internacionais em 2026 e espera contar com o apoio da torcida rubro-negra na busca por uma medalha.<br><br>
-
-## SEO
-
-- **Título SEO:** Judô do Flamengo: três atletas no Mundial Júnior em Tashkent
-- **Meta description:** Clarisse Vallim, Manuela Maia e Vinícius Oliveira representam o Flamengo e o Brasil no Campeonato Mundial Júnior de judô, entre 19 e 22 de novembro, em Tashkent, no Uzbequistão.
-- **Palavra-chave principal:** Mundial Júnior de judô
-- **Palavras-chave secundárias:** Clarisse Vallim; Manuela Maia; Vinícius Oliveira; judô do Flamengo; Campeonato Mundial Júnior de judô 2026; Tashkent; Jogos Olímpicos da Juventude Dakar 2026
-- **Slug sugerido:** judo-do-flamengo-clarisse-vallim-manuela-maia-e-vinicius-oliveira-no-mundial-junior
-
-## Pesquisa complementar e divergências de apuração
-
-- **IJF** — confirma que o Mundial Júnior 2026 foi transferido de Amã (Jordânia) para Tashkent, entre 19 e 22 de novembro; a competição individual vai de 19 a 21 e as equipes mistas fecham no dia 22. https://www--gcp.ijf.org/news/show/tashkent-to-host-2026-junior-worlds-as-amman-edition-is-postponed
-- **IJF — página da competição** — “Tashkent World Championships Juniors Individuals 2026”, de 19 a 21 de novembro; calendário por categoria (dia 2 com W -63kg e -70kg) e inscrições consultadas. https://www--gcp.ijf.org/index.php/competition/3207
-- **CBJ** — convocação da seleção brasileira, calendário provisório (Clarisse em 20/11; Vinícius em 19/11), finais às 9h (de Brasília) e transmissão pela Judo TV. https://cbj.com.br/pt/noticias/judo-brasileiro-tera-16-atletas-no-campeonato-mundial-junior/
-- **CBJ** — bicampeonato mundial cadete de Clarisse Vallim (-70kg), em Guayaquil, com títulos em 2025 e 2026. https://cbj.com.br/pt/noticias/clarisse-vallim-conquista-o-ouro-no-mundial-de-judo-cadete-pela-segunda-vez-consecutiva/
-- **COB** — ouro de Clarisse nos Jogos Olímpicos da Juventude Dakar 2026 na -78kg, com três ippons e final contra Anastasiia Dobrovolskaia. https://cob.org.br/comunicacao/noticias/o-sabor-e-de-felicidade-clarisse-vallim-celebra-ouro-especial-em-dakar-2026
-- **Judô Rio** — campanha de Dakar e as sete medalhas internacionais de Clarisse na temporada. https://judorio.org/clarisse-vallim-volta-a-fazer-historia-e-conquista-o-ouro-nos-jogos-olimpicos-da-juventude/
-- **Judô Rio** — Manuela Maia (63kg, Flamengo): ouro na Copa Europeia Cadete de Faro e 4ª do ranking mundial da categoria; bronze na Thuringia Cup júnior. https://judorio.org/nova-geracao-do-judo-rio-brilha-com-6-medalhas-na-copa-europeia-cadete-de-faro/ e https://judorio.org/nova-geracao-do-judo-rio-fatura-4-medalhas-em-competicoes-da-classe-junior-na-alemanha/
-- **Judô Rio** — Mundial Cadete 2026: Manuela Maia entre as representantes do Flamengo; número 4 do ranking mundial da categoria. https://judorio.org/mundial-cadete-comeca-nesta-quinta-com-6-representantes-do-judo-rio/
-- **CBJ** — Mundial Cadete 2026: Manuela Maia vence Presley Tompkins na estreia e cai nas oitavas para Polina Viziriakina; integra a equipe mista prata. https://cbj.com.br/pt/noticias/brasileiros-param-nas-oitavas-do-segundo-dia-do-campeonato-mundial-cadete/ e https://cbj.com.br/pt/noticias/equipe-mista-e-prata-e-brasil-fecha-mundial-de-judo-cadete-com-terceira-medalha/
-- **Olimpíada Todo Dia** — convocação com 17 atletas (15 no individual e 2 na equipe mista), calendário provisório e categorias. https://www.olimpiadatododia.com.br/judo/771072-brasil-mundial-junior-judo-convocacao/
-- **Federação Gaúcha de Judô** — reproduz a lista da CBJ com 17 nomes e inclui **Manuela Maia (63kg, C.R. Flamengo)**. https://judors.com.br/2026/10/30/sarah-silas-e-albano-sao-convocados-para-o-mundial-junior/
-
-### Divergência registrada e orientação editorial
-
-O editor orientou incluir Manuela Maia no texto. A convocação com **17 atletas**, reproduzida pela Federação Gaúcha de Judô, inclui a atleta na até 63kg; a versão da CBJ de 29/10 (16 atletas) não a lista, e a relação de inscritos da IJF consultada em 12/11/2026 não trazia atleta brasileira na -63kg. O texto segue a orientação do editor e apresenta Manuela como convocada; **pendente:** confirmar a inscrição dela com a CBJ antes de publicar, para evitar divergência com a lista oficial de inscritos.
-
-## Fontes de checagem — uso editorial interno
-
-- Flamengo oficial — “Judô rubro-negro terá Clarisse Vallim e Vinícius Oliveira no Campeonato Mundial Júnior”, por Comunicação Flamengo, publicado em 11/11/2026 às 14h22 (atualizado às 14h23): https://www.flamengo.com.br/noticias/judo/judo-rubro-negro-tera-clarisse-vallim-e-vinicius-oliveira-no-campeonato-mundial-junior — acesso em 12/11/2026.
-- Demais fontes listadas na seção “Pesquisa complementar e divergências de apuração”.
-
-## Limites de escopo e controle editorial
-
-- Todos os dados desta matéria se limitam às fontes oficiais e à pesquisa complementar registrada acima; não foram confirmados adversários, horários das lutas nem resultados.
-- As categorias de Clarisse (-70kg) e Vinícius (-60kg) vêm da convocação da CBJ; a de Manuela (-63kg) consta da lista com 17 atletas reproduzida pela Federação Gaúcha. A inscrição de Manuela na relação da IJF precisa ser confirmada.
-- Status: rascunho para revisão editorial; não publicado. Atualizar esta ficha após revisão e confirmação de publicação.
+## Estado
+Publicada; correções no portal dependem do editor. Aprendizados registrados em [[Preferências e Correções Recorrentes]] e no [[Log de Atualizações]].
