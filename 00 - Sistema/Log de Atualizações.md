@@ -1250,3 +1250,11 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - Observações específicas do vídeo (slug, descrição/byline, contador e chamada no plural) seguem registradas como cosméticas, sem pendência editorial.
 - Ficha, Painel e ficha do vídeo atualizados com o status da revisão.
 - Alterações documentais realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.
+
+
+## 2026-11-12 — Agenda de 13/11: duas pautas alocadas para a manhã
+- Por decisão do editor, as pautas sugeridas sobre o **Projeto Anjo da Guarda Rubro-Negro** e sobre a **ginástica artística** (jovens do Flamengo nos Jogos da Juventude) foram alocadas para a manhã de 13/11/2026.
+- As duas sugestões **não estavam registradas no vault**; a busca por "projeto anjo" e "ginástica artística" só encontrou a publicação de 24/10 sobre Rebeca Andrade. Os recortes foram reconstruídos a partir de fontes públicas e ficam como **a confirmar com o editor**.
+- Criada a seção "13/11/2026 — sexta-feira" no Painel de Pautas, com as duas pautas da manhã (estado, base conhecida, checagens e controle de redundância) e o lembrete do serviço Onde Assistir de Vasco x Flamengo Maricá.
+- **Pendência de planejamento:** definir se o Onde Assistir do futebol feminino segue o modelo das demais modalidades ou o do masculino, para o serviço de 13/11.
+- Alterações documentais realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.

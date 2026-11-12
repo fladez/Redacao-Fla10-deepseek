@@ -1964,6 +1964,20 @@ A pesquisa acadêmica reforça que a identificação com o clube, o comprometime
 - **Pauta de serviço:** Onde Assistir publicada em 11/11/2026; URL registrada na publicação confirmada. Local corrigido para Maracanãzinho.
 - **Cobertura no evento:** pós-jogo quando houver informações suficientes.
 
+### 13/11/2026 — sexta-feira
+
+- **Manhã — Pauta sugerida: Projeto Anjo da Guarda Rubro-Negro**
+  - **Estado:** alocada para a manhã de 13/11/2026 por decisão do editor; ângulo, formato e apuração a confirmar.
+  - **Base conhecida:** projeto social do Flamengo voltado à formação de atletas e cidadãos além do esporte, com o Espaço CUIDAR; a 5ª edição foi lançada em coquetel no Maracanã.
+  - **Checagens:** confirmar com o clube a edição vigente, número de participantes, critérios de seleção, investimento e resultados; não apresentar reedição como ação inédita.
+  - **Observação:** sugestão não localizada nos registros do vault; recorte original a confirmar com o editor.
+- **Manhã — Pauta sugerida: Ginástica artística — jovens do Flamengo nos Jogos da Juventude**
+  - **Estado:** alocada para a manhã de 13/11/2026 por decisão do editor; recorte a confirmar.
+  - **Base conhecida:** Brayan Oliveira do Nascimento (14 anos) e Millena Cristina dos Santos Lima (13) conquistaram o ouro no individual geral dos Jogos da Juventude CAIXA Foz do Iguaçu 2026; ambos treinam no Flamengo. Brayan chegou ao clube por ação de captação em escola da Rocinha; Millena é da equipe juvenil e treina ao lado de Flávia Saraiva.
+  - **Controle de redundância:** não repetir a publicação de 24/10 sobre o tricampeonato mundial de Rebeca Andrade no salto; a pergunta aqui é a formação de base e a projeção dos jovens atletas.
+  - **Checagens:** confirmar resultados e idades em COB/CBG; verificar os próximos compromissos de Millena (Gaia International Tournament e Copa Pan-Americana).
+- **Serviço do dia:** Onde Assistir — Vasco x Flamengo Maricá (jogo em 14/11), com publicação prevista para hoje; confirmar horário, estádio e transmissão antes de produzir.
+
 ### 14/11/2026 — sábado
 - **Evento:** Vasco x Flamengo Maricá — Campeonato Carioca Feminino, 4ª rodada.
 - **Pauta de serviço:** Onde assistir — 13/11; confirmar horário, estádio e transmissão.
