@@ -51,15 +51,17 @@ A notícia confirma os três representantes do Flamengo no Campeonato Mundial J�
 9. **Ordem dos nomes alterada no fechamento:** “Para Clarisse, Vinícius e Manuela...” (no restante, a ordem é Clarisse, Manuela e Vinícius).
 
 ## Revisão pós-publicação (12/11/2026)
-Lista ordenada por gravidade, com trecho, problema e correção sugerida. Nada foi alterado no portal.
+Lista ordenada por gravidade, com trecho, problema e correção sugerida. **Status em 12/11/2026:** itens 1 e 2 corrigidos pelo editor e verificados na página publicada; itens 3 a 7 dispensados pelo editor para esta matéria.
 
-1. **Período truncado (afeta compreensão):** “A competição reunirá alguns dos principais talentos mundiais da modalidade na categoria de até 20 anos. **e abre espaço** para jovens talentos em um dos torneios mais relevantes da categoria.” — há um ponto antes de “e abre”, deixando a segunda parte como fragmento. Sugestão: “...na categoria de até 20 anos e abre espaço para jovens talentos em um dos torneios mais relevantes da categoria.”
-2. **Redundância (afeta forma):** o parágrafo “A trajetória da rubro-negra chama atenção pela experiência acumulada mesmo com a pouca idade. Ao longo de 2026, Clarisse participou de competições nas categorias cadete, júnior e sênior...” repete a informação do parágrafo seguinte: “...a judoca também acumulou experiência nas categorias cadete, júnior e sênior...”. Sugestão: retirar a repetição em um dos trechos.
+1. **Período truncado (afeta compreensão):** “A competição reunirá alguns dos principais talentos mundiais da modalidade na categoria de até 20 anos. **e abre espaço** para jovens talentos em um dos torneios mais relevantes da categoria.” — há um ponto antes de “e abre”, deixando a segunda parte como fragmento. Sugestão: “...na categoria de até 20 anos e abre espaço para jovens talentos em um dos torneios mais relevantes da categoria.” **Status:** corrigido e verificado na página em 12/11/2026 — o trecho agora é “...na categoria de até 20 anos e abre espaço para jovens talentos...”.
+2. **Redundância (afeta forma):** o parágrafo “A trajetória da rubro-negra chama atenção pela experiência acumulada mesmo com a pouca idade. Ao longo de 2026, Clarisse participou de competições nas categorias cadete, júnior e sênior...” repete a informação do parágrafo seguinte: “...a judoca também acumulou experiência nas categorias cadete, júnior e sênior...”. Sugestão: retirar a repetição em um dos trechos. **Status:** corrigido e verificado na página em 12/11/2026 — o fecho passou a “A campanha em Dakar coroou um ano em que a judoca somou sete medalhas internacionais na temporada.”, sem repetir cadete/júnior/sênior.
 3. **Posição das imagens (afeta leitura):** as fotos de Manuela (“Reprodução - @manu_maiaaaa”) e de Vinícius (“Reprodução - @viniciusoliveira_60”) aparecem ao fim das seções anteriores, antes dos respectivos subtítulos — a foto de Manuela fecha a seção de Clarisse, e a de Vinícius fecha a de Manuela. Sugestão: reposicionar cada foto para o início da seção do atleta correspondente, conferindo legenda e crédito.
 4. **Créditos e acessibilidade das imagens (afeta forma):** as imagens internas usam crédito “Reprodução - @...” de redes sociais; confirmar autorização de uso e preferir imagens oficiais do clube/COB. Os `alt` das imagens internas estão como “Imagem inserida” e o `alt` da imagem principal repete “Notícias do Flamengo hoje e contratações” (template), sem descrever a foto. Sugestão: creditar corretamente e preencher `alt` descritivo.
 5. **Ordem dos nomes no fechamento (menor):** “Para Clarisse, Vinícius e Manuela...” difere da ordem usada no título, subtítulo, Resumo e lide (“Clarisse, Manuela e Vinícius”). Sugestão: padronizar.
 6. **“1 acessos” (portal, menor):** o contador exibe “1 acessos”; o correto é “1 acesso” (defeito do template, não do texto).
 7. **H2 oculto genérico (portal, menor):** o código traz um `<h2 class="sr-only">` com “Acompanhe todos os detalhes desta notícia do Flamengo hoje, informações exclusivas e fique por dentro das últimas contratações do Flamengo.” — não aparece na tela, mas é lido por leitores de tela e não tem relação com o conteúdo. Sugestão: substituir pela linha fina real ou remover (template do CMS).
+
+**Status dos itens 3 a 7:** não serão tratados nesta matéria, por decisão do editor em 12/11/2026; permanecem aqui apenas como histórico da revisão.
 
 ## Aprendizados incorporados
 - Em pautas com agenda/programação (jogos, campeonatos, torneios), incluir um bloco de serviço com dia, categoria e transmissão — foi o principal acréscimo do editor.
@@ -71,4 +73,4 @@ Lista ordenada por gravidade, com trecho, problema e correção sugerida. Nada f
 - O judô é publicado na editoria **Judô** no portal.
 
 ## Estado
-Publicada; correções no portal dependem do editor. Aprendizados registrados em [[Preferências e Correções Recorrentes]] e no [[Log de Atualizações]].
+Publicada. Correções 1 e 2 aplicadas pelo editor e verificadas na página em 12/11/2026; itens 3 a 7 dispensados pelo editor para esta matéria. Aprendizados registrados em [[Preferências e Correções Recorrentes]] e no [[Log de Atualizações]].

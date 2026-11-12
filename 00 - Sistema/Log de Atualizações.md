@@ -1210,3 +1210,11 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - **Revisão pós-publicação:** (1) período truncado em “...categoria de até 20 anos. e abre espaço...” (ponto antes de “e”); (2) redundância entre o parágrafo novo sobre a trajetória de Clarisse e o trecho seguinte, ambos citando cadete/júnior/sênior; (3) fotos de Manuela e Vinícius posicionadas ao fim das seções anteriores, antes dos respectivos subtítulos; (4) créditos “Reprodução - @...” de redes sociais e `alt` genérico nas imagens; (5) ordem dos nomes no fechamento (“Clarisse, Vinícius e Manuela”) diferente do restante; (6) “1 acessos” e H2 oculto genérico (template do portal). Correções sugeridas registradas na ficha; nada foi alterado no portal.
 - **Aprendizados:** incluir bloco de programação/serviço em pautas com agenda; prever parágrafo institucional e fechamento projetivo; oferecer título com verbo de ação; indicar posição, legenda e crédito das imagens; manter Resumo para IA no topo e pacote SEO completo; judô é publicado na editoria Judô. Registrados em `05 - Memória Editorial/Preferências e Correções Recorrentes.md`.
 - Alterações documentais realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.
+
+
+## 2026-11-12 — Correções pós-publicação verificadas: notícia de judô
+- O editor informou a correção dos itens 1 e 2 da revisão pós-publicação e dispensou os demais achados para esta matéria.
+- **Verificado na página publicada em 12/11/2026:** (1) o período passou a “...na categoria de até 20 anos e abre espaço para jovens talentos...”; (2) a redundância foi removida — o fecho agora é “A campanha em Dakar coroou um ano em que a judoca somou sete medalhas internacionais na temporada.”, sem repetir cadete/júnior/sênior.
+- Itens 3 a 7 (posição e créditos das imagens, ordem dos nomes no fechamento, “1 acessos” e H2 oculto genérico) **não serão tratados nesta matéria**, por decisão do editor; permanecem na ficha apenas como histórico.
+- Ficha e Painel atualizados com o status das correções.
+- Alterações documentais realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.
