@@ -2719,13 +2719,13 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 ## Rascunho para revisão editorial — Notícia de judô: Mundial Júnior (12/11/2026)
 
 - **Estado:** matéria produzida; **rascunho para revisão editorial, não publicada**.
-- **Título de trabalho:** *Clarisse Vallim e Vinícius Oliveira representam o Flamengo no Mundial Júnior de judô*.
+- **Título de trabalho:** *Flamengo terá três judocas no Mundial Júnior em Tashkent*.
 - **Formato:** notícia de últimas notícias — site (seção sugerida: Olímpicos).
-- **Ficha editorial:** [[2026-11-12 - Judô - Clarisse Vallim e Vinícius Oliveira no Mundial Júnior]].
+- **Ficha editorial:** [[2026-11-12 - Judô - Clarisse Vallim, Manuela Maia e Vinícius Oliveira no Mundial Júnior]].
 - **Origem da informação:** nota oficial do Flamengo (11/11/2026) e pesquisa complementar em IJF, CBJ, COB, Judô Rio, Olimpíada Todo Dia e Federação Gaúcha de Judô.
-- **Ângulo:** representantes rubro-negros no Mundial Júnior de judô, em Tashkent (19 a 22/11); destaque para a temporada de Clarisse Vallim (bicampeã mundial cadete na até 70kg e ouro nos Jogos Olímpicos da Juventude Dakar 2026) e para a expectativa de Vinícius Oliveira.
-- **Dados confirmados na pesquisa:** competição individual de 19 a 21/11 e equipes mistas em 22/11; edição transferida de Amã (Jordânia) para Tashkent; Clarisse inscrita na até 70kg e Vinícius na até 60kg; finais às 9h (de Brasília) com transmissão da Judo TV.
-- **Divergência registrada:** a nota do Flamengo cita dois atletas do clube, mas a lista reproduzida pela Federação Gaúcha inclui Manuela Maia (63kg, C.R. Flamengo); as versões da CBJ divergem entre 16 e 17 convocados. A presença de Manuela **não foi confirmada** e não entrou no texto publicável; confirmar com CBJ/clube antes de publicar.
+- **Ângulo:** três representantes rubro-negros no Mundial Júnior de judô, em Tashkent (19 a 22/11); destaque para a temporada de Clarisse Vallim (bicampeã mundial cadete na até 70kg e ouro nos Jogos Olímpicos da Juventude Dakar 2026), para a campanha de Manuela Maia na base e para a expectativa de Vinícius Oliveira.
+- **Dados confirmados na pesquisa:** competição individual de 19 a 21/11 e equipes mistas em 22/11; edição transferida de Amã (Jordânia) para Tashkent; Clarisse na até 70kg, Manuela na até 63kg e Vinícius na até 60kg; finais às 9h (de Brasília) com transmissão da Judo TV.
+- **Divergência registrada:** por orientação do editor, Manuela Maia foi incluída no texto. A lista com 17 atletas reproduzida pela Federação Gaúcha a relaciona na até 63kg; a versão de 16 atletas da CBJ (29/10) não a inclui, e a relação de inscritos da IJF consultada em 12/11 não trazia brasileira na categoria. **Pendente:** confirmar a inscrição de Manuela com a CBJ antes de publicar.
 - **Controle de redundância:** não há registro anterior de pauta de judô no Painel; conferir o site antes de publicar.
-- **Apuração registrada:** adversários, horários das lutas e resultados não foram confirmados; categorias vêm da convocação da CBJ.
+- **Apuração registrada:** adversários, horários das lutas e resultados não foram confirmados; categorias vêm da convocação da CBJ e da lista com 17 atletas.
 - **Registro editorial:** rascunho entregue ao editor em 12/11/2026; o status será atualizado após revisão e confirmação de publicação.

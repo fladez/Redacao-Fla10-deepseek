@@ -1191,3 +1191,11 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - **Divergência registrada:** a nota oficial do Flamengo cita dois atletas do clube, enquanto a lista reproduzida pela Federação Gaúcha inclui Manuela Maia (63kg, C.R. Flamengo); as versões da CBJ divergem entre 16 e 17 convocados e não confirmam a presença dela de forma inequívoca. O texto mantém apenas as informações confirmadas e não afirma a participação da terceira atleta; pendente confirmação com CBJ/clube.
 - Ficha e Painel atualizados; o status segue **rascunho para revisão editorial, não publicado**.
 - Alterações documentais realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.
+
+
+## 2026-11-12 — Manuela Maia incluída no rascunho de judô por orientação do editor
+- A pedido do editor, o rascunho passou a tratar dos três judocas do Flamengo: Clarisse Vallim (-70kg), Manuela Maia (-63kg) e Vinícius Oliveira (-60kg). Título, lide, Resumo para IA, SEO e ficha foram atualizados; a ficha foi renomeada para `06 - Pautas/2026-11-12 - Judô - Clarisse Vallim, Manuela Maia e Vinícius Oliveira no Mundial Júnior.md`.
+- **Pesquisa sobre Manuela Maia:** atleta do C.R. Flamengo na até 63kg; em 2026 foi ouro no Campeonato Pan-Americano Cadete e na Copa Europeia Cadete de Faro (4ª colocada do ranking mundial cadete da categoria) e bronze na Thuringia Cup júnior; no Mundial Cadete 2026, em Guayaquil, venceu Presley Tompkins na estreia, caiu nas oitavas para Polina Viziriakina e integrou a equipe mista prata do Brasil.
+- **Pendência:** a lista de 16 atletas divulgada pela CBJ em 29/10 não inclui Manuela, e a relação de inscritos da IJF consultada em 12/11 não trazia brasileira na -63kg; a lista com 17 atletas reproduzida pela Federação Gaúcha a inclui. O texto segue a orientação do editor, mas a inscrição deve ser confirmada com a CBJ antes da publicação.
+- O status segue **rascunho para revisão editorial, não publicado**.
+- Alterações documentais realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.
