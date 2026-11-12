@@ -1218,3 +1218,14 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - Itens 3 a 7 (posição e créditos das imagens, ordem dos nomes no fechamento, “1 acessos” e H2 oculto genérico) **não serão tratados nesta matéria**, por decisão do editor; permanecem na ficha apenas como histórico.
 - Ficha e Painel atualizados com o status das correções.
 - Alterações documentais realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.
+
+
+## 2026-11-12 — Publicação confirmada: Danilo, máscara facial e protetor bucal
+- O editor confirmou a publicação e forneceu a URL.
+- Matéria: **“Danilo treina com máscara facial e protetor bucal; entenda como funcionam”**, na seção Profissional, com autoria de Thiago Silva na página, publicada em 12/11/2026.
+- **URL pública:** https://fla10.news/noticias/danilo-treina-com-mascara-facial-e-protetor-bucal-entenda-como-funcionam
+- Criada a ficha `06 - Pautas/2026-11-12 - Danilo - máscara facial e protetor bucal.md` com fatos apurados, cronologia, ajustes editoriais e revisão pós-publicação.
+- Painel de Pautas: nova seção de publicação confirmada.
+- **Aprendizado registrado no manual de Últimas Notícias:** variação explicativa com abertura de gancho, seções em pergunta, dados concretos, vozes atribuídas e fechamento pelo que falta; extensão de 1.200 a 1.400 palavras.
+- **Revisão pós-publicação (achados para o editor):** redundância leve sobre 9/11; formatação do itálico na citação; divergência a confirmar entre Gustavo Machado (cirurgia) e Fernando Sassaki (solicitação do protetor); itens cosméticos do site já dispensados.
+- Alterações documentais realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.

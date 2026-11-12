@@ -2729,3 +2729,19 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 - **Revisão pós-publicação:** itens 1 e 2 (período truncado e redundância) corrigidos pelo editor e **verificados na página em 12/11/2026**; itens 3 a 7 (posição/créditos de imagens, ordem dos nomes no fechamento, “1 acessos” e H2 oculto genérico) **dispensados pelo editor para esta matéria**. Lista completa na ficha.
 - **Ficha editorial:** [[2026-11-12 - Judô - Clarisse Vallim, Manuela Maia e Vinícius Oliveira no Mundial Júnior]].
 - **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações. Correções no portal dependem do editor.
+
+
+## Publicação confirmada — Danilo: máscara facial e protetor bucal (12/11/2026)
+
+- **Estado:** publicada em 12/11/2026, conforme confirmação explícita do editor.
+- **Título:** *Danilo treina com máscara facial e protetor bucal; entenda como funcionam*.
+- **URL pública:** https://fla10.news/noticias/danilo-treina-com-mascara-facial-e-protetor-bucal-entenda-como-funcionam
+- **Formato:** Profissional — notícia explicativa sobre o equipamento de proteção e o protocolo de recuperação.
+- **Autoria na página:** Thiago Silva.
+- **Fatos registrados:** duas fraturas na mandíbula em 11/10, no Fla-Flu, após choque com Fábio; cirurgia em 12/10 com quatro placas e 20 parafusos, conduzida por Gustavo Machado; protetor bucal e máscara facial em TPU personalizada por escaneamento facial; laserterapia por cerca de um mês; máscara na academia em 2/11 e primeira atividade em campo em 9/11; retorno sem data e presença incerta contra o Athletico-PR, em 18/11.
+- **Ângulo:** explicador do equipamento e do protocolo, com detalhes técnicos e depoimentos; não é apenas nota de lesão.
+- **Proveniência:** produção interna colaborativa — pauta produzida pela IA em colaboração com o editor.
+- **Ajustes editoriais observados:** nova abertura de gancho; linha fina reescrita para o ângulo tecnológico; ampliação para cerca de 1.300 palavras com cinco seções novas (cirurgia, desenvolvimento da máscara, diferença entre dispositivos, personalização e dependência clínica do retorno); quatro imagens e dois links internos.
+- **Revisão pós-publicação:** (1) redundância leve na menção a 9/11; (2) formatação da citação com itálico englobando atribuição; (3) divergência a confirmar entre os nomes de Gustavo Machado (cirurgia) e Fernando Sassaki (solicitação do protetor) — podem ser funções distintas; (4) itens cosméticos do site já dispensados em outras matérias.
+- **Ficha editorial:** [[2026-11-12 - Danilo - máscara facial e protetor bucal]].
+- **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações. Correções no portal dependem do editor.

@@ -20,3 +20,16 @@ Entregar informação nova com rapidez, clareza e contexto suficiente para o lei
 
 ## Cuidados
 Urgência não justifica imprecisão. Não usar “última hora” sem motivo real. Não inflar uma declaração ou movimentação menor em crise, decisão definitiva ou conflito sem evidência.
+
+## Variação explicativa (observada em 12/11/2026)
+
+A matéria sobre a máscara de Danilo mostrou um formato de explicador que pode ser reutilizado quando o fato central é um equipamento, procedimento ou protocolo.
+
+1. **Abertura de gancho:** um detalhe visível ou curioso (a máscara no treino) instala o assunto.
+2. **Lead factual:** o que aconteceu, quando e em que estado está a situação.
+3. **Seções em pergunta:** como foi o procedimento; como o equipamento foi desenvolvido; qual é a diferença em relação ao alternativa; por que precisa ser personalizado; quando haverá retorno.
+4. **Dados concretos:** números do procedimento, datas do protocolo, materiais e etapas — sempre com fonte identificada.
+5. **Vozes:** citação do atleta e do responsável técnico, cada uma com atribuição clara.
+6. **Fechamento pelo que falta:** estado atual, ausência de prazo e o que precisa acontecer até a liberação.
+
+Extensão de referência: **1.200 a 1.400 palavras**. O subtítulo deve carregar o ângulo do explicador (tecnologia, protocolo, consequência), não repetir a lesão. Evitar transformar o explicador em nota curta: o valor está nos detalhes verificados e na sequência de perguntas respondidas.
