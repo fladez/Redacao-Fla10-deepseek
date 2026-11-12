@@ -2714,3 +2714,16 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 - **Revisão pós-publicação:** inconsistências numéricas a conferir (três pontos x três vitórias; cenário de 82 a 86 pontos e número de jogos restantes; comparação de aproveitamento com o Mônaco 2016-2017) e erros de forma ("Canal do Carlção Azevedo"; "campanha de 90 anos"; chamada diferente do corpo). Lista completa na ficha.
 - **Ficha editorial:** [[2026-11-12 - Na Pena do Urubu - Pedir a saída de Jardim fere o bom senso]].
 - **Registro editorial:** publicação confirmada pelo editor; peça encerrada e incluída no histórico de publicações.
+
+
+## Rascunho para revisão editorial — Notícia de judô: Mundial Júnior (12/11/2026)
+
+- **Estado:** matéria produzida; **rascunho para revisão editorial, não publicada**.
+- **Título de trabalho:** *Clarisse Vallim e Vinícius Oliveira representam o Flamengo no Mundial Júnior de judô*.
+- **Formato:** notícia de últimas notícias — site (seção sugerida: Olímpicos).
+- **Ficha editorial:** [[2026-11-12 - Judô - Clarisse Vallim e Vinícius Oliveira no Mundial Júnior]].
+- **Origem da informação:** nota oficial do Flamengo, “Judô rubro-negro terá Clarisse Vallim e Vinícius Oliveira no Campeonato Mundial Júnior”, publicada pela Comunicação Flamengo em 11/11/2026.
+- **Ângulo:** dois representantes rubro-negros no Mundial Júnior de judô, em Tashkent (19 a 22/11); destaque para a temporada de Clarisse Vallim (campeã mundial cadete aos 14 anos e ouro nos Jogos Olímpicos da Juventude) e para a expectativa de Vinícius Oliveira.
+- **Controle de redundância:** não há registro anterior de pauta de judô no Painel; conferir o site antes de publicar para evitar sobreposição com eventual nota do clube reproduzida em outra matéria.
+- **Apuração registrada:** dados restritos ao comunicado oficial; categorias de peso, adversários e horários das lutas não foram confirmados.
+- **Registro editorial:** rascunho entregue ao editor em 12/11/2026; o status será atualizado após revisão e confirmação de publicação.

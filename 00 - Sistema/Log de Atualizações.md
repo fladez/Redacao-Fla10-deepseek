@@ -1173,3 +1173,13 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - **Revisão pós-publicação — achados principais:** (1) inconsistência entre "três pontos" de vantagem e "três vitórias"; (2) cenário de título com "82 a 86 pontos" e "cinco compromissos" a conferir frente aos 76 pontos e quatro rodadas registrados em 11/11/2026; (3) comparação de aproveitamento com o Mônaco 2016-2017 a conferir; (4) erro de digitação "Canal do Carlção Azevedo"; (5) provável "campanha de 90 anos" por "90 pontos"; (6) chamada na página da coluna e no bloco "Outras Colunas" diferente da abertura atual do corpo. Achados menores: contador "1 acessos" e aspas soltas na biografia do autor (defeitos de template, um deles já presente em 31/10/2026). Nada foi alterado no portal.
 - Nenhuma mudança no Registro de Decisões: publicação individual não é regra editorial.
 - Alterações documentais realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.
+
+
+## 2026-11-12 — Rascunho de notícia: judô do Flamengo no Mundial Júnior
+- Criada a ficha `06 - Pautas/2026-11-12 - Judô - Clarisse Vallim e Vinícius Oliveira no Mundial Júnior.md` com notícia original baseada na nota oficial do Flamengo de 11/11/2026.
+- Conteúdo: presença de Clarisse Vallim e Vinícius Oliveira no Campeonato Mundial Júnior de judô, em Tashkent (Uzbequistão), entre 19 e 22 de novembro; trajetória de Clarisse (campeã mundial cadete aos 14 anos e ouro nos Jogos Olímpicos da Juventude) e declaração de Vinícius sobre a expectativa de apoio da torcida.
+- Incluídos título, subtítulo, Resumo para IA, corpo com marcadores `<br><br>` e subtítulos `<h3>`, pacote SEO e notas de apuração.
+- Painel de Pautas atualizado com status **rascunho para revisão editorial; não publicado**.
+- **Apuração:** dados restritos à fonte oficial do clube; não foram confirmadas categorias de peso, adversários, horários das lutas nem a composição completa da delegação.
+- Nenhuma mudança no Registro de Decisões.
+- Alterações documentais realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.
