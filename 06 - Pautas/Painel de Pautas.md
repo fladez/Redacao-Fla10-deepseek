@@ -2696,6 +2696,6 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 - **Ângulo:** virada no segundo tempo, perda de Cristiane no intervalo e consequência para a volta em 15/11, às 16h, no Beira-Rio — o Flamengo precisa vencer por três gols; dois levam aos pênaltis; o Inter pode perder por um.
 - **Proveniência:** produção interna colaborativa — pauta produzida pela IA em colaboração com o editor.
 - **Ajustes editoriais observados:** segundo parágrafo reescrito para explicitar a vantagem de dois gols; cronologia ampliada com mais lances; cenário do Inter incluído no fechamento; dois links internos e duas imagens.
-- **Revisão pós-publicação:** erros de digitação "aosAos 21" e "Gabi Barbier" corrigidos pelo editor em 12/11/2026 (verificado na página); permanece um ajuste de pontuação no parágrafo que descreve as chances do Inter aos 21 e aos 24 minutos.
+- **Revisão pós-publicação:** erros de digitação "aosAos 21" e "Gabi Barbier" corrigidos pelo editor em 12/11/2026 (verificado na página); **ajuste de pontuação informado como realizado em 12/11/2026, com verificação pendente** — o link da matéria retornou HTTP 404 na conferência, embora o card siga listado em `/noticias`.
 - **Ficha editorial:** [[2026-11-12 - Flamengo Maricá x Internacional - pós-jogo final Copa do Brasil Feminina]].
 - **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações.

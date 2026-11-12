@@ -1145,3 +1145,11 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - Rotina registrada no manual de Revisão e Controle de Qualidade (checklist e formato de entrega), no Fluxo de Produção (item 7 da rotina de publicação), nas Preferências e no Registro de Decisões.
 - **Novo achado na revisão de 12/11/2026:** pontuação truncada e duplicação de "e" no parágrafo sobre as chances do Inter aos 21 e aos 24 minutos; correção sugerida registrada na ficha da publicação.
 - Alterações documentais realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.
+
+
+## 2026-11-12 — Correção de pontuação informada; verificação pendente
+- O editor informou que realizou a correção de pontuação no parágrafo das chances do Inter.
+- **Verificação não concluída:** o link da matéria retornou HTTP 404 nas tentativas de 12/11/2026, embora o card continue listado em `/noticias` com o mesmo endereço. A página pode estar em republicação ou temporariamente indisponível.
+- Registro atualizado na ficha e no Painel: correção **informada** pelo editor e **verificação pendente**; não se afirma que a página foi conferida após essa correção.
+- Reconfirmar a página quando voltar a responder e, se o endereço tiver mudado, atualizar a URL na ficha e no Painel.
+- Alterações documentais realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.
