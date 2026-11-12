@@ -48,7 +48,8 @@ Pós-jogo factual da virada, com a perda de Cristiane no intervalo e a consequê
 - **Cronologia ampliada:** primeiro e segundo tempos ganharam mais lances (defesas de Gabi Barbieri, chances de Kaylane e Cristiane, travessão de Sole Jaimes, finalizações de Jucinara e Fabiola Sandoval) e frases de mudança de cenário.
 - **Fechamento do cenário:** em vez de "qualquer outro resultado", o texto apresenta o cenário do Inter (pode perder por um gol) e encerra com a data da volta e o título inédito dos dois clubes.
 - **Dois links internos "Leia Também" e duas imagens** inseridos; ficha técnica mantida.
-- **Erros de digitação na página publicada:** "aosAos 21" e "Gabi Barbier" (sem o "i"); sinalizados para correção no CMS.
+- **Correções aplicadas:** os erros de digitação "aosAos 21" e "Gabi Barbier" foram corrigidos pelo editor no portal em 12/11/2026; verificado na página publicada.
+- **Ponto remanescente (revisão pós-publicação):** no parágrafo "As coloradas chegaram perto do empate aos 21, Julia Bianchi chutou de longe e mandou por cima e aos 24 minutos…", há duplicação de "e" e pontuação truncada. Sugestão: "As coloradas chegaram perto do empate: aos 21 minutos, Julia Bianchi chutou de longe e mandou por cima; aos 24, Valéria avançou pela esquerda e cruzou para Sole Jaimes, que tentou encobrir a goleira Vivi Holzel, mas acertou o travessão."
 
 ## Estado
 Publicada e encerrada. O registro no GitHub não altera o conteúdo do site.

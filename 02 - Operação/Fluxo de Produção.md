@@ -29,6 +29,7 @@ Quando o responsável informar que a pauta foi publicada, tratar a confirmação
 4. Acrescentar uma entrada datada em [[Log de Atualizações]] com os arquivos alterados.
 5. Registrar em [[Registro de Decisões]] apenas mudanças duradouras de método; publicação individual, por si só, não é uma nova regra editorial.
 6. Não afirmar que o site foi editado, que a publicação foi verificada externamente ou que houve sincronização local se a ferramenta só confirmou alterações no GitHub.
+7. Executar a revisão pós-publicação: abrir a página publicada, conferir texto e formatação e listar ao editor os erros encontrados, com trecho e correção sugerida, seguindo o checklist de [[Revisão e Controle de Qualidade]].
 
 Registrar regras novas apenas quando forem duradouras; não transformar cada ajuste pontual em política permanente.
 

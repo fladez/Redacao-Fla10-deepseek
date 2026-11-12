@@ -46,3 +46,23 @@ Impedir que matérias sejam entregues incompletas, factualmente frágeis, repeti
 
 ## Critério de aprovação
 Uma matéria não está pronta apenas porque está bem escrita. Deve estar factual, completa para o formato, coerente com a pauta e formatada para o destino solicitado.
+
+## Revisão pós-publicação
+
+Depois que o responsável confirmar a publicação e fornecer a URL, abrir a página publicada e revisar o texto efetivamente no ar — não apenas o rascunho entregue. Reportar os achados em lista numerada, com trecho exato, problema e correção sugerida, sem alterar o portal sem autorização.
+
+### Checklist
+- [ ] Título, subtítulo e linha fina: coerência entre si e com o texto.
+- [ ] Resumo para IA: consistência com o corpo e com a regra de não antecipar canais de transmissão.
+- [ ] Nomes de pessoas, clubes e competições grafados corretamente (conferir letra a letra).
+- [ ] Placar, minutos, gols, cartões, arbitragem e datas conferidos.
+- [ ] Repetições, palavras duplicadas, concordância, pontuação e frases truncadas.
+- [ ] Parágrafos duplicados ou equivalentes (abertura dobrada).
+- [ ] Formatação: subtítulos no lugar, negrito, itálico, listas, ficha técnica e marcadores de parágrafo.
+- [ ] Links internos e externos: destino correto e texto do link coerente.
+- [ ] Imagens: presença, crédito e pertinência.
+- [ ] Metadados: seção, autor, data, URL (slug) e ordem das seções.
+- [ ] Regras editoriais do formato: transmissão apenas no fim (Onde Assistir), cenário dos dois times (pós-jogo), entre outras.
+
+### Formato da entrega
+Lista objetiva, ordenada por gravidade: primeiro o que afeta fato ou compreensão, depois o que afeta forma. Para cada item: **onde** (trecho), **o que está errado** e **correção sugerida**. Não reescrever a matéria inteira nem corrigir o portal sem autorização.

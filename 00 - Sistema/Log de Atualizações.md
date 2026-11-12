@@ -1137,3 +1137,11 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - **Aprendizado registrado no manual de Pós-jogo:** composição observada na primeira publicação (Resumo para IA no topo; lead com placar e explicação central; parágrafo de consequência; cronologia por tempo com mais lances; cenário dos dois times; ficha técnica ao final) e extensão de referência de 700 a 800 palavras.
 - **Erros de digitação identificados na página publicada:** "aosAos 21" e "Gabi Barbier"; sinalizados para correção no CMS.
 - Alterações documentais realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.
+
+
+## 2026-11-12 — Rotina de revisão pós-publicação registrada
+- O editor confirmou que aplicou no portal as duas correções apontadas na revisão anterior ("aosAos 21" e "Gabi Barbier"); a verificação na página publicada confirmou as correções.
+- A pedido do editor, incorporada a rotina permanente de **revisão pós-publicação**: abrir a página publicada, conferir texto e formatação e reportar erros em lista ordenada por gravidade, com trecho exato e correção sugerida.
+- Rotina registrada no manual de Revisão e Controle de Qualidade (checklist e formato de entrega), no Fluxo de Produção (item 7 da rotina de publicação), nas Preferências e no Registro de Decisões.
+- **Novo achado na revisão de 12/11/2026:** pontuação truncada e duplicação de "e" no parágrafo sobre as chances do Inter aos 21 e aos 24 minutos; correção sugerida registrada na ficha da publicação.
+- Alterações documentais realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.

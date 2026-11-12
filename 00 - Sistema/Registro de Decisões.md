@@ -86,3 +86,12 @@ Adicionar novas entradas abaixo. Ao mudar uma regra, atualizar também o documen
 - **Impacto operacional:** não inserir canais no lead nem no Resumo para IA; a seção "Onde assistir" fica próxima do fim, antes da ficha técnica.
 - **Documento atualizado:** [[Onde Assistir]].
 - **Estado:** vigente.
+
+
+### Revisão pós-publicação obrigatória
+- **Data:** 2026-11-12
+- **Decisão:** depois de cada publicação, revisar a página efetivamente publicada e reportar ao editor os erros de texto e de formatação, com trecho exato e correção sugerida, sem alterar o portal sem autorização.
+- **Motivo/contexto:** pedido explícito do editor em 12/11/2026, após erros de digitação e duplicação serem encontrados apenas depois da publicação.
+- **Impacto operacional:** a rotina de confirmação de publicação passa a incluir a revisão pós-publicação, com checklist próprio e entrega em lista ordenada por gravidade.
+- **Documento atualizado:** [[Revisão e Controle de Qualidade]] e [[Fluxo de Produção]].
+- **Estado:** vigente.
