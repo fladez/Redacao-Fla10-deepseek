@@ -1404,7 +1404,7 @@ A pedido do editor, esta seção atualiza a programação corrente e prevalece s
 
 ### 12/11/2026 — Sesc RJ Flamengo x Fluminense
 - **11/11/2026 — Onde assistir:** **publicada em 11/11/2026**. URL registrada na publicação confirmada. [[2026-11-11 - Sesc RJ Flamengo x Fluminense - onde assistir Superliga Feminina]].
-- **12/11/2026 — Pós-jogo:** pautada; produção após a partida. [[2026-11-12 - Sesc RJ Flamengo x Fluminense - pós-jogo Superliga Feminina]].
+- **12/11/2026 — Pós-jogo:** **publicado em 13/11/2026**. URL registrada na publicação confirmada. [[2026-11-12 - Sesc RJ Flamengo x Fluminense - pós-jogo Superliga Feminina]].
 - **Horário:** 21h; **local:** Maracanãzinho, Rio de Janeiro; **transmissão informada:** SporTV 2 e Globoplay.
 
 ### 17/11/2026 — Sesi Bauru x Sesc RJ Flamengo
@@ -1962,7 +1962,7 @@ A pesquisa acadêmica reforça que a identificação com o clube, o comprometime
 ### 12/11/2026 — quinta-feira
 - **Evento:** Sesc RJ Flamengo x Fluminense — Superliga Feminina; 21h, Maracanãzinho (RJ).
 - **Pauta de serviço:** Onde Assistir publicada em 11/11/2026; URL registrada na publicação confirmada. Local corrigido para Maracanãzinho.
-- **Cobertura no evento:** pós-jogo quando houver informações suficientes.
+- **Cobertura no evento:** pós-jogo publicado em 13/11/2026 (partida em 12/11); URL e ficha registradas na publicação confirmada.
 
 ### 13/11/2026 — sexta-feira
 
@@ -2777,3 +2777,20 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 - **Revisão pós-publicação:** slug com três hífens antes de "flamengotv"; página sem descrição e sem byline; contador "0 visualizações"; chamada "Assistam ao vídeo" no plural. Itens cosméticos, exceto a sugestão de descrição curta para SEO/Discover.
 - **Ficha editorial:** [[2026-11-12 - Danilo treina com a máscara - vídeo FlamengoTV]].
 - **Registro editorial:** publicação confirmada pelo editor; item encerrado e incluído no histórico de publicações.
+
+
+## Publicação confirmada — Sesc RJ Flamengo 3 x 0 Fluminense: pós-jogo da Superliga (13/11/2026)
+
+- **Estado:** publicada em 13/11/2026 (partida em 12/11), conforme confirmação explícita do editor.
+- **Título:** *Sesc RJ Flamengo vence o Fluminense por 3 a 0 e reassume a liderança da Superliga*.
+- **URL pública:** https://fla10.news/noticias/sesc-rj-flamengo-vence-o-fluminense-por-3-a-0-e-reassume-a-lideranca-da-superliga
+- **Formato:** Pós-jogo — Superliga Feminina 2026/2027, quinta rodada.
+- **Autoria na página:** Mariana Costa.
+- **Partida:** Sesc RJ Flamengo 3 x 0 Fluminense (25/22, 25/18 e 25/23), no Maracanãzinho; o Flamengo chega a 15 pontos, com cinco vitórias em cinco jogos e sem perder sets, e reassume a liderança; o Fluminense cai para oitavo, com três pontos.
+- **Destaques registrados:** Tainara eleita melhor da partida (Troféu VivaVôlei) e 16 pontos; Simone Lee 16; Juju Gandra 8; Minja Osmajic 6 pontos, cinco de bloqueio; Ariane 16 pelo Fluminense; 46 pontos de ataque, 11 de bloqueio e 3 de saque do Flamengo, com 42% de aproveitamento ofensivo.
+- **Ângulo:** campanha perfeita e retomada da liderança, com o confronto direto contra o Sesi Bauru na sequência.
+- **Proveniência:** produção interna colaborativa — pauta produzida pela IA em colaboração com o editor.
+- **Ajustes editoriais observados:** título com o placar; linha fina voltada à campanha e ao próximo desafio; corpo reorganizado em seções narrativas por set; duas seções novas (destaques/estatísticas e classificação/próximo jogo); quatro imagens e dois links internos; autoria de Mariana Costa.
+- **Revisão pós-publicação:** (1) provável erro no local de Fluminense x Minas — publicado Tijuca Tênis Clube, cobertura do Lance! indica Ginásio da Hebraica; (2) divergência em pontos de Simone Lee (16 no texto, 17 na nota de classificação do Web Vôlei); (3) "chega de" no lugar de "chegava de"; (4) redundância sobre "sem perder parcial"; (5) "em relação a parte dos concorrentes"; (6) subtítulo no presente; (7) explicar o desempate da liderança; (8) itens cosméticos do site.
+- **Ficha editorial:** [[2026-11-12 - Sesc RJ Flamengo x Fluminense - pós-jogo Superliga Feminina]].
+- **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações.

@@ -1274,3 +1274,14 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - A menção anterior a "publicação hoje" (12/11) estava incorreta e foi substituída.
 - **Pendência mantida:** definir o modelo de Onde Assistir para o futebol feminino antes da produção de 13/11.
 - Alterações documentais realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.
+
+
+## 2026-11-13 — Publicação confirmada: pós-jogo Sesc RJ Flamengo 3 x 0 Fluminense
+- O editor confirmou a publicação e forneceu a URL.
+- Matéria: **“Sesc RJ Flamengo vence o Fluminense por 3 a 0 e reassume a liderança da Superliga”**, seção Superliga, autoria de Mariana Costa na página, publicada em 13/11/2026.
+- **URL pública:** https://fla10.news/noticias/sesc-rj-flamengo-vence-o-fluminense-por-3-a-0-e-reassume-a-lideranca-da-superliga
+- **Estudo das modificações:** título passou a trazer o placar; linha fina foi refocada na campanha e no próximo desafio; o corpo trocou seções por tempo por seções narrativas de momento e ganhou duas seções novas (destaques/estatísticas e classificação/próximo jogo); a densidade subiu para cerca de 850 a 900 palavras com premiação, pontuadores, números coletivos, aproveitamento, posições e agenda.
+- **Aprendizado registrado no manual de Pós-jogo:** composição para modalidades com sets — lead com placar e parciais, parágrafo de campanha, contexto, uma seção por set com título narrativo, seção de destaques/estatísticas com fonte e seção de classificação/próximo jogo; extensão de 800 a 900 palavras; números concentrados em bloco próprio e microestatística omitida quando as fontes divergem.
+- **Revisão pós-publicação (achados para o editor):** (1) provável erro no local de Fluminense x Minas — publicado "Tijuca Tênis Clube", cobertura do Lance! indica "Ginásio da Hebraica"; (2) divergência em pontos de Simone Lee (16 no texto, 17 na nota de classificação do Web Vôlei); (3) "O Flamengo chega de quatro vitórias" — adequado "chegava de"; (4) redundância sobre "sem perder parcial" em dois parágrafos seguidos; (5) "em relação a parte dos concorrentes"; (6) subtítulo no presente ("não perde nenhum set"); (7) explicar o desempate da liderança (Sesi Bauru também tem 15 pontos); (8) itens cosméticos do site.
+- Ficha reescrita com status publicado, resultado, destaques, ajustes editoriais e revisão; Painel de Pautas atualizado (agenda de 12/11, bloco da Superliga e nova seção de publicação).
+- Alterações documentais realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.

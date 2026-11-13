@@ -32,3 +32,18 @@ Referência: pós-jogo da final da Copa do Brasil Feminina (Flamengo Maricá 1 x
 Extensão de referência: **700 a 800 palavras**. A cronologia não deve se limitar aos gols: incluir pelo menos duas ou três jogadas relevantes por tempo, com autoria (quem finalizou, quem defendeu).
 
 Evitar: "qualquer outro resultado" como fórmula única — apresentar o cenário do adversário de forma explícita. Revisar nomes de jogadoras e placares antes de entregar.
+
+## Composição observada em pós-jogo de modalidade com sets (13/11/2026)
+
+Referência: Sesc RJ Flamengo 3 x 0 Fluminense, Superliga Feminina de vôlei.
+
+1. **Resumo para IA no topo.**
+2. **Lead:** placar, parciais, competição, local e consequência imediata.
+3. **Parágrafo de campanha:** aproveitamento, sequência e recordes do time.
+4. **Contexto do confronto:** retrospecto e situação dos dois times.
+5. **Uma seção por set**, com título narrativo (não apenas "1º set"), contando a mudança de momento e dois ou três lances decisivos.
+6. **Seção de destaques e estatísticas:** premiação, pontuadores, números coletivos e aproveitamento, com atribuição da fonte.
+7. **Seção de classificação e próximo jogo:** pontos, posições, desempate e agenda.
+8. **Ficha técnica ao final.**
+
+Extensão de referência: **800 a 900 palavras**. Evitar transformar a cronologia em ponto a ponto: selecionar lances que expliquem a mudança de cada set. Concentrar os números em um bloco próprio, com fonte; quando as fontes divergirem em microestatística, omitir o número em vez de escolher uma versão. Fechar com o próximo compromisso e o que está em jogo.
