@@ -1421,6 +1421,16 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - Alterações documentais realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.
 
 
+## 2026-11-14 — Publicação confirmada: Nação Anjo, 13ª edição
+- O editor confirmou a publicação e forneceu a URL.
+- Matéria: **“Nação Anjo: Flamengo lança 13ª edição de programa que já destinou mais de R$ 60 milhões ao esporte olímpico”**, seção Finanças, autoria de Mariana Costa na página.
+- **URL pública:** https://fla10.news/noticias/nacao-anjo-flamengo-lanca-13-edicao-de-programa-que-ja-destinou-mais-de-r-60-milhoes-ao-esporte-olimpico
+- **Ajustes editoriais:** título, linha fina e Resumo reescritos; o corpo foi ampliado com "Nove modalidades recebem apoio do programa", "Rebeca Andrade e Flávia Saraiva entre os nomes beneficiados", "Como funciona a destinação do Imposto de Renda" e "O desafio de transformar arrecadação em desenvolvimento esportivo"; o bloco final da IA foi mantido; três imagens e dois links internos.
+- **Revisão pós-publicação (achados para o editor):** (1) duplicação estrutural entre "Como funciona" e "Como funciona a destinação...", entre a lista de modalidades e o bloco "Nove modalidades...", e entre "O desafio..." e "Por que o programa importa"; (2) "deduzir até 7%" x "destinar até 7%" — padronizar; (3) conferir a orientação atribuída ao Ministério do Esporte (recibo e procedimentos); (4) "mais de 10 mil atletas" x "cerca de 10 mil" — padronizar; (5) título "destinou R$ 60 milhões" x corpo "arrecadou"; (6) categoria "Finanças" a confirmar; (7) cosméticos do site.
+- Ficha da pauta atualizada como publicada; Painel e Log atualizados.
+- Alterações documentais realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.
+
+
 ## 2026-11-14 — Correções pós-publicação verificadas: reportagem da Copinha
 - O editor respondeu à revisão da reportagem: itens 1 e 7 corrigidos; itens 3 e 4 conferidos; item 2 esclarecido; itens 5, 6, 8 e 10 dispensados; item 9 reconhecido como boa observação.
 - **Verificação na página:** a duplicação das duas seções foi removida — "A ausência na Copinha não é uma decisão isolada" e "O precedente de 2025 e os limites de uma equipe alternativa" aparecem uma única vez.

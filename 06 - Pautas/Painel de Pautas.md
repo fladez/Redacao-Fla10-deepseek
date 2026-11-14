@@ -1989,7 +1989,7 @@ A pesquisa acadêmica reforça que a identificação com o clube, o comprometime
 - **Evento:** Flamengo x Vasco — semifinal (volta) do Campeonato Carioca Sub-20, às 10h, no Estádio Nivaldo Pereira, em Nova Iguaçu. Jogo decisivo: empate em 1 a 1 na ida; o Vasco avança com novo empate por ter melhor campanha.
 - **Pauta de serviço:** Onde Assistir **suspenso**: transmissão da volta não confirmada. Pela regra de 13/11, não se produz Onde Assistir sem confirmação de transmissão; avisar o editor e aguardar. [[2026-11-14 - Flamengo x Vasco - Onde Assistir Carioca Sub-20]].
 - **Pós-jogo:** **publicado em 14/11/2026**. Flamengo 1 x 1 Vasco; agregado 2 a 2; Vasco avançou pela melhor campanha na primeira fase. URL e ficha registradas na publicação confirmada. [[2026-11-14 - Vasco x Flamengo - pós-jogo Carioca Sub-20]].
-- **Nação Anjo — 13ª edição (pauta transferida de 13/11):** **notícia produzida em 14/11/2026**; publicação pendente. Ficha com apuração e checagens. [[2026-11-14 - Nação Anjo 13ª edição - notícia]].
+- **Nação Anjo — 13ª edição (pauta transferida de 13/11):** **publicada em 14/11/2026**. URL e ficha registradas na publicação confirmada. [[2026-11-14 - Nação Anjo 13ª edição - notícia]].
 - **Fla Ginástica — Gaia IT:** notícia **publicada em 14/11/2026**. URL e ficha registradas na publicação confirmada. [[2026-11-14 - Fla Ginástica Gaia IT - notícia]].
 - **Onde Assistir — Flamengo x Brasília (Liga Sul-Americana, basquete):** **publicado em 14/11/2026**; transmissão confirmada (canal oficial da FIBA e BasqueteTV). URL e ficha registradas na publicação confirmada. Cobertura: pós-jogo. [[2026-11-14 - Flamengo x Brasília - Onde Assistir Liga Sul-Americana]].
 - **Observação:** o jogo do feminino contra o Vasco (4ª rodada do Carioca Feminino) **não é em 14/11**; aparece em 21/11 (a confirmar na tabela da FERJ). A entrada anterior desta agenda confundia as duas partidas.
@@ -2915,4 +2915,18 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 - **Aprendizado registrado no manual de Onde Assistir:** composição para competição continental, com 900 a 1.000 palavras e um subtítulo para cada eixo (Flamengo, adversário, formato, onde assistir, ficha).
 - **Revisão pós-publicação:** (1) erro de digitação "BasqueteTV,."; (2) ficha com "e na BasqueteTV" — preposição inconsistente; (3) H2 repetindo o H1; (4) padronizar "Brasília" e "CAIXA/Brasília"; (5) divergência de Yago (26 x 23) a padronizar; (6) cosméticos do site.
 - **Ficha editorial:** [[2026-11-14 - Flamengo x Brasília - Onde Assistir Liga Sul-Americana]].
+- **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações. Correções no portal dependem do editor.
+
+
+## Publicação confirmada — Nação Anjo, 13ª edição (14/11/2026)
+
+- **Estado:** publicada em 14/11/2026, conforme confirmação do editor.
+- **Título:** *Nação Anjo: Flamengo lança 13ª edição de programa que já destinou mais de R$ 60 milhões ao esporte olímpico*.
+- **URL pública:** https://fla10.news/noticias/nacao-anjo-flamengo-lanca-13-edicao-de-programa-que-ja-destinou-mais-de-r-60-milhoes-ao-esporte-olimpico
+- **Formato:** Notícia — seção Finanças.
+- **Autoria na página:** Mariana Costa.
+- **Conteúdo:** 13ª edição do Nação Anjo; mais de R$ 60 milhões arrecadados e cerca de 10 mil atletas; recorde de R$ 11 milhões em 2025; nove modalidades; mecanismo do IR (até 7%, declaração completa); depoimento de Rebeca Andrade; Flávia Saraiva; como participar.
+- **Ajustes editoriais:** título, linha fina e Resumo reescritos; corpo ampliado com quatro seções novas; bloco final da IA mantido; três imagens e dois links internos; categoria "Finanças".
+- **Revisão pós-publicação:** (1) duplicação estrutural entre seções; (2) "deduzir" x "destinar" 7%; (3) conferir a orientação atribuída ao Ministério do Esporte; (4) "mais de 10 mil" x "cerca de 10 mil"; (5) título "destinou" x corpo "arrecadou"; (6) categoria "Finanças" a confirmar; (7) cosméticos do site.
+- **Ficha editorial:** [[2026-11-14 - Nação Anjo 13ª edição - notícia]].
 - **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações. Correções no portal dependem do editor.

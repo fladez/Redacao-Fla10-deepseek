@@ -1,33 +1,45 @@
 ---
-title: "Flamengo lança 13ª edição do Nação Anjo, com mais de R$ 60 milhões arrecadados"
+title: "Nação Anjo: Flamengo lança 13ª edição de programa que já destinou mais de R$ 60 milhões ao esporte olímpico"
 date: 2026-11-14
-section: Olímpicos
+section: Finanças
 format: Notícia
-status: produzida
-publicacao_confirmada: false
-proveniencia: produção interna — pauta produzida pela IA em colaboração com o editor
+author: Mariana Costa
+status: publicada
+publicacao_confirmada: true
+url: https://fla10.news/noticias/nacao-anjo-flamengo-lanca-13-edicao-de-programa-que-ja-destinou-mais-de-r-60-milhoes-ao-esporte-olimpico
+proveniencia: produção interna — texto-base da IA ampliado pela redação
 ---
 
-# Flamengo lança 13ª edição do Nação Anjo, com mais de R$ 60 milhões arrecadados
+# Nação Anjo: Flamengo lança 13ª edição de programa que já destinou mais de R$ 60 milhões ao esporte olímpico
 
-## Pauta
-- **Tema:** lançamento da 13ª edição do Nação Anjo, programa de incentivo fiscal para a formação de atletas olímpicos.
-- **Formato:** notícia institucional — Notícias/Olímpicos.
-- **Entrega:** texto produzido em 14/11/2026; publicação pendente.
+## Registro da publicação
+- **Data exibida na página:** 14/11/2026.
+- **URL:** https://fla10.news/noticias/nacao-anjo-flamengo-lanca-13-edicao-de-programa-que-ja-destinou-mais-de-r-60-milhoes-ao-esporte-olimpico
+- **Seção/formato:** Finanças — Notícia.
+- **Autoria na página:** Mariana Costa.
+- **Linha fina publicada:** "Iniciativa permite direcionar parte do Imposto de Renda a projetos esportivos do clube, beneficia cerca de mil jovens por ano e já contribuiu para a formação de medalhistas olímpicas como Rebeca Andrade e Flávia Saraiva."
 
-## Apuração
-- **Mecanismo:** pessoas físicas na declaração completa do Imposto de Renda podem destinar até 7% do imposto devido a projetos esportivos aprovados, respeitando os limites da legislação; o modelo simplificado não permite a destinação.
-- **Números:** mais de R$ 60 milhões arrecadados na história; cerca de 10 mil atletas beneficiados; R$ 11 milhões em 2025, recorde de valor e de doadores; cerca de mil jovens atendidos por ano em nove modalidades.
-- **Modalidades:** basquete, remo, futebol feminino, ginástica artística, judô, natação, polo aquático, nado artístico e vôlei.
-- **Aplicação:** infraestrutura, equipamentos e suporte à preparação, incluindo as categorias de formação.
-- **Depoimento:** Rebeca Andrade (14 anos de Flamengo) — declaração reproduzida na matéria.
-- **Outros beneficiados citados:** Flávia Saraiva.
-- **Site oficial:** flamengo.abraceumacausa.com.br (plataforma indicada pelo Ser Flamengo) e nacaoanjo.flamengo.com.br (citado em compilação da nota oficial).
+## Conteúdo
+- Lançamento da 13ª edição (12/11/2026), com mais de R$ 60 milhões arrecadados e cerca de 10 mil atletas beneficiados; R$ 11 milhões em 2025, recorde de valor e de doadores.
+- Mecanismo: declaração completa, até 7% do imposto devido, respeitando a legislação; modelo simplificado não permite.
+- Nove modalidades; aplicação em infraestrutura, equipamentos e preparação.
+- Depoimento de Rebeca Andrade; Flávia Saraiva entre as beneficiadas.
+- Orientação sobre destinação e recibo (Ministério do Esporte, conforme a versão publicada).
+- Como participar e site oficial.
 
-## Checagens pendentes
-- Confirmar no site oficial o endereço correto e o prazo da 13ª edição.
-- Confirmar se há declaração de Flávia Saraiva na nota oficial (não localizada em fonte primária).
-- Confirmar a formulação do clube sobre ser "o maior projeto de captação individual do esporte brasileiro" antes de publicar como afirmação do clube.
+## Ajustes editoriais observados
+- Título, Resumo para IA e linha fina reescritos pela redação; corpo ampliado com novas seções: "Nove modalidades recebem apoio do programa", "Rebeca Andrade e Flávia Saraiva entre os nomes beneficiados", "Como funciona a destinação do Imposto de Renda" e "O desafio de transformar arrecadação em desenvolvimento esportivo".
+- Meu bloco final ("Por que o programa importa" e "Como participar") foi mantido no fim da página, depois das novas seções.
+- Três imagens e dois links internos; categoria "Finanças".
+
+## Revisão pós-publicação (14/11/2026)
+1. **Duplicação estrutural:** "Como funciona" e "Como funciona a destinação do Imposto de Renda" repetem o mesmo conteúdo; "Nove modalidades..." repete a lista já apresentada na abertura; "O desafio de transformar arrecadação..." e "Por que o programa importa" defendem a mesma tese. Consolidar as seções.
+2. **"Deduzir até 7%" x "destinar até 7%":** a formulação oficial fala em destinar; "deduzir" pode induzir a erro técnico. Padronizar.
+3. **"Ministério do Esporte orienta...":** conferir a orientação sobre recibo e procedimentos em fonte oficial antes de manter.
+4. **"Mais de 10 mil atletas" (Resumo) x "cerca de 10 mil" (corpo):** padronizar.
+5. **Título "destinou R$ 60 milhões" x corpo "arrecadou":** ajustar para "arrecadou" ou explicar que o valor foi destinado a projetos.
+6. **Categoria "Finanças":** confirmar se é a classificação desejada para uma notícia institucional.
+7. **Cosméticos do site:** "1 acessos" e H2 oculto genérico.
 
 ## Estado
-Texto produzido e entregue ao editor em 14/11/2026. O registro no GitHub não publica a matéria; a publicação depende do editor.
+Publicada. O registro no GitHub não altera o conteúdo do site; correções no portal dependem do editor.
