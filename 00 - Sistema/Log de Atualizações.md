@@ -1384,6 +1384,15 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - Alterações documentais realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.
 
 
+## 2026-11-14 — Agenda de 13/11 encerrada
+- O editor perguntou se a agenda de 13/11 estava encerrada. Conferência feita: todos os itens foram concluídos ou transferidos.
+- **Concluídos:** Fla Ginástica (produzida e publicada em 14/11); Onde Assistir Paisas x Flamengo (publicado em 13/11); pós-jogo Paisas x Flamengo (publicado em 14/11, texto do GPT-6); Oito pendurados (publicado em 07/11 e registrado agora).
+- **Transferidos:** Nação Anjo → 14/11; Onde Assistir Flamengo x Brasília → 14/11; Onde Assistir Flamengo x Boca Juniors → 15/11; reportagem do VAR → 16/11; reportagem financeira → 20/11; série Fla10 → terças-feiras a partir de 24/11.
+- **Suspenso:** Onde Assistir Vasco x Flamengo Maricá (feminino) — data provável 21/11, a confirmar na FERJ, e transmissão não confirmada.
+- Bloco de 13/11 no Painel atualizado com o fechamento do dia.
+- Alterações documentais realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.
+
+
 ## 2026-11-14 — Correções pós-publicação verificadas: reportagem da Copinha
 - O editor respondeu à revisão da reportagem: itens 1 e 7 corrigidos; itens 3 e 4 conferidos; item 2 esclarecido; itens 5, 6, 8 e 10 dispensados; item 9 reconhecido como boa observação.
 - **Verificação na página:** a duplicação das duas seções foi removida — "A ausência na Copinha não é uma decisão isolada" e "O precedente de 2025 e os limites de uma equipe alternativa" aparecem uma única vez.

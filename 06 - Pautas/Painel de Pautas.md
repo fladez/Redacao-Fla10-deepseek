@@ -1967,14 +1967,14 @@ A pesquisa acadêmica reforça que a identificação com o clube, o comprometime
 ### 13/11/2026 — sexta-feira
 
 - **Manhã — Nação Anjo chega à 13ª edição com mais de R$ 60 milhões arrecadados**
-  - **Estado:** alocada para a manhã de 13/11/2026 por decisão do editor; apuração e redação pendentes.
+  - **Estado:** **transferida para 14/11/2026** por decisão do editor; apuração e redação pendentes.
   - **Formato:** notícia institucional — Notícias/Olímpicos.
   - **Ângulo:** programa de captação via Imposto de Renda que já beneficiou mais de 10 mil atletas; recorde de R$ 11 milhões em 2025; cerca de mil jovens por ano em nove modalidades; falas de Rebeca Andrade e Flávia Saraiva; explicar como contribuir.
   - **Por que agora:** nota oficial do Flamengo de 12/11/2026, sem publicação recente no Fla10; pauta de utilidade e identificação com a Nação.
   - **Checagens:** conferir números e modalidades na nota oficial; confirmar o período da 13ª edição; não transformar em texto promocional.
   - **Fontes iniciais:** nota oficial do Flamengo (12/11/2026); repercussão em [Ser Flamengo](https://serflamengo.com.br/flamengo-lanca-13a-edicao-do-nacao-anjo-e-supera-r-60-milhoes-arrecadados/).
 - **Manhã — Fla Ginástica leva cinco atletas a torneio em Portugal e fecha tour europeu**
-  - **Estado:** alocada para a manhã de 13/11/2026 por decisão do editor; apuração e redação pendentes.
+  - **Estado:** **produzida e publicada em 14/11/2026** (madrugada). URL e ficha registradas na publicação confirmada.
   - **Formato:** notícia — Olímpicos.
   - **Ângulo:** camp na Espanha, chegada a Vila Nova de Gaia e disputa do Gaia IT – WAG International Tournament, com Stella, Eva e Sarah (infantil), Millena (juvenil) e Duda Montesino (adulto); contexto da temporada — Brasileiro, cinco medalhas na Copa do Mundo da Hungria, ouro de Rebeca no salto e bronze de Flávia na trave no Mundial de Roterdã, quatro medalhas de Millena nos Jogos da Juventude.
   - **Por que agora:** nota oficial de 12/11/2026; treinamento de pódio em 13/11 e provas em 14 e 15/11.
@@ -1982,6 +1982,8 @@ A pesquisa acadêmica reforça que a identificação com o clube, o comprometime
   - **Fontes iniciais:** nota oficial do Flamengo (12/11/2026); [Câmara de Gaia](https://www.cm-gaia.pt/pt/eventos/gaia-international-tournament-2026-ginastica-artistica-feminina/) — 9ª edição do Gaia International Tournament, Pavilhão da Lavandeira, provas em 14 e 15/11, treinos oficiais em 13/11, 14 países participantes.
 - **Serviço do dia:** Onde Assistir — Vasco x Flamengo Maricá **suspenso**: o jogo não é em 14/11. O Flamengo x Vasco de 14/11 é a semifinal do Carioca Sub-20 (masculino), às 10h, no Nivaldo Pereira. A partida do feminino contra o Vasco aparece em 21/11 (a confirmar na tabela da FERJ). [[2026-11-13 - Vasco x Flamengo Maricá - Onde Assistir Carioca Feminino]].
 - **Serviço — basquete:** Onde Assistir Paisas x Flamengo **publicado em 13/11/2026** (Liga Sul-Americana, quartas de final). URL registrada na publicação confirmada. [[2026-11-13 - Paisas x Flamengo - Onde Assistir Liga Sul-Americana de Basquete]].
+- **Pós-jogo — basquete:** Paisas 71 x 104 Flamengo **publicado em 14/11** (texto do GPT-6). Ficha e revisão registradas. [[2026-11-14 - Paisas x Flamengo - pós-jogo Liga Sul-Americana]].
+- **Fechamento do dia:** **agenda de 13/11 encerrada em 14/11/2026, às 3h20**. Itens não concluídos foram transferidos: Nação Anjo → 14/11; Onde Assistir Flamengo x Brasília → 14/11; Onde Assistir Flamengo x Boca Juniors → 15/11; reportagem do VAR → 16/11; reportagem financeira → 20/11; série Fla10 → terças-feiras a partir de 24/11.
 
 ### 14/11/2026 — sábado
 - **Evento:** Flamengo x Vasco — semifinal (volta) do Campeonato Carioca Sub-20, às 10h, no Estádio Nivaldo Pereira, em Nova Iguaçu. Jogo decisivo: empate em 1 a 1 na ida; o Vasco avança com novo empate por ter melhor campanha.
