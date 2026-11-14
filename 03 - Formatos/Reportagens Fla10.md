@@ -18,3 +18,16 @@ Desenvolver histórias com apuração, personagens, contexto e narrativa mais pr
 
 ## Integridade
 Não fabricar falas, detalhes de bastidores, cenas, motivações ou números. Se a história depender de testemunho ou versão atribuída, identificar essa natureza. A força narrativa não pode ultrapassar a evidência disponível.
+
+## Composição observada em reportagem longa (14/11/2026)
+
+Referência: "Flamengo não disputará a Copinha em 2027: decisão estratégica, cenário financeiro e o futuro da base rubro-negra" (seção Base), cerca de 2.700 palavras.
+
+1. **Título com promessa clara** — no exemplo, tripla: decisão estratégica, cenário financeiro e futuro da base. Cada eixo prometido precisa ser entregue no corpo.
+2. **Abertura factual:** a decisão, quem decidiu, o que muda e por que importa.
+3. **Seções-tese:** cada bloco defende um eixo próprio — calendário, Carioca como etapa de formação, reformulação da base, precedente de 2025, custo da ausência, indicadores do Sub-20, critérios de aproveitamento.
+4. **Vozes institucionais:** diretor da base e vice-presidente de futebol/base, com declarações atribuídas.
+5. **Análise estrutural:** transição para o profissional, critérios de utilização, continuidade, alternativas competitivas.
+6. **Fechamento projetivo:** o que observar e como medir a decisão — o bloco de fechamento da IA foi mantido na publicação.
+
+Extensão de referência: **2.200 a 2.700 palavras**. Cada seção deve acrescentar um eixo novo; não repetir a mesma tese com outras palavras. O título precisa ser sustentado pelo corpo: se prometer cenário financeiro, apresentar números e mecanismos (formação, transferências, mecanismos de solidariedade), não apenas menção genérica.

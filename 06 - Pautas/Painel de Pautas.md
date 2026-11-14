@@ -2794,3 +2794,17 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 - **Revisão pós-publicação:** (1) provável erro no local de Fluminense x Minas — publicado Tijuca Tênis Clube, cobertura do Lance! indica Ginásio da Hebraica; (2) divergência em pontos de Simone Lee (16 no texto, 17 na nota de classificação do Web Vôlei); (3) "chega de" no lugar de "chegava de"; (4) redundância sobre "sem perder parcial"; (5) "em relação a parte dos concorrentes"; (6) subtítulo no presente; (7) explicar o desempate da liderança; (8) itens cosméticos do site.
 - **Ficha editorial:** [[2026-11-12 - Sesc RJ Flamengo x Fluminense - pós-jogo Superliga Feminina]].
 - **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações.
+
+
+## Publicação confirmada — Reportagem: Flamengo fora da Copinha 2027 (14/11/2026)
+
+- **Estado:** publicada em 14/11/2026 (data exibida; publicação feita em 13/11 à noite), conforme confirmação explícita do editor.
+- **Título:** *Flamengo não disputará a Copinha em 2027: decisão estratégica, cenário financeiro e o futuro da base rubro-negra*.
+- **URL pública:** https://fla10.news/noticias/flamengo-nao-disputara-a-copinha-em-2027-decisao-estrategica-cenario-financeiro-e-o-futuro-da-base-rubro-negra
+- **Formato:** Reportagem — seção Base. Texto-base de outra ferramenta, com edição, pacote de SEO e fechamento projetivo desta IA.
+- **Autoria na página:** Thiago Silva.
+- **Conteúdo:** decisão de não disputar a Copinha 2027, prioridade ao Carioca com o Sub-20, reformulação da base, precedente de 2025, custos da ausência, indicadores do Sub-20 e critérios de aproveitamento.
+- **Aprendizados:** estrutura em seções-tese com vozes institucionais e análise estrutural; extensão de cerca de 2.700 palavras; o título com promessa tripla exige entrega de cada eixo — o financeiro ficou genérico.
+- **Revisão pós-publicação:** (1) duplicação de duas seções inteiras ("A ausência na Copinha não é uma decisão isolada" e "O precedente de 2025..." aparecem duas vezes); (2) provável erro sobre a Copinha 2025 — texto diz Sub-17, cobertura da época registra elenco B do Sub-20; (3) conferir "57ª edição", cargos/nomes (Alfredo Almeida, Fábio Palmer), data da ida (7/11) e os oito nascidos em 2008 contra o Sampaio Corrêa; (4) título promete cenário financeiro sem números; (5) data exibida 14/11 com publicação em 13/11; (6) redundância de tese e itens cosméticos do site.
+- **Ficha editorial:** [[2026-11-14 - Flamengo fora da Copinha 2027 - reportagem]].
+- **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações. Correções no portal dependem do editor.
