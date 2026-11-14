@@ -1643,49 +1643,49 @@ A documentação financeira permite medir receitas geradas por diferentes ativid
 
 **Status da apuração:** pesquisa documental inicial robusta concluída; apuração direta com clube, patrocinadores, Libra/Globo e fontes independentes ainda pendente. Não tratar como reportagem pronta nem converter hipóteses em conclusões sem essas respostas.
 
-### 05/11/2026 — O que o Flamengo ganha e perde ao depender tanto do Maracanã?
+### 24/11/2026 — O que o Flamengo ganha e perde ao depender tanto do Maracanã?
 - **Estado:** tema aprovado; debate editorial e produção pendentes.
 - **Pergunta central:** o Maracanã é vantagem esportiva e financeira ou também representa uma limitação estratégica?
 - **Escopo inicial:** custos de operação, receitas, divisão de receitas, calendário, manutenção e alternativa de estádio próprio.
 - **Ficha:** [[2026-11-10 - Reportagem Fla10 - dependencia do Maracana]].
 
-### 10/11/2026 — Flamengo além do futebol: os esportes olímpicos ainda têm espaço no projeto do clube?
+### 01/12/2026 — Flamengo além do futebol: os esportes olímpicos ainda têm espaço no projeto do clube?
 - **Estado:** tema aprovado; debate editorial e produção pendentes.
 - **Pergunta central:** qual é a importância estratégica dos esportes olímpicos e como o clube equilibra investimento, formação e resultados?
 - **Escopo inicial:** basquete, vôlei, ginástica, remo e outras modalidades; orçamento, estrutura, formação e conquistas, conforme disponibilidade documental.
 - **Ficha:** [[2026-11-15 - Reportagem Fla10 - esportes olimpicos]].
 
-### 15/11/2026 — A transformação do futebol feminino do Flamengo: entre a tradição e a falta de estrutura
+### 08/12/2026 — A transformação do futebol feminino do Flamengo: entre a tradição e a falta de estrutura
 - **Estado:** tema aprovado; debate editorial e produção pendentes.
 - **Pergunta central:** por que o Flamengo ainda enfrenta dificuldades para consolidar a equipe feminina entre as principais forças do país?
 - **Escopo inicial:** estrutura, investimento, calendário, categorias de base, condições de treinamento e comparação criteriosa com outros projetos.
 - **Ficha:** [[2026-11-20 - Reportagem Fla10 - futebol feminino estrutura]].
 
-### 20/11/2026 — O preço de revelar talentos: quanto o Flamengo deixa de ganhar com a saída de jovens jogadores?
+### 15/12/2026 — O preço de revelar talentos: quanto o Flamengo deixa de ganhar com a saída de jovens jogadores?
 - **Estado:** tema aprovado; debate editorial e produção pendentes.
 - **Pergunta central:** o modelo de formação e negociação maximiza o valor dos atletas para o clube?
 - **Escopo inicial:** negociações, mecanismos de solidariedade, percentuais econômicos, tempo de permanência e valorização dos jogadores.
 - **Ficha:** [[2026-11-25 - Reportagem Fla10 - valor dos talentos da base]].
 
-### 25/11/2026 — O torcedor virou cliente? Como o Flamengo transformou sua relação com a Nação em negócio
+### 22/12/2026 — O torcedor virou cliente? Como o Flamengo transformou sua relação com a Nação em negócio
 - **Estado:** tema aprovado; debate editorial e produção pendentes.
 - **Pergunta central:** como o clube monetiza a relação com o torcedor e qual retorno entrega em produtos e serviços?
 - **Escopo inicial:** sócio-torcedor, licenciamento, produtos oficiais, experiências e plataformas digitais.
 - **Ficha:** [[2026-11-30 - Reportagem Fla10 - torcida como negocio]].
 
-### 30/11/2026 — O legado do incêndio no Ninho: o que mudou na formação de atletas desde 2019?
+### 29/12/2026 — O legado do incêndio no Ninho: o que mudou na formação de atletas desde 2019?
 - **Estado:** tema aprovado; debate editorial e produção pendentes. Pauta de alta sensibilidade; exige apuração documental rigorosa, respeito às famílias e distinção entre compromissos, medidas comprovadas e processos em andamento.
 - **Pergunta central:** quais mudanças estruturais, administrativas e de segurança foram efetivamente implementadas desde a tragédia?
 - **Escopo inicial:** cronologia, compromissos assumidos, medidas verificáveis, situação dos processos e posição das famílias; não presumir conclusões.
 - **Ficha:** [[2026-12-05 - Reportagem Fla10 - legado do incendio no Ninho]].
 
-### 05/12/2026 — Quem decide o futuro do Flamengo? Os bastidores do poder político no clube
+### 05/01/2027 — Quem decide o futuro do Flamengo? Os bastidores do poder político no clube
 - **Estado:** tema aprovado; debate editorial e produção pendentes.
 - **Pergunta central:** como funcionam as estruturas de poder, as decisões administrativas e a influência dos grupos políticos na condução do clube?
 - **Escopo inicial:** estatuto, conselhos, eleições, responsabilidades administrativas e fluxo de decisão; evitar personalização sem evidências.
 - **Ficha:** [[2026-12-10 - Reportagem Fla10 - poder politico no Flamengo]].
 
-**Controle editorial permanente:** o intervalo de cinco dias é a cadência planejada de publicação, não uma autorização para sacrificar a apuração. Se uma reportagem não estiver pronta, reprogramar a sequência e preservar o intervalo, em vez de publicar conteúdo incompleto.
+**Controle editorial permanente:** a série de reportagens Fla10 passa a ser publicada às terças-feiras, a partir de 24/11/2026 (Maracanã), com as demais nas terças subsequentes. O intervalo semanal é a cadência planejada, não uma autorização para sacrificar a apuração. Se uma reportagem não estiver pronta, reprogramar a sequência e preservar o intervalo, em vez de publicar conteúdo incompleto.
 ## Publicação confirmada — Pós-jogo Flamengo x Caxias do Sul (30/10/2026)
 
 - **Estado:** publicada em 30/10/2026, conforme confirmação do editor.
@@ -1987,7 +1987,17 @@ A pesquisa acadêmica reforça que a identificação com o clube, o comprometime
 - **Evento:** Flamengo x Vasco — semifinal (volta) do Campeonato Carioca Sub-20, às 10h, no Estádio Nivaldo Pereira, em Nova Iguaçu. Jogo decisivo: empate em 1 a 1 na ida; o Vasco avança com novo empate por ter melhor campanha.
 - **Pauta de serviço:** Onde Assistir **suspenso**: transmissão da volta não confirmada. Pela regra de 13/11, não se produz Onde Assistir sem confirmação de transmissão; avisar o editor e aguardar. [[2026-11-14 - Flamengo x Vasco - Onde Assistir Carioca Sub-20]].
 - **Cobertura no evento:** pós-jogo se houver publicação.
+- **Nação Anjo — 13ª edição (pauta transferida de 13/11):** notícia institucional; apuração e redação pendentes. Conferir números, modalidades e período na nota oficial do clube; não transformar em texto promocional.
+- **Onde Assistir — Flamengo x Brasília (Liga Sul-Americana, basquete):** jogo às 18h10; transmissão a confirmar (FIBA/BasqueteTV); produzir apenas com confirmação. Cobertura: pós-jogo.
 - **Observação:** o jogo do feminino contra o Vasco (4ª rodada do Carioca Feminino) **não é em 14/11**; aparece em 21/11 (a confirmar na tabela da FERJ). A entrada anterior desta agenda confundia as duas partidas.
+
+### 15/11/2026 — domingo
+- **Evento:** Flamengo Maricá x Internacional — volta da final da Copa do Brasil Feminina, às 16h, no Beira-Rio. O Flamengo precisa vencer por três gols; dois levam aos pênaltis; o Inter pode perder por um. Transmissão registrada: SporTV, XSports, GE TV, NSports e Lance! (YouTube).
+- **Cobertura no evento:** pós-jogo logo após a partida.
+- **Onde Assistir — Flamengo x Boca Juniors (Liga Sul-Americana, basquete):** jogo às 18h10; transmissão a confirmar (FIBA/BasqueteTV); produzir apenas com confirmação. Cobertura: pós-jogo.
+
+### 16/11/2026 — segunda-feira
+- **Reportagem Fla10 — VAR no Brasileirão:** pauta transferida; apuração e redação pendentes. A primeira versão foi considerada insatisfatória e não está aprovada. Retomar o recorte com o editor antes de reescrever; não presumir favorecimento. Ficha: [[2026-11-09 - Reportagem Fla10 - VAR no Brasileirao]].
 
 ### 17/11/2026 — terça-feira
 - **Evento:** SESI Vôlei Bauru x Sesc RJ Flamengo — Superliga Feminina; 21h, Bauru.
@@ -2004,6 +2014,9 @@ A pesquisa acadêmica reforça que a identificação com o clube, o comprometime
   - **Cobertura no evento:** pós-jogo quando houver informações suficientes.
   - **Observação:** partida transferida de 11/11/2026 por informação do editor; a 5ª rodada contra o Fluminense, antes prevista para esta data, foi transferida para 25/11/2026.
 - **Atenção de planejamento:** verificar os horários oficiais para identificar eventual sobreposição de produção e publicação; em 18/11 há dois eventos no mesmo dia (Brasileirão e Carioca Feminino).
+
+### 20/11/2026 — sexta-feira
+- **Reportagem Fla10 — O Flamengo que arrecada mais, mas precisa rever sua estratégia financeira:** pauta transferida; apuração documental e redação pendentes. Conferir indicadores do relatório oficial do terceiro trimestre, atribuir as projeções de déficit e de vendas de atletas e não inferir crise de caixa. Avaliar a relação com a reportagem sobre a Betano publicada em 14/11. Ficha: [[2026-11-09 - Reportagem Fla10 - financas]].
 
 ### 21/11/2026 — sábado
 - **Evento:** Palmeiras x Flamengo — Brasileirão; 16h30, Nubank Parque.
@@ -2311,7 +2324,9 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 - **Próxima etapa:** revisão editorial das evidências e redação final, seguindo as diretrizes de produção Fla10.
 
 ### Reportagem Fla10 — Oito jogadores do Flamengo estão pendurados antes de confronto decisivo com o Palmeiras
-- **Estado:** incluída na agenda de 07/11/2026 por solicitação do editor; apuração e produção pendentes.
+- **Estado:** **publicada em 07/11/2026**, conforme confirmação do editor.
+- **URL pública:** https://fla10.news/noticias/flamengo-tera-oito-jogadores-pendurados-contra-o-athletico-antes-de-confronto-direto-com-o-palmeiras
+- **Ficha editorial:** [[2026-11-07 - Oito jogadores pendurados antes de Flamengo x Palmeiras]].
 - **Formato:** notícia de contexto / serviço de cenário disciplinar para a reta final do Brasileirão.
 - **Ângulo:** oito jogadores do Flamengo têm dois cartões amarelos e podem desfalcar a equipe contra o Palmeiras caso recebam novo amarelo diante do Athletico-PR. O foco é o impacto potencial das suspensões no confronto direto que pode ser decisivo para o título.
 - **Lista divulgada:** Léo Pereira, Alex Sandro, Erick Pulgar, Arrascaeta, Pedro, Bruno Henrique, Luiz Araújo e Vitão. Cinco são apontados como titulares habituais; Bruno Henrique, Luiz Araújo e Vitão aparecem como opções de banco.

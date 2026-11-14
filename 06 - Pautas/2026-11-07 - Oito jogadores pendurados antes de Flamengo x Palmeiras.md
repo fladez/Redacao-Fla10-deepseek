@@ -1,35 +1,28 @@
 # Oito jogadores do Flamengo estão pendurados antes de confronto decisivo com o Palmeiras
 
 - **Data da pauta:** 07/11/2026
-- **Estado:** aprovada para apuração e produção; ainda não iniciada.
+- **Estado:** **publicada em 07/11/2026**, conforme confirmação do editor.
+- **URL pública:** https://fla10.news/noticias/flamengo-tera-oito-jogadores-pendurados-contra-o-athletico-antes-de-confronto-direto-com-o-palmeiras
+- **Autoria na página:** Mariana Costa.
 - **Formato:** notícia de contexto / cenário disciplinar para a reta final do Brasileirão.
 
-## Pergunta editorial
-Como o risco de suspensão de oito jogadores pode afetar o Flamengo no confronto direto com o Palmeiras, três dias depois da partida contra o Athletico-PR?
+## Conteúdo publicado
+- Oito jogadores do Flamengo com dois cartões amarelos: Léo Pereira, Alex Sandro, Erick Pulgar, Arrascaeta, Pedro, Vitão, Bruno Henrique e Luiz Araújo.
+- Cinco considerados titulares no planejamento de Leonardo Jardim: Léo Pereira, Alex Sandro, Erick Pulgar, Arrascaeta e Pedro; Vitão, Bruno Henrique e Luiz Araújo completam a lista.
+- Se receberem novo amarelo contra o Athletico-PR (18/11, 20h30, Maracanã), ficam suspensos para o confronto com o Palmeiras (21/11, 16h30, Nubank Parque).
+- Jardim descartou poupar os pendurados: "Longe de mim pedir para os jogadores descansarem contra o Athletico".
+- Contexto: Flamengo líder com 76 pontos após 34 partidas; Palmeiras com 73; o Palmeiras enfrenta o Cruzeiro na mesma rodada.
+- No jogo contra o Grêmio, seis dos oito pendurados estiveram em campo; nenhum recebeu amarelo.
 
-## Informação inicial apurada
-O ge publicou em 06/11/2026 que o Flamengo tem oito jogadores pendurados com dois cartões amarelos: Léo Pereira, Alex Sandro, Erick Pulgar, Arrascaeta, Pedro, Bruno Henrique, Luiz Araújo e Vitão. A publicação aponta os cinco primeiros como titulares habituais e os outros três como opções de banco.
+## Revisão pós-publicação (14/11/2026)
+1. **Conferir o resultado citado:** o texto afirma "vitória por 3 a 1 sobre o Grêmio" — confirmar o placar na súmula/tabela da rodada antes de reutilizar o dado em outras matérias.
+2. **Conferir a tabela:** "76 pontos após 34 partidas, Palmeiras com 73" — bate com o cenário registrado no Painel; atualizar se a rodada seguinte já tiver sido disputada.
+3. **Cosméticos do site:** "285 acessos" e H2 oculto genérico — já dispensados em outras matérias.
+4. **Sem erros de texto relevantes:** a peça separa fato, declaração do treinador e cenário; não trata o confronto como decisão matemática.
 
-Se algum deles receber novo cartão amarelo contra o Athletico-PR, ficará suspenso para o confronto seguinte com o Palmeiras, conforme o cenário disciplinar descrito pelas fontes consultadas. O calendário divulgado aponta Flamengo x Athletico-PR em 18/11/2026, no Maracanã, e Palmeiras x Flamengo em 21/11/2026, em São Paulo.
+## Observações editoriais
+- A pauta foi publicada em 07/11/2026; o registro no GitHub ocorreu em 14/11/2026, após a confirmação do editor.
+- A matéria permanece útil como contexto para as rodadas de 18/11 e 21/11, mas os dados de cartões e tabela precisam ser reconferidos na véspera.
 
-Leonardo Jardim afirmou que não pretende poupar jogadores contra o Athletico apenas para evitar suspensões. A decisão deve ser apresentada como declaração do treinador, não como garantia de escalação.
-
-## Fontes iniciais
-- ge, 06/11/2026: https://ge.globo.com/google/amp/futebol/times/flamengo/noticia/2026/11/06/flamengo-define-planejamento-e-jardim-pretende-usar-pendurados-antes-do-jogo-contra-palmeiras.ghtml
-- Lance!, 05/11/2026: https://www.lance.com.br/flamengo/jardim-descarta-poupar-jogadores-no-flamengo-e-explica-situacao-dos-oito-pendurados.html
-- Diário do Rio, 06/11/2026: https://diariodorio.com/esporte/2026/11/06/flamengo-tem-8-pendurados-que-podem-ficar-fora-de-final-contra-o-palmeiras-veja-lista.html
-
-## Plano de apuração
-1. Conferir a lista atualizada de pendurados nos canais oficiais e em bases confiáveis, inclusive após cada rodada.
-2. Verificar cartões acumulados e súmulas; confirmar a regra de suspensão aplicável.
-3. Confirmar data, horário, estádio e mando dos jogos contra Athletico-PR e Palmeiras.
-4. Atualizar a situação física e a disponibilidade dos oito jogadores, sem confundir lesão, suspensão e opção técnica.
-5. Contextualizar a importância do confronto com o Palmeiras com a tabela e os cenários matemáticos atualizados na data da publicação.
-
-## Cuidados editoriais
-- Não tratar o confronto com o Palmeiras como decisão matemática antes de confirmar os cenários.
-- Não afirmar que todos os oito são titulares; distinguir os cinco titulares habituais dos três jogadores de banco.
-- Não apresentar a lista de 06/11 como imutável: cartões e eventuais alterações precisam ser rechecados antes da publicação.
-- Separar fatos confirmados, declarações do treinador e interpretação editorial.
-
-## Pacote de SEO — a definir após a apuração
+## Estado
+Publicada e registrada. Correções no portal dependem do editor.

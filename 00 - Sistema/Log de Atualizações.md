@@ -1356,6 +1356,15 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - Alterações documentais realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.
 
 
+## 2026-11-14 — Reorganização da agenda e registro de publicação
+- **Agenda:** Nação Anjo transferida para 14/11; Onde Assistir Flamengo x Brasília (basquete) em 14/11; Onde Assistir Flamengo x Boca Juniors em 15/11 — os dois serviços condicionados à confirmação de transmissão; incluída a cobertura da volta da final da Copa do Brasil Feminina em 15/11, às 16h, no Beira-Rio.
+- **Reportagens:** VAR transferida para 16/11; reportagem financeira "O Flamengo que arrecada mais..." transferida para 20/11.
+- **Série Fla10 reprogramada para terças-feiras:** 24/11 (Maracanã), 01/12 (esportes olímpicos), 08/12 (futebol feminino), 15/12 (valor dos talentos), 22/12 (torcedor como cliente), 29/12 (legado do incêndio) e 05/01/2027 (poder político).
+- **Publicação registrada:** "Flamengo terá oito jogadores pendurados contra o Athletico antes de confronto direto com o Palmeiras", publicada em 07/11/2026, com URL, ficha atualizada e revisão (conferir o placar do Grêmio e a tabela; cosméticos).
+- **Produzida a notícia:** "Fla Ginástica leva cinco atletas a torneio em Portugal e fecha tour europeu", para publicação em 14/11; ficha criada com apuração e checagens pendentes (grafia dos nomes e resultados).
+- Alterações documentais realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.
+
+
 ## 2026-11-14 — Correções pós-publicação verificadas: reportagem da Copinha
 - O editor respondeu à revisão da reportagem: itens 1 e 7 corrigidos; itens 3 e 4 conferidos; item 2 esclarecido; itens 5, 6, 8 e 10 dispensados; item 9 reconhecido como boa observação.
 - **Verificação na página:** a duplicação das duas seções foi removida — "A ausência na Copinha não é uma decisão isolada" e "O precedente de 2025 e os limites de uma equipe alternativa" aparecem uma única vez.
