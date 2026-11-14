@@ -1340,6 +1340,15 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - Alterações documentais realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.
 
 
+## 2026-11-14 — Estudo de reportagem financeira publicada (Flamengo e Betano)
+- O editor confirmou a publicação da reportagem "Flamengo pode perder R$ 430 milhões em 2027, e saída da Betano ameaça planejamento do clube" e pediu estudo e aprendizado.
+- **Estudo:** estrutura em camadas (fato gerador → MP 1.394/2026 e prorrogação → dimensionamento do número → consequências no mercado → reposição do patrocínio → outras modalidades → conclusão projetiva); rigor numérico qualificado (R$ 220 mi fixos/ano, até R$ 268 mi, contrato até 2028, 25 mi € por Lino, 12-15 mi € por Carrascal); cautela epistêmica e tese sustentada ("problema comercial pode virar esportivo"). Cerca de 2.400 palavras.
+- **Aprendizado registrado no manual de Reportagens Fla10:** composição de reportagem de finanças/negócios, com exigência de denominador (receita total/percentual), separação entre projeção e fato, atribuição de fontes e ao menos uma voz direta; título deve refletir o recorte exato do número.
+- **Revisão pós-publicação (achados para o editor):** (1) título associa a perda à Betano, mas o número é mais amplo; (2) falta denominador (receita total/percentual); (3) ausência de vozes diretas; (4) repetição/ensaísmo; (5) MP conferida nas fontes (vigência até março de 2027); (6) data exibida 14/11 x publicação em 13/11; (7) cosméticos do site.
+- Criada a ficha da reportagem; Painel de Pautas atualizado.
+- Alterações documentais realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.
+
+
 ## 2026-11-14 — Correções pós-publicação verificadas: reportagem da Copinha
 - O editor respondeu à revisão da reportagem: itens 1 e 7 corrigidos; itens 3 e 4 conferidos; item 2 esclarecido; itens 5, 6, 8 e 10 dispensados; item 9 reconhecido como boa observação.
 - **Verificação na página:** a duplicação das duas seções foi removida — "A ausência na Copinha não é uma decisão isolada" e "O precedente de 2025 e os limites de uma equipe alternativa" aparecem uma única vez.

@@ -38,3 +38,17 @@ Extensão de referência: **2.200 a 2.700 palavras**. Cada seção deve acrescen
 - **Título que promete além do corpo:** se o título anuncia um eixo (financeiro, tático, institucional), o texto precisa entregá-lo com dados, mecanismos ou consequência; caso contrário, ajustar o título.
 - **Ensaísmo sem informação nova:** parágrafo analítico só entra se acrescentar dado, voz ou consequência concreta.
 - **Fato de memória:** conferir dados históricos (edição do torneio, categoria, cargo, data) na fonte da época, nunca na lembrança.
+
+## Composição observada em reportagem de finanças/negócios (14/11/2026)
+
+Referência: "Flamengo pode perder R$ 430 milhões em 2027, e saída da Betano ameaça planejamento do clube" (Reportagem), cerca de 2.400 palavras.
+
+1. **Fato gerador:** a negociação para suspender o contrato máster.
+2. **Regra e contexto:** MP 1.394/2026, prorrogação por 60 dias, vigência até março de 2027.
+3. **Dimensionamento do número:** de onde vem a projeção (R$ 400 milhões a R$ 430 milhões), o que ela inclui e o que não inclui.
+4. **Consequências no mercado:** contratações, jogadores valorizados (Samuel Lino, Carrascal) e risco de venda.
+5. **Reposição da receita:** por que substituir o patrocinador não é simples.
+6. **Efeito nas outras modalidades:** futebol feminino e esportes olímpicos.
+7. **Conclusão projetiva:** como medir a resposta do clube em 2027.
+
+Extensão de referência: **2.200 a 2.600 palavras**. Obrigatório: ancorar o número em um denominador (receita total ou percentual), separar projeção de fato consumado, atribuir fontes e buscar ao menos uma voz direta. O título deve refletir o recorte exato do número — se a projeção é mais ampla que a saída do patrocinador, dizê-lo no título.
