@@ -65,6 +65,7 @@ Esta categoria inclui expressamente o **futebol masculino de base**, como Sub-20
 - **Pós-jogo:** produzir após o término do evento, quando já houver informações confiáveis e suficientes para construir uma matéria consistente. Não é necessário replicar a sequência de conteúdos prevista para o futebol masculino.
 
 ### Regras de execução
+- **Onde Assistir exige transmissão confirmada:** sem confirmação oficial de transmissão, não produzir a matéria; avisar o editor e aguardar a confirmação.
 - A sequência define a programação padrão; horários podem ser ajustados pela duração do evento e pela disponibilidade real de informações.
 - O pós-jogo inicial não deve esperar a apuração aprofundada, mas também não pode preencher lacunas com suposições.
 - A análise jornalística deve aguardar material suficiente e acrescentar interpretação; não reescrever o pós-jogo.

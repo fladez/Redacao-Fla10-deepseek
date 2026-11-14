@@ -1984,7 +1984,7 @@ A pesquisa acadêmica reforça que a identificação com o clube, o comprometime
 
 ### 14/11/2026 — sábado
 - **Evento:** Flamengo x Vasco — semifinal (volta) do Campeonato Carioca Sub-20, às 10h, no Estádio Nivaldo Pereira, em Nova Iguaçu. Jogo decisivo: empate em 1 a 1 na ida; o Vasco avança com novo empate por ter melhor campanha.
-- **Pauta de serviço:** Onde Assistir **produzido e entregue em 13/11/2026** (modelo das demais modalidades, por autorização do editor); publicação pendente. [[2026-11-14 - Flamengo x Vasco - Onde Assistir Carioca Sub-20]].
+- **Pauta de serviço:** Onde Assistir **suspenso**: transmissão da volta não confirmada. Pela regra de 13/11, não se produz Onde Assistir sem confirmação de transmissão; avisar o editor e aguardar. [[2026-11-14 - Flamengo x Vasco - Onde Assistir Carioca Sub-20]].
 - **Cobertura no evento:** pós-jogo se houver publicação.
 - **Observação:** o jogo do feminino contra o Vasco (4ª rodada do Carioca Feminino) **não é em 14/11**; aparece em 21/11 (a confirmar na tabela da FERJ). A entrada anterior desta agenda confundia as duas partidas.
 

@@ -1312,6 +1312,14 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - Alterações documentais realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.
 
 
+## 2026-11-13 — Regra: sem transmissão confirmada, não produzir Onde Assistir
+- A pedido do editor: se não houver confirmação sobre a transmissão, não criar a matéria de Onde Assistir. Nesse caso, apenas avisar que não há confirmação da transmissão e aguardar a confirmação para produzir.
+- Motivo: sem transmissão confirmada não existe "onde assistir"; publicar com canais prováveis ou indefinidos contraria a função do formato e a regra de não deduzir transmissão de partidas anteriores.
+- A regra foi registrada no formato [[Onde Assistir]] (seção "Transmissão não confirmada"), no [[Registro de Decisões]] e nas regras de execução do [[Fluxo de Produção]].
+- **Consequência aplicada:** o Onde Assistir do Flamengo x Vasco (Carioca Sub-20, 14/11) fica **suspenso** até a confirmação da transmissão; o texto entregue não deve ser publicado antes disso. Ficha da pauta e Painel atualizados.
+- Alterações documentais realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.
+
+
 ## 2026-11-14 — Correções pós-publicação verificadas: reportagem da Copinha
 - O editor respondeu à revisão da reportagem: itens 1 e 7 corrigidos; itens 3 e 4 conferidos; item 2 esclarecido; itens 5, 6, 8 e 10 dispensados; item 9 reconhecido como boa observação.
 - **Verificação na página:** a duplicação das duas seções foi removida — "A ausência na Copinha não é uma decisão isolada" e "O precedente de 2025 e os limites de uma equipe alternativa" aparecem uma única vez.

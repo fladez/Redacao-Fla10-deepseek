@@ -88,6 +88,15 @@ Adicionar novas entradas abaixo. Ao mudar uma regra, atualizar também o documen
 - **Estado:** vigente.
 
 
+### Onde Assistir sem transmissão confirmada não é produzido
+- **Data:** 2026-11-13
+- **Decisão:** se não houver confirmação sobre a transmissão, não produzir a matéria de Onde Assistir. Avisar o editor de que não há confirmação e aguardar a confirmação para produzir.
+- **Motivo/contexto:** sem transmissão confirmada não existe "onde assistir"; publicar com canais prováveis ou indefinidos contraria a função do formato e a regra de não deduzir transmissão a partir de partidas anteriores.
+- **Impacto operacional:** a produção do Onde Assistir passa a depender de confirmação oficial de transmissão; antes disso, a pauta fica suspensa e o editor é avisado.
+- **Documento atualizado:** [[Onde Assistir]] e [[Fluxo de Produção]].
+- **Estado:** vigente.
+
+
 ### Revisão pós-publicação obrigatória
 - **Data:** 2026-11-12
 - **Decisão:** depois de cada publicação, revisar a página efetivamente publicada e reportar ao editor os erros de texto e de formatação, com trecho exato e correção sugerida, sem alterar o portal sem autorização.

@@ -53,3 +53,14 @@ Referência anotada: [[Modelo de Onde Assistir — padrão do canal (anotado)]].
 A informação de transmissão (emissoras, canais e plataformas) aparece **somente no bloco final "Onde assistir"** e na ficha técnica. A abertura e o subtítulo podem informar que haverá transmissão, sem nomear canais; o Resumo para IA segue a mesma regra. Não antecipar canais no lead.
 
 Motivo: decisão editorial de 11/11/2026 — a informação de onde assistir ao final obriga o leitor a percorrer a matéria integralmente. A antecipação no lead encerra a leitura cedo e gerou duplicação na publicação de 11/11.
+
+## Transmissão não confirmada
+
+Sem confirmação oficial de transmissão, **não produzir a matéria de Onde Assistir**. O formato só faz sentido quando existe um "onde assistir" confirmado; publicar com canais prováveis ou indefinidos contraria a função do serviço e a regra de não deduzir transmissão a partir de partidas anteriores.
+
+Procedimento:
+1. Avisar o editor de que a transmissão ainda não foi confirmada.
+2. Aguardar a confirmação oficial (clube, emissora, detentor dos direitos, FERJ ou CBF).
+3. Produzir e publicar o Onde Assistir somente depois da confirmação.
+
+A regra vale para todas as modalidades e categorias, inclusive a base.

@@ -3,7 +3,7 @@ title: "Flamengo x Vasco: onde assistir ao vivo, horário e prováveis escalaç�
 date: 2026-11-13
 section: Categorias de Base
 format: Onde Assistir
-status: produzida
+status: suspensa
 publicacao_confirmada: false
 proveniencia: produção interna — pauta produzida pela IA a pedido do editor; modelo das demais modalidades aplicado por autorização
 ---
@@ -34,4 +34,4 @@ proveniencia: produção interna — pauta produzida pela IA a pedido do editor;
 - Modelo de Onde Assistir das demais modalidades (550 a 650 palavras), com transmissão apenas no bloco final. O modelo do futebol masculino segue pendente de envio pelo editor.
 
 ## Estado
-Texto produzido e entregue em 13/11/2026. O registro no GitHub não publica a matéria; a publicação depende do editor.
+**Suspensa em 13/11/2026.** A transmissão da volta não foi confirmada oficialmente. Pela regra registrada em 13/11, não se produz Onde Assistir sem confirmação de transmissão: apenas avisar o editor e aguardar. O texto entregue não deve ser publicado antes da confirmação; quando FlamengoTV/VascoTV (ou outro detentor) confirmarem a exibição, reativar a pauta e publicar.
