@@ -1980,12 +1980,13 @@ A pesquisa acadêmica reforça que a identificação com o clube, o comprometime
   - **Por que agora:** nota oficial de 12/11/2026; treinamento de pódio em 13/11 e provas em 14 e 15/11.
   - **Checagens:** grafia dos nomes, nome oficial do torneio e datas; confirmar a delegação na nota do clube.
   - **Fontes iniciais:** nota oficial do Flamengo (12/11/2026); [Câmara de Gaia](https://www.cm-gaia.pt/pt/eventos/gaia-international-tournament-2026-ginastica-artistica-feminina/) — 9ª edição do Gaia International Tournament, Pavilhão da Lavandeira, provas em 14 e 15/11, treinos oficiais em 13/11, 14 países participantes.
-- **Serviço do dia:** Onde Assistir — Vasco x Flamengo Maricá (jogo em 14/11), com produção e publicação previstas para esta sexta-feira (13/11); confirmar horário, estádio e transmissão antes de produzir.
+- **Serviço do dia:** Onde Assistir — Vasco x Flamengo Maricá **suspenso**: o jogo não é em 14/11. O Flamengo x Vasco de 14/11 é a semifinal do Carioca Sub-20 (masculino), às 10h, no Nivaldo Pereira. A partida do feminino contra o Vasco aparece em 21/11 (a confirmar na tabela da FERJ). [[2026-11-13 - Vasco x Flamengo Maricá - Onde Assistir Carioca Feminino]].
 
 ### 14/11/2026 — sábado
-- **Evento:** Vasco x Flamengo Maricá — Campeonato Carioca Feminino, 4ª rodada.
-- **Pauta de serviço:** Onde assistir — 13/11; confirmar horário, estádio e transmissão.
-- **Cobertura no evento:** pós-jogo no mesmo dia (14/11), após o encerramento da partida.
+- **Evento:** Flamengo x Vasco — semifinal (volta) do Campeonato Carioca Sub-20, às 10h, no Estádio Nivaldo Pereira, em Nova Iguaçu. Jogo decisivo: empate em 1 a 1 na ida; o Vasco avança com novo empate por ter melhor campanha.
+- **Pauta de serviço:** Onde Assistir não produzido — o modelo do futebol masculino ainda não foi fornecido pelo editor.
+- **Cobertura no evento:** pós-jogo se houver publicação.
+- **Observação:** o jogo do feminino contra o Vasco (4ª rodada do Carioca Feminino) **não é em 14/11**; aparece em 21/11 (a confirmar na tabela da FERJ). A entrada anterior desta agenda confundia as duas partidas.
 
 ### 17/11/2026 — terça-feira
 - **Evento:** SESI Vôlei Bauru x Sesc RJ Flamengo — Superliga Feminina; 21h, Bauru.

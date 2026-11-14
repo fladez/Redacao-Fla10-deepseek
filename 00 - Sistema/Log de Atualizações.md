@@ -1304,6 +1304,14 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - Alterações documentais realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.
 
 
+## 2026-11-14 — Correção: o Flamengo x Vasco de 14/11 é o Sub-20, não o feminino
+- O editor pediu conferência da partida de 14/11. Resultado: o jogo no Estádio Nivaldo Pereira, às 10h, é **Flamengo x Vasco pela semifinal (volta) do Carioca Sub-20**, decisivo — 1 a 1 na ida (07/11), com o Vasco avançando em caso de novo empate por ter melhor campanha. Fontes: Diário do Estado (13/11) e Flashscore.
+- **O jogo do feminino não é em 14/11.** A partida Vasco x Flamengo Maricá (Carioca Feminino, 4ª rodada) aparece em 21/11, às 15h (APWin), o que encaixa na sequência de rodadas adiadas: Botafogo em 18/11 e Fluminense em 25/11. A data de 14/11 veio da tabela divulgada pelo clube em 26/10 e ficou desatualizada.
+- Consequência: o Onde Assistir produzido para o feminino foi **suspenso** e não deve ser publicado com a data de 14/11; a ficha da pauta foi atualizada com a correção. O Painel de Pautas foi corrigido: a agenda de 14/11 agora registra o Sub-20, e a observação sobre o feminino aponta 21/11 (a confirmar na tabela da FERJ).
+- Pendência: confirmar a nova data do feminino na tabela oficial da FERJ antes de reativar o serviço. Se o editor quiser o Onde Assistir do Sub-20 para 14/11, será necessário definir o modelo do futebol masculino.
+- Alterações documentais realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.
+
+
 ## 2026-11-14 — Correções pós-publicação verificadas: reportagem da Copinha
 - O editor respondeu à revisão da reportagem: itens 1 e 7 corrigidos; itens 3 e 4 conferidos; item 2 esclarecido; itens 5, 6, 8 e 10 dispensados; item 9 reconhecido como boa observação.
 - **Verificação na página:** a duplicação das duas seções foi removida — "A ausência na Copinha não é uma decisão isolada" e "O precedente de 2025 e os limites de uma equipe alternativa" aparecem uma única vez.
