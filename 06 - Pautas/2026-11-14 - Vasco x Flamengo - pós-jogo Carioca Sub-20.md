@@ -33,12 +33,12 @@ proveniencia: produção interna — pauta produzida pela IA em colaboração co
 - Duas imagens e dois links internos; byline de Thiago Silva.
 
 ## Revisão pós-publicação (14/11/2026)
-1. **Regra mal explicada:** o texto diz que o Flamengo precisava "vencer, ou empatar por placar superior ao da ida". Qualquer empate levava o agregado a igualdade e a classificação do Vasco pela melhor campanha; o Flamengo precisava **vencer**. Corrigir.
-2. **Contradição na análise:** "repetiu o problema da ida... não conseguiu sustentar a vantagem quando esteve à frente". Na volta, o Flamengo nunca esteve à frente — saiu atrás e empatou. Ajustar para "não conseguiu o gol que precisava" e separar o que ocorreu na ida e na volta.
-3. **Erro de gramática:** "A final do Carioca Sub-20 que será entre Vasco e Botafogo, em jogos de ida e volta, ainda não tem as datas definidas" — falta a vírgula e o "que" está mal encaixado. Sugestão: "A final do Carioca Sub-20, que será entre Vasco e Botafogo, em jogos de ida e volta, ainda não tem datas definidas pela FERJ."
-4. **Conferir "em Xerém":** o texto localiza o Estádio Marcelo Vieira em Xerém; confirmar a informação antes de reutilizar.
-5. **Redundância:** "O grupo agora se reorganiza para a próxima temporada" e, em seguida, "O grupo que deixou o Carioca Sub-20... já tem o próximo compromisso definido" — fundir ou ajustar para não repetir a ideia de próximo passo.
-6. **Cosméticos do site:** "1 acessos" e H2 oculto genérico.
+1. **Regra — corrigida e verificada:** o texto passou a dizer "Ao Flamengo somente restava vencer para ficar com a vaga".
+2. **Contradição — corrigida e verificada:** o trecho passou a "repetiu a dificuldade da ida: criou pouco e não conseguiu o gol que precisava para virar".
+3. **Gramática — corrigida e verificada:** "A final do Carioca Sub-20, que será entre Vasco e Botafogo, em jogos de ida e volta, ainda não tem datas definidas pela FERJ."
+4. **"Em Xerém" — dispensado** pelo editor.
+5. **Redundância — corrigida e verificada:** as duas ideias sobre o próximo passo foram fundidas em um único período.
+6. **Cosméticos do site — dispensados.**
 
 ## Estado
 Publicada. O registro no GitHub não altera o conteúdo do site; correções no portal dependem do editor.

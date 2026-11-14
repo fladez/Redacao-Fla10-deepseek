@@ -1404,6 +1404,14 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - Alterações documentais realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.
 
 
+## 2026-11-14 — Correções verificadas: pós-jogo Vasco x Flamengo
+- O editor informou que as correções 1, 2, 3 e 5 foram efetuadas; 4 e 6 foram dispensadas.
+- **Verificação na página:** (1) "Ao Flamengo somente restava vencer para ficar com a vaga"; (2) "repetiu a dificuldade da ida: criou pouco e não conseguiu o gol que precisava para virar"; (3) "A final do Carioca Sub-20, que será entre Vasco e Botafogo, em jogos de ida e volta, ainda não tem datas definidas pela FERJ"; (5) os dois períodos sobre o próximo passo foram fundidos.
+- Itens 4 ("em Xerém") e 6 (cosméticos) dispensados.
+- Ficha da pauta e Painel de Pautas atualizados com o status de cada achado.
+- Alterações documentais realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.
+
+
 ## 2026-11-14 — Correções pós-publicação verificadas: reportagem da Copinha
 - O editor respondeu à revisão da reportagem: itens 1 e 7 corrigidos; itens 3 e 4 conferidos; item 2 esclarecido; itens 5, 6, 8 e 10 dispensados; item 9 reconhecido como boa observação.
 - **Verificação na página:** a duplicação das duas seções foi removida — "A ausência na Copinha não é uma decisão isolada" e "O precedente de 2025 e os limites de uma equipe alternativa" aparecem uma única vez.

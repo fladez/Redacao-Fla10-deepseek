@@ -2898,6 +2898,6 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 - **Autoria na página:** Thiago Silva.
 - **Conteúdo:** 1 a 1 em Nivaldo Pereira; agregado 2 a 2; Vasco avançou pela melhor campanha; gols de Luis Felipe (pênalti) e Josmar; defesas de Pedro; outra semifinal (Botafogo 2 x 1 Fluminense); final Vasco x Botafogo; remissão ao Carioca profissional de 2027 e à decisão de não disputar a Copinha.
 - **Ajustes editoriais:** linha fina mantida; parágrafo sobre o Carioca profissional e a Copinha inserido no fim de "O que fica para o Flamengo"; duas imagens e dois links internos.
-- **Revisão pós-publicação:** (1) regra mal explicada — o Flamengo precisava vencer, não "empatar por placar superior"; (2) contradição na análise (na volta o time nunca esteve à frente); (3) erro de gramática na frase da final; (4) conferir "em Xerém"; (5) redundância sobre o próximo passo; (6) cosméticos do site.
+- **Revisão pós-publicação:** (1) regra — **corrigida e verificada** ("ao Flamengo somente restava vencer"); (2) contradição — **corrigida e verificada** ("não conseguiu o gol que precisava para virar"); (3) gramática — **corrigida e verificada** (vírgula na frase da final); (4) "em Xerém" — dispensado; (5) redundância — **corrigida e verificada** (períodos fundidos); (6) cosméticos — dispensados.
 - **Ficha editorial:** [[2026-11-14 - Vasco x Flamengo - pós-jogo Carioca Sub-20]].
 - **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações. Correções no portal dependem do editor.
