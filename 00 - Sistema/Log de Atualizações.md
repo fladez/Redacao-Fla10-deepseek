@@ -1349,6 +1349,13 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - Alterações documentais realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.
 
 
+## 2026-11-14 — Correção de proveniência: reportagem financeira é do GPT-6
+- O editor informou que a reportagem "Flamengo pode perder R$ 430 milhões em 2027..." foi criada pelo modelo **GPT-6**, não pela redação interna.
+- Corrigida a proveniência na ficha da reportagem e no Painel de Pautas; byline na página permanece Mariana Costa.
+- Registrado no manual de Reportagens que o texto do GPT-6 é a referência de estilo para reportagem de finanças/negócios: estrutura em camadas, rigor numérico qualificado, cautela epistêmica e tese sustentada — mantendo como falhas a evitar o título que estreita o recorte do número, a falta de denominador, a ausência de vozes diretas e a repetição.
+- Alterações documentais realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.
+
+
 ## 2026-11-14 — Correções pós-publicação verificadas: reportagem da Copinha
 - O editor respondeu à revisão da reportagem: itens 1 e 7 corrigidos; itens 3 e 4 conferidos; item 2 esclarecido; itens 5, 6, 8 e 10 dispensados; item 9 reconhecido como boa observação.
 - **Verificação na página:** a duplicação das duas seções foi removida — "A ausência na Copinha não é uma decisão isolada" e "O precedente de 2025 e os limites de uma equipe alternativa" aparecem uma única vez.

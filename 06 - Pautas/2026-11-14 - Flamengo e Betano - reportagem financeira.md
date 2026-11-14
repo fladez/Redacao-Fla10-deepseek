@@ -7,12 +7,13 @@ author: Mariana Costa
 status: publicada
 publicacao_confirmada: true
 url: https://fla10.news/reportagens/flamengo-pode-perder-r-430-milhoes-em-2027-e-saida-da-betano-ameaca-planejamento-do-clube
-proveniencia: produção interna — reportagem publicada pela redação; estudo e revisão registrados pela IA
+proveniencia: texto produzido pelo modelo GPT-6 e publicado pela redação; estudo e revisão registrados pela IA
 ---
 
 # Flamengo pode perder R$ 430 milhões em 2027, e saída da Betano ameaça planejamento do clube
 
 ## Registro da publicação
+- **Autoria do texto:** modelo GPT-6 (informado pelo editor em 14/11/2026); byline na página: Mariana Costa.
 - **Data exibida na página:** 14/11/2026 (publicação provavelmente na noite de 13/11).
 - **URL:** https://fla10.news/reportagens/flamengo-pode-perder-r-430-milhoes-em-2027-e-saida-da-betano-ameaca-planejamento-do-clube
 - **Seção/formato:** Reportagens — Reportagem.

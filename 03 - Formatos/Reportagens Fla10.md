@@ -41,7 +41,7 @@ Extensão de referência: **2.200 a 2.700 palavras**. Cada seção deve acrescen
 
 ## Composição observada em reportagem de finanças/negócios (14/11/2026)
 
-Referência: "Flamengo pode perder R$ 430 milhões em 2027, e saída da Betano ameaça planejamento do clube" (Reportagem), cerca de 2.400 palavras.
+Referência: "Flamengo pode perder R$ 430 milhões em 2027, e saída da Betano ameaça planejamento do clube" (Reportagem), cerca de 2.400 palavras, **produzida pelo modelo GPT-6** — usar como referência de estilo para reportagem de finanças/negócios.
 
 1. **Fato gerador:** a negociação para suspender o contrato máster.
 2. **Regra e contexto:** MP 1.394/2026, prorrogação por 60 dias, vigência até março de 2027.

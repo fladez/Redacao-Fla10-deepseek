@@ -2831,7 +2831,7 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 - **Estado:** publicada em 14/11/2026 (data exibida; publicação provavelmente na noite de 13/11), conforme confirmação do editor.
 - **Título:** *Flamengo pode perder R$ 430 milhões em 2027, e saída da Betano ameaça planejamento do clube*.
 - **URL pública:** https://fla10.news/reportagens/flamengo-pode-perder-r-430-milhoes-em-2027-e-saida-da-betano-ameaca-planejamento-do-clube
-- **Formato:** Reportagem — seção Reportagens (template exibe "Reportagens Tático"). Autoria na página: Mariana Costa.
+- **Formato:** Reportagem — seção Reportagens (template exibe "Reportagens Tático"). Texto produzido pelo modelo GPT-6; byline na página: Mariana Costa.
 - **Conteúdo:** negociação para suspender o contrato máster após a prorrogação da MP 1.394/2026; projeção de perdas de R$ 400 milhões a R$ 430 milhões em 2027; impacto em contratações (Samuel Lino, Carrascal), reposição de patrocínio e modalidades olímpicas e feminino.
 - **Estudo do estilo:** estrutura em camadas (fato → regra → número → consequência → reposição → modalidades → conclusão), rigor numérico qualificado, cautela epistêmica e tese sustentada; cerca de 2.400 palavras. Aprendizado registrado no manual de Reportagens.
 - **Revisão pós-publicação:** (1) título associa a perda à Betano, mas o número é mais amplo — ajustar a formulação; (2) falta denominador (receita total/percentual); (3) ausência de vozes diretas; (4) repetição/ensaísmo em alguns trechos; (5) MP conferida nas fontes (vigência até março de 2027); (6) data exibida 14/11 x publicação em 13/11; (7) cosméticos (0 acessos, H2 oculto, categoria "Tático").
