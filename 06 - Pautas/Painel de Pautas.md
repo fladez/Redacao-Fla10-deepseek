@@ -1988,6 +1988,7 @@ A pesquisa acadêmica reforça que a identificação com o clube, o comprometime
 - **Pauta de serviço:** Onde Assistir **suspenso**: transmissão da volta não confirmada. Pela regra de 13/11, não se produz Onde Assistir sem confirmação de transmissão; avisar o editor e aguardar. [[2026-11-14 - Flamengo x Vasco - Onde Assistir Carioca Sub-20]].
 - **Cobertura no evento:** pós-jogo se houver publicação.
 - **Nação Anjo — 13ª edição (pauta transferida de 13/11):** notícia institucional; apuração e redação pendentes. Conferir números, modalidades e período na nota oficial do clube; não transformar em texto promocional.
+- **Fla Ginástica — Gaia IT:** notícia **publicada em 14/11/2026**. URL e ficha registradas na publicação confirmada. [[2026-11-14 - Fla Ginástica Gaia IT - notícia]].
 - **Onde Assistir — Flamengo x Brasília (Liga Sul-Americana, basquete):** jogo às 18h10; transmissão a confirmar (FIBA/BasqueteTV); produzir apenas com confirmação. Cobertura: pós-jogo.
 - **Observação:** o jogo do feminino contra o Vasco (4ª rodada do Carioca Feminino) **não é em 14/11**; aparece em 21/11 (a confirmar na tabela da FERJ). A entrada anterior desta agenda confundia as duas partidas.
 
@@ -2854,4 +2855,18 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 - **Estudo do estilo:** estrutura em camadas (fato → regra → número → consequência → reposição → modalidades → conclusão), rigor numérico qualificado, cautela epistêmica e tese sustentada; cerca de 2.400 palavras. Aprendizado registrado no manual de Reportagens.
 - **Revisão pós-publicação:** (1) título associa a perda à Betano, mas o número é mais amplo — ajustar a formulação; (2) falta denominador (receita total/percentual); (3) ausência de vozes diretas; (4) repetição/ensaísmo em alguns trechos; (5) MP conferida nas fontes (vigência até março de 2027); (6) data exibida 14/11 x publicação em 13/11; (7) cosméticos (0 acessos, H2 oculto, categoria "Tático").
 - **Ficha editorial:** [[2026-11-14 - Flamengo e Betano - reportagem financeira]].
+- **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações. Correções no portal dependem do editor.
+
+
+## Publicação confirmada — Fla Ginástica no Gaia IT (14/11/2026)
+
+- **Estado:** publicada em 14/11/2026 (após a meia-noite), conforme confirmação explícita do editor.
+- **Título:** *Fla Ginástica leva cinco atletas a Portugal e fecha tour europeu com olho no futuro*.
+- **URL pública:** https://fla10.news/noticias/fla-ginastica-leva-cinco-atletas-a-portugal-e-fecha-tour-europeu-com-olho-no-futuro
+- **Formato:** Notícia — Ginástica Artística.
+- **Autoria na página:** Mariana Costa.
+- **Conteúdo:** cinco atletas no Gaia IT (Duda Montesino, Millena, Stella, Eva e Sarah); camp na Espanha; perfil de Millena (ouro nos Jogos da Juventude e convocação para a Copa Pan-Americana); Duda e a equipe adulta; as infantis e a formação; o torneio; a temporada de pódios; o que vem depois.
+- **Ajustes editoriais:** título, linha fina e Resumo mantidos; quatro imagens e dois links internos adicionados.
+- **Revisão pós-publicação:** (1) "desde 2019" x 9ª edição — conferir o ano de estreia do torneio; (2) "revelou ... Jade Barbosa" — verificar a formulação; (3) confirmar se Duda foi campeã adulta por equipes e explicitar; (4) clareza do trecho sobre o deslocamento de Niterói; (5) cosméticos do site; (6) data exibida correta.
+- **Ficha editorial:** [[2026-11-14 - Fla Ginástica Gaia IT - notícia]].
 - **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações. Correções no portal dependem do editor.

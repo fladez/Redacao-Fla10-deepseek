@@ -1365,6 +1365,16 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - Alterações documentais realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.
 
 
+## 2026-11-14 — Publicação confirmada: Fla Ginástica no Gaia IT
+- O editor confirmou a publicação e forneceu a URL.
+- Matéria: **“Fla Ginástica leva cinco atletas a Portugal e fecha tour europeu com olho no futuro”**, seção Ginástica Artística, autoria de Mariana Costa na página, publicada em 14/11/2026 após a meia-noite.
+- **URL pública:** https://fla10.news/noticias/fla-ginastica-leva-cinco-atletas-a-portugal-e-fecha-tour-europeu-com-olho-no-futuro
+- **Ajustes editoriais:** título, linha fina e Resumo mantidos; quatro imagens e dois links internos adicionados.
+- **Revisão pós-publicação (achados para o editor):** (1) "desde 2019" pode conflitar com a 9ª edição do torneio — conferir o ano de estreia; (2) verificar a formulação "revelou ... Jade Barbosa"; (3) confirmar se Duda foi campeã adulta por equipes e explicitar; (4) clareza do trecho sobre o deslocamento diário de Niterói; (5) cosméticos do site (2 acessos, H2 oculto); (6) data exibida 14/11 está correta.
+- Ficha da pauta atualizada como publicada; Painel de Pautas atualizado com a publicação.
+- Alterações documentais realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.
+
+
 ## 2026-11-14 — Correções pós-publicação verificadas: reportagem da Copinha
 - O editor respondeu à revisão da reportagem: itens 1 e 7 corrigidos; itens 3 e 4 conferidos; item 2 esclarecido; itens 5, 6, 8 e 10 dispensados; item 9 reconhecido como boa observação.
 - **Verificação na página:** a duplicação das duas seções foi removida — "A ausência na Copinha não é uma decisão isolada" e "O precedente de 2025 e os limites de uma equipe alternativa" aparecem uma única vez.
