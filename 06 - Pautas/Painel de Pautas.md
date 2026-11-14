@@ -2870,3 +2870,18 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 - **Revisão pós-publicação:** (1) "desde 2019" x 9ª edição — conferir o ano de estreia do torneio; (2) "revelou ... Jade Barbosa" — verificar a formulação; (3) confirmar se Duda foi campeã adulta por equipes e explicitar; (4) clareza do trecho sobre o deslocamento de Niterói; (5) cosméticos do site; (6) data exibida correta.
 - **Ficha editorial:** [[2026-11-14 - Fla Ginástica Gaia IT - notícia]].
 - **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações. Correções no portal dependem do editor.
+
+
+## Publicação confirmada — Pós-jogo Paisas 71 x 104 Flamengo (14/11/2026)
+
+- **Estado:** publicada em 14/11/2026, conforme confirmação do editor.
+- **Título:** *Flamengo atropela o Paisas por 104 a 71 em Medellín, com 23 pontos de Yago Santos, e assume a liderança do Grupo F da Liga Sul-Americana*.
+- **URL pública:** https://fla10.news/noticias/flamengo-atropela-o-paisas-por-104-a-71-em-medellin-com-23-pontos-de-yago-santos-e-assume-a-lideranca-do-grupo-f-da-liga-sul-americana
+- **Formato:** Pós-jogo — basquete; Liga Sul-Americana, Grupo F, 1ª rodada.
+- **Autoria do texto:** modelo GPT-6 (informado pelo editor); byline de Thiago Silva.
+- **Conteúdo:** vitória por 104 a 71, parciais 24/16, 22/24, 31/19 e 27/12; Yago Santos, Ruan Miranda, Negrete, Emanuel Fernandes, Alexey Borges, Didi Louzada e Luis Montero; estatísticas coletivas; contexto (retorno de Didi, noite ruim de Yago contra o Franca); próximo jogo contra o Brasília.
+- **Estudo comparativo:** registrado na ficha da pauta — a versão da IA tinha cerca de 600 palavras, sem seções por quarto, sem linhas completas de estatísticas e sem o contexto de retorno de lesão; o texto do GPT-6 tem cerca de 1.100 palavras, com seções por quarto, sequências nomeadas, destaques individuais completos e estatísticas coletivas.
+- **Aprendizado registrado no manual de Pós-jogo:** composição de pós-jogo de basquete, com extensão de 900 a 1.100 palavras, seções por quarto, linhas completas de destaques, estatísticas coletivas e consistência do cestinha em título, subtítulo, resumo, corpo e ficha.
+- **Revisão pós-publicação:** (1) inconsistência de 23 x 26 pontos para Yago — título e ficha usam a súmula da FIBA, subtítulo/resumo/corpo usam o Marca Personal; padronizar; (2) "assume a liderança" — o Flamengo divide a liderança com o Boca Juniors; ajustar; (3) padronizar casas decimais; (4) cosméticos do site.
+- **Ficha editorial:** [[2026-11-14 - Paisas x Flamengo - pós-jogo Liga Sul-Americana]].
+- **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações. Correções no portal dependem do editor.

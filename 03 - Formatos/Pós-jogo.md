@@ -47,3 +47,18 @@ Referência: Sesc RJ Flamengo 3 x 0 Fluminense, Superliga Feminina de vôlei.
 8. **Ficha técnica ao final.**
 
 Extensão de referência: **800 a 900 palavras**. Evitar transformar a cronologia em ponto a ponto: selecionar lances que expliquem a mudança de cada set. Concentrar os números em um bloco próprio, com fonte; quando as fontes divergirem em microestatística, omitir o número em vez de escolher uma versão. Fechar com o próximo compromisso e o que está em jogo.
+
+## Composição observada em pós-jogo de basquete (14/11/2026)
+
+Referência: "Flamengo atropela o Paisas por 104 a 71 em Medellín..." (texto do GPT-6), cerca de 1.100 palavras.
+
+1. **Lead** com placar, competição, local e consequência (liderança/grupo).
+2. **Leitura do jogo:** como a vitória foi construída, em um parágrafo.
+3. **Uma seção por quarto**, com sequências nomeadas (ex.: 8 a 0 do adversário) e jogadores decisivos em cada período.
+4. **Destaques individuais** com linhas completas: pontos, rebotes, assistências, roubos; incluir a participação do banco.
+5. **Estatísticas coletivas:** FG%, 3PT feitos/tentados, rebotes (com ofensivos), roubos, tocos e pontos do banco.
+6. **Contexto:** jogo anterior, retornos de lesão, sequência de partidas e minutagem.
+7. **Próximo jogo** em seção própria, com o que está em jogo.
+8. **Ficha técnica** ao final.
+
+Extensão de referência: **900 a 1.100 palavras**. O cestinha e os números precisam ser idênticos no título, subtítulo, resumo, corpo e ficha; usar a súmula oficial como base e registrar divergências de fonte. Não resumir quartos a parciais: nomear as sequências e os jogadores que mudaram o jogo.

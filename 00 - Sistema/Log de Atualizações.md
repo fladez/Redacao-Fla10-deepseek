@@ -1375,6 +1375,15 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - Alterações documentais realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.
 
 
+## 2026-11-14 — Estudo comparativo: pós-jogo do basquete (GPT-6 x versão da IA)
+- O editor informou que minha versão do pós-jogo de Paisas x Flamengo não foi aprovada por ser curta e superficial, e publicou a versão do GPT-6; pediu leitura, comparação e aprendizado.
+- **Diferenças registradas:** extensão (~600 x ~1.100 palavras); estrutura (parágrafos corridos x seções por quarto + destaques + próximo jogo); play-by-play (parciais x sequências nomeadas com jogadores); estatísticas (FG% e 3PT% x FG%, 13/32 nos três, rebotes 45 a 30 com 15 ofensivos, 12 roubos, 6 tocos e 53 pontos do banco); contexto (derrota para o Franca x noite ruim de Yago, retorno de Didi e sequência de três jogos); próximo jogo (uma frase x seção com o que está em jogo).
+- **Aprendizado registrado no manual de Pós-jogo:** composição de pós-jogo de basquete — 900 a 1.100 palavras, seções por quarto, linhas completas de destaques, estatísticas coletivas, contexto de lesões/calendário e consistência do cestinha em todas as camadas do texto.
+- **Revisão da publicação:** (1) 23 x 26 pontos para Yago (súmula da FIBA x Marca Personal); (2) "assume a liderança" x liderança dividida com o Boca; (3) casas decimais; (4) cosméticos.
+- Criada a ficha da pauta publicada; Painel e Log atualizados.
+- Alterações documentais realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.
+
+
 ## 2026-11-14 — Correções pós-publicação verificadas: reportagem da Copinha
 - O editor respondeu à revisão da reportagem: itens 1 e 7 corrigidos; itens 3 e 4 conferidos; item 2 esclarecido; itens 5, 6, 8 e 10 dispensados; item 9 reconhecido como boa observação.
 - **Verificação na página:** a duplicação das duas seções foi removida — "A ausência na Copinha não é uma decisão isolada" e "O precedente de 2025 e os limites de uma equipe alternativa" aparecem uma única vez.
