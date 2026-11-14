@@ -1331,6 +1331,15 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - Alterações documentais realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.
 
 
+## 2026-11-14 — Correções verificadas: Onde Assistir do basquete
+- O editor informou que as correções 2 e 3 da revisão foram efetuadas.
+- **Verificação na página:** o bloco "Onde assistir" passou a usar "transmissão no canal oficial da FIBA e no canal da BasqueteTV, ambos no YouTube"; a ficha técnica passou a "canal oficial da FIBA e canal do BasqueteTV, ambos no YouTube". As duas correções estão aplicadas e consistentes entre si.
+- **Item 1 segue pendente:** a página continua exibindo 14/11/2026, embora o jogo e o texto sejam de 13/11/2026.
+- Cosméticos do site dispensados.
+- Ficha da pauta e Painel de Pautas atualizados com o status de cada achado.
+- Alterações documentais realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.
+
+
 ## 2026-11-14 — Correções pós-publicação verificadas: reportagem da Copinha
 - O editor respondeu à revisão da reportagem: itens 1 e 7 corrigidos; itens 3 e 4 conferidos; item 2 esclarecido; itens 5, 6, 8 e 10 dispensados; item 9 reconhecido como boa observação.
 - **Verificação na página:** a duplicação das duas seções foi removida — "A ausência na Copinha não é uma decisão isolada" e "O precedente de 2025 e os limites de uma equipe alternativa" aparecem uma única vez.

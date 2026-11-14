@@ -34,10 +34,10 @@ proveniencia: produção interna — pauta produzida pela IA em colaboração co
 - Imagem secundária e link interno ("Leia Também" para a vitória sobre o Pato Basquete) adicionados.
 
 ## Revisão pós-publicação (14/11/2026)
-1. **Data exibida:** a página mostra 14/11/2026, mas o jogo e o texto são de 13/11 ("nesta sexta-feira (13)"). Ajustar a data do CMS para 13/11/2026.
-2. **Gramática na transmissão:** "transmissão do canal oficial da FIBA e no canal da BasqueteTV, ambos no YouTube" mistura preposições. Sugestão: "transmissão do canal oficial da FIBA e do canal da BasqueteTV, ambos no YouTube" (ou "no canal oficial da FIBA e no canal da BasqueteTV").
-3. **Consistência da ficha técnica:** a ficha diz "canal oficial da FIBA no YouTube e BasqueteTV"; o corpo diz que ambos estão no YouTube. Padronizar.
-4. **Cosméticos do site:** "59 acessos" e H2 oculto genérico — já dispensados em outras matérias.
+1. **Data exibida — pendente:** a página mostra 14/11/2026, mas o jogo e o texto são de 13/11 ("nesta sexta-feira (13)"). Ajustar a data do CMS para 13/11/2026.
+2. **Gramática na transmissão — corrigida e verificada:** o texto passou a usar "transmissão no canal oficial da FIBA e no canal da BasqueteTV, ambos no YouTube".
+3. **Consistência da ficha técnica — corrigida e verificada:** a ficha passou a dizer "canal oficial da FIBA e canal do BasqueteTV, ambos no YouTube", alinhada ao corpo.
+4. **Cosméticos do site — dispensados:** "66 acessos" e H2 oculto genérico.
 
 ## Estado
 Publicada. O registro no GitHub não altera o conteúdo do site; correções no portal dependem do editor.
