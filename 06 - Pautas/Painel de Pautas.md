@@ -1991,7 +1991,7 @@ A pesquisa acadêmica reforça que a identificação com o clube, o comprometime
 - **Pós-jogo:** **publicado em 14/11/2026**. Flamengo 1 x 1 Vasco; agregado 2 a 2; Vasco avançou pela melhor campanha na primeira fase. URL e ficha registradas na publicação confirmada. [[2026-11-14 - Vasco x Flamengo - pós-jogo Carioca Sub-20]].
 - **Nação Anjo — 13ª edição (pauta transferida de 13/11):** notícia institucional; apuração e redação pendentes. Conferir números, modalidades e período na nota oficial do clube; não transformar em texto promocional.
 - **Fla Ginástica — Gaia IT:** notícia **publicada em 14/11/2026**. URL e ficha registradas na publicação confirmada. [[2026-11-14 - Fla Ginástica Gaia IT - notícia]].
-- **Onde Assistir — Flamengo x Brasília (Liga Sul-Americana, basquete):** jogo às 18h10; transmissão a confirmar (FIBA/BasqueteTV); produzir apenas com confirmação. Cobertura: pós-jogo.
+- **Onde Assistir — Flamengo x Brasília (Liga Sul-Americana, basquete):** **publicado em 14/11/2026**; transmissão confirmada (canal oficial da FIBA e BasqueteTV). URL e ficha registradas na publicação confirmada. Cobertura: pós-jogo. [[2026-11-14 - Flamengo x Brasília - Onde Assistir Liga Sul-Americana]].
 - **Observação:** o jogo do feminino contra o Vasco (4ª rodada do Carioca Feminino) **não é em 14/11**; aparece em 21/11 (a confirmar na tabela da FERJ). A entrada anterior desta agenda confundia as duas partidas.
 
 ### 15/11/2026 — domingo
@@ -2900,4 +2900,19 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 - **Ajustes editoriais:** linha fina mantida; parágrafo sobre o Carioca profissional e a Copinha inserido no fim de "O que fica para o Flamengo"; duas imagens e dois links internos.
 - **Revisão pós-publicação:** (1) regra — **corrigida e verificada** ("ao Flamengo somente restava vencer"); (2) contradição — **corrigida e verificada** ("não conseguiu o gol que precisava para virar"); (3) gramática — **corrigida e verificada** (vírgula na frase da final); (4) "em Xerém" — dispensado; (5) redundância — **corrigida e verificada** (períodos fundidos); (6) cosméticos — dispensados.
 - **Ficha editorial:** [[2026-11-14 - Vasco x Flamengo - pós-jogo Carioca Sub-20]].
+- **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações. Correções no portal dependem do editor.
+
+
+## Publicação confirmada — Onde Assistir Flamengo x Brasília (14/11/2026)
+
+- **Estado:** publicada em 14/11/2026, conforme confirmação do editor.
+- **Título:** *Flamengo x Brasília: onde assistir ao vivo, horário e informações pela Liga Sul-Americana*.
+- **URL pública:** https://fla10.news/noticias/flamengo-x-brasilia-onde-assistir-ao-vivo-horario-e-informacoes-pela-liga-sul-americana
+- **Formato:** Onde Assistir — basquete; Liga Sul-Americana, Grupo F, 2ª rodada.
+- **Autoria na página:** Mariana Costa.
+- **Conteúdo:** serviço do jogo (18h10, Medellín), campanha do Flamengo (104 a 71 no Paisas; invicto em quatro jogos), derrota do Brasília para o Boca (76 a 74), formato do Grupo F, transmissão (FIBA e BasqueteTV) e ficha técnica.
+- **Ajustes editoriais:** a redação ampliou o texto com seções próprias — "Como chega o Brasília?", "Como chega o Flamengo?" e "Como funciona o Grupo F?" — elevando a peça de cerca de 650 para cerca de 950 palavras.
+- **Aprendizado registrado no manual de Onde Assistir:** composição para competição continental, com 900 a 1.000 palavras e um subtítulo para cada eixo (Flamengo, adversário, formato, onde assistir, ficha).
+- **Revisão pós-publicação:** (1) erro de digitação "BasqueteTV,."; (2) ficha com "e na BasqueteTV" — preposição inconsistente; (3) H2 repetindo o H1; (4) padronizar "Brasília" e "CAIXA/Brasília"; (5) divergência de Yago (26 x 23) a padronizar; (6) cosméticos do site.
+- **Ficha editorial:** [[2026-11-14 - Flamengo x Brasília - Onde Assistir Liga Sul-Americana]].
 - **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações. Correções no portal dependem do editor.

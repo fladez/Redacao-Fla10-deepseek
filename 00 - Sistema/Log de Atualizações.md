@@ -1412,6 +1412,15 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - Alterações documentais realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.
 
 
+## 2026-11-14 — Onde Assistir Flamengo x Brasília: comparação e aprendizado
+- O editor informou que a versão original ficou curta e publicou a versão ampliada pela redação; pediu comparação e aprendizado.
+- **Publicação:** "Flamengo x Brasília: onde assistir ao vivo, horário e informações pela Liga Sul-Americana", com URL registrada; a redação manteve a abertura e a ficha e acrescentou as seções "Como chega o Brasília?", "Como chega o Flamengo?" e "Como funciona o Grupo F?", levando o texto de cerca de 650 para cerca de 950 palavras.
+- **Aprendizado registrado no manual de Onde Assistir:** composição para competição continental — 900 a 1.000 palavras, um subtítulo por eixo (Flamengo, adversário, formato, onde assistir, ficha), sem comprimir campanha, rival e formato em um único parágrafo.
+- **Revisão pós-publicação:** (1) erro de digitação "BasqueteTV,."; (2) "Transmissão: canal oficial da FIBA e na BasqueteTV" — preposição inconsistente; (3) H2 repetindo o H1; (4) padronizar "Brasília" e "CAIXA/Brasília"; (5) divergência de Yago (26 x 23) a padronizar; (6) cosméticos.
+- Ficha da pauta criada; Painel e Log atualizados.
+- Alterações documentais realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.
+
+
 ## 2026-11-14 — Correções pós-publicação verificadas: reportagem da Copinha
 - O editor respondeu à revisão da reportagem: itens 1 e 7 corrigidos; itens 3 e 4 conferidos; item 2 esclarecido; itens 5, 6, 8 e 10 dispensados; item 9 reconhecido como boa observação.
 - **Verificação na página:** a duplicação das duas seções foi removida — "A ausência na Copinha não é uma decisão isolada" e "O precedente de 2025 e os limites de uma equipe alternativa" aparecem uma única vez.

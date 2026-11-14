@@ -64,3 +64,16 @@ Procedimento:
 3. Produzir e publicar o Onde Assistir somente depois da confirmação.
 
 A regra vale para todas as modalidades e categorias, inclusive a base.
+
+## Composição observada em Onde Assistir de competição continental (14/11/2026)
+
+Referência: Flamengo x Brasília, Liga Sul-Americana de Basquete (publicação de 14/11), cerca de 950 palavras.
+
+1. **Abertura de serviço:** data, horário, local e competição, com a informação de que haverá transmissão ao vivo (sem nomear canais).
+2. **Como chega o Flamengo:** campanha, último jogo e destaques individuais.
+3. **Como chega o adversário:** campanha, último resultado e o que precisa no confronto.
+4. **Como funciona o grupo/competição:** formato, número de vagas, critérios e próximos jogos.
+5. **Onde assistir:** canais confirmados.
+6. **Ficha técnica** ao final.
+
+Extensão de referência: **900 a 1.000 palavras**. Cada eixo em subtítulo próprio; não comprimir campanha, contexto do rival e formato em um único parágrafo. Aproveitar dados que qualificam a campanha (invicto, sequência de vitórias, virada ou vantagem do adversário). A transmissão continua restrita ao bloco final e à ficha.
