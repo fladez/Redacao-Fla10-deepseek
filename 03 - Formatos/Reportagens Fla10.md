@@ -31,3 +31,10 @@ Referência: "Flamengo não disputará a Copinha em 2027: decisão estratégica,
 6. **Fechamento projetivo:** o que observar e como medir a decisão — o bloco de fechamento da IA foi mantido na publicação.
 
 Extensão de referência: **2.200 a 2.700 palavras**. Cada seção deve acrescentar um eixo novo; não repetir a mesma tese com outras palavras. O título precisa ser sustentado pelo corpo: se prometer cenário financeiro, apresentar números e mecanismos (formação, transferências, mecanismos de solidariedade), não apenas menção genérica.
+
+### Falhas a não repetir (observadas em 14/11/2026)
+- **Seções duplicadas:** não colar o mesmo bloco duas vezes; reler a estrutura completa antes de entregar.
+- **Tese repetida:** cada seção precisa de eixo novo; se a ideia já foi defendida, cortar ou fundir em vez de reescrever.
+- **Título que promete além do corpo:** se o título anuncia um eixo (financeiro, tático, institucional), o texto precisa entregá-lo com dados, mecanismos ou consequência; caso contrário, ajustar o título.
+- **Ensaísmo sem informação nova:** parágrafo analítico só entra se acrescentar dado, voz ou consequência concreta.
+- **Fato de memória:** conferir dados históricos (edição do torneio, categoria, cargo, data) na fonte da época, nunca na lembrança.

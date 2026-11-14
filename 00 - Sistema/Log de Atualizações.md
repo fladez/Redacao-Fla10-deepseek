@@ -1296,3 +1296,9 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - **Revisão pós-publicação (achados para o editor):** (1) **duplicação de duas seções inteiras** — “A ausência na Copinha não é uma decisão isolada” e “O precedente de 2025 e os limites de uma equipe alternativa” aparecem duas vezes, com texto idêntico; (2) provável erro sobre a Copinha 2025 — o texto diz Sub-17, a cobertura da época registra “elenco B do sub-20”; (3) conferir “57ª edição”, cargos/nomes (Alfredo Almeida, Fábio Palmer), data da ida da semifinal (7/11) e os oito nascidos em 2008 contra o Sampaio Corrêa; (4) título promete “cenário financeiro” sem números ou mecanismos concretos; (5) data exibida 14/11 com publicação em 13/11; (6) redundância de tese ao longo das seções; (7) itens cosméticos do site.
 - Criada a ficha `06 - Pautas/2026-11-14 - Flamengo fora da Copinha 2027 - reportagem.md` com conteúdo, estilo observado, aprendizados e revisão; Painel de Pautas atualizado com a publicação confirmada.
 - Alterações documentais realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.
+
+
+## 2026-11-14 — Regra: falhas de reportagem longa a não repetir
+- A pedido do editor, registrado no manual de Reportagens Fla10 o bloco "Falhas a não repetir", com base na revisão da reportagem sobre a Copinha: seções duplicadas, tese repetida, título que promete além do corpo, ensaísmo sem informação nova e dados históricos conferidos de memória.
+- Objetivo: incorporar o que o texto-base fez bem (vozes institucionais, eixos-tese, análise estrutural) sem reproduzir os defeitos (duplicação e repetição).
+- Alterações documentais realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.
