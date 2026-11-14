@@ -2045,13 +2045,16 @@ A pesquisa acadêmica reforça que a identificação com o clube, o comprometime
 | 09/11 | Flamengo x Sesi Franca — NBB | 10/11 | 20h30, Maracanãzinho; confirmar transmissão. |
 | 11/11 | Sesc RJ Flamengo x Fluminense — Superliga Feminina | 12/11 | 21h, Maracanãzinho; SporTV 2 e Globoplay. **Onde Assistir publicada em 11/11/2026**. URL registrada na publicação confirmada. |
 | 11/11 | Flamengo Maricá x Internacional — final da Copa do Brasil Feminina (ida) | 11/11 | **Onde Assistir publicada em 11/11/2026**. URL registrada na publicação confirmada. |
-| 13/11 | Vasco x Flamengo Maricá — Campeonato Carioca Feminino (4ª rodada) | 14/11 | 15h, Estádio Nivaldo Pereira; confirmar transmissão. |
+| 13/11 | ~~Vasco x Flamengo Maricá — Campeonato Carioca Feminino (4ª rodada)~~ | 21/11 (a confirmar) | **Suspensa:** o jogo não é em 14/11; data provável 21/11 (confirmar na tabela da FERJ); transmissão não confirmada. |
+| 13/11 | Flamengo x Vasco — Carioca Sub-20 (semifinal, volta) | 14/11 | **Suspensa:** transmissão não confirmada; pela regra de 13/11, não produzir sem confirmação. Pós-jogo previsto para 14/11. |
 | 16/11 | SESI Vôlei Bauru x Sesc RJ Flamengo — Superliga Feminina | 17/11 | 21h, Bauru; confirmar transmissão. |
 | 17/11 | Flamengo Maricá x Botafogo — Campeonato Carioca Feminino (3ª rodada, jogo atrasado) | 18/11 | 15h (de Brasília); Estádio João Saldanha (confirmar); transmissão a confirmar. **Pauta transferida de 11/11.** |
 | 17/11 | Flamengo x Athletico Paranaense — Brasileirão | 18/11 | 20h30, Maracanã; equipe principal masculina. |
 | 20/11 | Palmeiras x Flamengo — Brasileirão | 21/11 | 16h30; equipe principal masculina. Confirmar estádio e transmissão na apuração. |
 | 22/11 | Sesc RJ Flamengo x Osasco São Cristóvão Saúde — Superliga Feminina | 23/11 | 21h, Tijuca; confirmar transmissão. |
 | 24/11 | Flamengo Maricá x Fluminense — Campeonato Carioca Feminino (5ª rodada) | 25/11 | 15h; Estádio João Saldanha (confirmar); transmissão a confirmar. **Pauta transferida de 18/11.** |
+| 14/11 | Flamengo x Brasília — Liga Sul-Americana de Basquete | 14/11 | 18h10; transmissão a confirmar (FIBA/BasqueteTV); produzir só com confirmação. |
+| 15/11 | Flamengo x Boca Juniors — Liga Sul-Americana de Basquete | 15/11 | 18h10; transmissão a confirmar (FIBA/BasqueteTV); produzir só com confirmação. |
 
 ### Eventos acrescentados após nova checagem
 - **03/11 — Bahia x Flamengo, Copa do Brasil Feminina, 19h, Arena Fonte Nova.** A página oficial do Flamengo lista o compromisso; a pauta Onde Assistir deve ser publicada em 02/11.
