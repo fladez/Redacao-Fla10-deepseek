@@ -1302,3 +1302,12 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - A pedido do editor, registrado no manual de Reportagens Fla10 o bloco "Falhas a não repetir", com base na revisão da reportagem sobre a Copinha: seções duplicadas, tese repetida, título que promete além do corpo, ensaísmo sem informação nova e dados históricos conferidos de memória.
 - Objetivo: incorporar o que o texto-base fez bem (vozes institucionais, eixos-tese, análise estrutural) sem reproduzir os defeitos (duplicação e repetição).
 - Alterações documentais realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.
+
+
+## 2026-11-14 — Correções pós-publicação verificadas: reportagem da Copinha
+- O editor respondeu à revisão da reportagem: itens 1 e 7 corrigidos; itens 3 e 4 conferidos; item 2 esclarecido; itens 5, 6, 8 e 10 dispensados; item 9 reconhecido como boa observação.
+- **Verificação na página:** a duplicação das duas seções foi removida — "A ausência na Copinha não é uma decisão isolada" e "O precedente de 2025 e os limites de uma equipe alternativa" aparecem uma única vez.
+- **Esclarecimento editorial registrado:** o "elenco B do Sub-20" é formado, na prática, por jogadores do Sub-17; a informação publicada está correta.
+- **Item 7:** o corpo passou a explicitar os mecanismos de retorno econômico da formação (aproveitamento no profissional, transferências e mecanismos de solidariedade); o título foi mantido.
+- Ficha e Painel de Pautas atualizados com o status de cada achado.
+- Alterações documentais realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.

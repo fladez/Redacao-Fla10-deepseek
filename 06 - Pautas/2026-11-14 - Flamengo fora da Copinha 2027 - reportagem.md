@@ -40,16 +40,16 @@ proveniencia: produção interna colaborativa — texto-base de outra ferramenta
 - Título precisa ser sustentado pelo corpo; se prometer cenário financeiro, trazer números e mecanismos, não apenas menção genérica.
 
 ## Revisão pós-publicação (14/11/2026)
-1. **Duplicação de seções inteiras:** "A ausência na Copinha não é uma decisão isolada" e "O precedente de 2025 e os limites de uma equipe alternativa" aparecem **duas vezes**, com texto idêntico. Remover o segundo bloco de cada uma.
-2. **Provável erro factual — Copinha 2025:** o texto afirma que o Flamengo disputou 2025 "basicamente com jogadores do Sub-17". A cobertura da época (Sporting News) registra "elenco B do sub-20", com os titulares no Carioca. Confirmar e corrigir.
-3. **"57ª edição":** conferir a numeração oficial da FPF para a edição de 2027.
-4. **Cargos e nomes:** confirmar "diretor das categorias de base, Alfredo Almeida" e "vice-presidente de futebol profissional e de base, Fábio Palmer" (grafia e função).
-5. **Data da ida da semifinal do Carioca Sub-20:** o texto diz 7 de novembro, na Gávea; conferir na tabela/súmula.
-6. **Detalhe dos oito nascidos em 2008 contra o Sampaio Corrêa:** conferir na súmula antes de reutilizar.
-7. **Título x conteúdo:** o título promete "cenário financeiro", mas o corpo não apresenta números ou mecanismos financeiros concretos. Ou trazer dados, ou ajustar o título.
-8. **Data da publicação:** página exibe 14/11/2026, com publicação feita em 13/11 à noite — verificar se é data editorial (edição de sábado) ou erro de CMS.
-9. **Redundância de tese:** além das duplicações, várias seções repetem a mesma ideia (Carioca como formação, ausência não é desinteresse); enxugar na próxima.
-10. **Itens cosméticos do site:** "1 acessos" e H2 oculto genérico — já dispensados em outras matérias.
+1. **Duplicação de seções — corrigida e verificada:** as seções "A ausência na Copinha não é uma decisão isolada" e "O precedente de 2025 e os limites de uma equipe alternativa" aparecem uma única vez na página após a correção.
+2. **Copinha 2025 — esclarecido, sem erro:** o editor explicou que o "elenco B do Sub-20" é formado, na prática, por jogadores do Sub-17; a informação publicada está correta.
+3. **"57ª edição" — confirmado** pelo editor: é a numeração correta.
+4. **Cargos e nomes — confirmados** pelo editor (Alfredo Almeida e Fábio Palmer).
+5. **Data da ida da semifinal (7/11) — dispensada** nesta revisão.
+6. **Oito nascidos em 2008 contra o Sampaio Corrêa — dispensado** nesta revisão.
+7. **Título x conteúdo — corrigido:** o corpo passou a explicitar os mecanismos de retorno econômico da formação (aproveitamento no profissional, transferências e mecanismos de solidariedade); o título foi mantido.
+8. **Data exibida (14/11) — dispensada** nesta revisão.
+9. **Redundância de tese — reconhecida como boa observação:** permanece como aprendizado para as próximas reportagens, sem correção nesta edição.
+10. **Itens cosméticos do site — dispensados.**
 
 ## Estado
 Publicada. O registro no GitHub não altera o conteúdo do site; correções no portal dependem do editor.
