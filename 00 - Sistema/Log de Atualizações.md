@@ -1320,6 +1320,17 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - Alterações documentais realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.
 
 
+## 2026-11-13 — Publicação confirmada: Onde Assistir Paisas x Flamengo (basquete)
+- O editor confirmou a publicação e forneceu a URL.
+- Matéria: **“Paisas x Flamengo: onde assistir ao vivo e horário da estreia na Liga Sul-Americana”**, seção Basquete, autoria de Thiago Silva na página, publicada em 13/11/2026 perto do início do jogo (a página exibe data de 14/11).
+- **URL pública:** https://fla10.news/noticias/paisas-x-flamengo-onde-assistir-ao-vivo-e-horario-da-estreia-na-liga-sul-americana
+- **Transmissão confirmada e aplicada:** canal oficial da FIBA no YouTube e BasqueteTV — a produção só foi feita após a confirmação, conforme a regra registrada em 13/11.
+- **Ajustes editoriais:** bloco "Onde assistir" reescrito; frase sobre escalação removida; imagem secundária e link interno adicionados.
+- **Revisão pós-publicação (achados para o editor):** (1) data exibida 14/11/2026, mas jogo e texto são de 13/11 — ajustar o CMS; (2) gramática na transmissão ("transmissão do canal oficial da FIBA e no canal da BasqueteTV, ambos no YouTube") — padronizar preposições; (3) ficha técnica diz "FIBA no YouTube e BasqueteTV", enquanto o corpo diz que ambos estão no YouTube — padronizar; (4) cosméticos do site (contador de acessos e H2 oculto).
+- Criada a ficha da pauta; Painel de Pautas atualizado com a publicação confirmada.
+- Alterações documentais realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.
+
+
 ## 2026-11-14 — Correções pós-publicação verificadas: reportagem da Copinha
 - O editor respondeu à revisão da reportagem: itens 1 e 7 corrigidos; itens 3 e 4 conferidos; item 2 esclarecido; itens 5, 6, 8 e 10 dispensados; item 9 reconhecido como boa observação.
 - **Verificação na página:** a duplicação das duas seções foi removida — "A ausência na Copinha não é uma decisão isolada" e "O precedente de 2025 e os limites de uma equipe alternativa" aparecem uma única vez.

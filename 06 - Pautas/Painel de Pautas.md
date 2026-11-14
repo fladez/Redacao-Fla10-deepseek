@@ -1981,6 +1981,7 @@ A pesquisa acadêmica reforça que a identificação com o clube, o comprometime
   - **Checagens:** grafia dos nomes, nome oficial do torneio e datas; confirmar a delegação na nota do clube.
   - **Fontes iniciais:** nota oficial do Flamengo (12/11/2026); [Câmara de Gaia](https://www.cm-gaia.pt/pt/eventos/gaia-international-tournament-2026-ginastica-artistica-feminina/) — 9ª edição do Gaia International Tournament, Pavilhão da Lavandeira, provas em 14 e 15/11, treinos oficiais em 13/11, 14 países participantes.
 - **Serviço do dia:** Onde Assistir — Vasco x Flamengo Maricá **suspenso**: o jogo não é em 14/11. O Flamengo x Vasco de 14/11 é a semifinal do Carioca Sub-20 (masculino), às 10h, no Nivaldo Pereira. A partida do feminino contra o Vasco aparece em 21/11 (a confirmar na tabela da FERJ). [[2026-11-13 - Vasco x Flamengo Maricá - Onde Assistir Carioca Feminino]].
+- **Serviço — basquete:** Onde Assistir Paisas x Flamengo **publicado em 13/11/2026** (Liga Sul-Americana, quartas de final). URL registrada na publicação confirmada. [[2026-11-13 - Paisas x Flamengo - Onde Assistir Liga Sul-Americana de Basquete]].
 
 ### 14/11/2026 — sábado
 - **Evento:** Flamengo x Vasco — semifinal (volta) do Campeonato Carioca Sub-20, às 10h, no Estádio Nivaldo Pereira, em Nova Iguaçu. Jogo decisivo: empate em 1 a 1 na ida; o Vasco avança com novo empate por ter melhor campanha.
@@ -2808,4 +2809,18 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 - **Aprendizados:** estrutura em seções-tese com vozes institucionais e análise estrutural; extensão de cerca de 2.700 palavras; o título com promessa tripla exige entrega de cada eixo — o financeiro ficou genérico.
 - **Revisão pós-publicação:** (1) duplicação de duas seções inteiras — **corrigida e verificada**; (2) "elenco B do Sub-20" formado na prática por Sub-17 — **esclarecido, sem erro**; (3) 57ª edição e (4) cargos/nomes — **confirmados** pelo editor; (5) data da semifinal, (6) oito nascidos em 2008, (8) data exibida e (10) cosméticos — **dispensados**; (7) título x conteúdo — **corrigido** com a explicitação dos mecanismos de retorno econômico no corpo; (9) redundância de tese — **reconhecida como boa observação**, sem correção nesta edição.
 - **Ficha editorial:** [[2026-11-14 - Flamengo fora da Copinha 2027 - reportagem]].
+- **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações. Correções no portal dependem do editor.
+
+
+## Publicação confirmada — Paisas x Flamengo: Onde Assistir da Liga Sul-Americana (13/11/2026)
+
+- **Estado:** publicada em 13/11/2026, perto do início do jogo (22h40), conforme confirmação explícita do editor.
+- **Título:** *Paisas x Flamengo: onde assistir ao vivo e horário da estreia na Liga Sul-Americana*.
+- **URL pública:** https://fla10.news/noticias/paisas-x-flamengo-onde-assistir-ao-vivo-e-horario-da-estreia-na-liga-sul-americana
+- **Formato:** Onde Assistir — Basquete; Liga Sul-Americana de Basquete 2026, quartas de final, Grupo F.
+- **Autoria na página:** Thiago Silva.
+- **Conteúdo:** jogo em Medellín, às 22h40 (Brasília); campanha de 100% na primeira fase (84 a 53 no Paisas, 93 a 73 no Oberá, 65 a 63 no Defensor Sporting); derrota recente para o Sesi Franca no NBB; formato do Grupo F; próximos jogos contra Brasília e Boca Juniors; transmissão pelo canal oficial da FIBA e BasqueteTV.
+- **Ajustes editoriais:** bloco "Onde assistir" reescrito; frase sobre escalação removida; imagem secundária e link interno adicionados.
+- **Revisão pós-publicação:** (1) data exibida 14/11/2026, mas jogo e texto são de 13/11 — ajustar o CMS; (2) gramática na transmissão ("do canal oficial da FIBA e no canal da BasqueteTV, ambos no YouTube") — padronizar preposições; (3) ficha técnica diz "FIBA no YouTube e BasqueteTV", o corpo diz que ambos estão no YouTube — padronizar; (4) cosméticos do site.
+- **Ficha editorial:** [[2026-11-13 - Paisas x Flamengo - Onde Assistir Liga Sul-Americana de Basquete]].
 - **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações. Correções no portal dependem do editor.
