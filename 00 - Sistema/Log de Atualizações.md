@@ -1393,6 +1393,17 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - Alterações documentais realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.
 
 
+## 2026-11-14 — Publicação confirmada: pós-jogo Vasco 1 x 1 Flamengo (Carioca Sub-20)
+- O editor confirmou a publicação e forneceu a URL.
+- Matéria: **“Flamengo empata com o Vasco, é eliminado nos critérios do Carioca Sub-20 e fica fora da final”**, seção Base, autoria de Thiago Silva na página.
+- **URL pública:** https://fla10.news/noticias/flamengo-empata-com-o-vasco-e-eliminado-nos-criterios-do-carioca-sub-20-e-fica-fora-da-final
+- **Conteúdo:** 1 a 1 em Nivaldo Pereira; agregado 2 a 2; Vasco avançou pela melhor campanha; gols de Luis Felipe (pênalti) e Josmar; defesas de Pedro; outra semifinal (Botafogo 2 x 1 Fluminense); final Vasco x Botafogo; remissão ao Carioca profissional de 2027 e à decisão de não disputar a Copinha.
+- **Ajustes editoriais:** linha fina mantida; parágrafo sobre o Carioca profissional e a Copinha inserido no fim de "O que fica para o Flamengo"; duas imagens e dois links internos.
+- **Revisão pós-publicação (achados para o editor):** (1) regra mal explicada — o Flamengo precisava vencer, não "empatar por placar superior ao da ida"; (2) contradição na análise — na volta o time nunca esteve à frente; (3) erro de gramática na frase da final ("A final do Carioca Sub-20 que será..."); (4) conferir "em Xerém"; (5) redundância sobre o próximo passo; (6) cosméticos do site.
+- Ficha da pauta criada; Painel e Log atualizados.
+- Alterações documentais realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.
+
+
 ## 2026-11-14 — Correções pós-publicação verificadas: reportagem da Copinha
 - O editor respondeu à revisão da reportagem: itens 1 e 7 corrigidos; itens 3 e 4 conferidos; item 2 esclarecido; itens 5, 6, 8 e 10 dispensados; item 9 reconhecido como boa observação.
 - **Verificação na página:** a duplicação das duas seções foi removida — "A ausência na Copinha não é uma decisão isolada" e "O precedente de 2025 e os limites de uma equipe alternativa" aparecem uma única vez.

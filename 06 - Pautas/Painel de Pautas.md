@@ -1988,7 +1988,7 @@ A pesquisa acadêmica reforça que a identificação com o clube, o comprometime
 ### 14/11/2026 — sábado
 - **Evento:** Flamengo x Vasco — semifinal (volta) do Campeonato Carioca Sub-20, às 10h, no Estádio Nivaldo Pereira, em Nova Iguaçu. Jogo decisivo: empate em 1 a 1 na ida; o Vasco avança com novo empate por ter melhor campanha.
 - **Pauta de serviço:** Onde Assistir **suspenso**: transmissão da volta não confirmada. Pela regra de 13/11, não se produz Onde Assistir sem confirmação de transmissão; avisar o editor e aguardar. [[2026-11-14 - Flamengo x Vasco - Onde Assistir Carioca Sub-20]].
-- **Cobertura no evento:** pós-jogo se houver publicação.
+- **Pós-jogo:** **publicado em 14/11/2026**. Flamengo 1 x 1 Vasco; agregado 2 a 2; Vasco avançou pela melhor campanha na primeira fase. URL e ficha registradas na publicação confirmada. [[2026-11-14 - Vasco x Flamengo - pós-jogo Carioca Sub-20]].
 - **Nação Anjo — 13ª edição (pauta transferida de 13/11):** notícia institucional; apuração e redação pendentes. Conferir números, modalidades e período na nota oficial do clube; não transformar em texto promocional.
 - **Fla Ginástica — Gaia IT:** notícia **publicada em 14/11/2026**. URL e ficha registradas na publicação confirmada. [[2026-11-14 - Fla Ginástica Gaia IT - notícia]].
 - **Onde Assistir — Flamengo x Brasília (Liga Sul-Americana, basquete):** jogo às 18h10; transmissão a confirmar (FIBA/BasqueteTV); produzir apenas com confirmação. Cobertura: pós-jogo.
@@ -2886,4 +2886,18 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 - **Aprendizado registrado no manual de Pós-jogo:** composição de pós-jogo de basquete, com extensão de 900 a 1.100 palavras, seções por quarto, linhas completas de destaques, estatísticas coletivas e consistência do cestinha em título, subtítulo, resumo, corpo e ficha.
 - **Revisão pós-publicação:** (1) inconsistência de 23 x 26 pontos para Yago — título e ficha usam a súmula da FIBA, subtítulo/resumo/corpo usam o Marca Personal; padronizar; (2) "assume a liderança" — o Flamengo divide a liderança com o Boca Juniors; ajustar; (3) padronizar casas decimais; (4) cosméticos do site.
 - **Ficha editorial:** [[2026-11-14 - Paisas x Flamengo - pós-jogo Liga Sul-Americana]].
+- **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações. Correções no portal dependem do editor.
+
+
+## Publicação confirmada — Pós-jogo Vasco 1 x 1 Flamengo (Carioca Sub-20, 14/11/2026)
+
+- **Estado:** publicada em 14/11/2026, conforme confirmação do editor.
+- **Título:** *Flamengo empata com o Vasco, é eliminado nos critérios do Carioca Sub-20 e fica fora da final*.
+- **URL pública:** https://fla10.news/noticias/flamengo-empata-com-o-vasco-e-eliminado-nos-criterios-do-carioca-sub-20-e-fica-fora-da-final
+- **Formato:** Pós-jogo — Base; semifinal (volta) do Carioca Sub-20.
+- **Autoria na página:** Thiago Silva.
+- **Conteúdo:** 1 a 1 em Nivaldo Pereira; agregado 2 a 2; Vasco avançou pela melhor campanha; gols de Luis Felipe (pênalti) e Josmar; defesas de Pedro; outra semifinal (Botafogo 2 x 1 Fluminense); final Vasco x Botafogo; remissão ao Carioca profissional de 2027 e à decisão de não disputar a Copinha.
+- **Ajustes editoriais:** linha fina mantida; parágrafo sobre o Carioca profissional e a Copinha inserido no fim de "O que fica para o Flamengo"; duas imagens e dois links internos.
+- **Revisão pós-publicação:** (1) regra mal explicada — o Flamengo precisava vencer, não "empatar por placar superior"; (2) contradição na análise (na volta o time nunca esteve à frente); (3) erro de gramática na frase da final; (4) conferir "em Xerém"; (5) redundância sobre o próximo passo; (6) cosméticos do site.
+- **Ficha editorial:** [[2026-11-14 - Vasco x Flamengo - pós-jogo Carioca Sub-20]].
 - **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações. Correções no portal dependem do editor.
