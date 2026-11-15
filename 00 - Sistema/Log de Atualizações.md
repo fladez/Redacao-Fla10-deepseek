@@ -1467,3 +1467,13 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - **Revisão pós-publicação (achados para o editor):** (1) excesso de slogans no fechamento, contra a regra do formato ("evitar repetição de slogans"); (2) "Meninas da Gávea" é apelido aceitável na opinião, mas o padrão informativo é "Flamengo Maricá"; (3) fatos sem atribuição — tolerável na coluna e conferidos; (4) H1 em caixa alta x título SEO descritivo — escolha editorial; (5) cosméticos do site.
 - Ficha da pauta criada; Painel e Log atualizados.
 - Alterações documentais realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.
+
+
+## 2026-11-15 — Publicação confirmada: Onde Assistir Internacional x Flamengo Maricá
+- O editor confirmou a publicação e forneceu a URL.
+- Matéria: **“Internacional x Flamengo Maricá: onde assistir ao vivo, horário e escalações pela final da Copa do Brasil Feminina”**, seção Feminino, autoria de Thiago Silva na página.
+- **URL pública:** https://fla10.news/noticias/internacional-x-flamengo-marica-onde-assistir-ao-vivo-horario-e-escalacoes-pela-final-da-copa-do-brasil-feminina
+- **Conteúdo:** jogo às 16h, no Beira-Rio; cenário da volta; prováveis escalações; arbitragem; transmissão (Globo, XSports, sportv, NSports, GE TV e Lance!).
+- **Revisão pós-publicação (achados para o editor):** (1) "TV aberta: Globo e XSports" — XSports não é canal aberto; reclassificar; (2) "Ju Ferreira (Djeni)" ambíguo na escalação; (3) "Meninas da Gávea" em peça informativa — padrão é "Flamengo Maricá"; (4) conferir a equipe de arbitragem; (5) confirmar o "título inédito" do Internacional; (6) fundir a redundância sobre transmissão e acompanhamento; (7) cosméticos do site.
+- Ficha da pauta criada; Painel e Log atualizados.
+- Alterações documentais realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.

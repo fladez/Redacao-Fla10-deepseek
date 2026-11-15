@@ -1998,6 +1998,7 @@ A pesquisa acadêmica reforça que a identificação com o clube, o comprometime
 ### 15/11/2026 — domingo
 - **Evento:** Flamengo Maricá x Internacional — volta da final da Copa do Brasil Feminina, às 16h, no Beira-Rio. O Flamengo precisa vencer por três gols; dois levam aos pênaltis; o Inter pode perder por um. Transmissão registrada: SporTV, XSports, GE TV, NSports e Lance! (YouTube).
 - **Cobertura no evento:** pós-jogo logo após a partida.
+- **Onde Assistir — Internacional x Flamengo Maricá (final, volta):** **publicado em 15/11/2026**. URL e ficha registradas na publicação confirmada. [[2026-11-15 - Internacional x Flamengo Maricá - Onde Assistir final Copa do Brasil Feminina]].
 - **Onde Assistir — Flamengo x Boca Juniors (Liga Sul-Americana, basquete):** jogo às 18h10; transmissão a confirmar (FIBA/BasqueteTV); produzir apenas com confirmação. Cobertura: pós-jogo.
 
 ### 16/11/2026 — segunda-feira
@@ -2957,4 +2958,17 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 - **Verificação factual:** datas, bustos, cenário da final e jogo de quarta conferidos.
 - **Revisão pós-publicação:** (1) excesso de slogans no fechamento, contra a regra do formato; (2) "Meninas da Gávea" é apelido aceitável na opinião; (3) fatos sem atribuição (tolerável na coluna; conferidos); (4) H1 em caixa alta x título SEO descritivo — escolha editorial; (5) cosméticos do site.
 - **Ficha editorial:** [[2026-11-15 - Voz do Torcedor - 131 anos de Mengão]].
+- **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações. Correções no portal dependem do editor.
+
+
+## Publicação confirmada — Onde Assistir Internacional x Flamengo Maricá (15/11/2026)
+
+- **Estado:** publicada em 15/11/2026, conforme confirmação do editor.
+- **Título:** *Internacional x Flamengo Maricá: onde assistir ao vivo, horário e escalações pela final da Copa do Brasil Feminina*.
+- **URL pública:** https://fla10.news/noticias/internacional-x-flamengo-marica-onde-assistir-ao-vivo-horario-e-escalacoes-pela-final-da-copa-do-brasil-feminina
+- **Formato:** Onde Assistir — Feminino; final da Copa do Brasil Feminina, jogo de volta.
+- **Autoria na página:** Thiago Silva.
+- **Conteúdo:** jogo às 16h, no Beira-Rio; cenário (vitória por dois gols leva aos pênaltis; por três dá o título); prováveis escalações; arbitragem; transmissão.
+- **Revisão pós-publicação:** (1) "TV aberta: Globo e XSports" — XSports não é canal aberto, reclassificar; (2) "Ju Ferreira (Djeni)" ambíguo na escalação; (3) "Meninas da Gávea" em peça informativa — padrão é Flamengo Maricá; (4) conferir arbitragem; (5) confirmar "título inédito" do Internacional; (6) fundir a redundância sobre transmissão; (7) cosméticos do site.
+- **Ficha editorial:** [[2026-11-15 - Internacional x Flamengo Maricá - Onde Assistir final Copa do Brasil Feminina]].
 - **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações. Correções no portal dependem do editor.
