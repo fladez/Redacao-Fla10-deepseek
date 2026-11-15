@@ -34,4 +34,4 @@ proveniencia: produção interna — pauta produzida pela IA a pedido do editor;
 - Modelo de Onde Assistir das demais modalidades (550 a 650 palavras), com transmissão apenas no bloco final. O modelo do futebol masculino segue pendente de envio pelo editor.
 
 ## Estado
-**Suspensa em 13/11/2026.** A transmissão da volta não foi confirmada oficialmente. Pela regra registrada em 13/11, não se produz Onde Assistir sem confirmação de transmissão: apenas avisar o editor e aguardar. O texto entregue não deve ser publicado antes da confirmação; quando FlamengoTV/VascoTV (ou outro detentor) confirmarem a exibição, reativar a pauta e publicar.
+**Encerrada sem publicação em 15/11/2026.** O jogo foi realizado em 14/11 (Vasco 1 x 1 Flamengo; Vasco avançou pela melhor campanha) e a transmissão nunca foi confirmada. O serviço não foi publicado; a cobertura se deu pelo pós-jogo. A pauta não deve ser reativada.
