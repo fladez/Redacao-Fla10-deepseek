@@ -1999,7 +1999,7 @@ A pesquisa acadêmica reforça que a identificação com o clube, o comprometime
 - **Evento:** Flamengo Maricá x Internacional — volta da final da Copa do Brasil Feminina, às 16h, no Beira-Rio. O Flamengo precisa vencer por três gols; dois levam aos pênaltis; o Inter pode perder por um. Transmissão registrada: SporTV, XSports, GE TV, NSports e Lance! (YouTube).
 - **Cobertura no evento:** pós-jogo logo após a partida.
 - **Onde Assistir — Internacional x Flamengo Maricá (final, volta):** **publicado em 15/11/2026**. URL e ficha registradas na publicação confirmada. [[2026-11-15 - Internacional x Flamengo Maricá - Onde Assistir final Copa do Brasil Feminina]].
-- **Onde Assistir — Flamengo x Boca Juniors (Liga Sul-Americana, basquete):** jogo às 18h10; transmissão a confirmar (FIBA/BasqueteTV); produzir apenas com confirmação. Cobertura: pós-jogo.
+- **Onde Assistir — Boca Juniors x Flamengo (Liga Sul-Americana, basquete):** **publicado em 15/11/2026**; transmissão confirmada (BasqueteTV no Brasil; canal oficial da FIBA no YouTube no exterior). URL e ficha registradas na publicação confirmada. Cobertura: pós-jogo. [[2026-11-15 - Boca Juniors x Flamengo - Onde Assistir Liga Sul-Americana]].
 
 ### 16/11/2026 — segunda-feira
 - **Reportagem Fla10 — VAR no Brasileirão:** pauta transferida; apuração e redação pendentes. A primeira versão foi considerada insatisfatória e não está aprovada. Retomar o recorte com o editor antes de reescrever; não presumir favorecimento. Ficha: [[2026-11-09 - Reportagem Fla10 - VAR no Brasileirao]].
@@ -2971,4 +2971,17 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 - **Conteúdo:** jogo às 16h, no Beira-Rio; cenário (vitória por dois gols leva aos pênaltis; por três dá o título); prováveis escalações; arbitragem; transmissão.
 - **Revisão pós-publicação:** (1) "TV aberta: Globo e XSports" — XSports não é canal aberto, reclassificar; (2) "Ju Ferreira (Djeni)" ambíguo na escalação; (3) "Meninas da Gávea" em peça informativa — padrão é Flamengo Maricá; (4) conferir arbitragem; (5) confirmar "título inédito" do Internacional; (6) fundir a redundância sobre transmissão; (7) cosméticos do site.
 - **Ficha editorial:** [[2026-11-15 - Internacional x Flamengo Maricá - Onde Assistir final Copa do Brasil Feminina]].
+- **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações. Correções no portal dependem do editor.
+
+
+## Publicação confirmada — Onde Assistir Boca Juniors x Flamengo (15/11/2026)
+
+- **Estado:** publicada em 15/11/2026, conforme confirmação do editor.
+- **Título:** *Boca Juniors x Flamengo: onde assistir ao vivo, horário e o que está em jogo na Liga Sul-Americana*.
+- **URL pública:** https://fla10.news/noticias/boca-juniors-x-flamengo-onde-assistir-ao-vivo-horario-e-o-que-esta-em-jogo-na-liga-sul-americana
+- **Formato:** Onde Assistir — basquete; Liga Sul-Americana, Grupo F, 3ª rodada.
+- **Autoria na página:** Mariana Costa.
+- **Conteúdo:** jogo às 18h10 em Medellín; Flamengo 1-1 e precisa vencer; saldo +32; destaques; Boca 2-0; cenários do grupo; arbitragem; transmissão.
+- **Revisão pós-publicação:** (1) inconsistência na transmissão — o corpo diz que a FIBA também transmite no Brasil, mas a ficha e a página oficial da FIBA indicam BasqueteTV no Brasil e FIBA YouTube no exterior; alinhar; (2) cosméticos do site.
+- **Ficha editorial:** [[2026-11-15 - Boca Juniors x Flamengo - Onde Assistir Liga Sul-Americana]].
 - **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações. Correções no portal dependem do editor.

@@ -1477,3 +1477,13 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - **Revisão pós-publicação (achados para o editor):** (1) "TV aberta: Globo e XSports" — XSports não é canal aberto; reclassificar; (2) "Ju Ferreira (Djeni)" ambíguo na escalação; (3) "Meninas da Gávea" em peça informativa — padrão é "Flamengo Maricá"; (4) conferir a equipe de arbitragem; (5) confirmar o "título inédito" do Internacional; (6) fundir a redundância sobre transmissão e acompanhamento; (7) cosméticos do site.
 - Ficha da pauta criada; Painel e Log atualizados.
 - Alterações documentais realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.
+
+
+## 2026-11-15 — Publicação confirmada: Onde Assistir Boca Juniors x Flamengo
+- O editor confirmou a publicação e forneceu a URL.
+- Matéria: **“Boca Juniors x Flamengo: onde assistir ao vivo, horário e o que está em jogo na Liga Sul-Americana”**, seção Basquete, autoria de Mariana Costa na página.
+- **URL pública:** https://fla10.news/noticias/boca-juniors-x-flamengo-onde-assistir-ao-vivo-horario-e-o-que-esta-em-jogo-na-liga-sul-americana
+- **Conteúdo:** jogo às 18h10 em Medellín; Flamengo 1-1 e precisa vencer; saldo +32; destaques individuais; Boca 2-0; cenários do grupo; arbitragem; transmissão.
+- **Revisão pós-publicação (achados para o editor):** (1) inconsistência na transmissão — o corpo diz que a FIBA também transmite no Brasil; a ficha e a página oficial da FIBA indicam BasqueteTV no Brasil e FIBA YouTube no exterior; alinhar; (2) cosméticos do site (1 acesso, H2 oculto).
+- Ficha da pauta criada; Painel e Log atualizados.
+- Alterações documentais realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.
