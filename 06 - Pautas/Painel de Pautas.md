@@ -2440,7 +2440,7 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 | Data | Pauta | Estado |
 |---|---|---|
 | 07/11/2026 | 1914: O primeiro título estadual que começou a construir a grandeza do Flamengo | **Publicada em 07/11/2026** |
-| 14/11/2026 | Leônidas da Silva: o Diamante Negro que ajudou a transformar o Flamengo | Programada |
+| 14/11/2026 | Leônidas da Silva: o Diamante Negro que ajudou a transformar o Flamengo | **Publicada em 15/11/2026** |
 | 21/11/2026 | 1953–1955: O segundo tricampeonato carioca — como o Flamengo voltou a dominar o Rio | Programada |
 | 28/11/2026 | Como o Flamengo se tornou o clube de uma Nação | Programada |
 | 05/12/2026 | 1992: A conquista brasileira que marcou a despedida de uma geração | Programada |
@@ -2984,4 +2984,17 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 - **Conteúdo:** jogo às 18h10 em Medellín; Flamengo 1-1 e precisa vencer; saldo +32; destaques; Boca 2-0; cenários do grupo; arbitragem; transmissão.
 - **Revisão pós-publicação:** (1) inconsistência na transmissão — o corpo diz que a FIBA também transmite no Brasil, mas a ficha e a página oficial da FIBA indicam BasqueteTV no Brasil e FIBA YouTube no exterior; alinhar; (2) cosméticos do site.
 - **Ficha editorial:** [[2026-11-15 - Boca Juniors x Flamengo - Onde Assistir Liga Sul-Americana]].
+- **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações. Correções no portal dependem do editor.
+
+
+## Publicação confirmada — Flamengo na História: Leônidas da Silva (15/11/2026)
+
+- **Estado:** publicada em 15/11/2026, conforme confirmação do editor.
+- **Título:** *Leônidas da Silva: o Diamante Negro que encantou o mundo e fez história com a camisa do Flamengo*.
+- **URL pública:** https://fla10.news/flahistoria/leonidas-da-silva-o-diamante-negro-que-encantou-o-mundo-e-fez-historia-com-a-camisa-do-flamengo
+- **Formato:** Flamengo na História. Autoria: Redação Fla10.
+- **Conteúdo:** origem em São Cristóvão; trajetória antes do Flamengo; contratação em 1936; a bicicleta; Copa de 1938; chocolate Diamante Negro e dimensão racial; Carioca de 1939; conflito de 1941 e saída para o São Paulo; legado e morte em 2004.
+- **Estudo registrado no manual do formato:** composição em 9 seções cronológicas, cerca de 2.700 palavras, com apuração verificável, ressalvas para mitos e correção de simplificações.
+- **Revisão pós-publicação:** (1) cosméticos do site; (2) conferir a origem do apelido "Diamante Negro" (variação de versões); (3) sem erros factuais relevantes identificados.
+- **Ficha editorial:** [[2026-11-15 - Flamengo na História - Leônidas da Silva]].
 - **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações. Correções no portal dependem do editor.

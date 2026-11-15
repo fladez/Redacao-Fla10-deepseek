@@ -1487,3 +1487,14 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - **Revisão pós-publicação (achados para o editor):** (1) inconsistência na transmissão — o corpo diz que a FIBA também transmite no Brasil; a ficha e a página oficial da FIBA indicam BasqueteTV no Brasil e FIBA YouTube no exterior; alinhar; (2) cosméticos do site (1 acesso, H2 oculto).
 - Ficha da pauta criada; Painel e Log atualizados.
 - Alterações documentais realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.
+
+
+## 2026-11-15 — Publicação confirmada: Flamengo na História — Leônidas da Silva
+- O editor confirmou a publicação e pediu estudo da peça para reproduzir o estilo e a qualidade na seção.
+- Matéria: **“Leônidas da Silva: o Diamante Negro que encantou o mundo e fez história com a camisa do Flamengo”**, seção Flamengo na História, autoria "Redação Fla10".
+- **URL pública:** https://fla10.news/flahistoria/leonidas-da-silva-o-diamante-negro-que-encantou-o-mundo-e-fez-historia-com-a-camisa-do-flamengo
+- **Estudo:** cerca de 2.700 palavras; 9 seções cronológicas com subtítulos narrativos; abertura de época; origem, trajetória, chegada ao Flamengo, bicicleta, Copa de 1938, dimensão comercial e racial, Carioca de 1939 e conflitos, saída para o São Paulo, legado. Apuração verificável, ressalvas para mitos, correção de simplificações (1939 não foi o primeiro tricampeonato) e fechamento que conecta passado e presente.
+- **Aprendizado registrado no manual do formato:** extensão de 2.400 a 3.000 palavras, 8 a 9 seções cronológicas, subtítulos narrativos, detalhe humano e dimensão social com lastro, sem inventar diálogos.
+- **Revisão pós-publicação:** (1) cosméticos do site; (2) conferir a origem do apelido "Diamante Negro" (variação de versões); (3) sem erros factuais relevantes identificados.
+- Tabela do Flamengo na História atualizada (Leônidas publicado em 15/11); ficha criada; Painel e Log atualizados.
+- Alterações documentais realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.
