@@ -1998,6 +1998,7 @@ A pesquisa acadêmica reforça que a identificação com o clube, o comprometime
 ### 15/11/2026 — domingo
 - **Evento:** Flamengo Maricá x Internacional — volta da final da Copa do Brasil Feminina, às 16h, no Beira-Rio. O Flamengo precisa vencer por três gols; dois levam aos pênaltis; o Inter pode perder por um. Transmissão registrada: SporTV, XSports, GE TV, NSports e Lance! (YouTube).
 - **Cobertura no evento:** pós-jogo logo após a partida.
+- **Pós-jogo — Internacional x Flamengo Maricá:** **publicado em 15/11/2026**. Internacional 1 x 0; agregado 4 a 1; título inédito do Inter e vice rubro-negro. URL e ficha registradas na publicação confirmada. [[2026-11-15 - Internacional x Flamengo Maricá - pós-jogo final Copa do Brasil Feminina]].
 - **Onde Assistir — Internacional x Flamengo Maricá (final, volta):** **publicado em 15/11/2026**. URL e ficha registradas na publicação confirmada. [[2026-11-15 - Internacional x Flamengo Maricá - Onde Assistir final Copa do Brasil Feminina]].
 - **Onde Assistir — Boca Juniors x Flamengo (Liga Sul-Americana, basquete):** **publicado em 15/11/2026**; transmissão confirmada (BasqueteTV no Brasil; canal oficial da FIBA no YouTube no exterior). URL e ficha registradas na publicação confirmada. Cobertura: pós-jogo. [[2026-11-15 - Boca Juniors x Flamengo - Onde Assistir Liga Sul-Americana]].
 
@@ -2997,4 +2998,17 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 - **Estudo registrado no manual do formato:** composição em 9 seções cronológicas, cerca de 2.700 palavras, com apuração verificável, ressalvas para mitos e correção de simplificações.
 - **Revisão pós-publicação:** (1) cosméticos do site; (2) conferir a origem do apelido "Diamante Negro" (variação de versões); (3) sem erros factuais relevantes identificados.
 - **Ficha editorial:** [[2026-11-15 - Flamengo na História - Leônidas da Silva]].
+- **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações. Correções no portal dependem do editor.
+
+
+## Publicação confirmada — Pós-jogo Internacional 1 x 0 Flamengo Maricá (15/11/2026)
+
+- **Estado:** publicada em 15/11/2026, conforme confirmação do editor.
+- **Título:** *Flamengo Maricá perde para o Internacional e fica com vice da Copa do Brasil Feminina*.
+- **URL pública:** https://fla10.news/noticias/flamengo-marica-perde-para-o-internacional-e-fica-com-vice-da-copa-do-brasil-feminina
+- **Formato:** Pós-jogo — Feminino; final da Copa do Brasil Feminina, jogo de volta.
+- **Autoria na página:** Thiago Silva.
+- **Conteúdo:** Internacional 1 x 0; agregado 4 a 1; gol de Pati Llanos; VAR anula gol de Sole Jaimes; público de 20.097; vice rubro-negro e título inédito do Inter.
+- **Revisão pós-publicação:** (1) minuto do gol (14' no texto; 12' no Jornal de Brasília/Folha e 13' na Placar) — conferir e uniformizar; (2) URL canônica retornou 404 sem parâmetro na verificação; (3) "Meninas da Gávea" em peça informativa; (4) conferir a lista de adversários da campanha; (5) completar a ficha com público pagante/renda e substituições; (6) cosméticos do site.
+- **Ficha editorial:** [[2026-11-15 - Internacional x Flamengo Maricá - pós-jogo final Copa do Brasil Feminina]].
 - **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações. Correções no portal dependem do editor.

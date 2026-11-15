@@ -1505,3 +1505,13 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - O prompt foi registrado integralmente no manual de Flamengo na História, junto de um checklist derivado: pesquisa documental prévia, abertura de época, subtítulos narrativos, ganchos de curiosidade, dados verificáveis, ressalvas para mitos, detalhe humano e dimensão social, fechamento sustentado e extensão de 2.400 a 3.000 palavras.
 - O Guia Rápido de Redação foi atualizado com a extensão e a estrutura da seção.
 - Alterações documentais realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.
+
+
+## 2026-11-15 — Publicação confirmada: pós-jogo da final da Copa do Brasil Feminina
+- O editor confirmou a publicação e forneceu a URL.
+- Matéria: **“Flamengo Maricá perde para o Internacional e fica com vice da Copa do Brasil Feminina”**, seção Feminino, autoria de Thiago Silva na página.
+- **URL pública:** https://fla10.news/noticias/flamengo-marica-perde-para-o-internacional-e-fica-com-vice-da-copa-do-brasil-feminina
+- **Conteúdo:** Internacional 1 x 0 (agregado 4 a 1); gol de Pati Llanos; VAR anula gol de Sole Jaimes; público de 20.097; vice rubro-negro e título inédito do Inter.
+- **Revisão pós-publicação (achados para o editor):** (1) minuto do gol — 14' no texto, 12' no Jornal de Brasília/Folha e 13' na Placar; conferir a súmula e uniformizar; (2) URL canônica retornou 404 sem parâmetro na verificação e abriu com parâmetro; (3) "Meninas da Gávea" em peça informativa — padrão é "Flamengo Maricá"; (4) conferir a lista de adversários da campanha; (5) completar a ficha com público pagante/renda e substituições; (6) cosméticos do site.
+- Ficha da pauta criada; Painel e Log atualizados.
+- Alterações documentais realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.
