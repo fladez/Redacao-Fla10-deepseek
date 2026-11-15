@@ -1439,6 +1439,16 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - Alterações documentais realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.
 
 
+## 2026-11-15 — Publicação confirmada: pós-jogo Brasília 84 x 83 Flamengo
+- O editor confirmou a publicação e forneceu a URL.
+- Matéria: **“Flamengo sofre derrota para o Brasília por 84 a 83, perde a invencibilidade e embaralha o Grupo F da Liga Sul-Americana”**, seção Basquete, autoria de Mariana Costa na página.
+- **URL pública:** https://fla10.news/noticias/flamengo-sofre-derrota-para-o-brasilia-por-84-a-83-perde-a-invencibilidade-e-embaralha-o-grupo-f-da-liga-sul-americana
+- **Ajustes editoriais:** título, linha fina e Resumo mantidos; duas imagens e dois links internos; sem alterações estruturais. Extensão de cerca de 1.050 palavras, dentro do padrão de pós-jogo de basquete.
+- **Revisão pós-publicação (achados para o editor):** (1) "embara­lha" com hífen suave/invisível (U+00AD) — remover; (2) clareza do cenário de 1-2: o saldo define a segunda vaga, não três classificados; (3) cosméticos do site (1 acesso, H2 oculto).
+- Ficha da pauta criada; Painel e Log atualizados.
+- Alterações documentais realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.
+
+
 ## 2026-11-14 — Correções pós-publicação verificadas: reportagem da Copinha
 - O editor respondeu à revisão da reportagem: itens 1 e 7 corrigidos; itens 3 e 4 conferidos; item 2 esclarecido; itens 5, 6, 8 e 10 dispensados; item 9 reconhecido como boa observação.
 - **Verificação na página:** a duplicação das duas seções foi removida — "A ausência na Copinha não é uma decisão isolada" e "O precedente de 2025 e os limites de uma equipe alternativa" aparecem uma única vez.

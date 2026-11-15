@@ -1992,6 +1992,7 @@ A pesquisa acadêmica reforça que a identificação com o clube, o comprometime
 - **Nação Anjo — 13ª edição (pauta transferida de 13/11):** **publicada em 14/11/2026**. URL e ficha registradas na publicação confirmada. [[2026-11-14 - Nação Anjo 13ª edição - notícia]].
 - **Fla Ginástica — Gaia IT:** notícia **publicada em 14/11/2026**. URL e ficha registradas na publicação confirmada. [[2026-11-14 - Fla Ginástica Gaia IT - notícia]].
 - **Onde Assistir — Flamengo x Brasília (Liga Sul-Americana, basquete):** **publicado em 14/11/2026**; transmissão confirmada (canal oficial da FIBA e BasqueteTV). URL e ficha registradas na publicação confirmada. Cobertura: pós-jogo. [[2026-11-14 - Flamengo x Brasília - Onde Assistir Liga Sul-Americana]].
+- **Pós-jogo — Flamengo x Brasília:** **publicado em 15/11/2026**. Brasília 84 x 83 Flamengo; primeira derrota rubro-negra na competição; grupo embaralhado. URL e ficha registradas na publicação confirmada. [[2026-11-14 - Brasília x Flamengo - pós-jogo Liga Sul-Americana]].
 - **Observação:** o jogo do feminino contra o Vasco (4ª rodada do Carioca Feminino) **não é em 14/11**; aparece em 21/11 (a confirmar na tabela da FERJ). A entrada anterior desta agenda confundia as duas partidas.
 
 ### 15/11/2026 — domingo
@@ -2929,4 +2930,18 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 - **Ajustes editoriais:** título, linha fina e Resumo reescritos; corpo ampliado com quatro seções novas; bloco final da IA mantido; três imagens e dois links internos; categoria "Finanças".
 - **Revisão pós-publicação:** (1) duplicação estrutural entre seções; (2) "deduzir" x "destinar" 7%; (3) conferir a orientação atribuída ao Ministério do Esporte; (4) "mais de 10 mil" x "cerca de 10 mil"; (5) título "destinou" x corpo "arrecadou"; (6) categoria "Finanças" a confirmar; (7) cosméticos do site.
 - **Ficha editorial:** [[2026-11-14 - Nação Anjo 13ª edição - notícia]].
+- **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações. Correções no portal dependem do editor.
+
+
+## Publicação confirmada — Pós-jogo Brasília 84 x 83 Flamengo (15/11/2026)
+
+- **Estado:** publicada em 15/11/2026, conforme confirmação do editor.
+- **Título:** *Flamengo sofre derrota para o Brasília por 84 a 83, perde a invencibilidade e embaralha o Grupo F da Liga Sul-Americana*.
+- **URL pública:** https://fla10.news/noticias/flamengo-sofre-derrota-para-o-brasilia-por-84-a-83-perde-a-invencibilidade-e-embaralha-o-grupo-f-da-liga-sul-americana
+- **Formato:** Pós-jogo — basquete; Liga Sul-Americana, Grupo F, 2ª rodada.
+- **Autoria na página:** Mariana Costa.
+- **Conteúdo:** 84 a 83; parciais 15/20, 29/11, 21/35 e 19/17; destaques individuais; estatísticas coletivas; classificação e cenários; próximo jogo contra o Boca.
+- **Ajustes editoriais:** título, linha fina e Resumo mantidos; duas imagens e dois links internos; sem alterações estruturais.
+- **Revisão pós-publicação:** (1) "embara­lha" com hífen suave/invisível — remover; (2) clareza do cenário de 1-2 (o saldo define a segunda vaga, não três classificados); (3) cosméticos do site.
+- **Ficha editorial:** [[2026-11-14 - Brasília x Flamengo - pós-jogo Liga Sul-Americana]].
 - **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações. Correções no portal dependem do editor.
