@@ -3012,3 +3012,12 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 - **Revisão pós-publicação:** (1) minuto do gol (14' no texto; 12' no Jornal de Brasília/Folha e 13' na Placar) — conferir e uniformizar; (2) URL canônica retornou 404 sem parâmetro na verificação; (3) "Meninas da Gávea" em peça informativa; (4) conferir a lista de adversários da campanha; (5) completar a ficha com público pagante/renda e substituições; (6) cosméticos do site.
 - **Ficha editorial:** [[2026-11-15 - Internacional x Flamengo Maricá - pós-jogo final Copa do Brasil Feminina]].
 - **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações. Correções no portal dependem do editor.
+
+## Pauta em revisão — Bustos de Arrascaeta e Bruno Henrique na Gávea (15/11/2026)
+
+- **Estado:** em revisão — matéria produzida, aguardando aprovação e publicação do editor. **Não publicada.**
+- **Formato:** notícia de últimas notícias (cerca de 1.230 palavras).
+- **Arquivo de produção:** [[2026-11-15 - Bustos de Arrascaeta e Bruno Henrique na Gávea - notícia]].
+- **Ângulo:** inauguração dos bustos de bronze de Arrascaeta e Bruno Henrique na sede social da Gávea, no aniversário de 131 anos; o uruguaio é o primeiro estrangeiro com busto na sede; técnica de produção (escaneamento 3D, Bronze 85) e galeria de ídolos.
+- **Relação com outras peças:** distinta da coluna "A Voz do Torcedor — 131 anos de Mengão" (opinião, publicada em 15/11), que cita os bustos de passagem.
+- **Registro:** matéria criada e revisada em 15/11/2026; publicação ainda não confirmada.
