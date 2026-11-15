@@ -1431,6 +1431,14 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - Alterações documentais realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.
 
 
+## 2026-11-15 — Rotina: consultar o Guia Rápido e o manual do formato antes de escrever
+- A pedido do editor, criada a rotina obrigatória de pré-escrita: consultar o [[Guia Rápido de Redação]] e o manual do formato específico antes de qualquer matéria.
+- Criado o arquivo `01 - Manual Editorial/Guia Rápido de Redação.md`, com rotina pré-escrita, regras de estilo, quadro de extensões por formato, checagens rápidas e checklist final.
+- Atualizado o [[Fluxo de Produção]] com a etapa "0. Consulta obrigatória antes de escrever".
+- Registrada a decisão no [[Registro de Decisões]].
+- Alterações documentais realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.
+
+
 ## 2026-11-14 — Correções pós-publicação verificadas: reportagem da Copinha
 - O editor respondeu à revisão da reportagem: itens 1 e 7 corrigidos; itens 3 e 4 conferidos; item 2 esclarecido; itens 5, 6, 8 e 10 dispensados; item 9 reconhecido como boa observação.
 - **Verificação na página:** a duplicação das duas seções foi removida — "A ausência na Copinha não é uma decisão isolada" e "O precedente de 2025 e os limites de uma equipe alternativa" aparecem uma única vez.

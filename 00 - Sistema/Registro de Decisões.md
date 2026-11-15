@@ -102,5 +102,10 @@ Adicionar novas entradas abaixo. Ao mudar uma regra, atualizar também o documen
 - **Decisão:** depois de cada publicação, revisar a página efetivamente publicada e reportar ao editor os erros de texto e de formatação, com trecho exato e correção sugerida, sem alterar o portal sem autorização.
 - **Motivo/contexto:** pedido explícito do editor em 12/11/2026, após erros de digitação e duplicação serem encontrados apenas depois da publicação.
 - **Impacto operacional:** a rotina de confirmação de publicação passa a incluir a revisão pós-publicação, com checklist próprio e entrega em lista ordenada por gravidade.
-- **Documento atualizado:** [[Revisão e Controle de Qualidade]] e [[Fluxo de Produção]].
+### Consulta obrigatória ao Guia Rápido e ao manual do formato antes de escrever
+- **Data:** 2026-11-15
+- **Decisão:** antes de criar qualquer matéria, revisar o [[Guia Rápido de Redação]] e o manual do formato específico; a rotina inclui checar extensão, estrutura, regras particulares e fontes.
+- **Motivo/contexto:** pedido do editor em 15/11/2026, após matérias entregues abaixo da extensão prevista (pós-jogo do basquete e Onde Assistir continental).
+- **Impacto operacional:** a redação passa a começar pela consulta ao guia e ao formato; sem ela, a pauta não entra em redação. O guia reúne estilo, extensões e checagens em um único arquivo de acesso rápido.
+- **Documento atualizado:** [[Guia Rápido de Redação]] e [[Fluxo de Produção]].
 - **Estado:** vigente.

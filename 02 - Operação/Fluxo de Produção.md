@@ -1,5 +1,8 @@
 # Fluxo de Produção da Redação
 
+## 0. Consulta obrigatória antes de escrever
+Antes de produzir qualquer matéria, consultar o [[Guia Rápido de Redação]] (`01 - Manual Editorial/Guia Rápido de Redação.md`) e o manual do formato específico em `03 - Formatos/`. Dessa consulta devem sair: extensão-alvo, estrutura obrigatória, regras particulares (por exemplo, transmissão apenas no bloco final; Onde Assistir somente com transmissão confirmada) e a lista de checagens. Sem essa consulta, a pauta não entra em redação.
+
 ## 1. Planejamento
 Consultar painel de pautas, agenda esportiva e reservas. Definir prioridade, prazo, formato e público. Verificar o que já foi publicado sobre o mesmo jogo, personagem ou questão.
 
