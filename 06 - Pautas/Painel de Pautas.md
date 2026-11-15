@@ -2945,3 +2945,16 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 - **Revisão pós-publicação:** (1) "embara­lha" com hífen suave/invisível — remover; (2) clareza do cenário de 1-2 (o saldo define a segunda vaga, não três classificados); (3) cosméticos do site.
 - **Ficha editorial:** [[2026-11-14 - Brasília x Flamengo - pós-jogo Liga Sul-Americana]].
 - **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações. Correções no portal dependem do editor.
+
+
+## Publicação confirmada — Voz do Torcedor: 131 anos de Mengão (15/11/2026)
+
+- **Estado:** publicada em 15/11/2026, conforme confirmação do editor.
+- **Título:** *131 ANOS DE MENGÃO! E A FESTA HOJE TEM QUE SER DENTRO DE CAMPO!*
+- **URL pública:** https://fla10.news/voz-torcedor/131-anos-de-mengao-e-a-festa-hoje-tem-que-ser-dentro-de-campo
+- **Formato:** A Voz do Torcedor — opinião. Autoria: Cadu Marques (colaborador).
+- **Conteúdo:** 131 anos; bustos de Arrascaeta e Bruno Henrique na Gávea (uruguaio é o primeiro estrangeiro homenageado); final da Copa do Brasil Feminina às 16h no Beira-Rio; Athletico-PR na quarta; fechamento com slogans.
+- **Verificação factual:** datas, bustos, cenário da final e jogo de quarta conferidos.
+- **Revisão pós-publicação:** (1) excesso de slogans no fechamento, contra a regra do formato; (2) "Meninas da Gávea" é apelido aceitável na opinião; (3) fatos sem atribuição (tolerável na coluna; conferidos); (4) H1 em caixa alta x título SEO descritivo — escolha editorial; (5) cosméticos do site.
+- **Ficha editorial:** [[2026-11-15 - Voz do Torcedor - 131 anos de Mengão]].
+- **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações. Correções no portal dependem do editor.

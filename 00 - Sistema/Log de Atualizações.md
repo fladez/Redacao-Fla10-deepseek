@@ -1456,3 +1456,14 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - **Item 7:** o corpo passou a explicitar os mecanismos de retorno econômico da formação (aproveitamento no profissional, transferências e mecanismos de solidariedade); o título foi mantido.
 - Ficha e Painel de Pautas atualizados com o status de cada achado.
 - Alterações documentais realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.
+
+
+## 2026-11-15 — Publicação confirmada: Voz do Torcedor — 131 anos de Mengão
+- O editor confirmou a publicação e forneceu a URL.
+- Texto: **“131 ANOS DE MENGÃO! E A FESTA HOJE TEM QUE SER DENTRO DE CAMPO!”**, seção A Voz do Torcedor, autoria de Cadu Marques (colaborador).
+- **URL pública:** https://fla10.news/voz-torcedor/131-anos-de-mengao-e-a-festa-hoje-tem-que-ser-dentro-de-campo
+- **Conteúdo:** 131 anos; bustos de Arrascaeta e Bruno Henrique na Gávea; final da Copa do Brasil Feminina às 16h no Beira-Rio; Athletico-PR na quarta; fechamento com slogans.
+- **Verificação factual:** fundação em 15/11/1895 (131 anos), bustos e ineditismo do uruguaio (O Globo, Extra, ge), cenário da final e jogo de quarta — conferidos.
+- **Revisão pós-publicação (achados para o editor):** (1) excesso de slogans no fechamento, contra a regra do formato ("evitar repetição de slogans"); (2) "Meninas da Gávea" é apelido aceitável na opinião, mas o padrão informativo é "Flamengo Maricá"; (3) fatos sem atribuição — tolerável na coluna e conferidos; (4) H1 em caixa alta x título SEO descritivo — escolha editorial; (5) cosméticos do site.
+- Ficha da pauta criada; Painel e Log atualizados.
+- Alterações documentais realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.
