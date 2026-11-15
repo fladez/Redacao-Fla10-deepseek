@@ -39,7 +39,7 @@ Antes de escrever **qualquer matéria**, consultar este guia e o manual do forma
 | **Pós-jogo — basquete** | 900 a 1.100 palavras | uma seção por quarto com sequências nomeadas, destaques com linhas completas, estatísticas coletivas, contexto, próximo jogo, ficha | cestinha idêntico em título, subtítulo, resumo, corpo e ficha; súmula oficial como base |
 | **Matéria de Últimas Notícias / explicador** | 1.200 a 1.400 palavras | fato, contexto, perguntas respondidas em sequência, consequência | subtítulo com o ângulo, não repetir o fato |
 | **Reportagem Fla10** | 2.200 a 2.700 palavras (finanças: 2.200 a 2.600) | seções-tese com eixos próprios, vozes institucionais, análise estrutural, fechamento projetivo | título sustentado pelo corpo; denominador para números; sem repetir tese |
-| **Flamengo na História** | sem extensão fixa | estrutura própria do manual | apuração histórica em fonte da época |
+| **Flamengo na História** | 2.400 a 3.000 palavras | estrutura própria do manual: abertura de época, 8–9 seções cronológicas com subtítulos narrativos, ganchos de curiosidade, legado | apuração histórica em fonte da época; ressalvas para mitos; detalhe humano e dimensão social com lastro |
 | **Pré-jogo** | sem extensão fixa | estrutura própria | serviço e contexto sem antecipar resultado |
 | **Depois do Apito** | sem extensão fixa | crônica autoral de Miguel Sampaio | leitura literária, não notícia nem análise tática |
 | **Raio-X Tático** | sem extensão fixa | análise estritamente tática | evidência do jogo; sem avaliação jornalística geral |

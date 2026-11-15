@@ -46,3 +46,26 @@ Cuidados observados e recomendados:
 - Imagens com legendas de acervo (Museu do Flamengo, CBF, Diário de Notícias) funcionam como documentação visual.
 - Fechamento conecta passado e presente apenas quando a conexão é sustentada pelos fatos.
 - Resumo para IA no topo; pacote SEO como metadado.
+
+## Briefing de referência do editor (15/11/2026)
+
+Prompt usado para a edição Leônidas da Silva:
+
+> "criar a matéria sobre Leônidas da Silva para a seção Flamengo na História. Faça uma pesquisa profunda para reunir material suficiente para escrever uma matéria histórica densa, profunda e interessante para o leitor. Utilize uma linguagem de jornalismo esportivo histórico e crie uma estrutura narrativa que prenda a atenção do leitor, despertando sempre o interesse, a vontade e a curiosidade de ler a próxima parte."
+
+**O que o briefing exige, na prática:**
+1. **Pesquisa profunda antes da escrita** — material suficiente para sustentar densidade, não resumo de enciclopédia.
+2. **Matéria densa, profunda e interessante** — informação verificável + interpretação histórica + detalhe humano.
+3. **Linguagem de jornalismo esportivo histórico** — narrativa, não tom acadêmico; contexto de época explicado.
+4. **Estrutura que prende a atenção** — abertura de época, subtítulos narrativos e ganchos entre seções que despertem curiosidade para a próxima parte.
+5. **Curiosidade como método** — cada seção deve abrir uma pergunta ou situação que o leitor queira ver resolvida adiante.
+
+**Checklist derivado:**
+- [ ] Pesquisa documental suficiente (datas, placares, números, fontes de época) antes de redigir.
+- [ ] Abertura que situe a época e apresente a tese histórica.
+- [ ] Seções cronológicas com subtítulos narrativos.
+- [ ] Gancho de curiosidade entre seções.
+- [ ] Dados verificáveis e ressalvas para mitos.
+- [ ] Detalhe humano e dimensão social com lastro.
+- [ ] Fechamento que conecte passado e presente quando sustentado.
+- [ ] Extensão de 2.400 a 3.000 palavras.

@@ -1498,3 +1498,10 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - **Revisão pós-publicação:** (1) cosméticos do site; (2) conferir a origem do apelido "Diamante Negro" (variação de versões); (3) sem erros factuais relevantes identificados.
 - Tabela do Flamengo na História atualizada (Leônidas publicado em 15/11); ficha criada; Painel e Log atualizados.
 - Alterações documentais realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.
+
+
+## 2026-11-15 — Briefing de referência do editor para Flamengo na História
+- O editor compartilhou o prompt usado na edição Leônidas da Silva: pesquisa profunda, matéria histórica densa e interessante, linguagem de jornalismo esportivo histórico e estrutura narrativa que prenda a atenção e desperte curiosidade para a próxima parte.
+- O prompt foi registrado integralmente no manual de Flamengo na História, junto de um checklist derivado: pesquisa documental prévia, abertura de época, subtítulos narrativos, ganchos de curiosidade, dados verificáveis, ressalvas para mitos, detalhe humano e dimensão social, fechamento sustentado e extensão de 2.400 a 3.000 palavras.
+- O Guia Rápido de Redação foi atualizado com a extensão e a estrutura da seção.
+- Alterações documentais realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.
