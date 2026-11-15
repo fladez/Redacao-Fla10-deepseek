@@ -1515,3 +1515,13 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - **Revisão pós-publicação (achados para o editor):** (1) minuto do gol — 14' no texto, 12' no Jornal de Brasília/Folha e 13' na Placar; conferir a súmula e uniformizar; (2) URL canônica retornou 404 sem parâmetro na verificação e abriu com parâmetro; (3) "Meninas da Gávea" em peça informativa — padrão é "Flamengo Maricá"; (4) conferir a lista de adversários da campanha; (5) completar a ficha com público pagante/renda e substituições; (6) cosméticos do site.
 - Ficha da pauta criada; Painel e Log atualizados.
 - Alterações documentais realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.
+
+
+## 2026-11-15 — Publicação confirmada: Bustos de Arrascaeta e Bruno Henrique na Gávea
+- O editor confirmou a publicação e forneceu a URL. **Primeira matéria solicitada através do Telegram** após o ajuste do gateway: a sessão do bot passou a ser criada com o preset padrão, com acesso a web, arquivos e terminal.
+- Matéria: **“Flamengo inaugura bustos de Arrascaeta e Bruno Henrique na Gávea no aniversário de 131 anos”**, seção Clube, autoria de Mariana Costa na página.
+- **URL pública:** https://fla10.news/noticias/flamengo-inaugura-bustos-de-arrascaeta-e-bruno-henrique-na-gavea-no-aniversario-de-131-anos
+- **Conteúdo:** cerimônia de 15/11/2026 na Gávea; bustos de bronze de Arrascaeta e Bruno Henrique; o uruguaio é o primeiro estrangeiro com busto na sede; galeria passa de 12 para 14 peças; técnica de produção (escaneamento 3D, Bronze 85, Fundarte) e programação dos 131 anos.
+- **Revisão pós-publicação (achados para o editor):** (1) "Resumo para IA" publicado como `<h3>` dentro da caixa azul — padronizar como rótulo em negrito, sem h3; (2) alt genérico "Imagem inserida" nas quatro imagens; (3) cosméticos do site ("1 acessos", H2 oculto); (4) sem erros factuais identificados na conferência por amostragem (bustos, galeria, títulos, números de Arrascaeta, Bronze 85, nomes nos pedestais); (5) texto publicado idêntico ao texto de produção.
+- Ficha da pauta atualizada; Painel e Log atualizados.
+- Alterações documentais realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.

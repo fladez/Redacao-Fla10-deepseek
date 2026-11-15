@@ -1,20 +1,31 @@
 ---
 title: "Flamengo inaugura bustos de Arrascaeta e Bruno Henrique na Gávea no aniversário de 131 anos"
 date: 2026-11-15
-section: Institucional
+section: Clube
 format: Notícia de últimas notícias
-author: Redação Fla10
-status: em revisão
-publicacao_confirmada: false
+author: Mariana Costa
+status: publicada
+publicacao_confirmada: true
+url: https://fla10.news/noticias/flamengo-inaugura-bustos-de-arrascaeta-e-bruno-henrique-na-gavea-no-aniversario-de-131-anos
 proveniencia: produção interna — pauta produzida pela IA em colaboração com o editor
 ---
 
 # Flamengo inaugura bustos de Arrascaeta e Bruno Henrique na Gávea no aniversário de 131 anos
 
+## Registro da publicação
+- **Data da publicação:** 15/11/2026.
+- **URL:** https://fla10.news/noticias/flamengo-inaugura-bustos-de-arrascaeta-e-bruno-henrique-na-gavea-no-aniversario-de-131-anos
+- **Seção/formato:** Clube — Notícia de últimas notícias.
+- **Autoria na página:** Mariana Costa.
+- **Linha fina publicada:** "Uruguaio se torna o primeiro estrangeiro a receber um busto na sede; esculturas em bronze passam a integrar a galeria de ídolos ao lado de nomes como Adílio, Júnior e Nunes".
+- **Texto publicado:** idêntico ao texto de produção entregue; nenhum ajuste editorial de texto identificado na conferência da página.
+- **Primeira matéria solicitada pelo editor através do Telegram**, após o ajuste do gateway (sessão criada com preset padrão, com acesso a web, arquivos e terminal).
+
+## Pauta e produção
 - **Data da pauta:** 15/11/2026
-- **Estado:** em revisão — matéria produzida, aguardando aprovação e publicação pelo editor.
-- **Formato:** notícia de últimas notícias (1.200 a 1.400 palavras).
-- **Seção sugerida:** Institucional/Notícias.
+- **Estado:** publicada em 15/11/2026; pauta encerrada.
+- **Formato:** notícia de últimas notícias (cerca de 1.230 palavras).
+- **Seção na publicação:** Clube.
 - **Controle de redundância:** a coluna "A Voz do Torcedor — 131 anos de Mengão", publicada em 15/11, cita os bustos de passagem e em tom de opinião. Esta peça é a notícia factual do evento, com apuração própria sobre a cerimônia, a técnica de produção e a galeria da Gávea; não repete a pauta da coluna.
 
 ## Texto de produção (padrão HTML Fla10)
@@ -89,5 +100,12 @@ As esculturas passam a integrar o patrimônio da sede social, ao lado das peças
 - Não há número oficial de público presente; prazo de produção das peças, contrato dos jogadores e outros discursos além dos registrados não foram confirmados.
 - Bnews (HTTP 403) e ESPN não puderam ser acessados.
 
+## Revisão pós-publicação (15/11/2026)
+1. **Formatação do Resumo para IA:** a página exibe o rótulo como subtítulo (`<h3>Resumo para IA:</h3>`) dentro da caixa azul; o padrão das publicações anteriores é o rótulo em negrito no início do parágrafo (`<b>Resumo para IA:</b>`), sem h3. Ajustar no portal.
+2. **Alt das imagens:** as quatro imagens inseridas usam `alt="Imagem inserida"` (genérico); trocar por descrições específicas, por SEO e acessibilidade.
+3. **Cosméticos do site:** "1 acessos" (deveria ser "1 acesso") e H2 oculto genérico.
+4. **Sem erros factuais identificados na conferência por amostragem:** número de bustos (12 → 14), lista da galeria, 18 títulos, 108 gols e 395 jogos, Bronze 85, ampliação de 5%, 21 nomes nos pedestais (11 por base), estátuas e programação conferidos em O Dia, UOL, site oficial e O Tempo.
+5. **Sem ajustes editoriais de texto:** o corpo publicado corresponde ao texto de produção.
+
 ## Estado
-Matéria produzida e revisada, aguardando aprovação e publicação. Nenhuma alteração foi feita no portal.
+Publicada em 15/11/2026 e encerrada. O registro no GitHub não altera o conteúdo do site; correções no portal dependem do editor.

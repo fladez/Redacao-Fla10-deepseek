@@ -3013,11 +3013,14 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 - **Ficha editorial:** [[2026-11-15 - Internacional x Flamengo Maricá - pós-jogo final Copa do Brasil Feminina]].
 - **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações. Correções no portal dependem do editor.
 
-## Pauta em revisão — Bustos de Arrascaeta e Bruno Henrique na Gávea (15/11/2026)
+## Publicação confirmada — Bustos de Arrascaeta e Bruno Henrique na Gávea (15/11/2026)
 
-- **Estado:** em revisão — matéria produzida, aguardando aprovação e publicação do editor. **Não publicada.**
-- **Formato:** notícia de últimas notícias (cerca de 1.230 palavras).
-- **Arquivo de produção:** [[2026-11-15 - Bustos de Arrascaeta e Bruno Henrique na Gávea - notícia]].
-- **Ângulo:** inauguração dos bustos de bronze de Arrascaeta e Bruno Henrique na sede social da Gávea, no aniversário de 131 anos; o uruguaio é o primeiro estrangeiro com busto na sede; técnica de produção (escaneamento 3D, Bronze 85) e galeria de ídolos.
+- **Estado:** publicada em 15/11/2026, conforme confirmação do editor. **Primeira matéria solicitada pelo editor através do Telegram**, após o ajuste do gateway (sessão do bot criada com preset padrão, com acesso a web, arquivos e terminal).
+- **Título:** *Flamengo inaugura bustos de Arrascaeta e Bruno Henrique na Gávea no aniversário de 131 anos*.
+- **URL pública:** https://fla10.news/noticias/flamengo-inaugura-bustos-de-arrascaeta-e-bruno-henrique-na-gavea-no-aniversario-de-131-anos
+- **Formato:** Notícia de últimas notícias — Clube; autoria de Mariana Costa na página.
+- **Conteúdo:** cerimônia de 15/11/2026 na Gávea; bustos de bronze de Arrascaeta e Bruno Henrique; o uruguaio é o primeiro estrangeiro com busto na sede; galeria passa de 12 para 14 peças; técnica de produção (escaneamento 3D, Bronze 85, Fundarte) e programação dos 131 anos.
 - **Relação com outras peças:** distinta da coluna "A Voz do Torcedor — 131 anos de Mengão" (opinião, publicada em 15/11), que cita os bustos de passagem.
-- **Registro:** matéria criada e revisada em 15/11/2026; publicação ainda não confirmada.
+- **Revisão pós-publicação:** (1) "Resumo para IA" publicado como `<h3>` dentro da caixa — padronizar em negrito; (2) alt genérico "Imagem inserida" nas quatro imagens; (3) "1 acessos" e H2 oculto (cosméticos); (4) sem erros factuais identificados na conferência por amostragem; (5) nenhum ajuste editorial de texto em relação ao texto de produção.
+- **Ficha editorial:** [[2026-11-15 - Bustos de Arrascaeta e Bruno Henrique na Gávea - notícia]].
+- **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações. Correções no portal dependem do editor.
