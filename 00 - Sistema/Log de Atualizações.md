@@ -1525,3 +1525,14 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - **Revisão pós-publicação (achados para o editor):** (1) "Resumo para IA" publicado como `<h3>` dentro da caixa azul — padronizar como rótulo em negrito, sem h3; (2) alt genérico "Imagem inserida" nas quatro imagens; (3) cosméticos do site ("1 acessos", H2 oculto); (4) sem erros factuais identificados na conferência por amostragem (bustos, galeria, títulos, números de Arrascaeta, Bronze 85, nomes nos pedestais); (5) texto publicado idêntico ao texto de produção.
 - Ficha da pauta atualizada; Painel e Log atualizados.
 - Alterações documentais realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.
+
+
+## 2026-11-15 — Publicação confirmada: pós-jogo Flamengo 82 x 74 Boca Juniors
+- O editor confirmou a publicação e forneceu a URL.
+- Matéria: **“Flamengo vira sobre o Boca Juniors, vence por 82 a 74 e garante vaga no Final Four da Liga Sul-Americana”**, seção Basquete (Liga Sul-Americana), autoria de Thiago Silva na página. Data exibida na página: 16/11/2026; jogo e publicação em 15/11/2026 (horário de Brasília).
+- **URL pública:** https://fla10.news/noticias/flamengo-vira-sobre-o-boca-juniors-vence-por-82-a-74-e-garante-vaga-no-final-four-da-liga-sul-americana
+- **Conteúdo:** Flamengo 82 x 74; parciais 18/19, 12/17, 25/18 e 27/20; Yago Santos cestinha (17); Emanuel Fernandes (12 pontos e quatro rebotes); Luis Montero (11 pontos, cinco assistências e quatro rebotes); Alex Negrete (10 pontos e cinco assistências); Francisco Cáffaro (16) pelo Boca; líder do Grupo F e vaga no Final Four (5 e 6/12).
+- **Revisão pós-publicação (achados para o editor):** (1) data exibida 16/11 x jogo em 15/11 — conferir fuso do CMS; (2) cenário do grupo incompleto: se o Brasília vencer, avança; se perder, a vaga fica com o Boca Juniors (o Paisas já está eliminado) — ajustar a frase; (3) estatísticas coletivas (39 rebotes, 16 assistências, 43,48%) não reconferidas nas fontes jornalísticas; conferir na súmula; (4) alt genérico das imagens; (5) cosméticos do site ("1 acessos", H2 oculto); (6) sem erros factuais na conferência por amostragem (placar, parciais, cestinha e campanha).
+- **Proveniência:** não há ficha de produção desta matéria no vault; confirmar com o editor se o texto foi produzido na redação ou em ferramenta externa.
+- Ficha da pauta criada; Painel e Log atualizados.
+- Alterações documentais realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.

@@ -2001,6 +2001,7 @@ A pesquisa acadêmica reforça que a identificação com o clube, o comprometime
 - **Pós-jogo — Internacional x Flamengo Maricá:** **publicado em 15/11/2026**. Internacional 1 x 0; agregado 4 a 1; título inédito do Inter e vice rubro-negro. URL e ficha registradas na publicação confirmada. [[2026-11-15 - Internacional x Flamengo Maricá - pós-jogo final Copa do Brasil Feminina]].
 - **Onde Assistir — Internacional x Flamengo Maricá (final, volta):** **publicado em 15/11/2026**. URL e ficha registradas na publicação confirmada. [[2026-11-15 - Internacional x Flamengo Maricá - Onde Assistir final Copa do Brasil Feminina]].
 - **Onde Assistir — Boca Juniors x Flamengo (Liga Sul-Americana, basquete):** **publicado em 15/11/2026**; transmissão confirmada (BasqueteTV no Brasil; canal oficial da FIBA no YouTube no exterior). URL e ficha registradas na publicação confirmada. Cobertura: pós-jogo. [[2026-11-15 - Boca Juniors x Flamengo - Onde Assistir Liga Sul-Americana]].
+- **Pós-jogo — Boca Juniors x Flamengo (Liga Sul-Americana, basquete):** **publicado em 15/11/2026** (data exibida na página: 16/11, aparentemente por fuso UTC). Flamengo 82 x 74; virada no segundo tempo; líder do Grupo F e vaga no Final Four. URL e ficha registradas na publicação confirmada. [[2026-11-15 - Flamengo x Boca Juniors - pós-jogo Liga Sul-Americana de Basquete]].
 
 ### 16/11/2026 — segunda-feira
 - **Reportagem Fla10 — VAR no Brasileirão:** pauta transferida; apuração e redação pendentes. A primeira versão foi considerada insatisfatória e não está aprovada. Retomar o recorte com o editor antes de reescrever; não presumir favorecimento. Ficha: [[2026-11-09 - Reportagem Fla10 - VAR no Brasileirao]].
@@ -3023,4 +3024,16 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 - **Relação com outras peças:** distinta da coluna "A Voz do Torcedor — 131 anos de Mengão" (opinião, publicada em 15/11), que cita os bustos de passagem.
 - **Revisão pós-publicação:** (1) "Resumo para IA" publicado como `<h3>` dentro da caixa — padronizar em negrito; (2) alt genérico "Imagem inserida" nas quatro imagens; (3) "1 acessos" e H2 oculto (cosméticos); (4) sem erros factuais identificados na conferência por amostragem; (5) nenhum ajuste editorial de texto em relação ao texto de produção.
 - **Ficha editorial:** [[2026-11-15 - Bustos de Arrascaeta e Bruno Henrique na Gávea - notícia]].
+- **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações. Correções no portal dependem do editor.
+
+
+## Publicação confirmada — Pós-jogo Flamengo 82 x 74 Boca Juniors (15/11/2026)
+
+- **Estado:** publicada em 15/11/2026, conforme confirmação do editor; data exibida na página: 16/11/2026 (aparentemente por fuso UTC).
+- **Título:** *Flamengo vira sobre o Boca Juniors, vence por 82 a 74 e garante vaga no Final Four da Liga Sul-Americana*.
+- **URL pública:** https://fla10.news/noticias/flamengo-vira-sobre-o-boca-juniors-vence-por-82-a-74-e-garante-vaga-no-final-four-da-liga-sul-americana
+- **Formato:** Pós-jogo — basquete; Liga Sul-Americana, Grupo F, 3ª rodada; autoria de Thiago Silva na página.
+- **Conteúdo:** Flamengo 82 x 74; parciais 18/19, 12/17, 25/18 e 27/20; Yago Santos cestinha (17); Emanuel Fernandes (12); Montero (11); Negrete (10); Cáffaro (16); líder do Grupo F e vaga no Final Four (5 e 6/12).
+- **Revisão pós-publicação:** (1) data exibida 16/11 x jogo em 15/11 — conferir fuso do CMS; (2) cenário do grupo incompleto — se o Brasília vencer, avança; se perder, a vaga fica com o Boca (o Paisas já está eliminado); (3) estatísticas coletivas não reconferidas na súmula; (4) alt genérico das imagens; (5) cosméticos do site; (6) sem erros factuais na conferência por amostragem.
+- **Ficha editorial:** [[2026-11-15 - Flamengo x Boca Juniors - pós-jogo Liga Sul-Americana de Basquete]].
 - **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações. Correções no portal dependem do editor.
