@@ -7,7 +7,7 @@ author: Thiago Silva
 status: publicada
 publicacao_confirmada: true
 url: https://fla10.news/noticias/flamengo-vira-sobre-o-boca-juniors-vence-por-82-a-74-e-garante-vaga-no-final-four-da-liga-sul-americana
-proveniencia: a confirmar — texto publicado sem ficha de produção no vault
+proveniencia: texto produzido pelo modelo GPT-6 e publicado pela redação; registro e revisão pós-publicação pela IA
 ---
 
 # Flamengo vira sobre o Boca Juniors, vence por 82 a 74 e garante vaga no Final Four da Liga Sul-Americana
@@ -18,7 +18,7 @@ proveniencia: a confirmar — texto publicado sem ficha de produção no vault
 - **Seção/formato:** Liga Sul-Americana — Pós-jogo (basquete).
 - **Autoria na página:** Thiago Silva.
 - **Linha fina publicada:** "Rubro-Negro reage no segundo tempo, supera os argentinos em Medellín e termina o Grupo F na liderança; Yago Santos foi o cestinha, com 17 pontos".
-- **Proveniência:** não há ficha de produção desta matéria no vault; confirmar com o editor se o texto foi produzido na redação ou em ferramenta externa.
+- **Autoria do texto:** modelo GPT-6 (informado pelo editor em 15/11/2026); byline na página: Thiago Silva.
 
 ## Conteúdo
 - Flamengo 82 x 74 Boca Juniors, em 15/11/2026, no Coliseo Universidad de Medellín (Colômbia), pela 3ª rodada do Grupo F da Liga Sul-Americana de Basquete.
@@ -29,7 +29,7 @@ proveniencia: a confirmar — texto publicado sem ficha de produção no vault
 - Contexto: estreia com 104 a 71 no Paisas; derrota por 84 a 83 para o Brasília; técnico Demétrius Ferracciú.
 
 ## Ajustes editoriais observados
-- Não há texto de produção no vault para comparar; a conferência foi feita sobre a página publicada.
+- Texto produzido pelo GPT-6; a conferência foi feita sobre a página publicada, sem versão da IA para comparar.
 - Duas imagens e dois links internos; Resumo para IA e pacote SEO presentes.
 
 ## Revisão pós-publicação (15/11/2026)

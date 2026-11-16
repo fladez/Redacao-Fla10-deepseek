@@ -3032,7 +3032,8 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 - **Estado:** publicada em 15/11/2026, conforme confirmação do editor; data exibida na página: 16/11/2026 (aparentemente por fuso UTC).
 - **Título:** *Flamengo vira sobre o Boca Juniors, vence por 82 a 74 e garante vaga no Final Four da Liga Sul-Americana*.
 - **URL pública:** https://fla10.news/noticias/flamengo-vira-sobre-o-boca-juniors-vence-por-82-a-74-e-garante-vaga-no-final-four-da-liga-sul-americana
-- **Formato:** Pós-jogo — basquete; Liga Sul-Americana, Grupo F, 3ª rodada; autoria de Thiago Silva na página.
+- **Formato:** Pós-jogo — basquete; Liga Sul-Americana, Grupo F, 3ª rodada.
+- **Autoria do texto:** modelo GPT-6 (informado pelo editor); byline de Thiago Silva na página.
 - **Conteúdo:** Flamengo 82 x 74; parciais 18/19, 12/17, 25/18 e 27/20; Yago Santos cestinha (17); Emanuel Fernandes (12); Montero (11); Negrete (10); Cáffaro (16); líder do Grupo F e vaga no Final Four (5 e 6/12).
 - **Revisão pós-publicação:** (1) data exibida 16/11 x jogo em 15/11 — conferir fuso do CMS; (2) cenário do grupo incompleto — se o Brasília vencer, avança; se perder, a vaga fica com o Boca (o Paisas já está eliminado); (3) estatísticas coletivas não reconferidas na súmula; (4) alt genérico das imagens; (5) cosméticos do site; (6) sem erros factuais na conferência por amostragem.
 - **Ficha editorial:** [[2026-11-15 - Flamengo x Boca Juniors - pós-jogo Liga Sul-Americana de Basquete]].
