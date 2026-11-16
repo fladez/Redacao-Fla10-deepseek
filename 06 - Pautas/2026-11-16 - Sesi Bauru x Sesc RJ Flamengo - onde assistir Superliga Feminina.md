@@ -28,11 +28,11 @@ proveniencia: produção interna — pauta produzida pela IA em colaboração co
 - Cenário de liderança: vitória por 3 a 0 ou 3 a 1 leva o Flamengo a 18 pontos; um 3 a 2 mantém o Bauru à frente com 18.
 - Ficha técnica completa.
 
-## Revisão pós-publicação (16/11/2026)
-1. **Resumo para IA ausente:** a página vai do subtítulo direto ao corpo, sem o bloco "Resumo para IA" previsto no padrão. Reincluir.
-2. **Link "Leia Também" com informação incorreta:** o título do link diz "Sesc RJ Flamengo vence o Fluminense por 3 a 0 e reassume a liderança da Superliga", mas o Flamengo é o 2º, com 15 pontos; o Bauru lidera com 17. Corrigir o título do link ou o texto da matéria relacionada.
-3. **"Único time com campanha perfeita em seis jogos":** ambíguo — Minas e Flamengo também estão invictos, com menos jogos. Sugestão: "único invicto com seis jogos".
-4. **Cosméticos do site:** "1 acessos".
+## Revisão pós-publicação (16/11/2026) — disposições do editor
+1. **Resumo para IA ausente:** **corrigido** pelo editor.
+2. **Link "Leia Também" com informação incorreta:** **corrigido** pelo editor.
+3. **"Único time com campanha perfeita em seis jogos":** **corrigido** pelo editor.
+4. **Cosméticos do site:** **dispensado**.
 
 ## Estado
 Publicada. Correções no portal dependem do editor.

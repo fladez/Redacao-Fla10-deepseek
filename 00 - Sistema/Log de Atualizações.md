@@ -1562,6 +1562,7 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - **URL pública:** https://fla10.news/noticias/sesi-bauru-x-sesc-rj-flamengo-onde-assistir-ao-vivo-horario-e-o-que-esta-em-jogo-na-superliga
 - **Conteúdo:** jogo em 17/11, às 21h, na Arena Paulo Skaf; sportv e Globoplay Premium; Bauru 17 pontos e Flamengo 15; campanhas invictas; destaques; cenário de liderança; ficha.
 - **Revisão pós-publicação (achados para o editor):** (1) Resumo para IA ausente; (2) link "Leia Também" com título incorreto ("reassume a liderança" — o Flamengo é 2º); (3) "único time com campanha perfeita em seis jogos" ambíguo; (4) cosméticos do site.
+- **Disposições do editor (16/11):** itens 1, 2 e 3 corrigidos; item 4 dispensado.
 - Ficha da pauta atualizada; Painel e Log atualizados.
 - Alterações documentais realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.
 
