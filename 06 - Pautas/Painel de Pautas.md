@@ -2007,6 +2007,7 @@ A pesquisa acadêmica reforça que a identificação com o clube, o comprometime
 - **Reportagem Fla10 — VAR no Brasileirão:** **em produção pelo GPT-6**, com pesquisa prévia ampla feita pelo editor e pela ferramenta. A primeira versão anterior havia sido reprovada; a pauta foi transferida para não duplicar esforço. Aguardar a publicação para estudar a peça, comparar com o manual do formato e fazer o registro completo. Ficha: [[2026-11-09 - Reportagem Fla10 - VAR no Brasileirao]].
 - **Notícia — novo campo no Ninho do Urubu:** **publicada em 16/11/2026**. URL e ficha registradas na publicação confirmada. [[2026-11-16 - Flamengo novo campo Ninho do Urubu - notícia]].
 - **Pré-jogo — Athletico x Flamengo:** **publicado em 16/11/2026**. Como chega o Furacão para a 35ª rodada, com desfalques e problemas defensivos. URL e ficha registradas na publicação confirmada. [[2026-11-16 - Athletico x Flamengo - pré-jogo Brasileirão]].
+- **Notícia — retornos de Paquetá e Plata:** **publicada em 16/11/2026**. Meia voltou aos treinos e atacante foi liberado pelo Equador; dupla deve reforçar o time contra o Athletico-PR. URL e ficha registradas na publicação confirmada. [[2026-11-16 - Paquetá e Plata - retornos contra Athletico - notícia]].
 
 ### 17/11/2026 — terça-feira
 - **Evento:** SESI Vôlei Bauru x Sesc RJ Flamengo — Superliga Feminina; 21h, Bauru.
@@ -3041,6 +3042,19 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 - **Conteúdo:** Athletico 5º com 54 pontos; quatro jogos sem vencer; oito gols sofridos no recorte; desfalques de Viveros (suspenso), Dantas e Arthur Dias; problemas defensivos e de bola parada; dúvida no gol; alternativas de Odair Hellmann; o que está em jogo.
 - **Revisão pós-publicação:** (1) redundância entre abertura e parágrafo seguinte; (2) confirmar Viveros como artilheiro e a punição de três jogos; (3) conferir os números defensivos em fonte oficial; (4) confirmar a situação de Arthur Dias e Dantas; (5) cosméticos do site.
 - **Ficha editorial:** [[2026-11-16 - Athletico x Flamengo - pré-jogo Brasileirão]].
+- **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações. Correções no portal dependem do editor.
+
+
+## Publicação confirmada — Notícia dos retornos de Paquetá e Plata (16/11/2026)
+
+- **Estado:** publicada em 16/11/2026, conforme confirmação do editor.
+- **Título:** *Paquetá volta aos treinos e Plata é liberado mais cedo; dupla deve reforçar o Flamengo contra o Athletico-PR*.
+- **URL pública:** https://fla10.news/noticias/paqueta-volta-aos-treinos-e-plata-e-liberado-mais-cedo-dupla-deve-reforcar-o-flamengo-contra-o-athletico-pr
+- **Formato:** Últimas Notícias — Profissional.
+- **Autoria na página:** Thiago Silva.
+- **Conteúdo:** Paquetá de volta aos treinos após lesão no joelho; contratação mais cara (R$ 315,669 mi); Plata desconvocado pelo Equador por motivos pessoais e liberado; Arrascaeta e Varela também liberados; Alex Sandro e Danilo em recuperação; contexto do jogo e da liderança.
+- **Revisão pós-publicação:** (1) ficha do jogo ausente na versão publicada; (2) título SEO com "e... e" e "Plata da Seleção" truncado; (3) categoria "Profissional" em vez de "Brasileirão"; (4) imagens intercaladas entre parágrafos; (5) cosméticos do site.
+- **Ficha editorial:** [[2026-11-16 - Paquetá e Plata - retornos contra Athletico - notícia]].
 - **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações. Correções no portal dependem do editor.
 
 ## Publicação confirmada — Bustos de Arrascaeta e Bruno Henrique na Gávea (15/11/2026)
