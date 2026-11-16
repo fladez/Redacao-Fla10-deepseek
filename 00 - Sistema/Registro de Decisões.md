@@ -109,3 +109,10 @@ Adicionar novas entradas abaixo. Ao mudar uma regra, atualizar também o documen
 - **Impacto operacional:** a redação passa a começar pela consulta ao guia e ao formato; sem ela, a pauta não entra em redação. O guia reúne estilo, extensões e checagens em um único arquivo de acesso rápido.
 - **Documento atualizado:** [[Guia Rápido de Redação]] e [[Fluxo de Produção]].
 - **Estado:** vigente.
+
+### Ficha do jogo apenas em matérias de jogo
+- **Data:** 2026-11-16
+- **Decisão:** a ficha do jogo (data, horário, local, transmissão, arbitragem, situação) é exclusiva de matérias que tratam da partida — pré-jogo, pós-jogo, Onde Assistir e coberturas de jogo. Notícias sobre retornos de jogadores, lesões, escalações ou bastidores não levam ficha, mesmo que citem o próximo jogo.
+- **Motivo/contexto:** revisão da notícia sobre os retornos de Paquetá e Plata; o editor esclareceu que a ficha não se aplica a esse tipo de peça.
+- **Documento atualizado:** [[Matéria de Últimas Notícias]].
+- **Estado:** vigente.

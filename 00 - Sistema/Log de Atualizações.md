@@ -1551,6 +1551,7 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - **URL pública:** https://fla10.news/noticias/paqueta-volta-aos-treinos-e-plata-e-liberado-mais-cedo-dupla-deve-reforcar-o-flamengo-contra-o-athletico-pr
 - **Conteúdo:** Paquetá de volta aos treinos após lesão no joelho; contratação mais cara (R$ 315,669 mi); Plata desconvocado pelo Equador por motivos pessoais; Arrascaeta e Varela liberados; Alex Sandro e Danilo em recuperação; contexto da liderança e do jogo de quarta.
 - **Revisão pós-publicação (achados para o editor):** (1) ficha do jogo ausente na versão publicada; (2) título SEO com "e... e" e "Plata da Seleção" truncado; (3) categoria "Profissional" em vez de "Brasileirão"; (4) imagens intercaladas entre parágrafos; (5) cosméticos do site.
+- **Disposições do editor (16/11):** item 1 não se aplica — ficha do jogo é só em matérias sobre o jogo; itens 2 e 3 corrigidos; itens 4 e 5 dispensados.
 - Ficha da pauta criada; Painel e Log atualizados.
 - Alterações documentais realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.
 

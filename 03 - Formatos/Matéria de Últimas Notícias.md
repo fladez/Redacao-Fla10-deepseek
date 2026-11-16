@@ -48,3 +48,7 @@ Referência: "Flamengo terá quarto campo exclusivo para o profissional em 2027;
 8. **Ficha da obra** ao final.
 
 Extensão de referência: **1.100 a 1.400 palavras**. Cuidados: conferir geografia e localização; não duplicar o Resumo para IA com o lead; padronizar "campo"/"gramado"; diferenciar "mesma grama" (variedade e tecnologia) de "mesmo gramado" (material físico).
+
+## Ficha do jogo — quando usar (definição do editor, 16/11/2026)
+
+Ficha do jogo é exclusiva de matérias **que tratam do jogo**: pré-jogo, pós-jogo, Onde Assistir e coberturas de partida. Notícias sobre retornos de jogadores, lesões, escalações ou bastidores **não levam ficha do jogo**, mesmo que mencionem a partida como contexto. Nesses casos, a peça termina no fato e no que ele muda para o time.

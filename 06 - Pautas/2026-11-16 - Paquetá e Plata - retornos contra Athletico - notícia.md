@@ -26,12 +26,12 @@ proveniencia: produção interna — pauta produzida pela IA em colaboração co
 - Arrascaeta e Varela liberados antecipadamente pelo Uruguai; Alex Sandro treina com o grupo desde 12/11; Danilo em trabalho coletivo com máscara.
 - Contexto: Flamengo líder com 76 pontos, três à frente do Palmeiras, a quatro rodadas do fim; Athletico 5º com 54, em má fase.
 
-## Revisão pós-publicação (16/11/2026)
-1. **Ficha do jogo ausente:** a versão publicada termina em "O que está em jogo" e não traz a ficha com data, horário, local, situação e dúvidas. Reincluir.
-2. **Título SEO com problema de construção:** "Paquetá volta aos treinos e Plata da Seleção e devem reforçar o Flamengo contra o Athletico" — "e... e" e "Plata da Seleção" truncado. Sugestão: "Paquetá volta aos treinos e Plata é liberado; dupla deve reforçar o Flamengo contra o Athletico".
-3. **Categoria:** a página usa "Profissional"; as demais do mesmo jogo usam "Brasileirão". Padronizar.
-4. **Imagens intercaladas:** fotos inseridas entre parágrafos da seção "Outros retornos" quebram a leitura; concentrar no topo ou entre seções.
-5. **Cosméticos do site:** "3 acessos".
+## Revisão pós-publicação (16/11/2026) — disposições do editor
+1. **Ficha do jogo:** **não se aplica.** O editor esclareceu que ficha do jogo é só em matérias que tratam do jogo; esta peça é sobre os retornos de jogadores. A versão publicada está correta ao omitir a ficha.
+2. **Título SEO:** **corrigido** pelo editor.
+3. **Categoria:** **corrigida** pelo editor.
+4. **Imagens intercaladas:** **dispensado** — manter como está nesta matéria.
+5. **Cosméticos:** **dispensado**.
 
 ## Estado
 Publicada. Correções no portal dependem do editor.
