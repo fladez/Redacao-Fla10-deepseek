@@ -2006,6 +2006,7 @@ A pesquisa acadêmica reforça que a identificação com o clube, o comprometime
 ### 16/11/2026 — segunda-feira
 - **Reportagem Fla10 — VAR no Brasileirão:** pauta transferida; apuração e redação pendentes. A primeira versão foi considerada insatisfatória e não está aprovada. Retomar o recorte com o editor antes de reescrever; não presumir favorecimento. Ficha: [[2026-11-09 - Reportagem Fla10 - VAR no Brasileirao]].
 - **Notícia — novo campo no Ninho do Urubu:** **publicada em 16/11/2026**. URL e ficha registradas na publicação confirmada. [[2026-11-16 - Flamengo novo campo Ninho do Urubu - notícia]].
+- **Pré-jogo — Athletico x Flamengo:** **publicado em 16/11/2026**. Como chega o Furacão para a 35ª rodada, com desfalques e problemas defensivos. URL e ficha registradas na publicação confirmada. [[2026-11-16 - Athletico x Flamengo - pré-jogo Brasileirão]].
 
 ### 17/11/2026 — terça-feira
 - **Evento:** SESI Vôlei Bauru x Sesc RJ Flamengo — Superliga Feminina; 21h, Bauru.
@@ -3027,6 +3028,19 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 - **Ajustes editoriais:** título mais específico ("quarto campo exclusivo"); subtítulo com consequência prática; corpo ampliado e com link interno para a matéria do gramado do Maracanã.
 - **Revisão pós-publicação:** (1) Resumo para IA duplicado (repete o lead dentro do resumo); (2) "Zona Sudoeste" — Vargem Grande é Zona Oeste; corrigir; (3) padronizar "campo" e "gramado"; (4) cosméticos do site.
 - **Ficha editorial:** [[2026-11-16 - Flamengo novo campo Ninho do Urubu - notícia]].
+- **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações. Correções no portal dependem do editor.
+
+
+## Publicação confirmada — Pré-jogo Athletico x Flamengo (16/11/2026)
+
+- **Estado:** publicada em 16/11/2026, conforme confirmação do editor.
+- **Título:** *Athletico chega ao Maracanã em má fase, sem seu artilheiro e com problemas na defesa*.
+- **URL pública:** https://fla10.news/noticias/athletico-chega-ao-maracana-em-ma-fase-sem-seu-artilheiro-e-com-problemas-na-defesa
+- **Formato:** Pré-jogo — Brasileirão.
+- **Autoria na página:** Mariana Costa.
+- **Conteúdo:** Athletico 5º com 54 pontos; quatro jogos sem vencer; oito gols sofridos no recorte; desfalques de Viveros (suspenso), Dantas e Arthur Dias; problemas defensivos e de bola parada; dúvida no gol; alternativas de Odair Hellmann; o que está em jogo.
+- **Revisão pós-publicação:** (1) redundância entre abertura e parágrafo seguinte; (2) confirmar Viveros como artilheiro e a punição de três jogos; (3) conferir os números defensivos em fonte oficial; (4) confirmar a situação de Arthur Dias e Dantas; (5) cosméticos do site.
+- **Ficha editorial:** [[2026-11-16 - Athletico x Flamengo - pré-jogo Brasileirão]].
 - **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações. Correções no portal dependem do editor.
 
 ## Publicação confirmada — Bustos de Arrascaeta e Bruno Henrique na Gávea (15/11/2026)

@@ -1528,6 +1528,16 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - Alterações documentais realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.
 
 
+## 2026-11-16 — Publicação confirmada: pré-jogo Athletico x Flamengo
+- O editor confirmou a publicação e forneceu a URL.
+- Matéria: **“Athletico chega ao Maracanã em má fase, sem seu artilheiro e com problemas na defesa”**, seção Brasileirão, autoria de Mariana Costa na página.
+- **URL pública:** https://fla10.news/noticias/athletico-chega-ao-maracana-em-ma-fase-sem-seu-artilheiro-e-com-problemas-na-defesa
+- **Conteúdo:** Athletico 5º com 54 pontos; quatro jogos sem vencer; oito gols sofridos; desfalques de Viveros (suspenso), Dantas e Arthur Dias; problemas defensivos e de bola parada; dúvida no gol; alternativas de Odair; o que está em jogo.
+- **Revisão pós-publicação (achados para o editor):** (1) redundância entre abertura e parágrafo seguinte; (2) confirmar Viveros como artilheiro e a punição de três jogos; (3) conferir os números defensivos ("quatro defesas mais vazadas", "20 gols de bola parada") em fonte oficial; (4) confirmar a situação de Arthur Dias e Dantas; (5) cosméticos do site.
+- Ficha da pauta criada; Painel e Log atualizados.
+- Alterações documentais realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.
+
+
 ## 2026-11-15 — Publicação confirmada: Bustos de Arrascaeta e Bruno Henrique na Gávea
 - O editor confirmou a publicação e forneceu a URL. **Primeira matéria solicitada através do Telegram** após o ajuste do gateway: a sessão do bot passou a ser criada com o preset padrão, com acesso a web, arquivos e terminal.
 - Matéria: **“Flamengo inaugura bustos de Arrascaeta e Bruno Henrique na Gávea no aniversário de 131 anos”**, seção Clube, autoria de Mariana Costa na página.
