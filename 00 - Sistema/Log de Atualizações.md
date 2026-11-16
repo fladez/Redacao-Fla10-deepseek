@@ -1538,6 +1538,13 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - Alterações documentais realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.
 
 
+## 2026-11-16 — Reportagem do VAR transferida para o GPT-6
+- O editor informou que o GPT-6 fez uma pesquisa prévia ampla sobre a reportagem do VAR e assumiu a produção, para evitar consumo desnecessário de tokens na leitura da base de dados.
+- A pauta deixou de estar bloqueada com a IA; o Painel foi atualizado para "em produção pelo GPT-6; aguardar publicação".
+- Quando a matéria for publicada, a IA fará o estudo da peça, a comparação com o manual de Reportagens Fla10, o registro (ficha, Painel, Log) e a revisão pós-publicação.
+- Alterações documentais realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.
+
+
 ## 2026-11-15 — Publicação confirmada: Bustos de Arrascaeta e Bruno Henrique na Gávea
 - O editor confirmou a publicação e forneceu a URL. **Primeira matéria solicitada através do Telegram** após o ajuste do gateway: a sessão do bot passou a ser criada com o preset padrão, com acesso a web, arquivos e terminal.
 - Matéria: **“Flamengo inaugura bustos de Arrascaeta e Bruno Henrique na Gávea no aniversário de 131 anos”**, seção Clube, autoria de Mariana Costa na página.

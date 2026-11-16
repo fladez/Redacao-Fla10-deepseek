@@ -2004,7 +2004,7 @@ A pesquisa acadêmica reforça que a identificação com o clube, o comprometime
 - **Pós-jogo — Boca Juniors x Flamengo (Liga Sul-Americana, basquete):** **publicado em 15/11/2026** (data exibida na página: 16/11, aparentemente por fuso UTC). Flamengo 82 x 74; virada no segundo tempo; líder do Grupo F e vaga no Final Four. URL e ficha registradas na publicação confirmada. [[2026-11-15 - Flamengo x Boca Juniors - pós-jogo Liga Sul-Americana de Basquete]].
 
 ### 16/11/2026 — segunda-feira
-- **Reportagem Fla10 — VAR no Brasileirão:** pauta transferida; apuração e redação pendentes. A primeira versão foi considerada insatisfatória e não está aprovada. Retomar o recorte com o editor antes de reescrever; não presumir favorecimento. Ficha: [[2026-11-09 - Reportagem Fla10 - VAR no Brasileirao]].
+- **Reportagem Fla10 — VAR no Brasileirão:** **em produção pelo GPT-6**, com pesquisa prévia ampla feita pelo editor e pela ferramenta. A primeira versão anterior havia sido reprovada; a pauta foi transferida para não duplicar esforço. Aguardar a publicação para estudar a peça, comparar com o manual do formato e fazer o registro completo. Ficha: [[2026-11-09 - Reportagem Fla10 - VAR no Brasileirao]].
 - **Notícia — novo campo no Ninho do Urubu:** **publicada em 16/11/2026**. URL e ficha registradas na publicação confirmada. [[2026-11-16 - Flamengo novo campo Ninho do Urubu - notícia]].
 - **Pré-jogo — Athletico x Flamengo:** **publicado em 16/11/2026**. Como chega o Furacão para a 35ª rodada, com desfalques e problemas defensivos. URL e ficha registradas na publicação confirmada. [[2026-11-16 - Athletico x Flamengo - pré-jogo Brasileirão]].
 
