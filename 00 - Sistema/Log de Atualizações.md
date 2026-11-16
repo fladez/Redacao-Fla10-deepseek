@@ -1556,6 +1556,16 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - Alterações documentais realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.
 
 
+## 2026-11-16 — Publicação confirmada: Onde Assistir Sesi Bauru x Sesc RJ Flamengo
+- O editor confirmou a publicação e forneceu a URL.
+- Matéria: **“Sesi Bauru x Sesc RJ Flamengo: onde assistir ao vivo, horário e o que está em jogo na Superliga”**, seção Superliga, autoria de Mariana Costa na página.
+- **URL pública:** https://fla10.news/noticias/sesi-bauru-x-sesc-rj-flamengo-onde-assistir-ao-vivo-horario-e-o-que-esta-em-jogo-na-superliga
+- **Conteúdo:** jogo em 17/11, às 21h, na Arena Paulo Skaf; sportv e Globoplay Premium; Bauru 17 pontos e Flamengo 15; campanhas invictas; destaques; cenário de liderança; ficha.
+- **Revisão pós-publicação (achados para o editor):** (1) Resumo para IA ausente; (2) link "Leia Também" com título incorreto ("reassume a liderança" — o Flamengo é 2º); (3) "único time com campanha perfeita em seis jogos" ambíguo; (4) cosméticos do site.
+- Ficha da pauta atualizada; Painel e Log atualizados.
+- Alterações documentais realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.
+
+
 ## 2026-11-15 — Publicação confirmada: Bustos de Arrascaeta e Bruno Henrique na Gávea
 - O editor confirmou a publicação e forneceu a URL. **Primeira matéria solicitada através do Telegram** após o ajuste do gateway: a sessão do bot passou a ser criada com o preset padrão, com acesso a web, arquivos e terminal.
 - Matéria: **“Flamengo inaugura bustos de Arrascaeta e Bruno Henrique na Gávea no aniversário de 131 anos”**, seção Clube, autoria de Mariana Costa na página.

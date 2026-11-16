@@ -1408,9 +1408,9 @@ A pedido do editor, esta seção atualiza a programação corrente e prevalece s
 - **Horário:** 21h; **local:** Maracanãzinho, Rio de Janeiro; **transmissão informada:** SporTV 2 e Globoplay.
 
 ### 17/11/2026 — Sesi Bauru x Sesc RJ Flamengo
-- **16/11/2026 — Onde assistir:** pautada; produção pendente. [[2026-11-16 - Sesi Bauru x Sesc RJ Flamengo - onde assistir Superliga Feminina]].
+- **16/11/2026 — Onde assistir:** **publicado em 16/11/2026**. URL e ficha registradas na publicação confirmada. [[2026-11-16 - Sesi Bauru x Sesc RJ Flamengo - onde assistir Superliga Feminina]].
 - **17/11/2026 — Pós-jogo:** pautada; produção após a partida. [[2026-11-17 - Sesi Bauru x Sesc RJ Flamengo - pós-jogo Superliga Feminina]].
-- **Horário:** 21h; **local:** Bauru; **transmissão informada:** SporTV 2.
+- **Horário:** 21h; **local:** Arena Paulo Skaf, Bauru (SP); **transmissão confirmada:** sportv e Globoplay Premium.
 
 ### 23/11/2026 — Sesc RJ Flamengo x Osasco São Cristóvão Saúde
 - **22/11/2026 — Onde assistir:** pautada; produção pendente. [[2026-11-22 - Sesc RJ Flamengo x Osasco São Cristóvão Saúde - onde assistir Superliga Feminina]].
@@ -2070,7 +2070,7 @@ A pesquisa acadêmica reforça que a identificação com o clube, o comprometime
 | 11/11 | Flamengo Maricá x Internacional — final da Copa do Brasil Feminina (ida) | 11/11 | **Onde Assistir publicada em 11/11/2026**. URL registrada na publicação confirmada. |
 | 13/11 | ~~Vasco x Flamengo Maricá — Campeonato Carioca Feminino (4ª rodada)~~ | 21/11 (a confirmar) | **Suspensa:** o jogo não é em 14/11; data provável 21/11 (confirmar na tabela da FERJ); transmissão não confirmada. |
 | 13/11 | Flamengo x Vasco — Carioca Sub-20 (semifinal, volta) | 14/11 | **Suspensa:** transmissão não confirmada; pela regra de 13/11, não produzir sem confirmação. Pós-jogo previsto para 14/11. |
-| 16/11 | SESI Vôlei Bauru x Sesc RJ Flamengo — Superliga Feminina | 17/11 | 21h, Bauru; confirmar transmissão. |
+| 16/11 | SESI Vôlei Bauru x Sesc RJ Flamengo — Superliga Feminina | 17/11 | 21h, Bauru; sportv e Globoplay Premium. |
 | 17/11 | Flamengo Maricá x Botafogo — Campeonato Carioca Feminino (3ª rodada, jogo atrasado) | 18/11 | 15h (de Brasília); Estádio João Saldanha (confirmar); transmissão a confirmar. **Pauta transferida de 11/11.** |
 | 17/11 | Flamengo x Athletico Paranaense — Brasileirão | 18/11 | 20h30, Maracanã; equipe principal masculina. |
 | 20/11 | Palmeiras x Flamengo — Brasileirão | 21/11 | 16h30; equipe principal masculina. Confirmar estádio e transmissão na apuração. |
@@ -3055,6 +3055,19 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 - **Conteúdo:** Paquetá de volta aos treinos após lesão no joelho; contratação mais cara (R$ 315,669 mi); Plata desconvocado pelo Equador por motivos pessoais e liberado; Arrascaeta e Varela também liberados; Alex Sandro e Danilo em recuperação; contexto do jogo e da liderança.
 - **Revisão pós-publicação:** (1) ficha do jogo ausente na versão publicada; (2) título SEO com "e... e" e "Plata da Seleção" truncado; (3) categoria "Profissional" em vez de "Brasileirão"; (4) imagens intercaladas entre parágrafos; (5) cosméticos do site.
 - **Ficha editorial:** [[2026-11-16 - Paquetá e Plata - retornos contra Athletico - notícia]].
+- **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações. Correções no portal dependem do editor.
+
+
+## Publicação confirmada — Onde Assistir Sesi Bauru x Sesc RJ Flamengo (16/11/2026)
+
+- **Estado:** publicada em 16/11/2026, conforme confirmação do editor.
+- **Título:** *Sesi Bauru x Sesc RJ Flamengo: onde assistir ao vivo, horário e o que está em jogo na Superliga*.
+- **URL pública:** https://fla10.news/noticias/sesi-bauru-x-sesc-rj-flamengo-onde-assistir-ao-vivo-horario-e-o-que-esta-em-jogo-na-superliga
+- **Formato:** Onde Assistir — Superliga Feminina, 6ª rodada.
+- **Autoria na página:** Mariana Costa.
+- **Conteúdo:** jogo em 17/11, às 21h, na Arena Paulo Skaf; transmissão sportv e Globoplay Premium; classificação (Bauru 17, Flamengo 15); campanhas invictas; destaques (Tainara, Simone Lee, Osmajic, Juju, Diana); cenário de liderança; ficha.
+- **Revisão pós-publicação:** (1) Resumo para IA ausente na página; (2) link "Leia Também" com título incorreto ("reassume a liderança" — o Flamengo é 2º); (3) "único time com campanha perfeita em seis jogos" ambíguo; (4) cosméticos do site.
+- **Ficha editorial:** [[2026-11-16 - Sesi Bauru x Sesc RJ Flamengo - onde assistir Superliga Feminina]].
 - **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações. Correções no portal dependem do editor.
 
 ## Publicação confirmada — Bustos de Arrascaeta e Bruno Henrique na Gávea (15/11/2026)
