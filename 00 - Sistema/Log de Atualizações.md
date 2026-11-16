@@ -1517,6 +1517,17 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - Alterações documentais realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.
 
 
+## 2026-11-16 — Publicação confirmada: notícia do novo campo do Ninho do Urubu
+- O editor confirmou a publicação e pediu comparação entre a versão da IA e a publicada.
+- Matéria: **“Flamengo terá quarto campo exclusivo para o profissional em 2027; gramado será o mesmo do Maracanã”**, seção Clube, autoria de Thiago Silva na página.
+- **URL pública:** https://fla10.news/noticias/flamengo-tera-quarto-campo-exclusivo-para-o-profissional-em-2027-gramado-sera-o-mesmo-do-maracana
+- **Comparação:** a versão publicada trocou o título genérico por "quarto campo exclusivo", ajustou o subtítulo para a consequência prática (12º campo e plantio iniciado), ampliou o corpo e incluiu link interno para a matéria do gramado do Maracanã. O Resumo para IA, porém, ficou duplicado, repetindo o lead.
+- **Revisão pós-publicação (achados para o editor):** (1) Resumo para IA duplicado; (2) "Zona Sudoeste" — Vargem Grande é Zona Oeste; corrigir; (3) padronizar "campo"/"gramado"; (4) cosméticos do site.
+- **Aprendizado registrado no manual de Últimas Notícias:** composição de notícia de infraestrutura — título com a mudança concreta, subtítulo com consequência prática, seção técnica, vozes, impacto na rotina, contexto e ficha; extensão de 1.100 a 1.400 palavras; cuidados com geografia, duplicação de resumo e padronização.
+- Ficha da pauta criada; Painel e Log atualizados.
+- Alterações documentais realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.
+
+
 ## 2026-11-15 — Publicação confirmada: Bustos de Arrascaeta e Bruno Henrique na Gávea
 - O editor confirmou a publicação e forneceu a URL. **Primeira matéria solicitada através do Telegram** após o ajuste do gateway: a sessão do bot passou a ser criada com o preset padrão, com acesso a web, arquivos e terminal.
 - Matéria: **“Flamengo inaugura bustos de Arrascaeta e Bruno Henrique na Gávea no aniversário de 131 anos”**, seção Clube, autoria de Mariana Costa na página.

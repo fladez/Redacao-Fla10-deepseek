@@ -33,3 +33,18 @@ A matéria sobre a máscara de Danilo mostrou um formato de explicador que pode 
 6. **Fechamento pelo que falta:** estado atual, ausência de prazo e o que precisa acontecer até a liberação.
 
 Extensão de referência: **1.200 a 1.400 palavras**. O subtítulo deve carregar o ângulo do explicador (tecnologia, protocolo, consequência), não repetir a lesão. Evitar transformar o explicador em nota curta: o valor está nos detalhes verificados e na sequência de perguntas respondidas.
+
+## Composição observada em notícia de infraestrutura (16/11/2026)
+
+Referência: "Flamengo terá quarto campo exclusivo para o profissional em 2027; gramado será o mesmo do Maracanã", publicada em 16/11/2026.
+
+1. **Título com a mudança concreta:** "quarto campo exclusivo", não o anúncio genérico de "novo campo".
+2. **Subtítulo com a consequência prática:** 12º campo do CT e plantio já iniciado.
+3. **Lead:** o que foi anunciado, a partir de quando e o que muda na estrutura.
+4. **Seção técnica:** grama, tecnologia, fornecedor, padrão de construção e comparação com o estádio.
+5. **Vozes:** responsável técnico com atribuição e tempo no cargo.
+6. **Impacto na rotina:** distribuição de treinos, recuperação do gramado e calendário.
+7. **Contexto:** obras relacionadas (estádio, miniestádio), com atribuição e link interno quando houver cobertura.
+8. **Ficha da obra** ao final.
+
+Extensão de referência: **1.100 a 1.400 palavras**. Cuidados: conferir geografia e localização; não duplicar o Resumo para IA com o lead; padronizar "campo"/"gramado"; diferenciar "mesma grama" (variedade e tecnologia) de "mesmo gramado" (material físico).

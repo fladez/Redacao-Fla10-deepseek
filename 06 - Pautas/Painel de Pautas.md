@@ -2005,6 +2005,7 @@ A pesquisa acadêmica reforça que a identificação com o clube, o comprometime
 
 ### 16/11/2026 — segunda-feira
 - **Reportagem Fla10 — VAR no Brasileirão:** pauta transferida; apuração e redação pendentes. A primeira versão foi considerada insatisfatória e não está aprovada. Retomar o recorte com o editor antes de reescrever; não presumir favorecimento. Ficha: [[2026-11-09 - Reportagem Fla10 - VAR no Brasileirao]].
+- **Notícia — novo campo no Ninho do Urubu:** **publicada em 16/11/2026**. URL e ficha registradas na publicação confirmada. [[2026-11-16 - Flamengo novo campo Ninho do Urubu - notícia]].
 
 ### 17/11/2026 — terça-feira
 - **Evento:** SESI Vôlei Bauru x Sesc RJ Flamengo — Superliga Feminina; 21h, Bauru.
@@ -3012,6 +3013,20 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 - **Conteúdo:** Internacional 1 x 0; agregado 4 a 1; gol de Pati Llanos; VAR anula gol de Sole Jaimes; público de 20.097; vice rubro-negro e título inédito do Inter.
 - **Revisão pós-publicação:** (1) minuto do gol (14' no texto; 12' no Jornal de Brasília/Folha e 13' na Placar) — conferir e uniformizar; (2) URL canônica retornou 404 sem parâmetro na verificação; (3) "Meninas da Gávea" em peça informativa; (4) conferir a lista de adversários da campanha; (5) completar a ficha com público pagante/renda e substituições; (6) cosméticos do site.
 - **Ficha editorial:** [[2026-11-15 - Internacional x Flamengo Maricá - pós-jogo final Copa do Brasil Feminina]].
+- **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações. Correções no portal dependem do editor.
+
+
+## Publicação confirmada — Notícia do novo campo do Ninho do Urubu (16/11/2026)
+
+- **Estado:** publicada em 16/11/2026, conforme confirmação do editor.
+- **Título:** *Flamengo terá quarto campo exclusivo para o profissional em 2027; gramado será o mesmo do Maracanã*.
+- **URL pública:** https://fla10.news/noticias/flamengo-tera-quarto-campo-exclusivo-para-o-profissional-em-2027-gramado-sera-o-mesmo-do-maracana
+- **Formato:** Últimas Notícias — Clube.
+- **Autoria na página:** Thiago Silva.
+- **Conteúdo:** novo campo a partir de janeiro de 2027; quarto gramado exclusivo do profissional; 12º campo do CT; terreno adquirido neste ano; obras desde fevereiro; plantio iniciado; Celebration Hybrid, a mesma do Maracanã 2027; declarações de Leandro Leme; contexto do Maracanã e do miniestádio.
+- **Ajustes editoriais:** título mais específico ("quarto campo exclusivo"); subtítulo com consequência prática; corpo ampliado e com link interno para a matéria do gramado do Maracanã.
+- **Revisão pós-publicação:** (1) Resumo para IA duplicado (repete o lead dentro do resumo); (2) "Zona Sudoeste" — Vargem Grande é Zona Oeste; corrigir; (3) padronizar "campo" e "gramado"; (4) cosméticos do site.
+- **Ficha editorial:** [[2026-11-16 - Flamengo novo campo Ninho do Urubu - notícia]].
 - **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações. Correções no portal dependem do editor.
 
 ## Publicação confirmada — Bustos de Arrascaeta e Bruno Henrique na Gávea (15/11/2026)
