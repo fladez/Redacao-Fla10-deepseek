@@ -52,3 +52,18 @@ Referência: "Flamengo pode perder R$ 430 milhões em 2027, e saída da Betano a
 7. **Conclusão projetiva:** como medir a resposta do clube em 2027.
 
 Extensão de referência: **2.200 a 2.600 palavras**. Obrigatório: ancorar o número em um denominador (receita total ou percentual), separar projeção de fato consumado, atribuir fontes e buscar ao menos uma voz direta. O título deve refletir o recorte exato do número — se a projeção é mais ampla que a saída do patrocinador, dizê-lo no título.
+
+## Composição observada em reportagem investigativa de dados (17/11/2026)
+
+Referência: "VAR no Brasileirão: Palmeiras acumula saldo 21 decisões acima do Flamengo e reclamações de rivais aumentam pressão sobre a arbitragem", cerca de 3.000 palavras, produzida pelo editor com o modelo GPT-6.
+
+1. **Número-âncora:** a diferença de 21 decisões organiza toda a peça e aparece no título.
+2. **Fonte atribuída, não oficial:** o levantamento é atribuído à CazéTV/Davi Wimmer; o texto diz explicitamente que não é auditoria da CBF e que a planilha original não estava disponível.
+3. **Limitações metodológicas:** contagem de ocorrências ≠ erro comprovado ≠ impacto esportivo; séries com recortes diferentes (2019 x 2020) não são somáveis.
+4. **Casos documentados:** cada episódio com data, competição, lance, decisão e o que foi reconhecido — ou não — por órgão oficial.
+5. **Hierarquia de evidência:** dado atribuído → limitações → casos → contraponto → contexto institucional → cobrança.
+6. **Equilíbrio obrigatório:** inclui a resposta do lado acusado (Leila Pereira) e episódios em que o acusado foi prejudicado.
+7. **Vozes identificadas:** dirigentes, comentaristas de arbitragem, presidente de federação e comissão da CBF, cada uma com atribuição.
+8. **Fechamento público:** pede critérios iguais e transparência, não privilégio ao clube.
+
+Extensão de referência: **2.200 a 2.700 palavras**. Falhas a evitar: repetir a mesma ressalva em todas as seções; legenda com erro factual ou de lógica; conta de temporadas sem conferir; subtítulo que simplifica demais o que o corpo nuanceia.

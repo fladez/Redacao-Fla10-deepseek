@@ -2004,7 +2004,7 @@ A pesquisa acadêmica reforça que a identificação com o clube, o comprometime
 - **Pós-jogo — Boca Juniors x Flamengo (Liga Sul-Americana, basquete):** **publicado em 15/11/2026** (data exibida na página: 16/11, aparentemente por fuso UTC). Flamengo 82 x 74; virada no segundo tempo; líder do Grupo F e vaga no Final Four. URL e ficha registradas na publicação confirmada. [[2026-11-15 - Flamengo x Boca Juniors - pós-jogo Liga Sul-Americana de Basquete]].
 
 ### 16/11/2026 — segunda-feira
-- **Reportagem Fla10 — VAR no Brasileirão:** **em produção pelo GPT-6**, com pesquisa prévia ampla feita pelo editor e pela ferramenta. A primeira versão anterior havia sido reprovada; a pauta foi transferida para não duplicar esforço. Aguardar a publicação para estudar a peça, comparar com o manual do formato e fazer o registro completo. Ficha: [[2026-11-09 - Reportagem Fla10 - VAR no Brasileirao]].
+- **Reportagem Fla10 — VAR no Brasileirão:** **publicada em 17/11/2026**. Pesquisa prévia e redação conduzidas pelo editor com o GPT-6. URL e ficha registradas na publicação confirmada. Estudo da composição e revisão pós-publicação na ficha: [[2026-11-17 - Reportagem Fla10 - VAR no Brasileirão]].
 - **Notícia — novo campo no Ninho do Urubu:** **publicada em 16/11/2026**. URL e ficha registradas na publicação confirmada. [[2026-11-16 - Flamengo novo campo Ninho do Urubu - notícia]].
 - **Pré-jogo — Athletico x Flamengo:** **publicado em 16/11/2026**. Como chega o Furacão para a 35ª rodada, com desfalques e problemas defensivos. URL e ficha registradas na publicação confirmada. [[2026-11-16 - Athletico x Flamengo - pré-jogo Brasileirão]].
 - **Notícia — retornos de Paquetá e Plata:** **publicada em 16/11/2026**. Meia voltou aos treinos e atacante foi liberado pelo Equador; dupla deve reforçar o time contra o Athletico-PR. URL e ficha registradas na publicação confirmada. [[2026-11-16 - Paquetá e Plata - retornos contra Athletico - notícia]].
@@ -3082,6 +3082,20 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 - **Revisão pós-publicação:** (1) data exibida 17/11 — a publicação é de 16/11; corrigir a data na página; (2) "Nubank Parque" confirmado como nome vigente do estádio do Palmeiras; (3) e (4) dispensados.
 - **Disposições do editor:** publicação em 16/11; Nubank Parque confirmado; itens 3 e 4 dispensados.
 - **Ficha editorial:** [[2026-11-16 - Maracanã trunfo na reta final - análise]].
+- **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações. Correções no portal dependem do editor.
+
+
+## Publicação confirmada — Reportagem Fla10: VAR no Brasileirão (17/11/2026)
+
+- **Estado:** publicada em 17/11/2026, conforme confirmação do editor.
+- **Título:** *VAR no Brasileirão: Palmeiras acumula saldo 21 decisões acima do Flamengo e reclamações de rivais aumentam pressão sobre a arbitragem*.
+- **URL pública:** https://fla10.news/reportagens/var-no-brasileirao-palmeiras-acumula-saldo-21-decisoes-acima-do-flamengo-e-reclamacoes-de-rivais-aumentam-pressao-sobre-a-arbitragem
+- **Formato:** Reportagem — Reportagens Fla10. Autoria na página: Mariana Costa.
+- **Produção:** pesquisa prévia e redação conduzidas pelo editor com o GPT-6; estudo e revisão pela IA.
+- **Conteúdo:** levantamento atribuído à CazéTV (Palmeiras +16; Flamengo -5; diferença de 21); ressalvas metodológicas; comparação com o Espião Estatístico; casos São Paulo, Santos, Vasco e Vitória; contraponto do próprio Palmeiras; contexto da orientação do VAR e cobrança de transparência.
+- **Estudo registrado no manual:** número-âncora, fonte atribuída, limitações explícitas, casos documentados, equilíbrio com a resposta do acusado e fechamento público.
+- **Revisão pós-publicação:** (1) "junt a CBF" no Resumo; (2) subtítulo "erros reconhecidos contra o São Paulo" — precisar; (3) legendas com typos e uma confusa (Carrascal); (4) "seis temporadas" a conferir; (5) repetição da ressalva; (6) extensão acima da faixa; (7) cosméticos.
+- **Ficha editorial:** [[2026-11-17 - Reportagem Fla10 - VAR no Brasileirão]].
 - **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações. Correções no portal dependem do editor.
 
 ## Publicação confirmada — Bustos de Arrascaeta e Bruno Henrique na Gávea (15/11/2026)

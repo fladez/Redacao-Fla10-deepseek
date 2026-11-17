@@ -1578,6 +1578,17 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - Alterações documentais realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.
 
 
+## 2026-11-17 — Publicação confirmada: Reportagem Fla10 — VAR no Brasileirão
+- O editor confirmou a publicação e forneceu a URL; a pesquisa prévia e a redação foram conduzidas pelo editor com o GPT-6.
+- Matéria: **“VAR no Brasileirão: Palmeiras acumula saldo 21 decisões acima do Flamengo e reclamações de rivais aumentam pressão sobre a arbitragem”**, seção Reportagens, autoria de Mariana Costa na página.
+- **URL pública:** https://fla10.news/reportagens/var-no-brasileirao-palmeiras-acumula-saldo-21-decisoes-acima-do-flamengo-e-reclamacoes-de-rivais-aumentam-pressao-sobre-a-arbitragem
+- **Conteúdo:** levantamento atribuído à CazéTV (Palmeiras +16; Flamengo -5; diferença de 21); ressalvas metodológicas; comparação com o Espião Estatístico; casos São Paulo (2024 e 2025), Santos, Vasco e Vitória; contraponto do próprio Palmeiras; orientação da CBF e cobrança de transparência.
+- **Estudo:** número-âncora, fonte atribuída e não oficial, limitações explícitas, casos documentados, equilíbrio com a resposta do acusado e fechamento público. Registrado no manual de Reportagens Fla10.
+- **Revisão pós-publicação (achados para o editor):** (1) "junt a CBF" no Resumo; (2) subtítulo "erros reconhecidos contra o São Paulo" — precisar; (3) legendas com typos ("carão", "Palemiras", "atingiruo", "Ábitro", "comfronto", "1016", "Penalti") e uma confusa (Carrascal); (4) "seis temporadas" a conferir; (5) repetição da ressalva; (6) extensão acima da faixa de referência; (7) cosméticos do site.
+- Ficha da pauta criada; Painel e Log atualizados.
+- Alterações documentais realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.
+
+
 ## 2026-11-15 — Publicação confirmada: Bustos de Arrascaeta e Bruno Henrique na Gávea
 - O editor confirmou a publicação e forneceu a URL. **Primeira matéria solicitada através do Telegram** após o ajuste do gateway: a sessão do bot passou a ser criada com o preset padrão, com acesso a web, arquivos e terminal.
 - Matéria: **“Flamengo inaugura bustos de Arrascaeta e Bruno Henrique na Gávea no aniversário de 131 anos”**, seção Clube, autoria de Mariana Costa na página.
