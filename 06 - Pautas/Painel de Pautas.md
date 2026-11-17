@@ -1411,6 +1411,7 @@ A pedido do editor, esta seção atualiza a programação corrente e prevalece s
 - **16/11/2026 — Onde assistir:** **publicado em 16/11/2026**. URL e ficha registradas na publicação confirmada. [[2026-11-16 - Sesi Bauru x Sesc RJ Flamengo - onde assistir Superliga Feminina]].
 - **17/11/2026 — Pós-jogo:** pautada; produção após a partida. [[2026-11-17 - Sesi Bauru x Sesc RJ Flamengo - pós-jogo Superliga Feminina]].
 - **17/11/2026 — Notícia dos ingressos de Palmeiras x Flamengo:** **publicada em 17/11/2026**. Carga visitante de 2 mil esgotada em menos de cinco minutos. URL e ficha registradas na publicação confirmada. [[2026-11-17 - Ingressos Palmeiras x Flamengo - notícia]].
+- **17/11/2026 — Notícia da ginástica artística:** **publicada em 17/11/2026**. Flamengo conquista 17 medalhas no Gaia International Tournament, em Portugal. URL e ficha registradas na publicação confirmada. [[2026-11-17 - Flamengo 17 medalhas ginástica Portugal - notícia]].
 - **Horário:** 21h; **local:** Arena Paulo Skaf, Bauru (SP); **transmissão confirmada:** sportv e Globoplay Premium.
 
 ### 23/11/2026 — Sesc RJ Flamengo x Osasco São Cristóvão Saúde
@@ -3109,6 +3110,18 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 - **Conteúdo:** 2 mil ingressos visitantes esgotados em menos de cinco minutos; venda às 10h desta terça (17/11) só para sócios de maior prioridade; Flamengo comprou a carga e revendeu; setor Sul Superior, Portão D, R$ 240, sem gratuidade, acesso por reconhecimento facial; cenário do título e serviço.
 - **Revisão pós-publicação:** (1) Resumo para IA com "e se esgotou... e a carga" — reescrever; (2) "não há previsão de novo lote" sem fonte; (3) orientação atribuída ao clube sem base; (4) linha fina truncada; (5) cosméticos.
 - **Ficha editorial:** [[2026-11-17 - Ingressos Palmeiras x Flamengo - notícia]].
+- **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações. Correções no portal dependem do editor.
+
+
+## Publicação confirmada — Ginástica artística: 17 medalhas em Portugal (17/11/2026)
+
+- **Estado:** publicada em 17/11/2026, conforme confirmação do editor.
+- **Título:** *Flamengo conquista 17 medalhas em Portugal e confirma força da ginástica artística rubro-negra*.
+- **URL pública:** https://fla10.news/noticias/flamengo-conquista-17-medalhas-em-portugal-e-confirma-forca-da-ginastica-artistica-rubro-negra
+- **Formato:** Últimas Notícias — Ginástica Artística. Autoria: Mariana Costa.
+- **Conteúdo:** 17 medalhas (11 ouros, 4 pratas, 2 bronzes) no Gaia International Tournament; Millena Lima com cinco ouros; Duda Montesino com quatro medalhas no retorno; Sarah Amaral, Stella Vieira e Eva Krylova na base; contexto da temporada e do tour europeu.
+- **Revisão pós-publicação:** (1) conferir "tricampeonato mundial do salto" de Rebeca Andrade; (2) confirmar "nona edição" do torneio; (3) cosméticos do site.
+- **Ficha editorial:** [[2026-11-17 - Flamengo 17 medalhas ginástica Portugal - notícia]].
 - **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações. Correções no portal dependem do editor.
 
 ## Publicação confirmada — Bustos de Arrascaeta e Bruno Henrique na Gávea (15/11/2026)
