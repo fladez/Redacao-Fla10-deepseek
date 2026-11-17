@@ -1589,6 +1589,16 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - Alterações documentais realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.
 
 
+## 2026-11-17 — Publicação confirmada: ingressos de Palmeiras x Flamengo
+- O editor confirmou a publicação e forneceu a URL.
+- Matéria: **“Nação esgota ingressos para Palmeiras x Flamengo em menos de cinco minutos”**, seção Brasileirão, autoria de Thiago Silva na página.
+- **URL pública:** https://fla10.news/noticias/nacao-esgota-ingressos-para-palmeiras-x-flamengo-em-menos-de-cinco-minutos
+- **Conteúdo:** 2 mil ingressos visitantes esgotados em menos de cinco minutos; venda às 10h desta terça (17/11), só para sócios de maior prioridade; Flamengo comprou a carga e revendeu; setor Sul Superior, Portão D, R$ 240, sem gratuidade, acesso por reconhecimento facial; cenário do título e serviço.
+- **Revisão pós-publicação (achados para o editor):** (1) Resumo para IA com "e se esgotou... e a carga" — reescrever; (2) "não há previsão de novo lote" sem fonte; (3) orientação atribuída ao clube sem base; (4) linha fina truncada; (5) cosméticos do site.
+- Ficha da pauta criada; Painel e Log atualizados.
+- Alterações documentais realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.
+
+
 ## 2026-11-15 — Publicação confirmada: Bustos de Arrascaeta e Bruno Henrique na Gávea
 - O editor confirmou a publicação e forneceu a URL. **Primeira matéria solicitada através do Telegram** após o ajuste do gateway: a sessão do bot passou a ser criada com o preset padrão, com acesso a web, arquivos e terminal.
 - Matéria: **“Flamengo inaugura bustos de Arrascaeta e Bruno Henrique na Gávea no aniversário de 131 anos”**, seção Clube, autoria de Mariana Costa na página.
