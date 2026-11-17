@@ -3079,7 +3079,8 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 - **URL pública:** https://fla10.news/noticias/maracana-fortalece-o-flamengo-na-reta-final-e-pode-ser-decisivo-na-corrida-pelo-titulo-brasileiro
 - **Formato:** Análise de cenário — Brasileirão. Autoria: Miguel Sampaio.
 - **Conteúdo:** liderança com 76 pontos; campanha como mandante (17 jogos, 42 pontos, 13V-3E-1D, 35-13, 82,4%); sequência de oito vitórias em casa; peso do calendário até o fim; contraponto do Palmeiras; primeiro desafio contra o Athletico.
-- **Revisão pós-publicação:** (1) data exibida 17/11, mas publicação em 16/11 — conferir; (2) "Nubank Parque" x "Allianz Parque" — conferir e padronizar; (3) saldo de gols entre mandantes sem fonte; (4) cosméticos do site.
+- **Revisão pós-publicação:** (1) data exibida 17/11 — a publicação é de 16/11; corrigir a data na página; (2) "Nubank Parque" confirmado como nome vigente do estádio do Palmeiras; (3) e (4) dispensados.
+- **Disposições do editor:** publicação em 16/11; Nubank Parque confirmado; itens 3 e 4 dispensados.
 - **Ficha editorial:** [[2026-11-16 - Maracanã trunfo na reta final - análise]].
 - **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações. Correções no portal dependem do editor.
 

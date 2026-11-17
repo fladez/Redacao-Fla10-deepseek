@@ -32,11 +32,11 @@ proveniencia: produção interna — texto publicado pela redação; registro e 
 - Estrutura: tese (Maracanã como trunfo) → números do recorte → peso no calendário → contraponto do rival → primeiro desafio (Athletico) → calendário final.
 - Fecha com a distinção entre sequência construída e conquista que ainda depende do campo.
 
-## Revisão pós-publicação (16/11/2026)
-1. **Data exibida:** a página mostra 17/11/2026, mas a publicação foi confirmada em 16/11 à noite. Conferir se é agendamento ou erro de data.
-2. **"Nubank Parque":** o texto usa "Nubank Parque" para o estádio do Palmeiras; o Painel e as demais peças usam "Allianz Parque". Conferir o nome vigente e padronizar.
-3. **Saldo de gols entre mandantes:** a afirmação de que o Palmeiras está à frente precisa de fonte ou atribuição; é um dado comparativo forte.
-4. **Cosméticos do site:** "2 acessos".
+## Revisão pós-publicação (16/11/2026) — disposições do editor
+1. **Data:** a publicação é de **16/11/2026**; a página exibe 17/11 e a data deve ser corrigida.
+2. **"Nubank Parque":** **confirmado** pelo editor como o nome vigente do estádio do Palmeiras. O registro anterior que usava "Allianz Parque" foi corrigido.
+3. **Saldo de gols entre mandantes:** **dispensado**.
+4. **Cosméticos do site:** **dispensado**.
 
 ## Estado
 Publicada. Correções no portal dependem do editor.
