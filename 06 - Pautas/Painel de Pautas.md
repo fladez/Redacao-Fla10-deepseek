@@ -2008,6 +2008,7 @@ A pesquisa acadêmica reforça que a identificação com o clube, o comprometime
 - **Notícia — novo campo no Ninho do Urubu:** **publicada em 16/11/2026**. URL e ficha registradas na publicação confirmada. [[2026-11-16 - Flamengo novo campo Ninho do Urubu - notícia]].
 - **Pré-jogo — Athletico x Flamengo:** **publicado em 16/11/2026**. Como chega o Furacão para a 35ª rodada, com desfalques e problemas defensivos. URL e ficha registradas na publicação confirmada. [[2026-11-16 - Athletico x Flamengo - pré-jogo Brasileirão]].
 - **Notícia — retornos de Paquetá e Plata:** **publicada em 16/11/2026**. Meia voltou aos treinos e atacante foi liberado pelo Equador; dupla deve reforçar o time contra o Athletico-PR. URL e ficha registradas na publicação confirmada. [[2026-11-16 - Paquetá e Plata - retornos contra Athletico - notícia]].
+- **Análise — Maracanã como trunfo na reta final:** **publicada em 16/11/2026**. Recorte do desempenho como mandante e peso no calendário até o fim do Brasileirão. URL e ficha registradas na publicação confirmada. [[2026-11-16 - Maracanã trunfo na reta final - análise]].
 
 ### 17/11/2026 — terça-feira
 - **Evento:** SESI Vôlei Bauru x Sesc RJ Flamengo — Superliga Feminina; 21h, Bauru.
@@ -3068,6 +3069,18 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 - **Conteúdo:** jogo em 17/11, às 21h, na Arena Paulo Skaf; transmissão sportv e Globoplay Premium; classificação (Bauru 17, Flamengo 15); campanhas invictas; destaques (Tainara, Simone Lee, Osmajic, Juju, Diana); cenário de liderança; ficha.
 - **Revisão pós-publicação:** (1) Resumo para IA ausente na página; (2) link "Leia Também" com título incorreto ("reassume a liderança" — o Flamengo é 2º); (3) "único time com campanha perfeita em seis jogos" ambíguo; (4) cosméticos do site.
 - **Ficha editorial:** [[2026-11-16 - Sesi Bauru x Sesc RJ Flamengo - onde assistir Superliga Feminina]].
+- **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações. Correções no portal dependem do editor.
+
+
+## Publicação confirmada — Análise do Maracanã na reta final (16/11/2026)
+
+- **Estado:** publicada em 16/11/2026, conforme confirmação do editor.
+- **Título:** *Maracanã fortalece o Flamengo na reta final e pode ser decisivo na corrida pelo título brasileiro*.
+- **URL pública:** https://fla10.news/noticias/maracana-fortalece-o-flamengo-na-reta-final-e-pode-ser-decisivo-na-corrida-pelo-titulo-brasileiro
+- **Formato:** Análise de cenário — Brasileirão. Autoria: Miguel Sampaio.
+- **Conteúdo:** liderança com 76 pontos; campanha como mandante (17 jogos, 42 pontos, 13V-3E-1D, 35-13, 82,4%); sequência de oito vitórias em casa; peso do calendário até o fim; contraponto do Palmeiras; primeiro desafio contra o Athletico.
+- **Revisão pós-publicação:** (1) data exibida 17/11, mas publicação em 16/11 — conferir; (2) "Nubank Parque" x "Allianz Parque" — conferir e padronizar; (3) saldo de gols entre mandantes sem fonte; (4) cosméticos do site.
+- **Ficha editorial:** [[2026-11-16 - Maracanã trunfo na reta final - análise]].
 - **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações. Correções no portal dependem do editor.
 
 ## Publicação confirmada — Bustos de Arrascaeta e Bruno Henrique na Gávea (15/11/2026)
