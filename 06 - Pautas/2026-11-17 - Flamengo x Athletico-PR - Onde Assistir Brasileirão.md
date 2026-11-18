@@ -29,14 +29,22 @@ proveniencia: produção interna — pauta produzida pela IA em colaboração co
 - Arbitragem: Rafael Rodrigo Klein (RS), Guilherme Dias Camilo (MG), Tiago Augusto Kappes Diel (RS), VAR Caio Max Augusto Vieira (GO).
 - Ficha técnica completa.
 
-## Revisão pós-publicação (17/11/2026)
-1. **FlamengoTV:** o texto diz que o canal oficial "transmitirá a narração do jogo, realizada por João Guilherme". Confirmar se é apenas narração (sem vídeo) e se não conflita com os direitos de sportv/Premiere.
-2. **"De la Cruz e Valencia seguem fora dos planos":** explicitar o motivo (lesão, suspensão ou opção técnica) — do jeito que está, o leitor não entende.
-3. **Redundância:** "11 partidas sem perder" aparece duas vezes na seção "Como chega o Flamengo"; o empate por 1 a 1 no primeiro turno é repetido em "O que está em jogo" e de novo em "Onde assistir".
-4. **Falta o jogo do Palmeiras:** o texto não menciona Palmeiras x Cruzeiro, nesta quarta, às 20h30, no Mineirão — resultado que muda diretamente o cenário do Flamengo.
-5. **Falta o número:** "uma vitória permitiria chegar ao confronto mantendo a vantagem" — poderia dizer que a vitória leva o Flamengo a 79 pontos.
-6. **Data exibida 18/11:** publicação confirmada em 17/11; conferir o padrão de data do site.
-7. **Cosméticos do site:** "2 acessos".
+## Revisão pós-publicação (17/11/2026) — disposições do editor
+1. **FlamengoTV:** confirmado que é narração sem imagens. O texto está correto.
+2. **De la Cruz e Valencia:** ausência por **opção técnica**. Registrado para as próximas peças.
+3. **Redundâncias:** **dispensado**.
+4. **Jogo do Palmeiras:** **criar trecho para encaixar na matéria**. Texto sugerido abaixo.
+5. **Número 79 pontos:** **dispensado**.
+6. **Data exibida:** **dispensado**.
+7. **Cosméticos:** **dispensado**.
+
+## Trecho solicitado — Palmeiras x Cruzeiro (para inserir em "O que está em jogo")
+
+Inserir após o parágrafo que trata da vitória e dos 79 pontos:
+
+```html
+No mesmo horário, o Palmeiras, vice-líder com 73 pontos, enfrenta o Cruzeiro no Mineirão, também pela 35ª rodada. O Cruzeiro é o terceiro colocado, com 60 pontos, e briga por vaga direta na Libertadores. O resultado interessa diretamente ao Flamengo: se vencer o Athletico e o Palmeiras tropeçar, o Rubro-Negro chega ao confronto de sábado com cinco ou seis pontos de vantagem — 79 a 74, em caso de empate palmeirense, ou 79 a 73, em caso de derrota. Se o Palmeiras vencer, vai a 76 e a diferença fica em três pontos.<br><br>
+```
 
 ## Estado
 Publicada. Correções no portal dependem do editor.

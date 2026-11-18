@@ -3145,6 +3145,7 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 - **Formato:** Onde Assistir — Brasileirão. Autoria: Redação Fla10.
 - **Conteúdo:** jogo em 18/11, às 20h30, no Maracanã; sportv, sportv 4K e Premiere; Flamengo líder com 76 pontos; retornos de Paquetá, Danilo, Alex Sandro, Arrascaeta, Varela e Plata; oito pendurados; Athletico com três desfalques; prováveis escalações; arbitragem; ficha.
 - **Revisão pós-publicação:** (1) confirmar o alcance da transmissão pela FlamengoTV (narração); (2) explicitar o motivo de De la Cruz e Valencia estarem fora dos planos; (3) redundâncias sobre 11 jogos e primeiro turno; (4) faltou o jogo Palmeiras x Cruzeiro; (5) faltou o número 79 pontos; (6) data exibida; (7) cosméticos.
+- **Disposições do editor (17/11):** (1) FlamengoTV é narração sem imagens; (2) De la Cruz e Valencia fora por opção técnica; (3) e (5)-(7) dispensados; (4) criar trecho sobre Palmeiras x Cruzeiro para encaixar na matéria — trecho entregue e registrado na ficha.
 - **Ficha editorial:** [[2026-11-17 - Flamengo x Athletico-PR - Onde Assistir Brasileirão]].
 - **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações. Correções no portal dependem do editor.
 
