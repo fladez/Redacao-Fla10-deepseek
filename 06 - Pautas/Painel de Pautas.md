@@ -1409,7 +1409,7 @@ A pedido do editor, esta seção atualiza a programação corrente e prevalece s
 
 ### 17/11/2026 — Sesi Bauru x Sesc RJ Flamengo
 - **16/11/2026 — Onde assistir:** **publicado em 16/11/2026**. URL e ficha registradas na publicação confirmada. [[2026-11-16 - Sesi Bauru x Sesc RJ Flamengo - onde assistir Superliga Feminina]].
-- **17/11/2026 — Pós-jogo:** pautada; produção após a partida. [[2026-11-17 - Sesi Bauru x Sesc RJ Flamengo - pós-jogo Superliga Feminina]].
+- **17/11/2026 — Pós-jogo:** **publicado em 17/11/2026**. Sesc Flamengo 3 x 0 Sesi Bauru; liderança assumida. URL e ficha registradas na publicação confirmada. [[2026-11-17 - Sesi Bauru x Sesc RJ Flamengo - pós-jogo Superliga Feminina]].
 - **17/11/2026 — Notícia dos ingressos de Palmeiras x Flamengo:** **publicada em 17/11/2026**. Carga visitante de 2 mil esgotada em menos de cinco minutos. URL e ficha registradas na publicação confirmada. [[2026-11-17 - Ingressos Palmeiras x Flamengo - notícia]].
 - **17/11/2026 — Notícia da ginástica artística:** **publicada em 17/11/2026**. Flamengo conquista 17 medalhas no Gaia International Tournament, em Portugal. URL e ficha registradas na publicação confirmada. [[2026-11-17 - Flamengo 17 medalhas ginástica Portugal - notícia]].
 - **Horário:** 21h; **local:** Arena Paulo Skaf, Bauru (SP); **transmissão confirmada:** sportv e Globoplay Premium.
@@ -3147,6 +3147,18 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 - **Revisão pós-publicação:** (1) confirmar o alcance da transmissão pela FlamengoTV (narração); (2) explicitar o motivo de De la Cruz e Valencia estarem fora dos planos; (3) redundâncias sobre 11 jogos e primeiro turno; (4) faltou o jogo Palmeiras x Cruzeiro; (5) faltou o número 79 pontos; (6) data exibida; (7) cosméticos.
 - **Disposições do editor (17/11):** (1) FlamengoTV é narração sem imagens; (2) De la Cruz e Valencia fora por opção técnica; (3) e (5)-(7) dispensados; (4) criar trecho sobre Palmeiras x Cruzeiro para encaixar na matéria — trecho entregue e registrado na ficha.
 - **Ficha editorial:** [[2026-11-17 - Flamengo x Athletico-PR - Onde Assistir Brasileirão]].
+- **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações. Correções no portal dependem do editor.
+
+
+## Publicação confirmada — Pós-jogo Sesc RJ Flamengo 3 x 0 Sesi Bauru (17/11/2026)
+
+- **Estado:** publicada em 17/11/2026, conforme confirmação do editor (a página exibe 18/11).
+- **Título:** *Sesc RJ Flamengo vence Sesi Bauru por 3 a 0, quebra invencibilidade e assume liderança invicta da Superliga*.
+- **URL pública:** https://fla10.news/noticias/sesc-rj-flamengo-vence-sesi-bauru-por-3-a-0-quebra-invencibilidade-e-assume-lideranca-invicta-da-superliga
+- **Formato:** Pós-jogo — Superliga. Autoria: Mariana Costa.
+- **Conteúdo:** 3 a 0 (25/19, 25/16 e 26/24); Flamengo líder com 18 pontos e nenhum set perdido; Bauru cai para terceiro; Tainara com 17 pontos e VivaVôlei; estatísticas coletivas; classificação e próximos jogos.
+- **Revisão pós-publicação:** (1) "emplaca 18 pontos" — construção pouco natural; (2) "liderança invicta" — redundante; (3) data exibida 18/11; (4) cosméticos.
+- **Ficha editorial:** [[2026-11-17 - Sesi Bauru x Sesc RJ Flamengo - pós-jogo Superliga Feminina]].
 - **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações. Correções no portal dependem do editor.
 
 ## Publicação confirmada — Bustos de Arrascaeta e Bruno Henrique na Gávea (15/11/2026)

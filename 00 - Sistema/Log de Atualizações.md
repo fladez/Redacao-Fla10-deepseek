@@ -1639,6 +1639,16 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - Alterações documentais realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.
 
 
+## 2026-11-17 — Publicação confirmada: pós-jogo Sesc RJ Flamengo 3 x 0 Sesi Bauru
+- O editor confirmou a publicação e forneceu a URL.
+- Matéria: **“Sesc RJ Flamengo vence Sesi Bauru por 3 a 0, quebra invencibilidade e assume liderança invicta da Superliga”**, seção Superliga, autoria de Mariana Costa na página.
+- **URL pública:** https://fla10.news/noticias/sesc-rj-flamengo-vence-sesi-bauru-por-3-a-0-quebra-invencibilidade-e-assume-lideranca-invicta-da-superliga
+- **Conteúdo:** 3 a 0 (25/19, 25/16 e 26/24); Flamengo líder com 18 pontos e nenhum set perdido; Bauru cai para terceiro; Tainara com 17 pontos e VivaVôlei; estatísticas coletivas; classificação e próximos jogos.
+- **Revisão pós-publicação (achados para o editor):** (1) "emplaca 18 pontos" — construção pouco natural; (2) "liderança invicta" — redundante; (3) data exibida 18/11 x publicação em 17/11; (4) cosméticos do site.
+- Ficha consolidada na pauta principal; Painel e Log atualizados.
+- Alterações documentais realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.
+
+
 ## 2026-11-15 — Publicação confirmada: Bustos de Arrascaeta e Bruno Henrique na Gávea
 - O editor confirmou a publicação e forneceu a URL. **Primeira matéria solicitada através do Telegram** após o ajuste do gateway: a sessão do bot passou a ser criada com o preset padrão, com acesso a web, arquivos e terminal.
 - Matéria: **“Flamengo inaugura bustos de Arrascaeta e Bruno Henrique na Gávea no aniversário de 131 anos”**, seção Clube, autoria de Mariana Costa na página.
