@@ -1669,6 +1669,16 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - Alterações documentais realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.
 
 
+## 2026-11-18 — Publicação confirmada: escalação de Flamengo x Athletico-PR
+- O editor confirmou a publicação e forneceu a URL.
+- Matéria: **“Escalação confirmada: Alex Sandro volta e Varela mantém a lateral direita contra o Athletico”**, seção Brasileirão, autoria de Mariana Costa.
+- **URL pública:** https://fla10.news/noticias/escalacao-confirmada-alex-sandro-volta-e-varela-mantem-a-lateral-direita-contra-o-athletico
+- **Conteúdo:** escalação oficial com Alex Sandro na esquerda e Varela na direita; uma mudança em relação ao Grêmio; banco com Emerson Royal, Danilo, Paquetá e Plata; contexto da liderança e serviço.
+- **Revisão pós-publicação:** sem erros factuais ou de formatação; lista de banco tratada como disponibilidade, não como relação oficial. 53 acessos na verificação.
+- Ficha da pauta criada; Painel e Log atualizados.
+- Alterações documentais realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.
+
+
 ## 2026-11-15 — Publicação confirmada: Bustos de Arrascaeta e Bruno Henrique na Gávea
 - O editor confirmou a publicação e forneceu a URL. **Primeira matéria solicitada através do Telegram** após o ajuste do gateway: a sessão do bot passou a ser criada com o preset padrão, com acesso a web, arquivos e terminal.
 - Matéria: **“Flamengo inaugura bustos de Arrascaeta e Bruno Henrique na Gávea no aniversário de 131 anos”**, seção Clube, autoria de Mariana Costa na página.

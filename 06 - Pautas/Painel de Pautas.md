@@ -2023,6 +2023,7 @@ A pesquisa acadêmica reforça que a identificação com o clube, o comprometime
   - **Cobertura no evento:** pré-jogo pela manhã; pós-jogo; análise jornalística; Depois do Apito; Raio-X Tático.
   - **Pré-jogo publicado em 18/11/2026.** URL e ficha registradas na publicação confirmada. [[2026-11-18 - Flamengo x Athletico-PR - pré-jogo Brasileirão]].
   - **Notícia — Plata pede para deixar o Equador e volta ao Flamengo: publicada em 18/11/2026.** URL e ficha registradas na publicação confirmada. [[2026-11-18 - Plata pede para deixar o Equador - notícia]].
+  - **Escalação confirmada publicada em 18/11/2026.** URL e ficha registradas na publicação confirmada. [[2026-11-18 - Escalação Flamengo x Athletico - notícia]].
   - **Classificação editorial:** futebol masculino profissional — equipe principal.
 - **Evento 2:** Flamengo Maricá x Botafogo — Campeonato Carioca Feminino, 3ª rodada (jogo atrasado); 16h (de Brasília); Estádio Municipal João Saldanha, Cordeirinho, Maricá; entrada gratuita; **Onde Assistir publicado em 17/11/2026** (FlamengoTV). URL e ficha registradas na publicação confirmada. Pauta: [[2026-11-17 - Flamengo Maricá x Botafogo - Onde Assistir Carioca Feminino]].
   - **Pauta de serviço:** Onde assistir — 17/11; confirmar estádio e transmissão.
@@ -3185,6 +3186,18 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 - **Conteúdo:** Gallardo confirma o pedido de Plata; liberação por motivos pessoais; retorno ao Rio e avaliação física; declaração do técnico; nota da Federação; frase do empresário; números da temporada e cenário do jogo.
 - **Revisão pós-publicação:** (1) "participou de oito gols" ambíguo — esclarecer; (2) categoria "Profissional" x "Brasileirão"; (3) cosméticos do site.
 - **Ficha editorial:** [[2026-11-18 - Plata pede para deixar o Equador - notícia]].
+- **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações. Correções no portal dependem do editor.
+
+
+## Publicação confirmada — Escalação confirmada de Flamengo x Athletico-PR (18/11/2026)
+
+- **Estado:** publicada em 18/11/2026, conforme confirmação do editor.
+- **Título:** *Escalação confirmada: Alex Sandro volta e Varela mantém a lateral direita contra o Athletico*.
+- **URL pública:** https://fla10.news/noticias/escalacao-confirmada-alex-sandro-volta-e-varela-mantem-a-lateral-direita-contra-o-athletico
+- **Formato:** Últimas Notícias — Brasileirão. Autoria: Mariana Costa.
+- **Conteúdo:** escalação oficial com Alex Sandro na esquerda e Varela na direita; uma mudança em relação ao Grêmio; banco com Emerson Royal, Danilo, Paquetá e Plata; contexto da liderança e serviço.
+- **Revisão pós-publicação:** sem erros factuais ou de formatação; a lista de banco foi tratada como disponibilidade, não como relação oficial. 53 acessos na verificação.
+- **Ficha editorial:** [[2026-11-18 - Escalação Flamengo x Athletico - notícia]].
 - **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações. Correções no portal dependem do editor.
 
 ## Publicação confirmada — Bustos de Arrascaeta e Bruno Henrique na Gávea (15/11/2026)
