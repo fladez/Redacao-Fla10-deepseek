@@ -1617,6 +1617,16 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - Alterações documentais realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.
 
 
+## 2026-11-17 — Publicação confirmada: Onde Assistir Flamengo Maricá x Botafogo
+- O editor confirmou a transmissão pela FlamengoTV (link do YouTube) e, depois, a publicação com URL.
+- Matéria: **“Flamengo Maricá x Botafogo: onde assistir ao vivo, horário e o que está em jogo no Carioca Feminino”**, seção Feminino, autoria de Thiago Silva na página.
+- **URL pública:** https://fla10.news/noticias/flamengo-marica-x-botafogo-onde-assistir-ao-vivo-horario-e-o-que-esta-em-jogo-no-carioca-feminino
+- **Conteúdo:** jogo em 18/11, às 16h, no João Saldanha, em Cordeirinho; entrada gratuita; FlamengoTV; Flamengo líder com 6 pontos e Botafogo vice com 4; retorno após o vice da Copa do Brasil; Kaylane convocada; arbitragem; ficha.
+- **Revisão pós-publicação (achados para o editor):** (1) Resumo para IA com nota interna sobre divergência de horário — remover; (2) redundância sobre retorno/vice/Kaylane; (3) "derruba para a segunda posição" não é garantido — depende do Fluminense; (4) data exibida 18/11 x publicação em 17/11; (5) conferir "tricampeão carioca consecutivo"; (6) cosméticos do site.
+- Ficha da pauta atualizada para publicada; Painel e Log atualizados.
+- Alterações documentais realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.
+
+
 ## 2026-11-15 — Publicação confirmada: Bustos de Arrascaeta e Bruno Henrique na Gávea
 - O editor confirmou a publicação e forneceu a URL. **Primeira matéria solicitada através do Telegram** após o ajuste do gateway: a sessão do bot passou a ser criada com o preset padrão, com acesso a web, arquivos e terminal.
 - Matéria: **“Flamengo inaugura bustos de Arrascaeta e Bruno Henrique na Gávea no aniversário de 131 anos”**, seção Clube, autoria de Mariana Costa na página.

@@ -2022,7 +2022,7 @@ A pesquisa acadêmica reforça que a identificação com o clube, o comprometime
   - **Pauta de serviço:** Onde assistir — 17/11.
   - **Cobertura no evento:** pré-jogo pela manhã; pós-jogo; análise jornalística; Depois do Apito; Raio-X Tático.
   - **Classificação editorial:** futebol masculino profissional — equipe principal.
-- **Evento 2:** Flamengo Maricá x Botafogo — Campeonato Carioca Feminino, 3ª rodada (jogo atrasado); 16h (de Brasília); Estádio Municipal João Saldanha, Cordeirinho, Maricá; entrada gratuita; **transmissão não confirmada** — Onde Assistir suspenso até confirmação oficial. Pauta: [[2026-11-17 - Flamengo Maricá x Botafogo - Onde Assistir Carioca Feminino]].
+- **Evento 2:** Flamengo Maricá x Botafogo — Campeonato Carioca Feminino, 3ª rodada (jogo atrasado); 16h (de Brasília); Estádio Municipal João Saldanha, Cordeirinho, Maricá; entrada gratuita; **Onde Assistir publicado em 17/11/2026** (FlamengoTV). URL e ficha registradas na publicação confirmada. Pauta: [[2026-11-17 - Flamengo Maricá x Botafogo - Onde Assistir Carioca Feminino]].
   - **Pauta de serviço:** Onde assistir — 17/11; confirmar estádio e transmissão.
   - **Cobertura no evento:** pós-jogo quando houver informações suficientes.
   - **Observação:** partida transferida de 11/11/2026 por informação do editor; a 5ª rodada contra o Fluminense, antes prevista para esta data, foi transferida para 25/11/2026.
@@ -3122,6 +3122,18 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 - **Conteúdo:** 17 medalhas (11 ouros, 4 pratas, 2 bronzes) no Gaia International Tournament; Millena Lima com cinco ouros; Duda Montesino com quatro medalhas no retorno; Sarah Amaral, Stella Vieira e Eva Krylova na base; contexto da temporada e do tour europeu.
 - **Revisão pós-publicação:** (1) conferir "tricampeonato mundial do salto" de Rebeca Andrade; (2) confirmar "nona edição" do torneio; (3) cosméticos do site.
 - **Ficha editorial:** [[2026-11-17 - Flamengo 17 medalhas ginástica Portugal - notícia]].
+- **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações. Correções no portal dependem do editor.
+
+
+## Publicação confirmada — Onde Assistir Flamengo Maricá x Botafogo (17/11/2026)
+
+- **Estado:** publicada em 17/11/2026, conforme confirmação do editor (a página exibe 18/11).
+- **Título:** *Flamengo Maricá x Botafogo: onde assistir ao vivo, horário e o que está em jogo no Carioca Feminino*.
+- **URL pública:** https://fla10.news/noticias/flamengo-marica-x-botafogo-onde-assistir-ao-vivo-horario-e-o-que-esta-em-jogo-no-carioca-feminino
+- **Formato:** Onde Assistir — Feminino. Autoria: Thiago Silva.
+- **Conteúdo:** jogo em 18/11, às 16h, no João Saldanha, em Cordeirinho; entrada gratuita; FlamengoTV; Flamengo líder com 6 pontos e Botafogo vice com 4; retorno após o vice da Copa do Brasil; Kaylane convocada; arbitragem; ficha.
+- **Revisão pós-publicação:** (1) Resumo para IA com nota interna sobre divergência de horário — remover; (2) redundância sobre retorno/vice/Kaylane; (3) "derruba para a segunda posição" não é garantido; (4) data exibida 18/11 x publicação em 17/11; (5) conferir "tricampeão carioca consecutivo"; (6) cosméticos.
+- **Ficha editorial:** [[2026-11-17 - Flamengo Maricá x Botafogo - Onde Assistir Carioca Feminino]].
 - **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações. Correções no portal dependem do editor.
 
 ## Publicação confirmada — Bustos de Arrascaeta e Bruno Henrique na Gávea (15/11/2026)
