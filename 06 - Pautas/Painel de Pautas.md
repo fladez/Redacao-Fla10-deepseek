@@ -2028,6 +2028,7 @@ A pesquisa acadêmica reforça que a identificação com o clube, o comprometime
 - **Evento 2:** Flamengo Maricá x Botafogo — Campeonato Carioca Feminino, 3ª rodada (jogo atrasado); 16h (de Brasília); Estádio Municipal João Saldanha, Cordeirinho, Maricá; entrada gratuita; **Onde Assistir publicado em 17/11/2026** (FlamengoTV). URL e ficha registradas na publicação confirmada. Pauta: [[2026-11-17 - Flamengo Maricá x Botafogo - Onde Assistir Carioca Feminino]].
   - **Pauta de serviço:** Onde assistir — 17/11; confirmar estádio e transmissão.
   - **Cobertura no evento:** pós-jogo quando houver informações suficientes.
+  - **Pós-jogo publicado em 18/11/2026.** Flamengo Maricá 2 x 1 Botafogo; vice-liderança. URL e ficha registradas na publicação confirmada. [[2026-11-18 - Flamengo Maricá x Botafogo - pós-jogo Carioca Feminino]].
   - **Observação:** partida transferida de 11/11/2026 por informação do editor; a 5ª rodada contra o Fluminense, antes prevista para esta data, foi transferida para 25/11/2026.
 - **Atenção de planejamento:** verificar os horários oficiais para identificar eventual sobreposição de produção e publicação; em 18/11 há dois eventos no mesmo dia (Brasileirão e Carioca Feminino).
 
@@ -3198,6 +3199,18 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 - **Conteúdo:** escalação oficial com Alex Sandro na esquerda e Varela na direita; uma mudança em relação ao Grêmio; banco com Emerson Royal, Danilo, Paquetá e Plata; contexto da liderança e serviço.
 - **Revisão pós-publicação:** sem erros factuais ou de formatação; a lista de banco foi tratada como disponibilidade, não como relação oficial. 53 acessos na verificação.
 - **Ficha editorial:** [[2026-11-18 - Escalação Flamengo x Athletico - notícia]].
+- **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações. Correções no portal dependem do editor.
+
+
+## Publicação confirmada — Pós-jogo Flamengo Maricá 2 x 1 Botafogo (18/11/2026)
+
+- **Estado:** publicada em 18/11/2026, conforme confirmação do editor.
+- **Título:** *Flamengo vence o Botafogo por 2 a 1, mantém 100% de aproveitamento e assume vice-liderança do Carioca Feminino*.
+- **URL pública:** https://fla10.news/noticias/flamengo-vence-o-botafogo-por-2-a-1-mantem-100-de-aproveitamento-e-assume-vice-lideranca-do-carioca-feminino
+- **Formato:** Pós-jogo — Carioca Feminino. Autoria: Thiago Silva.
+- **Conteúdo:** 2 a 1; dois gols de Brendha; Jullia descontou; Flamengo chega a 9 pontos em 3 jogos e assume a vice-liderança; Fluminense lidera com 10; Botafogo fica com 7; próximos jogos.
+- **Revisão pós-publicação:** (1) categoria "Base" — deveria ser "Feminino"; (2) jogo contra o Fluminense em 24/11 x 25/11 no Painel; (3) nomenclatura "Flamengo" x "Flamengo Maricá"; (4) cosméticos.
+- **Ficha editorial:** [[2026-11-18 - Flamengo Maricá x Botafogo - pós-jogo Carioca Feminino]].
 - **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações. Correções no portal dependem do editor.
 
 ## Publicação confirmada — Bustos de Arrascaeta e Bruno Henrique na Gávea (15/11/2026)

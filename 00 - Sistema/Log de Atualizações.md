@@ -1679,6 +1679,16 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - Alterações documentais realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.
 
 
+## 2026-11-18 — Publicação confirmada: pós-jogo Flamengo Maricá 2 x 1 Botafogo
+- O editor confirmou a publicação e forneceu a URL.
+- Matéria: **“Flamengo vence o Botafogo por 2 a 1, mantém 100% de aproveitamento e assume vice-liderança do Carioca Feminino”**, autoria de Thiago Silva.
+- **URL pública:** https://fla10.news/noticias/flamengo-vence-o-botafogo-por-2-a-1-mantem-100-de-aproveitamento-e-assume-vice-lideranca-do-carioca-feminino
+- **Conteúdo:** 2 a 1; dois gols de Brendha; Jullia descontou; Flamengo chega a 9 pontos em 3 jogos e assume a vice-liderança; Fluminense lidera com 10; Botafogo fica com 7; próximos jogos.
+- **Revisão pós-publicação (achados para o editor):** (1) categoria "Base" — deveria ser "Feminino"; (2) jogo contra o Fluminense em 24/11 x 25/11 no Painel; (3) nomenclatura "Flamengo" x "Flamengo Maricá"; (4) cosméticos do site.
+- Ficha da pauta criada; Painel e Log atualizados.
+- Alterações documentais realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.
+
+
 ## 2026-11-15 — Publicação confirmada: Bustos de Arrascaeta e Bruno Henrique na Gávea
 - O editor confirmou a publicação e forneceu a URL. **Primeira matéria solicitada através do Telegram** após o ajuste do gateway: a sessão do bot passou a ser criada com o preset padrão, com acesso a web, arquivos e terminal.
 - Matéria: **“Flamengo inaugura bustos de Arrascaeta e Bruno Henrique na Gávea no aniversário de 131 anos”**, seção Clube, autoria de Mariana Costa na página.
