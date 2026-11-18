@@ -25,11 +25,11 @@ proveniencia: produção interna — texto publicado pela redação; registro e 
 - Flamengo chega a 9 pontos em 3 jogos (100%) e assume a vice-liderança; Fluminense lidera com 10 em 4; Botafogo fica com 7 em 4.
 - Próximos jogos: Vasco x Flamengo, 21/11, às 10h; Botafogo x Vasco, 24/11, às 15h; Flamengo x Fluminense em 25/11.
 
-## Revisão pós-publicação (18/11/2026)
-1. **Categoria errada:** a página está em **"Base"**, mas o jogo é do futebol feminino profissional (Flamengo Maricá). Corrigir para "Feminino".
-2. **Data do jogo contra o Fluminense:** o texto diz 24/11; o Painel registra **25/11**, às 15h, contra o Fluminense. Conferir e corrigir.
-3. **Nomenclatura:** o título e o corpo usam "Flamengo"; o padrão para o futebol feminino é **Flamengo Maricá**. "Meninas da Gávea" também aparece no corpo.
-4. **Cosméticos do site:** "1 acessos".
+## Revisão pós-publicação (18/11/2026) — disposições do editor
+1. **Categoria errada:** **corrigida** pelo editor (de "Base" para "Feminino").
+2. **Data do jogo contra o Fluminense (24/11 x 25/11):** **dispensado**.
+3. **Nomenclatura:** **corrigida** pelo editor (Flamengo Maricá).
+4. **Cosméticos do site:** **dispensado**.
 
 ## Estado
 Publicada. Correções no portal dependem do editor.

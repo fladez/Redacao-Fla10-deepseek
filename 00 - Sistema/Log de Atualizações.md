@@ -1685,6 +1685,7 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - **URL pública:** https://fla10.news/noticias/flamengo-vence-o-botafogo-por-2-a-1-mantem-100-de-aproveitamento-e-assume-vice-lideranca-do-carioca-feminino
 - **Conteúdo:** 2 a 1; dois gols de Brendha; Jullia descontou; Flamengo chega a 9 pontos em 3 jogos e assume a vice-liderança; Fluminense lidera com 10; Botafogo fica com 7; próximos jogos.
 - **Revisão pós-publicação (achados para o editor):** (1) categoria "Base" — deveria ser "Feminino"; (2) jogo contra o Fluminense em 24/11 x 25/11 no Painel; (3) nomenclatura "Flamengo" x "Flamengo Maricá"; (4) cosméticos do site.
+- **Disposições do editor (18/11):** itens 1 e 3 corrigidos; itens 2 e 4 dispensados.
 - Ficha da pauta criada; Painel e Log atualizados.
 - Alterações documentais realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.
 
