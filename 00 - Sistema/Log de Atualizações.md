@@ -1649,6 +1649,16 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - Alterações documentais realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.
 
 
+## 2026-11-18 — Publicação confirmada: pré-jogo Flamengo x Athletico-PR
+- O editor confirmou a publicação e forneceu a URL.
+- Matéria: **“Flamengo x Athletico-PR: Rubro-Negro defende liderança no Maracanã antes de confronto direto com Palmeiras”**, seção Brasileirão, autoria de Mariana Costa.
+- **URL pública:** https://fla10.news/noticias/flamengo-x-athletico-pr-rubro-negro-defende-lideranca-no-maracana-antes-de-confronto-direto-com-palmeiras
+- **Conteúdo:** jogo às 20h30 no Maracanã; Flamengo líder com 76 pontos; oito pendurados; provável escalação com Emerson Royal e Alex Sandro; Athletico com quatro desfalques; cenário do título e jogo do Palmeiras contra o Cruzeiro; ficha.
+- **Revisão pós-publicação (achados para o editor):** (1) De la Cruz e Valencia — texto diz seleções, mas a informação registrada é opção técnica; (2) Viveros — "após expulsão" a conferir; (3) Luiz Gustavo fora da ficha; (4) capitalização do subtítulo "O Grande Risco"; (5) declaração de Jardim a atribuir; (6) padronizar "sportv"; (7) cosméticos do site.
+- Ficha da pauta criada; Painel e Log atualizados.
+- Alterações documentais realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.
+
+
 ## 2026-11-15 — Publicação confirmada: Bustos de Arrascaeta e Bruno Henrique na Gávea
 - O editor confirmou a publicação e forneceu a URL. **Primeira matéria solicitada através do Telegram** após o ajuste do gateway: a sessão do bot passou a ser criada com o preset padrão, com acesso a web, arquivos e terminal.
 - Matéria: **“Flamengo inaugura bustos de Arrascaeta e Bruno Henrique na Gávea no aniversário de 131 anos”**, seção Clube, autoria de Mariana Costa na página.

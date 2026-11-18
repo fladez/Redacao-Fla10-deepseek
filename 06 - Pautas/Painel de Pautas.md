@@ -2021,6 +2021,7 @@ A pesquisa acadêmica reforça que a identificação com o clube, o comprometime
 - **Evento 1:** Flamengo x Athletico Paranaense — Brasileirão; 20h30, Maracanã.
   - **Pauta de serviço:** **Onde Assistir publicado em 17/11/2026** (sportv, sportv 4K e Premiere). URL e ficha registradas na publicação confirmada. [[2026-11-17 - Flamengo x Athletico-PR - Onde Assistir Brasileirão]].
   - **Cobertura no evento:** pré-jogo pela manhã; pós-jogo; análise jornalística; Depois do Apito; Raio-X Tático.
+  - **Pré-jogo publicado em 18/11/2026.** URL e ficha registradas na publicação confirmada. [[2026-11-18 - Flamengo x Athletico-PR - pré-jogo Brasileirão]].
   - **Classificação editorial:** futebol masculino profissional — equipe principal.
 - **Evento 2:** Flamengo Maricá x Botafogo — Campeonato Carioca Feminino, 3ª rodada (jogo atrasado); 16h (de Brasília); Estádio Municipal João Saldanha, Cordeirinho, Maricá; entrada gratuita; **Onde Assistir publicado em 17/11/2026** (FlamengoTV). URL e ficha registradas na publicação confirmada. Pauta: [[2026-11-17 - Flamengo Maricá x Botafogo - Onde Assistir Carioca Feminino]].
   - **Pauta de serviço:** Onde assistir — 17/11; confirmar estádio e transmissão.
@@ -3159,6 +3160,18 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 - **Conteúdo:** 3 a 0 (25/19, 25/16 e 26/24); Flamengo líder com 18 pontos e nenhum set perdido; Bauru cai para terceiro; Tainara com 17 pontos e VivaVôlei; estatísticas coletivas; classificação e próximos jogos.
 - **Revisão pós-publicação:** (1) "emplaca 18 pontos" — construção pouco natural; (2) "liderança invicta" — redundante; (3) data exibida 18/11; (4) cosméticos.
 - **Ficha editorial:** [[2026-11-17 - Sesi Bauru x Sesc RJ Flamengo - pós-jogo Superliga Feminina]].
+- **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações. Correções no portal dependem do editor.
+
+
+## Publicação confirmada — Pré-jogo Flamengo x Athletico-PR (18/11/2026)
+
+- **Estado:** publicada em 18/11/2026, conforme confirmação do editor.
+- **Título:** *Flamengo x Athletico-PR: Rubro-Negro defende liderança no Maracanã antes de confronto direto com Palmeiras*.
+- **URL pública:** https://fla10.news/noticias/flamengo-x-athletico-pr-rubro-negro-defende-lideranca-no-maracana-antes-de-confronto-direto-com-palmeiras
+- **Formato:** Pré-jogo — Brasileirão. Autoria: Mariana Costa.
+- **Conteúdo:** jogo às 20h30 no Maracanã; Flamengo líder com 76 pontos; oito pendurados; provável escalação com Emerson Royal e Alex Sandro; Athletico com quatro desfalques; cenário do título e jogo do Palmeiras contra o Cruzeiro; ficha.
+- **Revisão pós-publicação:** (1) De la Cruz e Valencia — texto diz seleções, mas a informação registrada é opção técnica; (2) Viveros — "após expulsão" a conferir; (3) Luiz Gustavo fora da ficha; (4) capitalização do subtítulo "O Grande Risco"; (5) declaração de Jardim a atribuir; (6) padronizar "sportv"; (7) cosméticos.
+- **Ficha editorial:** [[2026-11-18 - Flamengo x Athletico-PR - pré-jogo Brasileirão]].
 - **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações. Correções no portal dependem do editor.
 
 ## Publicação confirmada — Bustos de Arrascaeta e Bruno Henrique na Gávea (15/11/2026)
