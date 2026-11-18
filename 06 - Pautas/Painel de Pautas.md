@@ -2022,7 +2022,7 @@ A pesquisa acadêmica reforça que a identificação com o clube, o comprometime
   - **Pauta de serviço:** Onde assistir — 17/11.
   - **Cobertura no evento:** pré-jogo pela manhã; pós-jogo; análise jornalística; Depois do Apito; Raio-X Tático.
   - **Classificação editorial:** futebol masculino profissional — equipe principal.
-- **Evento 2:** Flamengo Maricá x Botafogo — Campeonato Carioca Feminino, 3ª rodada (jogo atrasado); 15h (de Brasília); Estádio João Saldanha (confirmar).
+- **Evento 2:** Flamengo Maricá x Botafogo — Campeonato Carioca Feminino, 3ª rodada (jogo atrasado); 16h (de Brasília); Estádio Municipal João Saldanha, Cordeirinho, Maricá; entrada gratuita; **transmissão não confirmada** — Onde Assistir suspenso até confirmação oficial. Pauta: [[2026-11-17 - Flamengo Maricá x Botafogo - Onde Assistir Carioca Feminino]].
   - **Pauta de serviço:** Onde assistir — 17/11; confirmar estádio e transmissão.
   - **Cobertura no evento:** pós-jogo quando houver informações suficientes.
   - **Observação:** partida transferida de 11/11/2026 por informação do editor; a 5ª rodada contra o Fluminense, antes prevista para esta data, foi transferida para 25/11/2026.

@@ -1609,6 +1609,14 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - Alterações documentais realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.
 
 
+## 2026-11-17 — Onde Assistir de Flamengo Maricá x Botafogo suspenso por falta de transmissão
+- O editor pediu a criação do Onde Assistir para o jogo de 18/11, às 16h, no Estádio Municipal João Saldanha.
+- A apuração não confirmou transmissão em fonte oficial (Flamengo, FERJ, FlamengoTV ou Carioca TV). Aplica-se a regra de 13/11: sem confirmação, não se produz Onde Assistir.
+- Corrigido no Painel o horário de 15h para 16h e registrados local (Cordeirinho, Maricá) e entrada gratuita.
+- Ficha da pauta criada como suspensa, com os dados confirmados e a pendência do canal; alternativa de pré-jogo/serviço registrada.
+- Alterações documentais realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.
+
+
 ## 2026-11-15 — Publicação confirmada: Bustos de Arrascaeta e Bruno Henrique na Gávea
 - O editor confirmou a publicação e forneceu a URL. **Primeira matéria solicitada através do Telegram** após o ajuste do gateway: a sessão do bot passou a ser criada com o preset padrão, com acesso a web, arquivos e terminal.
 - Matéria: **“Flamengo inaugura bustos de Arrascaeta e Bruno Henrique na Gávea no aniversário de 131 anos”**, seção Clube, autoria de Mariana Costa na página.
