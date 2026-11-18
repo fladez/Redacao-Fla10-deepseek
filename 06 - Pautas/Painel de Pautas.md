@@ -2022,6 +2022,7 @@ A pesquisa acadêmica reforça que a identificação com o clube, o comprometime
   - **Pauta de serviço:** **Onde Assistir publicado em 17/11/2026** (sportv, sportv 4K e Premiere). URL e ficha registradas na publicação confirmada. [[2026-11-17 - Flamengo x Athletico-PR - Onde Assistir Brasileirão]].
   - **Cobertura no evento:** pré-jogo pela manhã; pós-jogo; análise jornalística; Depois do Apito; Raio-X Tático.
   - **Pré-jogo publicado em 18/11/2026.** URL e ficha registradas na publicação confirmada. [[2026-11-18 - Flamengo x Athletico-PR - pré-jogo Brasileirão]].
+  - **Notícia — Plata pede para deixar o Equador e volta ao Flamengo: publicada em 18/11/2026.** URL e ficha registradas na publicação confirmada. [[2026-11-18 - Plata pede para deixar o Equador - notícia]].
   - **Classificação editorial:** futebol masculino profissional — equipe principal.
 - **Evento 2:** Flamengo Maricá x Botafogo — Campeonato Carioca Feminino, 3ª rodada (jogo atrasado); 16h (de Brasília); Estádio Municipal João Saldanha, Cordeirinho, Maricá; entrada gratuita; **Onde Assistir publicado em 17/11/2026** (FlamengoTV). URL e ficha registradas na publicação confirmada. Pauta: [[2026-11-17 - Flamengo Maricá x Botafogo - Onde Assistir Carioca Feminino]].
   - **Pauta de serviço:** Onde assistir — 17/11; confirmar estádio e transmissão.
@@ -3172,6 +3173,18 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 - **Conteúdo:** jogo às 20h30 no Maracanã; Flamengo líder com 76 pontos; oito pendurados; provável escalação com Emerson Royal e Alex Sandro; Athletico com quatro desfalques; cenário do título e jogo do Palmeiras contra o Cruzeiro; ficha.
 - **Revisão pós-publicação:** (1) De la Cruz e Valencia — texto diz seleções, mas a informação registrada é opção técnica; (2) Viveros — "após expulsão" a conferir; (3) Luiz Gustavo fora da ficha; (4) capitalização do subtítulo "O Grande Risco"; (5) declaração de Jardim a atribuir; (6) padronizar "sportv"; (7) cosméticos.
 - **Ficha editorial:** [[2026-11-18 - Flamengo x Athletico-PR - pré-jogo Brasileirão]].
+- **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações. Correções no portal dependem do editor.
+
+
+## Publicação confirmada — Notícia de Plata e o pedido para deixar o Equador (18/11/2026)
+
+- **Estado:** publicada em 18/11/2026, conforme confirmação do editor.
+- **Título:** *Gallardo confirma que Plata pediu para deixar o Equador; atacante volta ao Flamengo e fica à disposição contra o Athletico*.
+- **URL pública:** https://fla10.news/noticias/gallardo-confirma-que-plata-pediu-para-deixar-o-equador-atacante-volta-ao-flamengo-e-fica-a-disposicao-contra-o-athletico
+- **Formato:** Últimas Notícias — Profissional. Autoria: Thiago Silva.
+- **Conteúdo:** Gallardo confirma o pedido de Plata; liberação por motivos pessoais; retorno ao Rio e avaliação física; declaração do técnico; nota da Federação; frase do empresário; números da temporada e cenário do jogo.
+- **Revisão pós-publicação:** (1) "participou de oito gols" ambíguo — esclarecer; (2) categoria "Profissional" x "Brasileirão"; (3) cosméticos do site.
+- **Ficha editorial:** [[2026-11-18 - Plata pede para deixar o Equador - notícia]].
 - **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações. Correções no portal dependem do editor.
 
 ## Publicação confirmada — Bustos de Arrascaeta e Bruno Henrique na Gávea (15/11/2026)

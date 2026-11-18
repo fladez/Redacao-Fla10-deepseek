@@ -1659,6 +1659,16 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - Alterações documentais realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.
 
 
+## 2026-11-18 — Publicação confirmada: notícia de Plata e o pedido para deixar o Equador
+- O editor confirmou a publicação e forneceu a URL.
+- Matéria: **“Gallardo confirma que Plata pediu para deixar o Equador; atacante volta ao Flamengo e fica à disposição contra o Athletico”**, seção Profissional, autoria de Thiago Silva.
+- **URL pública:** https://fla10.news/noticias/gallardo-confirma-que-plata-pediu-para-deixar-o-equador-atacante-volta-ao-flamengo-e-fica-a-disposicao-contra-o-athletico
+- **Conteúdo:** Gallardo confirma o pedido de Plata; liberação por motivos pessoais; retorno ao Rio e avaliação física; declaração do técnico; nota da Federação; frase do empresário; números da temporada e cenário do jogo.
+- **Revisão pós-publicação (achados para o editor):** (1) "participou de oito gols" ambíguo — esclarecer; (2) categoria "Profissional" x "Brasileirão"; (3) cosméticos do site.
+- Ficha da pauta criada; Painel e Log atualizados.
+- Alterações documentais realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.
+
+
 ## 2026-11-15 — Publicação confirmada: Bustos de Arrascaeta e Bruno Henrique na Gávea
 - O editor confirmou a publicação e forneceu a URL. **Primeira matéria solicitada através do Telegram** após o ajuste do gateway: a sessão do bot passou a ser criada com o preset padrão, com acesso a web, arquivos e terminal.
 - Matéria: **“Flamengo inaugura bustos de Arrascaeta e Bruno Henrique na Gávea no aniversário de 131 anos”**, seção Clube, autoria de Mariana Costa na página.
