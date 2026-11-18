@@ -2019,7 +2019,7 @@ A pesquisa acadêmica reforça que a identificação com o clube, o comprometime
 
 ### 18/11/2026 — quarta-feira
 - **Evento 1:** Flamengo x Athletico Paranaense — Brasileirão; 20h30, Maracanã.
-  - **Pauta de serviço:** Onde assistir — 17/11.
+  - **Pauta de serviço:** **Onde Assistir publicado em 17/11/2026** (sportv, sportv 4K e Premiere). URL e ficha registradas na publicação confirmada. [[2026-11-17 - Flamengo x Athletico-PR - Onde Assistir Brasileirão]].
   - **Cobertura no evento:** pré-jogo pela manhã; pós-jogo; análise jornalística; Depois do Apito; Raio-X Tático.
   - **Classificação editorial:** futebol masculino profissional — equipe principal.
 - **Evento 2:** Flamengo Maricá x Botafogo — Campeonato Carioca Feminino, 3ª rodada (jogo atrasado); 16h (de Brasília); Estádio Municipal João Saldanha, Cordeirinho, Maricá; entrada gratuita; **Onde Assistir publicado em 17/11/2026** (FlamengoTV). URL e ficha registradas na publicação confirmada. Pauta: [[2026-11-17 - Flamengo Maricá x Botafogo - Onde Assistir Carioca Feminino]].
@@ -3134,6 +3134,18 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 - **Conteúdo:** jogo em 18/11, às 16h, no João Saldanha, em Cordeirinho; entrada gratuita; FlamengoTV; Flamengo líder com 6 pontos e Botafogo vice com 4; retorno após o vice da Copa do Brasil; Kaylane convocada; arbitragem; ficha.
 - **Revisão pós-publicação:** (1) Resumo para IA com nota interna sobre divergência de horário — remover; (2) redundância sobre retorno/vice/Kaylane; (3) "derruba para a segunda posição" não é garantido; (4) data exibida 18/11 x publicação em 17/11; (5) conferir "tricampeão carioca consecutivo"; (6) cosméticos.
 - **Ficha editorial:** [[2026-11-17 - Flamengo Maricá x Botafogo - Onde Assistir Carioca Feminino]].
+- **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações. Correções no portal dependem do editor.
+
+
+## Publicação confirmada — Onde Assistir Flamengo x Athletico-PR (17/11/2026)
+
+- **Estado:** publicada em 17/11/2026, conforme confirmação do editor (a página exibe 18/11).
+- **Título:** *Flamengo x Athletico-PR: onde assistir ao vivo, horário, escalações e o que está em jogo na reta final do Brasileirão*.
+- **URL pública:** https://fla10.news/noticias/flamengo-x-athletico-pr-onde-assistir-ao-vivo-horario-escalacoes-e-o-que-esta-em-jogo-na-reta-final-do-brasileirao
+- **Formato:** Onde Assistir — Brasileirão. Autoria: Redação Fla10.
+- **Conteúdo:** jogo em 18/11, às 20h30, no Maracanã; sportv, sportv 4K e Premiere; Flamengo líder com 76 pontos; retornos de Paquetá, Danilo, Alex Sandro, Arrascaeta, Varela e Plata; oito pendurados; Athletico com três desfalques; prováveis escalações; arbitragem; ficha.
+- **Revisão pós-publicação:** (1) confirmar o alcance da transmissão pela FlamengoTV (narração); (2) explicitar o motivo de De la Cruz e Valencia estarem fora dos planos; (3) redundâncias sobre 11 jogos e primeiro turno; (4) faltou o jogo Palmeiras x Cruzeiro; (5) faltou o número 79 pontos; (6) data exibida; (7) cosméticos.
+- **Ficha editorial:** [[2026-11-17 - Flamengo x Athletico-PR - Onde Assistir Brasileirão]].
 - **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações. Correções no portal dependem do editor.
 
 ## Publicação confirmada — Bustos de Arrascaeta e Bruno Henrique na Gávea (15/11/2026)

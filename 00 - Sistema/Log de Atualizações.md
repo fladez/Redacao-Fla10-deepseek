@@ -1627,6 +1627,16 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - Alterações documentais realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.
 
 
+## 2026-11-17 — Publicação confirmada: Onde Assistir Flamengo x Athletico-PR
+- O editor confirmou a publicação e forneceu a URL.
+- Matéria: **“Flamengo x Athletico-PR: onde assistir ao vivo, horário, escalações e o que está em jogo na reta final do Brasileirão”**, seção Brasileirão, autoria "Redação Fla10".
+- **URL pública:** https://fla10.news/noticias/flamengo-x-athletico-pr-onde-assistir-ao-vivo-horario-escalacoes-e-o-que-esta-em-jogo-na-reta-final-do-brasileirao
+- **Conteúdo:** jogo em 18/11, às 20h30, no Maracanã; sportv, sportv 4K e Premiere; Flamengo líder com 76 pontos; retornos de Paquetá, Danilo, Alex Sandro, Arrascaeta, Varela e Plata; oito pendurados; Athletico com três desfalques; prováveis escalações; arbitragem; ficha.
+- **Revisão pós-publicação (achados para o editor):** (1) confirmar o alcance da transmissão pela FlamengoTV (narração); (2) explicitar o motivo de De la Cruz e Valencia estarem fora dos planos; (3) redundâncias sobre 11 jogos e primeiro turno; (4) faltou o jogo Palmeiras x Cruzeiro, no mesmo horário; (5) faltou o número 79 pontos; (6) data exibida 18/11 x publicação em 17/11; (7) cosméticos do site.
+- Ficha da pauta criada; Painel e Log atualizados.
+- Alterações documentais realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.
+
+
 ## 2026-11-15 — Publicação confirmada: Bustos de Arrascaeta e Bruno Henrique na Gávea
 - O editor confirmou a publicação e forneceu a URL. **Primeira matéria solicitada através do Telegram** após o ajuste do gateway: a sessão do bot passou a ser criada com o preset padrão, com acesso a web, arquivos e terminal.
 - Matéria: **“Flamengo inaugura bustos de Arrascaeta e Bruno Henrique na Gávea no aniversário de 131 anos”**, seção Clube, autoria de Mariana Costa na página.
