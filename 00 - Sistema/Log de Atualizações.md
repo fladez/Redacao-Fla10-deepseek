@@ -1634,6 +1634,7 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - **Conteúdo:** jogo em 18/11, às 20h30, no Maracanã; sportv, sportv 4K e Premiere; Flamengo líder com 76 pontos; retornos de Paquetá, Danilo, Alex Sandro, Arrascaeta, Varela e Plata; oito pendurados; Athletico com três desfalques; prováveis escalações; arbitragem; ficha.
 - **Revisão pós-publicação (achados para o editor):** (1) confirmar o alcance da transmissão pela FlamengoTV (narração); (2) explicitar o motivo de De la Cruz e Valencia estarem fora dos planos; (3) redundâncias sobre 11 jogos e primeiro turno; (4) faltou o jogo Palmeiras x Cruzeiro, no mesmo horário; (5) faltou o número 79 pontos; (6) data exibida 18/11 x publicação em 17/11; (7) cosméticos do site.
 - **Disposições do editor (17/11):** FlamengoTV é narração sem imagens; De la Cruz e Valencia fora por opção técnica; itens 3, 5, 6 e 7 dispensados; item 4 atendido com trecho sobre Palmeiras x Cruzeiro entregue para encaixe.
+- **Verificação (17/11):** trecho do Palmeiras x Cruzeiro inserido na seção "O que está em jogo" e conferido na página; formatação correta. O parágrafo dos 79 pontos também foi ajustado.
 - Ficha da pauta criada; Painel e Log atualizados.
 - Alterações documentais realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.
 

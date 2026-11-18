@@ -38,9 +38,9 @@ proveniencia: produção interna — pauta produzida pela IA em colaboração co
 6. **Data exibida:** **dispensado**.
 7. **Cosméticos:** **dispensado**.
 
-## Trecho solicitado — Palmeiras x Cruzeiro (para inserir em "O que está em jogo")
+## Trecho solicitado — Palmeiras x Cruzeiro (inserido e verificado em 17/11/2026)
 
-Inserir após o parágrafo que trata da vitória e dos 79 pontos:
+O trecho foi inserido na seção "O que está em jogo", após o parágrafo que trata da vitória e dos 79 pontos. Verificação na página: o texto aparece na íntegra e com a formatação correta, entre o parágrafo do confronto direto e o do retrospecto recente.
 
 ```html
 No mesmo horário, o Palmeiras, vice-líder com 73 pontos, enfrenta o Cruzeiro no Mineirão, também pela 35ª rodada. O Cruzeiro é o terceiro colocado, com 60 pontos, e briga por vaga direta na Libertadores. O resultado interessa diretamente ao Flamengo: se vencer o Athletico e o Palmeiras tropeçar, o Rubro-Negro chega ao confronto de sábado com cinco ou seis pontos de vantagem — 79 a 74, em caso de empate palmeirense, ou 79 a 73, em caso de derrota. Se o Palmeiras vencer, vai a 76 e a diferença fica em três pontos.<br><br>
