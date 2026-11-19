@@ -2025,6 +2025,7 @@ A pesquisa acadêmica reforça que a identificação com o clube, o comprometime
   - **Notícia — Plata pede para deixar o Equador e volta ao Flamengo: publicada em 18/11/2026.** URL e ficha registradas na publicação confirmada. [[2026-11-18 - Plata pede para deixar o Equador - notícia]].
   - **Escalação confirmada publicada em 18/11/2026.** URL e ficha registradas na publicação confirmada. [[2026-11-18 - Escalação Flamengo x Athletico - notícia]].
   - **Pós-jogo publicado em 18/11/2026.** Flamengo 2 x 1 Athletico; Palmeiras perde para o Cruzeiro e abre seis pontos. URL e ficha registradas na publicação confirmada. [[2026-11-18 - Flamengo 2x1 Athletico - pós-jogo Brasileirão]].
+  - **Análise jornalística publicada em 19/11/2026.** "Flamengo vence, mas perde o controle". URL e ficha registradas na publicação confirmada. [[2026-11-19 - Flamengo 2x1 Athletico - análise jornalística]].
   - **Classificação editorial:** futebol masculino profissional — equipe principal.
 - **Evento 2:** Flamengo Maricá x Botafogo — Campeonato Carioca Feminino, 3ª rodada (jogo atrasado); 16h (de Brasília); Estádio Municipal João Saldanha, Cordeirinho, Maricá; entrada gratuita; **Onde Assistir publicado em 17/11/2026** (FlamengoTV). URL e ficha registradas na publicação confirmada. Pauta: [[2026-11-17 - Flamengo Maricá x Botafogo - Onde Assistir Carioca Feminino]].
   - **Pauta de serviço:** Onde assistir — 17/11; confirmar estádio e transmissão.
@@ -3237,6 +3238,18 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 - **Conteúdo:** vitória por 2 a 1 sobre o Athletico; golaço de Vargas; reação com Carrascal e Jorginho; segundo tempo de administração; virada do Cruzeiro sobre o Palmeiras; 79 x 73; suspensões de Pulgar e Léo Pereira; tese de que o time precisa jogar como se ainda estivesse longe.
 - **Revisão pós-publicação:** (1) repetição de "Talvez seja esse..."; (2) cronologia do Mineirão (empate x virada); (3) "notícia ruim" no início do segundo tempo a conferir; (4) travessão de Lino a confirmar; (5) cosméticos.
 - **Ficha editorial:** [[2026-11-19 - Depois do Apito - Flamengo perto da taça - coluna]].
+- **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações. Correções no portal dependem do editor.
+
+
+## Publicação confirmada — Análise jornalística Flamengo 2 x 1 Athletico (19/11/2026)
+
+- **Estado:** publicada em 19/11/2026, conforme confirmação do editor.
+- **Título:** *Flamengo vence, mas perde o controle: virada sobre o Athletico expõe limites da equipe de Jardim*.
+- **URL pública:** https://fla10.news/noticias/flamengo-vence-mas-perde-o-controle-virada-sobre-o-athletico-expoe-limites-da-equipe-de-jardim
+- **Formato:** Análise jornalística — Brasileirão. Autoria: Thiago Silva.
+- **Conteúdo:** golaço de Vargas, resposta com Carrascal e Jorginho; análise do primeiro tempo; crescimento do Athletico no segundo; substituições de Jardim; 79 x 73; suspensões de Pulgar e Léo Pereira; lições para o Palmeiras.
+- **Revisão pós-publicação:** (1) conferir travessão de Lino e defesas de Rossi (Jadson e Esquivel); (2) conferir ordem/minutos das substituições; (3) cosméticos.
+- **Ficha editorial:** [[2026-11-19 - Flamengo 2x1 Athletico - análise jornalística]].
 - **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações. Correções no portal dependem do editor.
 
 ## Publicação confirmada — Bustos de Arrascaeta e Bruno Henrique na Gávea (15/11/2026)
