@@ -24,6 +24,9 @@ proveniencia: produção interna — vídeo publicado pela redação
 - Bloco "Vídeos Recentes" com "OS GOLS DE FLAMENGO 2 X 1 CAP" (01:33, 80 views, 13 horas) e "Danilo treina com a máscara" (04:47, 115 views, 6 dias).
 - Sem descrição, duração no topo, créditos, tags ou link para a cobertura escrita.
 
+## Inserções em outras matérias
+- **Notícia** "Maracanã vira palco de espetáculo da Nação": vídeo incorporado no corpo, sob a chamada "Assista aqui o espetáculo da Nação nesta quarta no Maracanã".
+
 ## Revisão pós-publicação (19/11/2026)
 1. **Título sem contexto:** "O espetáculo da Nação rubro-negra" é bonito, mas não diz qual jogo, estádio ou momento. Para busca e para quem chega pelo feed, a descrição precisa cumprir esse papel.
 2. **Sem descrição:** falta explicar o que o vídeo mostra, quando foi gravado e em que jogo. Uma ou duas frases resolvem.

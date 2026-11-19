@@ -3338,6 +3338,19 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 - **Ficha editorial:** [[2026-11-19 - Vídeo O espetáculo da nação rubro-negra]].
 - **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações. Correções no portal dependem do editor.
 
+
+## Publicação confirmada — Notícia especial do espetáculo da Nação (19/11/2026)
+
+- **Estado:** publicada em 19/11/2026, conforme confirmação do editor.
+- **Título:** *Maracanã vira palco de espetáculo da Nação, que empurra Flamengo e transforma noite em festa*.
+- **URL pública:** https://fla10.news/noticias/maracana-vira-palco-de-espetaculo-da-nacao-que-empurra-flamengo-e-transforma-noite-em-festa
+- **Formato:** Notícia especial — Brasileirão. Autoria: Mariana Costa.
+- **Conteúdo:** público de 68.545; apresentação da Mocidade; Mangueira no intervalo; mosaico e bandeiras; reação ao gol de Vargas; empate de Carrascal e virada de Jorginho; apoio no segundo tempo; derrota do Palmeiras e 79 x 73.
+- **Revisão pós-publicação:** (1) "tranformando" → transformando; (2) "catarze" → catarse; (3) "áurea" → aura; (4) "Meeeeego" → conferir grafia do grito; (5) "Assista aqui o espetáculo" → crase; (6) capitalização de subtítulo; (7) cosméticos.
+- **Vídeo incorporado:** "O ESPETÁCULO DA NAÇÃO RUBRO-NEGRA", sob a chamada "Assista aqui o espetáculo da Nação nesta quarta no Maracanã".
+- **Ficha editorial:** [[2026-11-19 - Maracanã espetáculo da Nação - notícia]].
+- **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações. Correções no portal dependem do editor.
+
 ## Publicação confirmada — Bustos de Arrascaeta e Bruno Henrique na Gávea (15/11/2026)
 
 - **Estado:** publicada em 15/11/2026, conforme confirmação do editor. **Primeira matéria solicitada pelo editor através do Telegram**, após o ajuste do gateway (sessão do bot criada com preset padrão, com acesso a web, arquivos e terminal).
