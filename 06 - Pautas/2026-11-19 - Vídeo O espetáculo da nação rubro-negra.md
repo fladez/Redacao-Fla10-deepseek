@@ -25,7 +25,7 @@ proveniencia: produção interna — vídeo publicado pela redação
 - Sem descrição, duração no topo, créditos, tags ou link para a cobertura escrita.
 
 ## Inserções em outras matérias
-- **Notícia** "Maracanã vira palco de espetáculo da Nação": vídeo incorporado no corpo, sob a chamada "Assista aqui o espetáculo da Nação nesta quarta no Maracanã".
+- **Notícia** "Maracanã vira palco de espetáculo da Nação": vídeo incorporado no corpo, sob a chamada "Assista aqui o espetáculo da Nação nesta quarta no Maracanã" — inserção confirmada pelo editor.
 
 ## Revisão pós-publicação (19/11/2026)
 1. **Título sem contexto:** "O espetáculo da Nação rubro-negra" é bonito, mas não diz qual jogo, estádio ou momento. Para busca e para quem chega pelo feed, a descrição precisa cumprir esse papel.

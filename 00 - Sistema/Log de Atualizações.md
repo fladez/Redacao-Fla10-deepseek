@@ -1800,7 +1800,7 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - **URL pública:** https://fla10.news/noticias/maracana-vira-palco-de-espetaculo-da-nacao-que-empurra-flamengo-e-transforma-noite-em-festa
 - **Conteúdo:** público de 68.545; apresentação da Mocidade; Mangueira no intervalo; mosaico e bandeiras; reação ao gol de Vargas; empate de Carrascal e virada de Jorginho; apoio no segundo tempo; derrota do Palmeiras e 79 x 73.
 - **Revisão pós-publicação (achados para o editor):** (1) "tranformando" → transformando; (2) "catarze" → catarse; (3) "áurea" → aura; (4) "Meeeeego" → conferir grafia do grito; (5) "Assista aqui o espetáculo" → crase; (6) capitalização de subtítulo; (7) cosméticos do site.
-- **Vídeo incorporado:** "O ESPETÁCULO DA NAÇÃO RUBRO-NEGRA"; ficha do vídeo atualizada com a inserção.
+- **Vídeo incorporado:** "O ESPETÁCULO DA NAÇÃO RUBRO-NEGRA"; ficha do vídeo atualizada com a inserção, confirmada pelo editor.
 - Ficha da notícia criada; Painel e Log atualizados.
 - Alterações documentais realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.
 
