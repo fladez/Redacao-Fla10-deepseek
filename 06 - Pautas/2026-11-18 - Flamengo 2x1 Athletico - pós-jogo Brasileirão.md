@@ -33,5 +33,8 @@ proveniencia: produção interna — texto publicado pela redação; registro e 
 2. **Público "mais de 68 mil":** confirmar o número oficial antes de reutilizar.
 3. **Cosméticos do site:** "1 acessos".
 
+## Vídeo incorporado (19/11/2026)
+- O vídeo "OS GOLS DE FLAMENGO 2 X 1 CAP" foi inserido no corpo desta matéria pós-jogo, conforme confirmação do editor.
+
 ## Estado
 Publicada. Correções no portal dependem do editor.

@@ -3286,8 +3286,8 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 - **URL pública:** https://fla10.news/videos/os-gols-de-flamengo-2-x-1-cap
 - **Formato:** Vídeo — Gols. Views na verificação: 4.
 - **Conteúdo:** gols de Vargas (10'), Carrascal (16') e Jorginho (26', pênalti).
-- **Inserções:** o mesmo vídeo foi incorporado ao corpo do pré-jogo "Flamengo x Athletico-PR: Rubro-Negro defende liderança" e da análise "Flamengo vence, mas perde o controle", nesta sob o intertítulo "Veja os gols da virada do Flamengo".
-- **Revisão pós-publicação:** (1) título com "CAP" — "Athletico-PR" ajudaria a busca; (2) página sem descrição, duração, créditos ou link para a cobertura escrita; (3) pré-jogo é peça anterior ao jogo — se o vídeo dos gols foi inserido depois, atualizar o contexto; (4) cosméticos.
+- **Inserções:** o mesmo vídeo foi incorporado ao corpo do **pós-jogo** "Flamengo vence o Athletico-PR, abre seis pontos sobre o Palmeiras e fica perto do título brasileiro" e da análise "Flamengo vence, mas perde o controle", nesta sob o intertítulo "Veja os gols da virada do Flamengo".
+- **Revisão pós-publicação:** (1) título com "CAP" — "Athletico-PR" ajudaria a busca; (2) página sem descrição, duração, créditos ou link para a cobertura escrita; (3) cosméticos.
 - **Ficha editorial:** [[2026-11-19 - Vídeo Os gols de Flamengo 2x1 CAP]].
 - **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações. Correções no portal dependem do editor.
 

@@ -32,13 +32,12 @@ proveniencia: produção interna — vídeo publicado pela redação
 
 ## Inserções em outras matérias
 - **Análise jornalística** "Flamengo vence, mas perde o controle": vídeo incorporado no corpo, sob o intertítulo "Veja os gols da virada do Flamengo", antes da seção sobre as escolhas de Jardim.
-- **Pré-jogo** "Flamengo x Athletico-PR: Rubro-Negro defende liderança": o editor informou a inserção do mesmo vídeo no corpo. A página é uma peça prévia; se o vídeo dos gols foi incluído depois da partida, convém deixar claro no texto que se trata de material posterior ao jogo.
+- **Pós-jogo** "Flamengo vence o Athletico-PR, abre seis pontos sobre o Palmeiras e fica perto do título brasileiro": vídeo incorporado no corpo, conforme confirmação do editor.
 
 ## Revisão pós-publicação (19/11/2026)
 1. **Título:** "CAP" é abreviação interna; para busca, "Athletico-PR" comunica melhor. A caixa alta segue o padrão da seção de vídeos, mas o nome completo ajudaria SEO.
 2. **Sem descrição:** a página não informa gols, minutos, estádio, rodada nem link para a cobertura. Uma descrição curta com esses dados e um link para o pós-jogo/análise aumentaria o tempo de permanência e o internal linking.
-3. **Pré-jogo com vídeo de gols:** conferir se a peça prévia foi atualizada com contexto posterior; caso contrário, o leitor pode encontrar um vídeo de um jogo que o texto ainda trata como futuro.
-4. **Cosméticos:** "4 visualizações" na verificação.
+3. **Cosméticos:** "4 visualizações" na verificação.
 
 ## Estado
 Publicada. Correções no portal dependem do editor.

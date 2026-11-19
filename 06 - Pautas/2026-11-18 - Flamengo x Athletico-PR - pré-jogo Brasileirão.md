@@ -36,9 +36,5 @@ proveniencia: produção interna — pauta produzida pela IA em colaboração co
 6. **SporTV/sportv:** padronizar a marca como "sportv", usada no restante do site.
 7. **Cosméticos do site:** "2 acessos".
 
-## Vídeo incorporado (19/11/2026)
-- O editor informou a inserção do vídeo "OS GOLS DE FLAMENGO 2 X 1 CAP" no corpo desta matéria.
-- Observação: a peça é prévia ao jogo; se o vídeo dos gols foi incluído depois da partida, convém atualizar o contexto ou sinalizar que o material é posterior.
-
 ## Estado
 Publicada. Correções no portal dependem do editor.

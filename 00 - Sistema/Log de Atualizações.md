@@ -1743,13 +1743,13 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 
 
 ## 2026-11-19 — Publicação confirmada: vídeo dos gols de Flamengo 2 x 1 Athletico
-- O editor confirmou a publicação da página de vídeo e informou que o mesmo vídeo foi inserido no corpo do pré-jogo e da análise jornalística.
+- O editor confirmou a publicação da página de vídeo e informou que o mesmo vídeo foi inserido no corpo do pós-jogo e da análise jornalística.
 - **URL do vídeo:** https://fla10.news/videos/os-gols-de-flamengo-2-x-1-cap
 - **Estrutura observada:** título em caixa alta, categoria "Gols", data, views, player e bloco "Vídeos Recentes"; sem descrição, duração, créditos ou link para a cobertura escrita.
-- **Inserções:** pré-jogo "Flamengo x Athletico-PR: Rubro-Negro defende liderança" e análise "Flamengo vence, mas perde o controle", nesta sob o intertítulo "Veja os gols da virada do Flamengo".
-- **Aprendizados registrados no novo manual de Vídeos:** título com nome completo do adversário, descrição com competição/rodada/estádio/gols, link para a cobertura escrita e cuidado ao inserir vídeo de pós-jogo em peça prévia.
-- **Revisão pós-publicação (achados para o editor):** (1) "CAP" no título; (2) página sem descrição e sem link interno; (3) vídeo de gols no pré-jogo sem atualização de contexto; (4) cosméticos.
-- Ficha do vídeo criada; fichas do pré-jogo e da análise atualizadas; Painel e Log atualizados.
+- **Inserções:** pós-jogo "Flamengo vence o Athletico-PR, abre seis pontos sobre o Palmeiras e fica perto do título brasileiro" e análise "Flamengo vence, mas perde o controle", nesta sob o intertítulo "Veja os gols da virada do Flamengo".
+- **Aprendizados registrados no novo manual de Vídeos:** título com nome completo do adversário, descrição com competição/rodada/estádio/gols, link para a cobertura escrita e cuidado com a incorporação.
+- **Revisão pós-publicação (achados para o editor):** (1) "CAP" no título; (2) página sem descrição e sem link interno; (3) cosméticos.
+- Ficha do vídeo criada; fichas do pós-jogo e da análise atualizadas; Painel e Log atualizados.
 - Alterações documentais realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.
 
 
