@@ -3303,6 +3303,18 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 - **Ficha editorial:** [[2026-11-19 - Reportagem Fla10 - fair play financeiro]].
 - **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações. Correções no portal dependem do editor.
 
+
+## Publicação confirmada — Voz do Torcedor: vitória sobre o Athletico (19/11/2026)
+
+- **Estado:** publicada em 19/11/2026, conforme confirmação do editor.
+- **Título:** *GANHAMO, PORRA! MAS PRECISAVA DESSE TESTE CARDÍACO, JARDIM?*
+- **URL pública:** https://fla10.news/voz-torcedor/ganhamo-porra-mas-precisava-desse-teste-cardiaco-jardim-
+- **Formato:** A Voz do Torcedor — opinião. Autoria: Cadu Marques.
+- **Conteúdo:** golaço de Vargas, crítica à posição de Rossi, empate de Carrascal, virada de Jorginho, crítica ao segundo tempo e às substituições de Jardim; cenário do título com 79 x 73 e empate que garante a taça; convocação da torcida para o Nubank Parque.
+- **Revisão pós-publicação:** (1) "voleio" de Carrascal a conferir; (2) termos pejorativos ao Palmeiras — ponderar com a regra de evitar insultos gratuitos; (3) cosméticos.
+- **Ficha editorial:** [[2026-11-19 - Voz do Torcedor - Ganhamo porra teste cardíaco]].
+- **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações. Correções no portal dependem do editor.
+
 ## Publicação confirmada — Bustos de Arrascaeta e Bruno Henrique na Gávea (15/11/2026)
 
 - **Estado:** publicada em 15/11/2026, conforme confirmação do editor. **Primeira matéria solicitada pelo editor através do Telegram**, após o ajuste do gateway (sessão do bot criada com preset padrão, com acesso a web, arquivos e terminal).
