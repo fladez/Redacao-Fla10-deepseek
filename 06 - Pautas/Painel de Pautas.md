@@ -3278,6 +3278,19 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 - **Ficha editorial:** [[2026-11-19 - Raio-X Tático Flamengo x Athletico]].
 - **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações. Correções no portal dependem do editor.
 
+
+## Publicação confirmada — Vídeo dos gols de Flamengo 2 x 1 Athletico (19/11/2026)
+
+- **Estado:** publicado em 19/11/2026, conforme confirmação do editor.
+- **Título:** *OS GOLS DE FLAMENGO 2 X 1 CAP*.
+- **URL pública:** https://fla10.news/videos/os-gols-de-flamengo-2-x-1-cap
+- **Formato:** Vídeo — Gols. Views na verificação: 4.
+- **Conteúdo:** gols de Vargas (10'), Carrascal (16') e Jorginho (26', pênalti).
+- **Inserções:** o mesmo vídeo foi incorporado ao corpo do pré-jogo "Flamengo x Athletico-PR: Rubro-Negro defende liderança" e da análise "Flamengo vence, mas perde o controle", nesta sob o intertítulo "Veja os gols da virada do Flamengo".
+- **Revisão pós-publicação:** (1) título com "CAP" — "Athletico-PR" ajudaria a busca; (2) página sem descrição, duração, créditos ou link para a cobertura escrita; (3) pré-jogo é peça anterior ao jogo — se o vídeo dos gols foi inserido depois, atualizar o contexto; (4) cosméticos.
+- **Ficha editorial:** [[2026-11-19 - Vídeo Os gols de Flamengo 2x1 CAP]].
+- **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações. Correções no portal dependem do editor.
+
 ## Publicação confirmada — Bustos de Arrascaeta e Bruno Henrique na Gávea (15/11/2026)
 
 - **Estado:** publicada em 15/11/2026, conforme confirmação do editor. **Primeira matéria solicitada pelo editor através do Telegram**, após o ajuste do gateway (sessão do bot criada com preset padrão, com acesso a web, arquivos e terminal).

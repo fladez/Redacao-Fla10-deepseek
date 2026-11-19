@@ -38,5 +38,8 @@ proveniencia: produção interna — texto publicado pela redação; registro e 
 2. **Substituições:** Saúl, Bruno Henrique, Plata, Joaquín Freitas e Ayrton Lucas — conferir a ordem e os minutos caso a peça seja atualizada.
 3. **Cosméticos do site:** "2 acessos".
 
+## Vídeo incorporado (19/11/2026)
+- O vídeo "OS GOLS DE FLAMENGO 2 X 1 CAP" foi inserido no corpo da análise, sob o intertítulo "Veja os gols da virada do Flamengo", antes da seção sobre as escolhas de Jardim.
+
 ## Estado
 Publicada. Correções no portal dependem do editor.
