@@ -28,14 +28,16 @@ proveniencia: produção interna — texto publicado pela redação; registro e 
 - Apoio da torcida no segundo tempo; grito "Mengo".
 - Notícia da derrota do Palmeiras para o Cruzeiro; 79 x 73; empate garante o título no sábado.
 
-## Revisão pós-publicação (19/11/2026)
-1. **"tranformando"** → transformando.
-2. **"catarze coletiva"** → catarse coletiva.
-3. **"áurea quase mística"** → aura quase mística ("áurea" significa dourada).
-4. **"Meeeeego"** → o grito é "Meeeeengo" (Mengo); conferir a grafia usada pela torcida.
-5. **"Assista aqui o espetáculo"** → "Assista aqui ao espetáculo" (crase).
-6. **Capitalização de subtítulo:** "A Nação Segurou o Flamengo nos braços, nos momentos de maior pressão" foge do padrão dos demais subtítulos; padronizar.
-7. **Cosméticos do site:** "1 acessos".
+## Revisão pós-publicação (19/11/2026) — disposições do editor
+1. **"tranformando"** → **corrigido** para "transformando".
+2. **"catarze coletiva"** → **corrigido** para "catarse coletiva".
+3. **"áurea quase mística"** → **corrigido** para "aura quase mística".
+4. **"Meeeeego"** → **corrigido** para "Meeeeengo".
+5. **"Assista aqui o espetáculo"** → **corrigido** para "Assista aqui ao espetáculo".
+6. **Capitalização do subtítulo:** mantida a forma original; considerada opção editorial.
+7. **Cosméticos:** **dispensado**.
+
+Verificação na página em 19/11/2026: as cinco correções textuais estão publicadas. O subtítulo "A Nação Segurou o Flamengo nos braços..." permanece com a capitalização original.
 
 ## Vídeo incorporado
 - O vídeo "O ESPETÁCULO DA NAÇÃO RUBRO-NEGRA" foi incorporado no corpo, sob a chamada "Assista aqui o espetáculo da Nação nesta quarta no Maracanã".
