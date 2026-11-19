@@ -3252,6 +3252,18 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 - **Ficha editorial:** [[2026-11-19 - Flamengo 2x1 Athletico - análise jornalística]].
 - **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações. Correções no portal dependem do editor.
 
+
+## Publicação confirmada — Análise Cruzeiro 2 x 1 Palmeiras (19/11/2026)
+
+- **Estado:** publicada em 19/11/2026, conforme confirmação do editor.
+- **Título:** *Palmeiras perde o controle no Mineirão: virada do Cruzeiro expõe apagão e deixa o título nas mãos do Flamengo*.
+- **URL pública:** https://fla10.news/noticias/palmeiras-perde-o-controle-no-mineirao-virada-do-cruzeiro-expoe-apagao-e-deixa-o-titulo-nas-maos-do-flamengo
+- **Formato:** Análise jornalística — Brasileirão. Autoria na página: Miguel Sampaio.
+- **Conteúdo:** virada do Cruzeiro em três minutos (Sosa, Matheus Pereira e gol contra de Khellven); fragilidade palmeirense nas bolas paradas; 79 x 73; empate no sábado garante o título ao Flamengo; Palmeiras precisa vencer para seguir vivo.
+- **Revisão pós-publicação:** (1) autoria de Miguel Sampaio em análise hard news — conferir intenção; (2) "Assista os gols" → "Assista aos gols"; (3) cosméticos.
+- **Ficha editorial:** [[2026-11-19 - Cruzeiro 2x1 Palmeiras - análise jornalística]].
+- **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações. Correções no portal dependem do editor.
+
 ## Publicação confirmada — Bustos de Arrascaeta e Bruno Henrique na Gávea (15/11/2026)
 
 - **Estado:** publicada em 15/11/2026, conforme confirmação do editor. **Primeira matéria solicitada pelo editor através do Telegram**, após o ajuste do gateway (sessão do bot criada com preset padrão, com acesso a web, arquivos e terminal).

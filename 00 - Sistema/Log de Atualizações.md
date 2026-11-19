@@ -1721,6 +1721,16 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - Alterações documentais realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.
 
 
+## 2026-11-19 — Publicação confirmada: análise Cruzeiro 2 x 1 Palmeiras
+- O editor confirmou a publicação e forneceu a URL.
+- Matéria: **“Palmeiras perde o controle no Mineirão: virada do Cruzeiro expõe apagão e deixa o título nas mãos do Flamengo”**, seção Brasileirão, autoria de Miguel Sampaio na página.
+- **URL pública:** https://fla10.news/noticias/palmeiras-perde-o-controle-no-mineirao-virada-do-cruzeiro-expoe-apagao-e-deixa-o-titulo-nas-maos-do-flamengo
+- **Conteúdo:** virada do Cruzeiro em três minutos (Sosa, Matheus Pereira e gol contra de Khellven); fragilidade palmeirense nas bolas paradas; 79 x 73; empate no sábado garante o título ao Flamengo; Palmeiras precisa vencer para seguir vivo.
+- **Revisão pós-publicação (achados para o editor):** (1) autoria de Miguel Sampaio em análise hard news — conferir intenção; (2) "Assista os gols" → "Assista aos gols"; (3) cosméticos do site.
+- Ficha da pauta criada; Painel e Log atualizados.
+- Alterações documentais realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.
+
+
 ## 2026-11-15 — Publicação confirmada: Bustos de Arrascaeta e Bruno Henrique na Gávea
 - O editor confirmou a publicação e forneceu a URL. **Primeira matéria solicitada através do Telegram** após o ajuste do gateway: a sessão do bot passou a ser criada com o preset padrão, com acesso a web, arquivos e terminal.
 - Matéria: **“Flamengo inaugura bustos de Arrascaeta e Bruno Henrique na Gávea no aniversário de 131 anos”**, seção Clube, autoria de Mariana Costa na página.
