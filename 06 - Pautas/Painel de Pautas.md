@@ -3226,6 +3226,19 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 - **Ficha editorial:** [[2026-11-18 - Flamengo 2x1 Athletico - pós-jogo Brasileirão]].
 - **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações. Correções no portal dependem do editor.
 
+
+## Publicação confirmada — Depois do Apito: Flamengo perto da taça (18/11/2026)
+
+- **Estado:** publicada em 18/11/2026, conforme confirmação do editor (a página exibe 19/11).
+- **Título:** *O Flamengo está muito perto da taça, mas ainda precisa jogar como se ainda estivesse longe*.
+- **URL pública:** https://fla10.news/colunas/o-flamengo-esta-muito-perto-da-taca-mas-ainda-precisa-jogar-como-se-ainda-estivesse-longe
+- **Formato:** Depois do Apito — coluna de Miguel Sampaio.
+- **Produção:** crônica montada pelo editor com trechos da IA e de outras ferramentas; comparação e aprendizados registrados.
+- **Conteúdo:** vitória por 2 a 1 sobre o Athletico; golaço de Vargas; reação com Carrascal e Jorginho; segundo tempo de administração; virada do Cruzeiro sobre o Palmeiras; 79 x 73; suspensões de Pulgar e Léo Pereira; tese de que o time precisa jogar como se ainda estivesse longe.
+- **Revisão pós-publicação:** (1) repetição de "Talvez seja esse..."; (2) cronologia do Mineirão (empate x virada); (3) "notícia ruim" no início do segundo tempo a conferir; (4) travessão de Lino a confirmar; (5) cosméticos.
+- **Ficha editorial:** [[2026-11-19 - Depois do Apito - Flamengo perto da taça - coluna]].
+- **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações. Correções no portal dependem do editor.
+
 ## Publicação confirmada — Bustos de Arrascaeta e Bruno Henrique na Gávea (15/11/2026)
 
 - **Estado:** publicada em 15/11/2026, conforme confirmação do editor. **Primeira matéria solicitada pelo editor através do Telegram**, após o ajuste do gateway (sessão do bot criada com preset padrão, com acesso a web, arquivos e terminal).

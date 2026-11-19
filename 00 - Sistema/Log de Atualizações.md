@@ -1700,6 +1700,17 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - Alterações documentais realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.
 
 
+## 2026-11-18 — Publicação confirmada: Depois do Apito — Flamengo perto da taça
+- O editor confirmou a publicação e pediu comparação entre a crônica da IA e a versão publicada, montada com trechos de várias ferramentas.
+- Coluna: **“O Flamengo está muito perto da taça, mas ainda precisa jogar como se ainda estivesse longe”**, assinada por Miguel Sampaio.
+- **URL pública:** https://fla10.news/colunas/o-flamengo-esta-muito-perto-da-taca-mas-ainda-precisa-jogar-como-se-ainda-estivesse-longe
+- **Comparação registrada na ficha:** a versão publicada abriu na voz da persona ("Já vi muitos gols..."), deu tese mais afiada (jogar como se estivesse longe, evitar "versão econômica"), acrescentou o travessão de Lino, explicitou a crítica ao segundo tempo e ampliou o fechamento.
+- **Aprendizados registrados no manual de Depois do Apito:** crônica precisa de tese, abertura na voz da persona, crítica medida, detalhe específico e fechamento projetivo; evitar repetir fórmulas de parágrafo e conferir cronologia de jogos simultâneos.
+- **Revisão pós-publicação (achados para o editor):** (1) repetição de "Talvez seja esse..."; (2) cronologia do Mineirão (empate x virada); (3) "notícia ruim" no início do segundo tempo a conferir; (4) travessão de Lino a confirmar; (5) cosméticos do site.
+- Ficha da coluna criada; Painel e Log atualizados.
+- Alterações documentais realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.
+
+
 ## 2026-11-15 — Publicação confirmada: Bustos de Arrascaeta e Bruno Henrique na Gávea
 - O editor confirmou a publicação e forneceu a URL. **Primeira matéria solicitada através do Telegram** após o ajuste do gateway: a sessão do bot passou a ser criada com o preset padrão, com acesso a web, arquivos e terminal.
 - Matéria: **“Flamengo inaugura bustos de Arrascaeta e Bruno Henrique na Gávea no aniversário de 131 anos”**, seção Clube, autoria de Mariana Costa na página.
