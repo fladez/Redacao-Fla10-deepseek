@@ -20,3 +20,7 @@ Publicar vídeos curtos de gols, treinos, bastidores e melhores momentos, com p�
 ## Rigor
 - O vídeo não substitui a apuração: placar, autores e minutos precisam estar corretos na descrição.
 - Não publicar vídeo de terceiros sem direito de uso.
+
+## Observação de 19/11/2026 (vídeo de torcida)
+
+Vídeos de torcida podem ter título poético ("O espetáculo da Nação rubro-negra"), mas precisam de descrição que responda: qual jogo, qual estádio, quando e o que aparece no vídeo. Sem isso, o título não é encontrável e o leitor não sabe o que está assistindo. Linkar a cobertura escrita do jogo correspondente.

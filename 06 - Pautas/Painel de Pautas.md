@@ -3327,6 +3327,17 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 - **Ficha editorial:** [[2026-11-19 - Taça no Maracanã - notícia]].
 - **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações. Correções no portal dependem do editor.
 
+
+## Publicação confirmada — Vídeo "O espetáculo da Nação rubro-negra" (19/11/2026)
+
+- **Estado:** publicado em 19/11/2026, conforme confirmação do editor.
+- **Título:** *O ESPETÁCULO DA NAÇÃO RUBRO-NEGRA*.
+- **URL pública:** https://fla10.news/videos/o-espetaculo-da-nacao-rubro-negra
+- **Formato:** Vídeo — Torcida. Views na verificação: 0.
+- **Revisão pós-publicação:** (1) título sem indicação de jogo/estádio; (2) ausência de descrição, duração e créditos; (3) sem link para a cobertura escrita; (4) cosméticos.
+- **Ficha editorial:** [[2026-11-19 - Vídeo O espetáculo da nação rubro-negra]].
+- **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações. Correções no portal dependem do editor.
+
 ## Publicação confirmada — Bustos de Arrascaeta e Bruno Henrique na Gávea (15/11/2026)
 
 - **Estado:** publicada em 15/11/2026, conforme confirmação do editor. **Primeira matéria solicitada pelo editor através do Telegram**, após o ajuste do gateway (sessão do bot criada com preset padrão, com acesso a web, arquivos e terminal).

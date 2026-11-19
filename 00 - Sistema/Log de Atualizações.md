@@ -1784,6 +1784,16 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - Alterações documentais realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.
 
 
+## 2026-11-19 — Publicação confirmada: vídeo "O espetáculo da Nação rubro-negra"
+- O editor confirmou a publicação e forneceu a URL.
+- **URL do vídeo:** https://fla10.news/videos/o-espetaculo-da-nacao-rubro-negra
+- **Estrutura observada:** título em caixa alta, categoria "Torcida", data, views e player; sem descrição, duração, créditos ou link para a cobertura escrita.
+- **Revisão pós-publicação (achados para o editor):** (1) título sem indicação de jogo/estádio; (2) ausência de descrição; (3) sem link para a cobertura do jogo; (4) cosméticos.
+- **Aprendizado registrado no manual de Vídeos:** título poético de torcida precisa de descrição com jogo, estádio, data e conteúdo, além de link para a cobertura.
+- Ficha do vídeo criada; Painel e Log atualizados.
+- Alterações documentais realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.
+
+
 ## 2026-11-15 — Publicação confirmada: Bustos de Arrascaeta e Bruno Henrique na Gávea
 - O editor confirmou a publicação e forneceu a URL. **Primeira matéria solicitada através do Telegram** após o ajuste do gateway: a sessão do bot passou a ser criada com o preset padrão, com acesso a web, arquivos e terminal.
 - Matéria: **“Flamengo inaugura bustos de Arrascaeta e Bruno Henrique na Gávea no aniversário de 131 anos”**, seção Clube, autoria de Mariana Costa na página.
