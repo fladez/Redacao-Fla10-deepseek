@@ -3291,6 +3291,18 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 - **Ficha editorial:** [[2026-11-19 - Vídeo Os gols de Flamengo 2x1 CAP]].
 - **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações. Correções no portal dependem do editor.
 
+
+## Publicação confirmada — Reportagem Fla10: fair play financeiro (19/11/2026)
+
+- **Estado:** publicada em 19/11/2026, conforme confirmação do editor.
+- **Título:** *Flamengo cobra rigor no fair play financeiro e rejeita adiamento de punições no futebol brasileiro*.
+- **URL pública:** https://fla10.news/reportagens/flamengo-cobra-rigor-no-fair-play-financeiro-e-rejeita-adiamento-de-punicoes-no-futebol-brasileiro
+- **Formato:** Reportagens Fla10 — institucional/financeiro. Autoria: Thiago Silva.
+- **Conteúdo:** carta do Flamengo à CBF e à ANRESF; prazo de 30/11; quatro pilares do SSF; movimento de adiamento que perdeu força; isonomia entre associações e SAFs; controle da origem de recursos; o próprio Flamengo sob as regras; dezembro como teste de credibilidade.
+- **Revisão pós-publicação:** (1) falta trecho literal da carta; (2) conferir números dos pilares; (3) conferir lista dos seis clubes no painel da ANRESF; (4) detalhar a articulação do adiamento; (5) cosméticos.
+- **Ficha editorial:** [[2026-11-19 - Reportagem Fla10 - fair play financeiro]].
+- **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações. Correções no portal dependem do editor.
+
 ## Publicação confirmada — Bustos de Arrascaeta e Bruno Henrique na Gávea (15/11/2026)
 
 - **Estado:** publicada em 15/11/2026, conforme confirmação do editor. **Primeira matéria solicitada pelo editor através do Telegram**, após o ajuste do gateway (sessão do bot criada com preset padrão, com acesso a web, arquivos e terminal).
