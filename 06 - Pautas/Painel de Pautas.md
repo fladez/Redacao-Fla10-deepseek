@@ -3315,6 +3315,18 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 - **Ficha editorial:** [[2026-11-19 - Voz do Torcedor - Ganhamo porra teste cardíaco]].
 - **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações. Correções no portal dependem do editor.
 
+
+## Publicação confirmada — Taça do Brasileirão no Maracanã (19/11/2026)
+
+- **Estado:** publicada em 19/11/2026, conforme confirmação do editor.
+- **Título:** *Flamengo pode ser campeão na casa do Palmeiras, mas taça deve ficar para o Maracanã*.
+- **URL pública:** https://fla10.news/noticias/flamengo-pode-ser-campeao-na-casa-do-palmeiras-mas-taca-deve-ficar-para-o-maracana
+- **Formato:** Últimas Notícias — Brasileirão. Autoria: Mariana Costa.
+- **Conteúdo:** empate no sábado garante o título; CBF planeja entregar o troféu no primeiro jogo do campeão como mandante, o que levaria a cerimônia para o Maracanã, contra a Chapecoense; ressalva de planejamento atribuído; contexto de 79 x 73 e critério de vitórias.
+- **Revisão pós-publicação:** sem erros identificados; ressalva sobre a cerimônia bem colocada; logística a confirmar em fonte oficial; cosméticos.
+- **Ficha editorial:** [[2026-11-19 - Taça no Maracanã - notícia]].
+- **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações. Correções no portal dependem do editor.
+
 ## Publicação confirmada — Bustos de Arrascaeta e Bruno Henrique na Gávea (15/11/2026)
 
 - **Estado:** publicada em 15/11/2026, conforme confirmação do editor. **Primeira matéria solicitada pelo editor através do Telegram**, após o ajuste do gateway (sessão do bot criada com preset padrão, com acesso a web, arquivos e terminal).

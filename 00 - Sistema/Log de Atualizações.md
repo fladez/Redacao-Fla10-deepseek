@@ -1774,6 +1774,16 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - Alterações documentais realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.
 
 
+## 2026-11-19 — Publicação confirmada: taça do Brasileirão no Maracanã
+- O editor confirmou a publicação e forneceu a URL.
+- Matéria: **“Flamengo pode ser campeão na casa do Palmeiras, mas taça deve ficar para o Maracanã”**, seção Brasileirão, autoria de Mariana Costa.
+- **URL pública:** https://fla10.news/noticias/flamengo-pode-ser-campeao-na-casa-do-palmeiras-mas-taca-deve-ficar-para-o-maracana
+- **Conteúdo:** empate no sábado garante o título; CBF planeja entregar o troféu no primeiro jogo do campeão como mandante, o que levaria a cerimônia para o Maracanã, contra a Chapecoense; ressalva de planejamento atribuído; contexto de 79 x 73 e critério de vitórias.
+- **Revisão pós-publicação:** sem erros identificados; ressalva sobre a cerimônia bem colocada; logística a confirmar em fonte oficial; cosméticos do site.
+- Ficha da pauta criada; Painel e Log atualizados.
+- Alterações documentais realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.
+
+
 ## 2026-11-15 — Publicação confirmada: Bustos de Arrascaeta e Bruno Henrique na Gávea
 - O editor confirmou a publicação e forneceu a URL. **Primeira matéria solicitada através do Telegram** após o ajuste do gateway: a sessão do bot passou a ser criada com o preset padrão, com acesso a web, arquivos e terminal.
 - Matéria: **“Flamengo inaugura bustos de Arrascaeta e Bruno Henrique na Gávea no aniversário de 131 anos”**, seção Clube, autoria de Mariana Costa na página.
