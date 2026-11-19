@@ -2024,6 +2024,7 @@ A pesquisa acadêmica reforça que a identificação com o clube, o comprometime
   - **Pré-jogo publicado em 18/11/2026.** URL e ficha registradas na publicação confirmada. [[2026-11-18 - Flamengo x Athletico-PR - pré-jogo Brasileirão]].
   - **Notícia — Plata pede para deixar o Equador e volta ao Flamengo: publicada em 18/11/2026.** URL e ficha registradas na publicação confirmada. [[2026-11-18 - Plata pede para deixar o Equador - notícia]].
   - **Escalação confirmada publicada em 18/11/2026.** URL e ficha registradas na publicação confirmada. [[2026-11-18 - Escalação Flamengo x Athletico - notícia]].
+  - **Pós-jogo publicado em 18/11/2026.** Flamengo 2 x 1 Athletico; Palmeiras perde para o Cruzeiro e abre seis pontos. URL e ficha registradas na publicação confirmada. [[2026-11-18 - Flamengo 2x1 Athletico - pós-jogo Brasileirão]].
   - **Classificação editorial:** futebol masculino profissional — equipe principal.
 - **Evento 2:** Flamengo Maricá x Botafogo — Campeonato Carioca Feminino, 3ª rodada (jogo atrasado); 16h (de Brasília); Estádio Municipal João Saldanha, Cordeirinho, Maricá; entrada gratuita; **Onde Assistir publicado em 17/11/2026** (FlamengoTV). URL e ficha registradas na publicação confirmada. Pauta: [[2026-11-17 - Flamengo Maricá x Botafogo - Onde Assistir Carioca Feminino]].
   - **Pauta de serviço:** Onde assistir — 17/11; confirmar estádio e transmissão.
@@ -3211,6 +3212,18 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 - **Conteúdo:** 2 a 1; dois gols de Brendha; Jullia descontou; Flamengo chega a 9 pontos em 3 jogos e assume a vice-liderança; Fluminense lidera com 10; Botafogo fica com 7; próximos jogos.
 - **Revisão pós-publicação:** (1) categoria "Base" — deveria ser "Feminino"; (2) jogo contra o Fluminense em 24/11 x 25/11 no Painel; (3) nomenclatura "Flamengo" x "Flamengo Maricá"; (4) cosméticos.
 - **Ficha editorial:** [[2026-11-18 - Flamengo Maricá x Botafogo - pós-jogo Carioca Feminino]].
+- **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações. Correções no portal dependem do editor.
+
+
+## Publicação confirmada — Pós-jogo Flamengo 2 x 1 Athletico-PR (18/11/2026)
+
+- **Estado:** publicada em 18/11/2026, conforme confirmação do editor (a página exibe 19/11).
+- **Título:** *Flamengo vence o Athletico-PR, abre seis pontos sobre o Palmeiras e fica perto do título brasileiro*.
+- **URL pública:** https://fla10.news/noticias/flamengo-vence-o-athletico-pr-abre-seis-pontos-sobre-o-palmeiras-e-fica-perto-do-titulo-brasileiro
+- **Formato:** Pós-jogo — Brasileirão. Autoria: Thiago Silva.
+- **Conteúdo:** 2 a 1, de virada, com gols de Vargas, Carrascal e Jorginho; Palmeiras perde para o Cruzeiro; Flamengo 79 x 73; empate no sábado pode garantir o título; Pulgar e Léo Pereira suspensos; ficha.
+- **Revisão pós-publicação:** (1) data exibida 19/11; (2) público "mais de 68 mil" a confirmar; (3) cosméticos.
+- **Ficha editorial:** [[2026-11-18 - Flamengo 2x1 Athletico - pós-jogo Brasileirão]].
 - **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações. Correções no portal dependem do editor.
 
 ## Publicação confirmada — Bustos de Arrascaeta e Bruno Henrique na Gávea (15/11/2026)

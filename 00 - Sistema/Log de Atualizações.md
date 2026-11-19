@@ -1690,6 +1690,16 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - Alterações documentais realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.
 
 
+## 2026-11-18 — Publicação confirmada: pós-jogo Flamengo 2 x 1 Athletico-PR
+- O editor confirmou a publicação e forneceu a URL.
+- Matéria: **“Flamengo vence o Athletico-PR, abre seis pontos sobre o Palmeiras e fica perto do título brasileiro”**, seção Brasileirão, autoria de Thiago Silva.
+- **URL pública:** https://fla10.news/noticias/flamengo-vence-o-athletico-pr-abre-seis-pontos-sobre-o-palmeiras-e-fica-perto-do-titulo-brasileiro
+- **Conteúdo:** 2 a 1, de virada, com gols de Vargas, Carrascal e Jorginho; Palmeiras perde para o Cruzeiro por 2 a 1; Flamengo 79 x 73; empate no sábado pode garantir o título; Pulgar e Léo Pereira suspensos; ficha.
+- **Revisão pós-publicação (achados para o editor):** (1) data exibida 19/11 x publicação em 18/11; (2) público "mais de 68 mil" a confirmar; (3) cosméticos do site.
+- Ficha da pauta criada; Painel e Log atualizados.
+- Alterações documentais realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.
+
+
 ## 2026-11-15 — Publicação confirmada: Bustos de Arrascaeta e Bruno Henrique na Gávea
 - O editor confirmou a publicação e forneceu a URL. **Primeira matéria solicitada através do Telegram** após o ajuste do gateway: a sessão do bot passou a ser criada com o preset padrão, com acesso a web, arquivos e terminal.
 - Matéria: **“Flamengo inaugura bustos de Arrascaeta e Bruno Henrique na Gávea no aniversário de 131 anos”**, seção Clube, autoria de Mariana Costa na página.
