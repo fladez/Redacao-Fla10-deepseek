@@ -1731,6 +1731,17 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - Alterações documentais realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.
 
 
+## 2026-11-19 — Publicação confirmada: Raio-X Tático Flamengo 2 x 1 Athletico
+- O editor confirmou a publicação e pediu estudo da estrutura e da redação do Raio-X.
+- Matéria: **“Raio-X Tático: Flamengo pressiona, vira o jogo e perde o controle diante do Athletico”**, seção Análise Tática, autoria de Robson Corrêa.
+- **URL pública:** https://fla10.news/raio-x/raio-x-tatico-flamengo-pressiona-vira-o-jogo-e-perde-o-controle-diante-do-athletico
+- **Conteúdo:** estruturas iniciais (4-3-3 x três zagueiros), pressão e ocupação, corredores e origem da virada, saída do Athletico, mudança no segundo tempo, substituições, o que funcionou/corrigir e diagnóstico para o Palmeiras.
+- **Estudo registrado no manual de Raio-X Tático:** tese de processo, formações como referência, evidência concreta com dado da FERJ, cautelas contra causalidade, blocos de síntese e fechamento em negrito.
+- **Revisão pós-publicação:** sem erros identificados; dados da FERJ e ações de Varela a confirmar; cosméticos do site.
+- Ficha da pauta criada; Painel e Log atualizados.
+- Alterações documentais realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.
+
+
 ## 2026-11-15 — Publicação confirmada: Bustos de Arrascaeta e Bruno Henrique na Gávea
 - O editor confirmou a publicação e forneceu a URL. **Primeira matéria solicitada através do Telegram** após o ajuste do gateway: a sessão do bot passou a ser criada com o preset padrão, com acesso a web, arquivos e terminal.
 - Matéria: **“Flamengo inaugura bustos de Arrascaeta e Bruno Henrique na Gávea no aniversário de 131 anos”**, seção Clube, autoria de Mariana Costa na página.

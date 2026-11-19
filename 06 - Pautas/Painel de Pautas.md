@@ -2026,6 +2026,7 @@ A pesquisa acadêmica reforça que a identificação com o clube, o comprometime
   - **Escalação confirmada publicada em 18/11/2026.** URL e ficha registradas na publicação confirmada. [[2026-11-18 - Escalação Flamengo x Athletico - notícia]].
   - **Pós-jogo publicado em 18/11/2026.** Flamengo 2 x 1 Athletico; Palmeiras perde para o Cruzeiro e abre seis pontos. URL e ficha registradas na publicação confirmada. [[2026-11-18 - Flamengo 2x1 Athletico - pós-jogo Brasileirão]].
   - **Análise jornalística publicada em 19/11/2026.** "Flamengo vence, mas perde o controle". URL e ficha registradas na publicação confirmada. [[2026-11-19 - Flamengo 2x1 Athletico - análise jornalística]].
+  - **Raio-X Tático publicado em 19/11/2026.** "Flamengo pressiona, vira o jogo e perde o controle". URL e ficha registradas na publicação confirmada. [[2026-11-19 - Raio-X Tático Flamengo x Athletico]].
   - **Classificação editorial:** futebol masculino profissional — equipe principal.
 - **Evento 2:** Flamengo Maricá x Botafogo — Campeonato Carioca Feminino, 3ª rodada (jogo atrasado); 16h (de Brasília); Estádio Municipal João Saldanha, Cordeirinho, Maricá; entrada gratuita; **Onde Assistir publicado em 17/11/2026** (FlamengoTV). URL e ficha registradas na publicação confirmada. Pauta: [[2026-11-17 - Flamengo Maricá x Botafogo - Onde Assistir Carioca Feminino]].
   - **Pauta de serviço:** Onde assistir — 17/11; confirmar estádio e transmissão.
@@ -3262,6 +3263,19 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 - **Conteúdo:** virada do Cruzeiro em três minutos (Sosa, Matheus Pereira e gol contra de Khellven); fragilidade palmeirense nas bolas paradas; 79 x 73; empate no sábado garante o título ao Flamengo; Palmeiras precisa vencer para seguir vivo.
 - **Revisão pós-publicação:** (1) autoria de Miguel Sampaio em análise hard news — conferir intenção; (2) "Assista os gols" → "Assista aos gols"; (3) cosméticos.
 - **Ficha editorial:** [[2026-11-19 - Cruzeiro 2x1 Palmeiras - análise jornalística]].
+- **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações. Correções no portal dependem do editor.
+
+
+## Publicação confirmada — Raio-X Tático Flamengo 2 x 1 Athletico (19/11/2026)
+
+- **Estado:** publicada em 19/11/2026, conforme confirmação do editor.
+- **Título:** *Raio-X Tático: Flamengo pressiona, vira o jogo e perde o controle diante do Athletico*.
+- **URL pública:** https://fla10.news/raio-x/raio-x-tatico-flamengo-pressiona-vira-o-jogo-e-perde-o-controle-diante-do-athletico
+- **Formato:** Raio-X Tático — Análise Tática. Autoria: Robson Corrêa.
+- **Conteúdo:** estruturas iniciais (4-3-3 x três zagueiros), pressão e ocupação, corredores e origem da virada, saída do Athletico, mudança no segundo tempo, substituições, o que funcionou/corrigir e diagnóstico para o Palmeiras.
+- **Estudo registrado no manual do formato:** tese de processo, formações como referência, evidência concreta com dado da FERJ, cautelas contra causalidade e blocos de síntese.
+- **Revisão pós-publicação:** sem erros identificados; dados da FERJ e ações de Varela a confirmar; cosméticos.
+- **Ficha editorial:** [[2026-11-19 - Raio-X Tático Flamengo x Athletico]].
 - **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações. Correções no portal dependem do editor.
 
 ## Publicação confirmada — Bustos de Arrascaeta e Bruno Henrique na Gávea (15/11/2026)
