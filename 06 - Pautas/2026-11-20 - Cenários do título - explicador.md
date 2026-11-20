@@ -28,10 +28,12 @@ proveniencia: produção interna — pauta produzida pela IA em colaboração co
 - "Quase 99%" como estimativa probabilística.
 - Calendário: Palmeiras (fora), Coritiba (fora) e Chapecoense (casa).
 
-## Revisão pós-publicação (20/11/2026)
-1. **"Quase 99%" sem fonte:** o número é atribuído genericamente a "levantamentos divulgados nesta quinta-feira". O Dia publicou 98%; o Lance! falava em quase 99%. Atribuir a fonte e, se possível, registrar a divergência.
-2. **Imagem duplicada e créditos divergentes:** a segunda imagem é a mesma da primeira (Fbsa8YI.png), mas a legenda credita "Adriano Fontes/CF" enquanto a imagem principal indica "Gilvan de Souza/CRF". Conferir e padronizar.
-3. **Cosméticos do site:** "1 acessos".
+## Revisão pós-publicação (20/11/2026) — disposições do editor
+1. **"Quase 99%" sem fonte:** **corrigido** com a menção a "diversos veículos de jornalismo esportivo". Resta um erro de digitação na frase: "Levantamentos **estatídico**" → "estatísticos" (concordância e grafia).
+2. **Imagem duplicada e créditos divergentes:** **corrigido** — a segunda imagem foi trocada (23glorE.png) e os créditos foram padronizados (Gilvan de Souza/CRF na principal; Adriano Fontes/CF na segunda).
+3. **Cosméticos do site:** **dispensado**.
+
+Verificação na página em 20/11/2026: as duas correções estão publicadas; permanece apenas o typo "estatídico".
 
 ## Estado
 Publicada. Correções no portal dependem do editor.

@@ -1849,6 +1849,7 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - **URL pública:** https://fla10.news/noticias/a-um-empate-do-titulo-os-cenarios-do-flamengo-para-ser-campeao-no-sabado
 - **Conteúdo:** 79 x 73; vitória garante; empate garante pelo critério de vitórias; derrota adia; explicação do desempate; "quase 99%" como estimativa; calendário restante.
 - **Revisão pós-publicação (achados para o editor):** (1) "quase 99%" sem fonte (O Dia publicou 98%; Lance! falava em quase 99%); (2) imagem duplicada com créditos divergentes (Gilvan de Souza/CRF x Adriano Fontes/CF); (3) cosméticos do site.
+- **Disposições do editor (20/11):** itens 1 e 2 corrigidos; item 3 dispensado. Permanece o typo "estatídico" na frase dos levantamentos — corrigir para "estatísticos".
 - Ficha da pauta criada; Painel e Log atualizados.
 - Alterações documentais realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.
 
