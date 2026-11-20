@@ -2044,6 +2044,7 @@ A pesquisa acadêmica reforça que a identificação com o clube, o comprometime
 ### 20/11/2026 — sexta-feira
 - **Reportagem Fla10 — O Flamengo que arrecada mais, mas precisa rever sua estratégia financeira:** pauta transferida; apuração documental e redação pendentes. Conferir indicadores do relatório oficial do terceiro trimestre, atribuir as projeções de déficit e de vendas de atletas e não inferir crise de caixa. Avaliar a relação com a reportagem sobre a Betano publicada em 14/11. Ficha: [[2026-11-09 - Reportagem Fla10 - financas]].
 - **Explicador dos cenários do título:** **publicado em 20/11/2026.** "A um empate do título". URL e ficha registradas na publicação confirmada. [[2026-11-20 - Cenários do título - explicador]].
+- **Notícia — blindagem do elenco:** **publicada em 20/11/2026.** Pacto no vestiário e nota oficial. URL e ficha registradas na publicação confirmada. [[2026-11-20 - Flamengo se blinda do já ganhou - notícia]].
 - **Onde Assistir — Palmeiras x Flamengo:** publicação prevista para 20/11, **somente após 20h30** (determinação do editor). Confirmar transmissão antes de produzir.
 
 ### 21/11/2026 — sábado
@@ -3409,6 +3410,18 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 - **Conteúdo:** 79 x 73; vitória garante; empate garante pelo critério de vitórias; derrota adia; explicação do desempate; "quase 99%" como estimativa; calendário restante.
 - **Revisão pós-publicação:** (1) "quase 99%" sem fonte (O Dia publicou 98%); (2) imagem duplicada com créditos divergentes; (3) cosméticos.
 - **Ficha editorial:** [[2026-11-20 - Cenários do título - explicador]].
+- **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações. Correções no portal dependem do editor.
+
+
+## Publicação confirmada — Notícia "Flamengo se blinda do 'já ganhou'" (20/11/2026)
+
+- **Estado:** publicada em 20/11/2026, conforme confirmação do editor.
+- **Título:** *Flamengo se blinda do "já ganhou": pacto no vestiário e nota oficial pregam cautela antes da decisão*.
+- **URL pública:** https://fla10.news/noticias/flamengo-se-blinda-do-ja-ganhou-pacto-no-vestiario-e-nota-oficial-pregam-cautela-antes-da-decisao
+- **Formato:** Últimas Notícias — Brasileirão. Autoria: Mariana Costa.
+- **Conteúdo:** frase de Bruno Henrique ("Não conquistamos nada"), declarações de Samuel Lino, nota oficial na íntegra, postura de Jardim, justificativa da cautela e cenário do título.
+- **Revisão pós-publicação:** (1) "a três dias da decisão" → são dois dias; (2) "o regulamento exige" — reformular; (3) linha fina truncada; (4) cosméticos.
+- **Ficha editorial:** [[2026-11-20 - Flamengo se blinda do já ganhou - notícia]].
 - **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações. Correções no portal dependem do editor.
 
 ## Publicação confirmada — Bustos de Arrascaeta e Bruno Henrique na Gávea (15/11/2026)

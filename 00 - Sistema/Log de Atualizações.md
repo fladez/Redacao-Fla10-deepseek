@@ -1850,6 +1850,16 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - Alterações documentais realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.
 
 
+## 2026-11-20 — Publicação confirmada: notícia "Flamengo se blinda do 'já ganhou'"
+- O editor confirmou a publicação e forneceu a URL.
+- Matéria: **“Flamengo se blinda do "já ganhou": pacto no vestiário e nota oficial pregam cautela antes da decisão”**, seção Brasileirão, autoria de Mariana Costa.
+- **URL pública:** https://fla10.news/noticias/flamengo-se-blinda-do-ja-ganhou-pacto-no-vestiario-e-nota-oficial-pregam-cautela-antes-da-decisao
+- **Conteúdo:** frase de Bruno Henrique ("Não conquistamos nada"), declarações de Samuel Lino, nota oficial na íntegra, postura de Jardim, justificativa da cautela e cenário do título.
+- **Revisão pós-publicação (achados para o editor):** (1) "a três dias da decisão" → são dois dias; (2) "o regulamento exige" — reformular; (3) linha fina truncada; (4) cosméticos do site.
+- Ficha da pauta criada; Painel e Log atualizados.
+- Alterações documentais realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.
+
+
 ## 2026-11-20 — Publicação confirmada: explicador dos cenários do título
 - O editor confirmou a publicação e forneceu a URL.
 - Matéria: **“A um empate do título: os cenários do Flamengo para ser campeão no sábado”**, seção Brasileirão, autoria de Thiago Silva.
