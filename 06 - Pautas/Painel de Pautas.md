@@ -2037,6 +2037,7 @@ A pesquisa acadêmica reforça que a identificação com o clube, o comprometime
 
 ### 20/11/2026 — sexta-feira
 - **Reportagem Fla10 — O Flamengo que arrecada mais, mas precisa rever sua estratégia financeira:** pauta transferida; apuração documental e redação pendentes. Conferir indicadores do relatório oficial do terceiro trimestre, atribuir as projeções de déficit e de vendas de atletas e não inferir crise de caixa. Avaliar a relação com a reportagem sobre a Betano publicada em 14/11. Ficha: [[2026-11-09 - Reportagem Fla10 - financas]].
+- **Fla Tirinhas:** pauta incluída por solicitação do editor em 19/11/2026. **Tema a definir**; produção e publicação previstas para 20/11. Aguardar a definição do editor antes de iniciar.
 
 ### 21/11/2026 — sábado
 - **Evento:** Palmeiras x Flamengo — Brasileirão; 16h30, Nubank Parque.
