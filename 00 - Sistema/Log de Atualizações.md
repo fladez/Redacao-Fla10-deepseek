@@ -1843,6 +1843,13 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - Alterações documentais realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.
 
 
+## 2026-11-20 — Ajustes de agenda: Tirinhas para 21/11 e Onde Assistir após 20h30
+- A pedido do editor, a pauta **Fla Tirinhas** foi transferida da agenda de 20/11 para 21/11; tema continua a definir.
+- O **Onde Assistir de Palmeiras x Flamengo** deve ser publicado **somente após 20h30 de 20/11**, conforme determinação do editor.
+- Painel de Pautas atualizado.
+- Alterações documentais realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.
+
+
 ## 2026-11-20 — Publicação confirmada: explicador dos cenários do título
 - O editor confirmou a publicação e forneceu a URL.
 - Matéria: **“A um empate do título: os cenários do Flamengo para ser campeão no sábado”**, seção Brasileirão, autoria de Thiago Silva.

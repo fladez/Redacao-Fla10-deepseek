@@ -2043,13 +2043,14 @@ A pesquisa acadêmica reforça que a identificação com o clube, o comprometime
 
 ### 20/11/2026 — sexta-feira
 - **Reportagem Fla10 — O Flamengo que arrecada mais, mas precisa rever sua estratégia financeira:** pauta transferida; apuração documental e redação pendentes. Conferir indicadores do relatório oficial do terceiro trimestre, atribuir as projeções de déficit e de vendas de atletas e não inferir crise de caixa. Avaliar a relação com a reportagem sobre a Betano publicada em 14/11. Ficha: [[2026-11-09 - Reportagem Fla10 - financas]].
-- **Fla Tirinhas:** pauta incluída por solicitação do editor em 19/11/2026. **Tema a definir**; produção e publicação previstas para 20/11. Aguardar a definição do editor antes de iniciar.
 - **Explicador dos cenários do título:** **publicado em 20/11/2026.** "A um empate do título". URL e ficha registradas na publicação confirmada. [[2026-11-20 - Cenários do título - explicador]].
+- **Onde Assistir — Palmeiras x Flamengo:** publicação prevista para 20/11, **somente após 20h30** (determinação do editor). Confirmar transmissão antes de produzir.
 
 ### 21/11/2026 — sábado
 - **Evento:** Palmeiras x Flamengo — Brasileirão; 16h30, Nubank Parque.
-- **Pauta de serviço:** Onde assistir — 20/11.
+- **Pauta de serviço:** Onde assistir — 20/11, após 20h30.
 - **Cobertura no evento:** pré-jogo pela manhã; pós-jogo; análise jornalística; Depois do Apito; Raio-X Tático.
+- **Fla Tirinhas:** pauta transferida de 20/11 para 21/11 por determinação do editor. **Tema a definir**; produção e publicação previstas para 21/11.
 - **Classificação editorial:** futebol masculino profissional — equipe principal.
 
 ### 22/11/2026 — domingo
