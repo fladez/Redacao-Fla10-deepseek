@@ -116,3 +116,11 @@ Adicionar novas entradas abaixo. Ao mudar uma regra, atualizar também o documen
 - **Motivo/contexto:** revisão da notícia sobre os retornos de Paquetá e Plata; o editor esclareceu que a ficha não se aplica a esse tipo de peça.
 - **Documento atualizado:** [[Matéria de Últimas Notícias]].
 - **Estado:** vigente.
+
+### Verificação semanal dos calendários das modalidades
+- **Data:** 2026-11-19
+- **Decisão:** toda semana, conferir as tabelas oficiais do NBB, da Superliga, do Carioca Feminino, da base e das demais competições em que o Flamengo compete. Cada jogo identificado deve gerar Onde Assistir na véspera e pós-jogo no dia, com registro no controle do Painel de Pautas.
+- **Motivo/contexto:** o Onde Assistir de Unifacisa x Flamengo (19/11/2026) não foi pautado porque a partida não constava na agenda operacional; a cobertura começou apenas pelo pós-jogo. O editor apontou a falha e pediu revisão do processo.
+- **Impacto operacional:** o Painel ganhou o "Controle NBB — pautas Onde Assistir"; a conferência semanal passa a ser etapa obrigatória, e a ausência de um jogo no controle deve ser tratada como erro de agenda.
+- **Documento atualizado:** [[Painel de Pautas]], [[Fluxo de Produção]].
+- **Estado:** vigente.

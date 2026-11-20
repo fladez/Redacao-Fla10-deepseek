@@ -2035,6 +2035,12 @@ A pesquisa acadêmica reforça que a identificação com o clube, o comprometime
   - **Observação:** partida transferida de 11/11/2026 por informação do editor; a 5ª rodada contra o Fluminense, antes prevista para esta data, foi transferida para 25/11/2026.
 - **Atenção de planejamento:** verificar os horários oficiais para identificar eventual sobreposição de produção e publicação; em 18/11 há dois eventos no mesmo dia (Brasileirão e Carioca Feminino).
 
+### 19/11/2026 — quinta-feira
+- **Evento:** Unifacisa x Flamengo — NBB 2026/27; Arena Unifacisa, Campina Grande (PB).
+  - **Pauta de serviço:** Onde Assistir previsto para 18/11 — **não foi pautado nem produzido**. Falha de agenda registrada; ficha: [[2026-11-18 - Unifacisa x Flamengo - Onde Assistir NBB (falha de agenda)]].
+  - **Pós-jogo publicado em 19/11/2026.** Unifacisa 102 x 79 Flamengo. URL e ficha registradas na publicação confirmada. [[2026-11-19 - Unifacisa x Flamengo - pós-jogo NBB]].
+  - **Correção:** a partida não constava no controle operacional; ver [[#Controle NBB — pautas Onde Assistir]].
+
 ### 20/11/2026 — sexta-feira
 - **Reportagem Fla10 — O Flamengo que arrecada mais, mas precisa rever sua estratégia financeira:** pauta transferida; apuração documental e redação pendentes. Conferir indicadores do relatório oficial do terceiro trimestre, atribuir as projeções de déficit e de vendas de atletas e não inferir crise de caixa. Avaliar a relação com a reportagem sobre a Betano publicada em 14/11. Ficha: [[2026-11-09 - Reportagem Fla10 - financas]].
 - **Fla Tirinhas:** pauta incluída por solicitação do editor em 19/11/2026. **Tema a definir**; produção e publicação previstas para 20/11. Aguardar a definição do editor antes de iniciar.
@@ -2044,6 +2050,12 @@ A pesquisa acadêmica reforça que a identificação com o clube, o comprometime
 - **Pauta de serviço:** Onde assistir — 20/11.
 - **Cobertura no evento:** pré-jogo pela manhã; pós-jogo; análise jornalística; Depois do Apito; Raio-X Tático.
 - **Classificação editorial:** futebol masculino profissional — equipe principal.
+
+### 22/11/2026 — domingo
+- **Evento:** Basquete Cearense x Flamengo — NBB 2026/27; 16h (de Brasília); local a confirmar.
+  - **Pauta de serviço:** Onde Assistir — 21/11; confirmar transmissão e local.
+  - **Cobertura no evento:** pós-jogo no mesmo dia.
+  - **Origem:** partida identificada após a falha de agenda do jogo contra a Unifacisa; incluir no controle de NBB.
 
 ### 23/11/2026 — segunda-feira
 - **Evento:** Sesc RJ Flamengo x Osasco São Cristóvão Saúde — Superliga Feminina; 21h, Tijuca (RJ).
@@ -2058,9 +2070,18 @@ A pesquisa acadêmica reforça que a identificação com o clube, o comprometime
 
 ### Pendências de atualização
 - Consultar diariamente os calendários oficiais para identificar novos jogos, mudanças de data, horário, local e transmissão.
-- Completar a agenda do NBB, futebol feminino, base e demais modalidades conforme divulgação das tabelas e boletins oficiais.
+- **Verificação semanal das modalidades:** conferir as tabelas oficiais do NBB, da Superliga, do Carioca Feminino e das demais competições toda semana; cada jogo gera Onde Assistir na véspera e pós-jogo no dia. A falha de 19/11 (Unifacisa x Flamengo) ocorreu porque a partida não estava no controle operacional.
 - A página oficial do Flamengo lista jogos posteriores da equipe principal contra Coritiba e Chapecoense ainda sem data/horário confirmados; não gerar pauta com data presumida.
 - Datas do Carioca Feminino estão sujeitas a alteração, conforme ressalva da tabela divulgada pelo clube.
+
+## Controle NBB — pautas Onde Assistir
+
+| Jogo | Data do jogo | Onde Assistir | Estado |
+|---|---|---|---|
+| Unifacisa x Flamengo | 19/11/2026 | 18/11/2026 | **Falha de agenda:** não pautado; pós-jogo publicado em 19/11 sem serviço |
+| Basquete Cearense x Flamengo | 22/11/2026, 16h | 21/11/2026 | Pautar; confirmar transmissão e local |
+
+**Regra:** toda partida do NBB identificada na tabela oficial deve entrar neste controle com a data do jogo, a data prevista do Onde Assistir e o estado. A conferência é semanal e obrigatória.
 
 
 ## Complemento obrigatório da agenda — pautas Onde Assistir

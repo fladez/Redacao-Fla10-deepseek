@@ -1834,6 +1834,15 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - Alterações documentais realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.
 
 
+## 2026-11-19 — Falha de agenda no Onde Assistir de Unifacisa x Flamengo e correção do processo
+- O editor apontou que a agenda não indicou a pauta do Onde Assistir de Unifacisa x Flamengo (NBB, 19/11/2026); a partida não constava no controle operacional e a cobertura começou apenas pelo pós-jogo.
+- **Correções no Painel:** criada a entrada de 19/11 com o registro da falha; incluído o jogo de 22/11 (Basquete Cearense x Flamengo, 16h) com Onde Assistir previsto para 21/11; criado o "Controle NBB — pautas Onde Assistir"; reforçada a pendência de verificação semanal das modalidades.
+- **Registro de Decisões:** nova regra de verificação semanal das tabelas oficiais (NBB, Superliga, Carioca Feminino, base e demais competições), com Onde Assistir na véspera e pós-jogo no dia.
+- **Fluxo de Produção:** incluída a etapa "0.1 Verificação semanal dos calendários".
+- **Fichas:** pós-jogo de Unifacisa x Flamengo registrado; ficha da pauta não produzida criada para memória do processo.
+- Alterações documentais realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.
+
+
 ## 2026-11-15 — Publicação confirmada: Bustos de Arrascaeta e Bruno Henrique na Gávea
 - O editor confirmou a publicação e forneceu a URL. **Primeira matéria solicitada através do Telegram** após o ajuste do gateway: a sessão do bot passou a ser criada com o preset padrão, com acesso a web, arquivos e terminal.
 - Matéria: **“Flamengo inaugura bustos de Arrascaeta e Bruno Henrique na Gávea no aniversário de 131 anos”**, seção Clube, autoria de Mariana Costa na página.
