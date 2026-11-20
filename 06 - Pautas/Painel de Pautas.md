@@ -3351,6 +3351,18 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 - **Ficha editorial:** [[2026-11-19 - Maracanã espetáculo da Nação - notícia]].
 - **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações. Correções no portal dependem do editor.
 
+
+## Publicação confirmada — Galeria "A ARTE DE SER FLAMENGO" (19/11/2026)
+
+- **Estado:** publicada em 19/11/2026, conforme confirmação do editor (a página exibe 18/11, data do jogo/obra).
+- **Título:** *A ARTE DE SER FLAMENGO*.
+- **URL pública:** https://fla10.news/galeria/SUAlRlcbwYXBI1iKixIQ
+- **Formato:** Galeria — Galeria de Arte Rubro-Negra. Autoria: Arte Fla10.
+- **Conteúdo:** imagem da entrada do time no Maracanã contra o Athletico; texto sobre o mosaico, as bandeiras e o canto da torcida; ficha da obra (artista, obra, local, data e técnica).
+- **Revisão pós-publicação:** (1) texto em bloco único e ficha da obra colada no parágrafo; (2) "1 visualizações"; (3) data exibida 18/11 x publicação em 19/11; (4) crédito da imagem ausente; (5) sem link para a cobertura.
+- **Ficha editorial:** [[2026-11-19 - Galeria A arte de ser Flamengo]].
+- **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações. Correções no portal dependem do editor.
+
 ## Publicação confirmada — Bustos de Arrascaeta e Bruno Henrique na Gávea (15/11/2026)
 
 - **Estado:** publicada em 15/11/2026, conforme confirmação do editor. **Primeira matéria solicitada pelo editor através do Telegram**, após o ajuste do gateway (sessão do bot criada com preset padrão, com acesso a web, arquivos e terminal).
