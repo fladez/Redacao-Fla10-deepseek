@@ -16,6 +16,13 @@ Quando solicitado, criar legenda que explique a proposta e convide à apreciaç�
 ## Direitos e integridade
 Não apresentar arte criada como fotografia histórica autêntica. Se houver referência visual fornecida pelo usuário, respeitar o objetivo explícito de transformação ou preservação.
 
+## Imagens tratadas por IA
+A Galeria pode usar **frames de vídeo tratados por IA** (por exemplo, Gemini) como base visual. Nesses casos:
+- Identificar a natureza da imagem na página ou na ficha da obra: "frame de vídeo tratado por IA", não "foto".
+- Registrar o vídeo de origem e a ferramenta de tratamento.
+- Não apresentar a imagem como registro documental do jogo ou do estádio.
+- Manter o crédito editorial da arte ("Arte Fla10") e a ficha da obra com técnica explícita.
+
 ## Composição observada na Galeria de 19/11/2026
 
 Referência: "A ARTE DE SER FLAMENGO", página de galeria com imagem da entrada do time no Maracanã e texto de acompanhamento.
@@ -25,4 +32,4 @@ Referência: "A ARTE DE SER FLAMENGO", página de galeria com imagem da entrada 
 3. **Ficha da obra** ao final: artista, obra, local, data e técnica.
 4. **Contexto factual curto:** gol de Vargas, virada de Carrascal e Jorginho, tensão do Mineirão.
 
-Extensão de referência do texto: **250 a 400 palavras**. Cuidados: separar o texto em parágrafos; destacar a ficha da obra em linhas próprias; informar o crédito da imagem; linkar a cobertura do jogo; conferir concordância do contador de views; não apresentar a imagem como registro documental se for arte.
+Extensão de referência do texto: **250 a 400 palavras**. Cuidados: separar o texto em parágrafos; destacar a ficha da obra em linhas próprias; informar a natureza e o crédito da imagem; linkar a cobertura do jogo; conferir concordância do contador de views; não apresentar a imagem como registro documental se for arte ou frame tratado.

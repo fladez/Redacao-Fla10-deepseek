@@ -3358,8 +3358,8 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 - **Título:** *A ARTE DE SER FLAMENGO*.
 - **URL pública:** https://fla10.news/galeria/SUAlRlcbwYXBI1iKixIQ
 - **Formato:** Galeria — Galeria de Arte Rubro-Negra. Autoria: Arte Fla10.
-- **Conteúdo:** imagem da entrada do time no Maracanã contra o Athletico; texto sobre o mosaico, as bandeiras e o canto da torcida; ficha da obra (artista, obra, local, data e técnica).
-- **Revisão pós-publicação:** (1) texto em bloco único e ficha da obra colada no parágrafo; (2) "1 visualizações"; (3) data exibida 18/11 x publicação em 19/11; (4) crédito da imagem ausente; (5) sem link para a cobertura.
+- **Conteúdo:** imagem da entrada do time no Maracanã contra o Athletico — **frame de vídeo tratado pela IA Gemini**, não fotografia; texto sobre o mosaico, as bandeiras e o canto da torcida; ficha da obra (artista, obra, local, data e técnica).
+- **Revisão pós-publicação:** (1) texto em bloco único e ficha da obra colada no parágrafo; (2) "1 visualizações"; (3) data exibida 18/11 x publicação em 19/11; (4) natureza da imagem (frame tratado por IA) não informada na página; (5) sem link para a cobertura.
 - **Ficha editorial:** [[2026-11-19 - Galeria A arte de ser Flamengo]].
 - **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações. Correções no portal dependem do editor.
 
