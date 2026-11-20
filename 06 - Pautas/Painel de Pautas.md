@@ -3363,6 +3363,18 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 - **Ficha editorial:** [[2026-11-19 - Galeria A arte de ser Flamengo]].
 - **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações. Correções no portal dependem do editor.
 
+
+## Publicação confirmada — AeroFla no Galeão (19/11/2026)
+
+- **Estado:** publicada em 19/11/2026, conforme confirmação do editor (a página exibe 20/11).
+- **Título:** *AeroFla: torcida do Flamengo prepara festa no Galeão antes da decisão contra o Palmeiras*.
+- **URL pública:** https://fla10.news/noticias/aerofla-torcida-do-flamengo-prepara-festa-no-galeao-antes-da-decisao-contra-o-palmeiras
+- **Formato:** Últimas Notícias — Brasileirão. Autoria: Mariana Costa.
+- **Conteúdo:** concentração ao meio-dia de sexta (20) no Terminal de Cargas; treino às 11h e embarque às 16h; operação da Prefeitura; como participar; tradição desde 2019; cenário do título; serviço.
+- **Revisão pós-publicação:** (1) data exibida 20/11; (2) atribuir a informação sobre a entrega do troféu; (3) atribuir a possibilidade de o Palmeiras poupar titulares; (4) citar o feriado de 20/11; (5) cosméticos.
+- **Ficha editorial:** [[2026-11-19 - AeroFla - notícia]].
+- **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações. Correções no portal dependem do editor.
+
 ## Publicação confirmada — Bustos de Arrascaeta e Bruno Henrique na Gávea (15/11/2026)
 
 - **Estado:** publicada em 15/11/2026, conforme confirmação do editor. **Primeira matéria solicitada pelo editor através do Telegram**, após o ajuste do gateway (sessão do bot criada com preset padrão, com acesso a web, arquivos e terminal).

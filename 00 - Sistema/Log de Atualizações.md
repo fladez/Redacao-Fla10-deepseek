@@ -1817,6 +1817,16 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - Alterações documentais realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.
 
 
+## 2026-11-19 — Publicação confirmada: AeroFla no Galeão
+- O editor confirmou a publicação e forneceu a URL.
+- Matéria: **“AeroFla: torcida do Flamengo prepara festa no Galeão antes da decisão contra o Palmeiras”**, seção Brasileirão, autoria de Mariana Costa.
+- **URL pública:** https://fla10.news/noticias/aerofla-torcida-do-flamengo-prepara-festa-no-galeao-antes-da-decisao-contra-o-palmeiras
+- **Conteúdo:** concentração ao meio-dia de sexta (20) no Terminal de Cargas; treino às 11h e embarque às 16h; operação da Prefeitura; como participar; tradição desde 2019; cenário do título; serviço.
+- **Revisão pós-publicação (achados para o editor):** (1) data exibida 20/11 x publicação em 19/11; (2) atribuir a informação sobre a entrega do troféu; (3) atribuir a possibilidade de o Palmeiras poupar titulares; (4) citar o feriado de 20/11; (5) cosméticos do site.
+- Ficha da pauta criada; Painel e Log atualizados.
+- Alterações documentais realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.
+
+
 ## 2026-11-15 — Publicação confirmada: Bustos de Arrascaeta e Bruno Henrique na Gávea
 - O editor confirmou a publicação e forneceu a URL. **Primeira matéria solicitada através do Telegram** após o ajuste do gateway: a sessão do bot passou a ser criada com o preset padrão, com acesso a web, arquivos e terminal.
 - Matéria: **“Flamengo inaugura bustos de Arrascaeta e Bruno Henrique na Gávea no aniversário de 131 anos”**, seção Clube, autoria de Mariana Costa na página.
