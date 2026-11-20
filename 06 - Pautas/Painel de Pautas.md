@@ -2044,6 +2044,7 @@ A pesquisa acadêmica reforça que a identificação com o clube, o comprometime
 ### 20/11/2026 — sexta-feira
 - **Reportagem Fla10 — O Flamengo que arrecada mais, mas precisa rever sua estratégia financeira:** pauta transferida; apuração documental e redação pendentes. Conferir indicadores do relatório oficial do terceiro trimestre, atribuir as projeções de déficit e de vendas de atletas e não inferir crise de caixa. Avaliar a relação com a reportagem sobre a Betano publicada em 14/11. Ficha: [[2026-11-09 - Reportagem Fla10 - financas]].
 - **Fla Tirinhas:** pauta incluída por solicitação do editor em 19/11/2026. **Tema a definir**; produção e publicação previstas para 20/11. Aguardar a definição do editor antes de iniciar.
+- **Explicador dos cenários do título:** **publicado em 20/11/2026.** "A um empate do título". URL e ficha registradas na publicação confirmada. [[2026-11-20 - Cenários do título - explicador]].
 
 ### 21/11/2026 — sábado
 - **Evento:** Palmeiras x Flamengo — Brasileirão; 16h30, Nubank Parque.
@@ -3395,6 +3396,18 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 - **Conteúdo:** concentração ao meio-dia de sexta (20) no Terminal de Cargas; treino às 11h e embarque às 16h; operação da Prefeitura; como participar; tradição desde 2019; cenário do título; serviço.
 - **Revisão pós-publicação:** (1) data exibida 20/11; (2) atribuir a informação sobre a entrega do troféu; (3) atribuir a possibilidade de o Palmeiras poupar titulares; (4) citar o feriado de 20/11; (5) cosméticos.
 - **Ficha editorial:** [[2026-11-19 - AeroFla - notícia]].
+- **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações. Correções no portal dependem do editor.
+
+
+## Publicação confirmada — Explicador dos cenários do título (20/11/2026)
+
+- **Estado:** publicada em 20/11/2026, conforme confirmação do editor.
+- **Título:** *A um empate do título: os cenários do Flamengo para ser campeão no sábado*.
+- **URL pública:** https://fla10.news/noticias/a-um-empate-do-titulo-os-cenarios-do-flamengo-para-ser-campeao-no-sabado
+- **Formato:** Explicador — Brasileirão. Autoria: Thiago Silva.
+- **Conteúdo:** 79 x 73; vitória garante; empate garante pelo critério de vitórias; derrota adia; explicação do desempate; "quase 99%" como estimativa; calendário restante.
+- **Revisão pós-publicação:** (1) "quase 99%" sem fonte (O Dia publicou 98%); (2) imagem duplicada com créditos divergentes; (3) cosméticos.
+- **Ficha editorial:** [[2026-11-20 - Cenários do título - explicador]].
 - **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações. Correções no portal dependem do editor.
 
 ## Publicação confirmada — Bustos de Arrascaeta e Bruno Henrique na Gávea (15/11/2026)
