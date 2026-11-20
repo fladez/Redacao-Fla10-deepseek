@@ -2047,6 +2047,7 @@ A pesquisa acadêmica reforça que a identificação com o clube, o comprometime
 - **Notícia — blindagem do elenco:** **publicada em 20/11/2026.** Pacto no vestiário e nota oficial. URL e ficha registradas na publicação confirmada. [[2026-11-20 - Flamengo se blinda do já ganhou - notícia]].
 - **Notícia financeira — espaço master sem Betano:** **publicada em 20/11/2026.** Acordos pontuais e preservação do valor do patrocínio. URL e ficha registradas na publicação confirmada. [[2026-11-20 - Sem Betano espaço master - notícia financeira]].
 - **Pré-jogo do rival — Abel e o Palmeiras:** **publicado em 20/11/2026.** Como o Verdão chega para a decisão. URL e ficha registradas na publicação confirmada. [[2026-11-20 - Abel e o Palmeiras - pré-jogo rival]].
+- **Cobertura do AeroFla — desencontro no Galeão:** **publicada em 20/11/2026.** Torcida não encontra a delegação; Boto e Danilo pedem desculpas. URL e ficha registradas na publicação confirmada. [[2026-11-20 - AeroFla desencontro - notícia]].
 - **Onde Assistir — Palmeiras x Flamengo:** publicação prevista para 20/11, **somente após 20h30** (determinação do editor). Confirmar transmissão antes de produzir.
 
 ### 21/11/2026 — sábado
@@ -3448,6 +3449,18 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 - **Conteúdo:** Palmeiras seis pontos atrás, com finais de Libertadores e Copa do Brasil; Abel não confirma reservas; dilema; Murilo em transição; desfalques do Flamengo; histórico; serviço.
 - **Revisão pós-publicação:** sem erros identificados; expectativa de time misto tratada como possibilidade; escalação e condição de Murilo a confirmar; cosméticos.
 - **Ficha editorial:** [[2026-11-20 - Abel e o Palmeiras - pré-jogo rival]].
+- **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações. Correções no portal dependem do editor.
+
+
+## Publicação confirmada — AeroFla termina em desencontro (20/11/2026)
+
+- **Estado:** publicada em 20/11/2026, conforme confirmação do editor.
+- **Título:** *AeroFla termina em desencontro: torcida lota o Galeão, mas delegação passa por outro acesso e não encontra a Nação*.
+- **URL pública:** https://fla10.news/noticias/aerofla-termina-em-desencontro-torcida-lota-o-galeao-mas-delegacao-passa-por-outro-acesso-e-nao-encontra-a-nacao
+- **Formato:** Últimas Notícias — Brasileirão. Autoria: Mariana Costa.
+- **Conteúdo:** concentração no Terminal de Cargas, migração para o Salão Nobre, ônibus pelo acesso vazio, comunicado do clube, versão de Boto, desculpas de Danilo, recepção em Guarulhos, contexto do jogo.
+- **Revisão pós-publicação:** (1) Resumo para IA colado ao corpo; (2) reprodução literal de provocação ("chiqueiro") — avaliar; (3) cosméticos.
+- **Ficha editorial:** [[2026-11-20 - AeroFla desencontro - notícia]].
 - **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações. Correções no portal dependem do editor.
 
 ## Publicação confirmada — Bustos de Arrascaeta e Bruno Henrique na Gávea (15/11/2026)

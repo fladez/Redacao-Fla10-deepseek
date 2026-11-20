@@ -1880,6 +1880,16 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - Alterações documentais realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.
 
 
+## 2026-11-20 — Publicação confirmada: AeroFla termina em desencontro
+- O editor confirmou a publicação e forneceu a URL.
+- Matéria: **“AeroFla termina em desencontro: torcida lota o Galeão, mas delegação passa por outro acesso e não encontra a Nação”**, seção Brasileirão, autoria de Mariana Costa.
+- **URL pública:** https://fla10.news/noticias/aerofla-termina-em-desencontro-torcida-lota-o-galeao-mas-delegacao-passa-por-outro-acesso-e-nao-encontra-a-nacao
+- **Conteúdo:** concentração no Terminal de Cargas, migração para o Salão Nobre, ônibus pelo acesso vazio, comunicado do clube, versão de Boto, desculpas de Danilo, recepção em Guarulhos, contexto do jogo.
+- **Revisão pós-publicação (achados para o editor):** (1) Resumo para IA colado ao corpo; (2) reprodução literal de provocação ("chiqueiro") — avaliar; (3) cosméticos do site.
+- Ficha da pauta criada; Painel e Log atualizados.
+- Alterações documentais realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.
+
+
 ## 2026-11-20 — Publicação confirmada: explicador dos cenários do título
 - O editor confirmou a publicação e forneceu a URL.
 - Matéria: **“A um empate do título: os cenários do Flamengo para ser campeão no sábado”**, seção Brasileirão, autoria de Thiago Silva.
