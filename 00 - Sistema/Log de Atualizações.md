@@ -1860,6 +1860,16 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - Alterações documentais realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.
 
 
+## 2026-11-20 — Publicação confirmada: notícia financeira do espaço master sem Betano
+- O editor confirmou a publicação e forneceu a URL.
+- Matéria: **“Sem Betano, Flamengo tenta transformar espaço master em nova oportunidade comercial”**, seção Finanças, autoria de Miguel Sampaio.
+- **URL pública:** https://fla10.news/noticias/sem-betano-flamengo-tenta-transformar-espaco-master-em-nova-oportunidade-comercial
+- **Conteúdo:** suspensão da Betano; acordos pontuais para o espaço master; três marcas em negociação (UOL); alternativa Shopee; contrato de R$ 220 milhões fixos (até R$ 268 milhões); orçamento de 2027 sem apostas; estratégia de curto e longo prazo.
+- **Revisão pós-publicação (achados para o editor):** (1) atribuir a interpretação sobre a validade do vínculo; (2) reforçar que não há confirmação oficial das negociações; (3) conferir os números do contrato; (4) cosméticos do site.
+- Ficha da pauta criada; Painel e Log atualizados.
+- Alterações documentais realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.
+
+
 ## 2026-11-20 — Publicação confirmada: explicador dos cenários do título
 - O editor confirmou a publicação e forneceu a URL.
 - Matéria: **“A um empate do título: os cenários do Flamengo para ser campeão no sábado”**, seção Brasileirão, autoria de Thiago Silva.

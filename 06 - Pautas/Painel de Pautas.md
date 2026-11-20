@@ -2045,6 +2045,7 @@ A pesquisa acadêmica reforça que a identificação com o clube, o comprometime
 - **Reportagem Fla10 — O Flamengo que arrecada mais, mas precisa rever sua estratégia financeira:** pauta transferida; apuração documental e redação pendentes. Conferir indicadores do relatório oficial do terceiro trimestre, atribuir as projeções de déficit e de vendas de atletas e não inferir crise de caixa. Avaliar a relação com a reportagem sobre a Betano publicada em 14/11. Ficha: [[2026-11-09 - Reportagem Fla10 - financas]].
 - **Explicador dos cenários do título:** **publicado em 20/11/2026.** "A um empate do título". URL e ficha registradas na publicação confirmada. [[2026-11-20 - Cenários do título - explicador]].
 - **Notícia — blindagem do elenco:** **publicada em 20/11/2026.** Pacto no vestiário e nota oficial. URL e ficha registradas na publicação confirmada. [[2026-11-20 - Flamengo se blinda do já ganhou - notícia]].
+- **Notícia financeira — espaço master sem Betano:** **publicada em 20/11/2026.** Acordos pontuais e preservação do valor do patrocínio. URL e ficha registradas na publicação confirmada. [[2026-11-20 - Sem Betano espaço master - notícia financeira]].
 - **Onde Assistir — Palmeiras x Flamengo:** publicação prevista para 20/11, **somente após 20h30** (determinação do editor). Confirmar transmissão antes de produzir.
 
 ### 21/11/2026 — sábado
@@ -3422,6 +3423,18 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 - **Conteúdo:** frase de Bruno Henrique ("Não conquistamos nada"), declarações de Samuel Lino, nota oficial na íntegra, postura de Jardim, justificativa da cautela e cenário do título.
 - **Revisão pós-publicação:** (1) "a três dias da decisão" → são dois dias; (2) "o regulamento exige" — reformular; (3) linha fina truncada; (4) cosméticos.
 - **Ficha editorial:** [[2026-11-20 - Flamengo se blinda do já ganhou - notícia]].
+- **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações. Correções no portal dependem do editor.
+
+
+## Publicação confirmada — Notícia financeira do espaço master (20/11/2026)
+
+- **Estado:** publicada em 20/11/2026, conforme confirmação do editor.
+- **Título:** *Sem Betano, Flamengo tenta transformar espaço master em nova oportunidade comercial*.
+- **URL pública:** https://fla10.news/noticias/sem-betano-flamengo-tenta-transformar-espaco-master-em-nova-oportunidade-comercial
+- **Formato:** Últimas Notícias — Finanças. Autoria: Miguel Sampaio.
+- **Conteúdo:** suspensão da Betano; acordos pontuais para o espaço master; três marcas em negociação (UOL); alternativa Shopee; contrato de R$ 220 milhões fixos (até R$ 268 milhões); orçamento de 2027 sem apostas; estratégia de curto e longo prazo.
+- **Revisão pós-publicação:** (1) atribuir a interpretação sobre a validade do vínculo; (2) reforçar que não há confirmação oficial das negociações; (3) conferir os números do contrato; (4) cosméticos.
+- **Ficha editorial:** [[2026-11-20 - Sem Betano espaço master - notícia financeira]].
 - **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações. Correções no portal dependem do editor.
 
 ## Publicação confirmada — Bustos de Arrascaeta e Bruno Henrique na Gávea (15/11/2026)
