@@ -1870,6 +1870,16 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - Alterações documentais realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.
 
 
+## 2026-11-20 — Publicação confirmada: pré-jogo do rival — Abel e o Palmeiras
+- O editor confirmou a publicação e forneceu a URL.
+- Matéria: **“Abel não confirma time reserva e coloca finais na frente: como o Palmeiras chega para a decisão contra o Flamengo”**, seção Brasileirão, autoria de Thiago Silva.
+- **URL pública:** https://fla10.news/noticias/abel-nao-confirma-time-reserva-e-coloca-finais-na-frente-como-o-palmeiras-chega-para-a-decisao-contra-o-flamengo
+- **Conteúdo:** Palmeiras seis pontos atrás, com finais de Libertadores e Copa do Brasil; Abel não confirma reservas; dilema entre preservar e competir; Murilo em transição; desfalques do Flamengo; histórico; serviço.
+- **Revisão pós-publicação:** sem erros identificados; expectativa de time misto tratada como possibilidade; escalação e condição de Murilo a confirmar; cosméticos do site.
+- Ficha da pauta criada; Painel e Log atualizados.
+- Alterações documentais realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.
+
+
 ## 2026-11-20 — Publicação confirmada: explicador dos cenários do título
 - O editor confirmou a publicação e forneceu a URL.
 - Matéria: **“A um empate do título: os cenários do Flamengo para ser campeão no sábado”**, seção Brasileirão, autoria de Thiago Silva.
