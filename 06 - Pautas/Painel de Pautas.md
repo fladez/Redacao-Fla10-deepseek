@@ -2055,6 +2055,7 @@ A pesquisa acadêmica reforça que a identificação com o clube, o comprometime
 - **Pauta de serviço:** Onde assistir — **publicado em 20/11/2026, após 20h30**.
 - **Cobertura no evento:** pré-jogo pela manhã; pós-jogo; análise jornalística; Depois do Apito; Raio-X Tático.
 - **Pré-jogo publicado em 21/11/2026.** "A conta para o decacampeonato, os desfalques e o que cada time precisa fazer". URL e ficha registradas na publicação confirmada. [[2026-11-21 - Pré-jogo Palmeiras x Flamengo - cenário]].
+- **Escalação confirmada publicada em 21/11/2026.** Flamengo com Plata e Paquetá; Carrascal no banco. URL e ficha registradas na publicação confirmada. [[2026-11-21 - Escalação confirmada Flamengo x Palmeiras]].
 - **Fla Tirinhas:** pauta transferida de 20/11 para 21/11 por determinação do editor. **Tema a definir**; produção e publicação previstas para 21/11.
 - **Reportagem Fla10 — O Flamengo que arrecada mais, mas precisa rever sua estratégia financeira:** **transferida de 20/11 para 21/11 por decisão do editor.** Apuração documental e redação pendentes; mesma base de checagem da ficha [[2026-11-09 - Reportagem Fla10 - financas]].
 - **Classificação editorial:** futebol masculino profissional — equipe principal.
@@ -3502,6 +3503,18 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 - **Conteúdo:** conta do título; desfalques e provável escalação do Flamengo; contexto e provável escalação do Palmeiras; questões táticas; o que observar; transmissão; troféu; ficha.
 - **Revisão pós-publicação:** (1) contradição entre as duas escalações prováveis do Palmeiras; (2) linha fina afirma "irá poupar" e termina com pergunta retórica; (3) "umas vantagem"; (4) duplicação do serviço do Onde Assistir; (5) "payperview", "FlamengoTV" e narração não confirmada; (6) negrito fora do padrão; (7) cosméticos.
 - **Ficha editorial:** [[2026-11-21 - Pré-jogo Palmeiras x Flamengo - cenário]].
+- **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações. Correções no portal dependem do editor.
+
+
+## Publicação confirmada — Escalação confirmada do Flamengo (21/11/2026)
+
+- **Estado:** publicada em 21/11/2026, conforme confirmação do editor.
+- **Título:** *Escalação confirmada: Flamengo vai a campo com Plata e Paquetá contra o Palmeiras*.
+- **URL pública:** https://fla10.news/noticias/escalacao-confirmada-flamengo-vai-a-campo-com-plata-e-paqueta-contra-o-palmeiras
+- **Formato:** Escalação — Brasileirão. Autoria: Thiago Silva.
+- **Conteúdo:** Rossi; Varela, Léo Ortiz, Danilo e Alex Sandro; Jorginho, Paquetá e Arrascaeta; Plata, Pedro e Lino; reservas; cenário do título; transmissão.
+- **Revisão pós-publicação:** (1) "Everton Araújo" → "Evertton Araújo"; (2) "a defesa tem Rossi como goleiro" — impreciso; (3) conferir o número 11 de Paquetá; (4) padronizar abreviações do banco; (5) cosméticos.
+- **Ficha editorial:** [[2026-11-21 - Escalação confirmada Flamengo x Palmeiras]].
 - **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações. Correções no portal dependem do editor.
 
 ## Publicação confirmada — Bustos de Arrascaeta e Bruno Henrique na Gávea (15/11/2026)

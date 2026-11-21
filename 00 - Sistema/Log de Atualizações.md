@@ -1930,6 +1930,16 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - Alterações documentais realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.
 
 
+## 2026-11-21 — Publicação confirmada: escalação do Flamengo contra o Palmeiras
+- O editor confirmou a publicação e forneceu a URL.
+- Matéria: **“Escalação confirmada: Flamengo vai a campo com Plata e Paquetá contra o Palmeiras”**, seção Brasileirão, autoria de Thiago Silva.
+- **URL pública:** https://fla10.news/noticias/escalacao-confirmada-flamengo-vai-a-campo-com-plata-e-paqueta-contra-o-palmeiras
+- **Conteúdo:** Rossi; Varela, Léo Ortiz, Danilo e Alex Sandro; Jorginho, Paquetá e Arrascaeta; Plata, Pedro e Lino; reservas; cenário do título; transmissão.
+- **Revisão pós-publicação (achados para o editor):** (1) "Everton Araújo" → "Evertton Araújo"; (2) "a defesa tem Rossi como goleiro" — impreciso; (3) conferir o número 11 de Paquetá; (4) padronizar abreviações do banco; (5) cosméticos do site.
+- Ficha da pauta criada; Painel e Log atualizados.
+- Alterações documentais realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.
+
+
 ## 2026-11-20 — Publicação confirmada: explicador dos cenários do título
 - O editor confirmou a publicação e forneceu a URL.
 - Matéria: **“A um empate do título: os cenários do Flamengo para ser campeão no sábado”**, seção Brasileirão, autoria de Thiago Silva.
