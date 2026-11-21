@@ -2042,7 +2042,7 @@ A pesquisa acadêmica reforça que a identificação com o clube, o comprometime
   - **Correção:** a partida não constava no controle operacional; ver [[#Controle NBB — pautas Onde Assistir]].
 
 ### 20/11/2026 — sexta-feira
-- **Reportagem Fla10 — O Flamengo que arrecada mais, mas precisa rever sua estratégia financeira:** pauta transferida; apuração documental e redação pendentes. Conferir indicadores do relatório oficial do terceiro trimestre, atribuir as projeções de déficit e de vendas de atletas e não inferir crise de caixa. Avaliar a relação com a reportagem sobre a Betano publicada em 14/11. Ficha: [[2026-11-09 - Reportagem Fla10 - financas]].
+- **Reportagem Fla10 — O Flamengo que arrecada mais, mas precisa rever sua estratégia financeira:** **transferida para 21/11/2026 por decisão do editor.** Apuração documental e redação pendentes. Conferir indicadores do relatório oficial do terceiro trimestre, atribuir as projeções de déficit e de vendas de atletas e não inferir crise de caixa. Avaliar a relação com a reportagem sobre a Betano publicada em 14/11. Ficha: [[2026-11-09 - Reportagem Fla10 - financas]].
 - **Explicador dos cenários do título:** **publicado em 20/11/2026.** "A um empate do título". URL e ficha registradas na publicação confirmada. [[2026-11-20 - Cenários do título - explicador]].
 - **Notícia — blindagem do elenco:** **publicada em 20/11/2026.** Pacto no vestiário e nota oficial. URL e ficha registradas na publicação confirmada. [[2026-11-20 - Flamengo se blinda do já ganhou - notícia]].
 - **Notícia financeira — espaço master sem Betano:** **publicada em 20/11/2026.** Acordos pontuais e preservação do valor do patrocínio. URL e ficha registradas na publicação confirmada. [[2026-11-20 - Sem Betano espaço master - notícia financeira]].
@@ -2055,6 +2055,7 @@ A pesquisa acadêmica reforça que a identificação com o clube, o comprometime
 - **Pauta de serviço:** Onde assistir — 20/11, após 20h30.
 - **Cobertura no evento:** pré-jogo pela manhã; pós-jogo; análise jornalística; Depois do Apito; Raio-X Tático.
 - **Fla Tirinhas:** pauta transferida de 20/11 para 21/11 por determinação do editor. **Tema a definir**; produção e publicação previstas para 21/11.
+- **Reportagem Fla10 — O Flamengo que arrecada mais, mas precisa rever sua estratégia financeira:** **transferida de 20/11 para 21/11 por decisão do editor.** Apuração documental e redação pendentes; mesma base de checagem da ficha [[2026-11-09 - Reportagem Fla10 - financas]].
 - **Classificação editorial:** futebol masculino profissional — equipe principal.
 
 ### 22/11/2026 — domingo

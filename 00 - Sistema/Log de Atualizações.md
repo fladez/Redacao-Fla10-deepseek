@@ -1890,6 +1890,13 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - Alterações documentais realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.
 
 
+## 2026-11-20 — Reportagem financeira transferida para 21/11
+- A pedido do editor, a **Reportagem Fla10 — O Flamengo que arrecada mais, mas precisa rever sua estratégia financeira** foi transferida da agenda de 20/11 para 21/11/2026.
+- Apuração documental e redação seguem pendentes; mantida a ficha [[2026-11-09 - Reportagem Fla10 - financas]] e a base de checagem já registrada.
+- Painel de Pautas e Log atualizados.
+- Alterações documentais realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.
+
+
 ## 2026-11-20 — Publicação confirmada: explicador dos cenários do título
 - O editor confirmou a publicação e forneceu a URL.
 - Matéria: **“A um empate do título: os cenários do Flamengo para ser campeão no sábado”**, seção Brasileirão, autoria de Thiago Silva.
