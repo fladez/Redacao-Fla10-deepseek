@@ -1908,6 +1908,18 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - Alterações documentais realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.
 
 
+## 2026-11-21 — Publicação confirmada: Onde Assistir Basquete Cearense x Flamengo
+- O editor confirmou a publicação e forneceu a URL (domínio de preview/staging).
+- Matéria: **“Basquete Cearense x Flamengo: onde assistir ao vivo, horário e informações do jogo pelo NBB”**, seção NBB, autoria de Mariana Costa.
+- **URL confirmada (preview):** https://fla10news--fla10news-prod-2026.us-east4.hosted.app/noticias/basquete-cearense-x-flamengo-onde-assistir-ao-vivo-horario-e-informacoes-do-jogo-pelo-nbb
+- **URL pública provável:** https://fla10.news/noticias/basquete-cearense-x-flamengo-onde-assistir-ao-vivo-horario-e-informacoes-do-jogo-pelo-nbb (confirmar após deploy).
+- **Conteúdo:** jogo em 22/11, 11h, no CFO, em Fortaleza; transmissão pelo YouTube do NBB CAIXA e Flamengo TV; contexto das duas equipes; ficha.
+- **Revisão pós-publicação (achados para o editor):** (1) Resumo para IA com frase quebrada ("A transmissão ao vivo."); (2) URL de preview/staging; (3) cosméticos do site.
+- **Correção de agenda:** horário do jogo corrigido de 16h para 11h no Painel e no Controle NBB; transmissão confirmada.
+- Ficha da pauta criada; Painel e Log atualizados.
+- Alterações documentais realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.
+
+
 ## 2026-11-20 — Publicação confirmada: explicador dos cenários do título
 - O editor confirmou a publicação e forneceu a URL.
 - Matéria: **“A um empate do título: os cenários do Flamengo para ser campeão no sábado”**, seção Brasileirão, autoria de Thiago Silva.

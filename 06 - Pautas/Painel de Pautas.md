@@ -2059,10 +2059,11 @@ A pesquisa acadêmica reforça que a identificação com o clube, o comprometime
 - **Classificação editorial:** futebol masculino profissional — equipe principal.
 
 ### 22/11/2026 — domingo
-- **Evento:** Basquete Cearense x Flamengo — NBB 2026/27; 16h (de Brasília); local a confirmar.
-  - **Pauta de serviço:** Onde Assistir — 21/11; confirmar transmissão e local.
+- **Evento:** Basquete Cearense x Flamengo — NBB 2026/27; **11h (de Brasília)**; Centro de Formação Olímpica (CFO), Fortaleza (CE).
+  - **Pauta de serviço:** Onde Assistir — **publicado em 21/11/2026**. URL e ficha registradas na publicação confirmada. [[2026-11-21 - Basquete Cearense x Flamengo - Onde Assistir NBB]].
+  - **Transmissão:** YouTube do NBB CAIXA e Flamengo TV.
   - **Cobertura no evento:** pós-jogo no mesmo dia.
-  - **Origem:** partida identificada após a falha de agenda do jogo contra a Unifacisa; incluir no controle de NBB.
+  - **Correção:** o horário registrado anteriormente (16h) estava errado; a LNB confirma 11h.
 
 ### 23/11/2026 — segunda-feira
 - **Evento:** Sesc RJ Flamengo x Osasco São Cristóvão Saúde — Superliga Feminina; 21h, Tijuca (RJ).
@@ -2086,7 +2087,7 @@ A pesquisa acadêmica reforça que a identificação com o clube, o comprometime
 | Jogo | Data do jogo | Onde Assistir | Estado |
 |---|---|---|---|
 | Unifacisa x Flamengo | 19/11/2026 | 18/11/2026 | **Falha de agenda:** não pautado; pós-jogo publicado em 19/11 sem serviço |
-| Basquete Cearense x Flamengo | 22/11/2026, 16h | 21/11/2026 | Pautar; confirmar transmissão e local |
+| Basquete Cearense x Flamengo | 22/11/2026, 11h | 21/11/2026 | **Onde Assistir publicado em 21/11/2026**; YouTube do NBB CAIXA e Flamengo TV |
 
 **Regra:** toda partida do NBB identificada na tabela oficial deve entrar neste controle com a data do jogo, a data prevista do Onde Assistir e o estado. A conferência é semanal e obrigatória.
 
@@ -3474,6 +3475,20 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 - **Conteúdo:** transmissão (Globo, Premiere e Ge TV); cenário do título; prováveis escalações; desfalques; arbitragem completa; palco; finais do Palmeiras.
 - **Revisão pós-publicação (comparação com a versão publicada):** (1) faltou "em casa" na frase do histórico de 2017, tornando-a falsa/contraditória; (2) quarto árbitro ausente; (3) final da Libertadores genérica (editor especificou Estudiantes, 28/11); (4) "bom desempenho em casa" genérico; (5) "pré-jogo e pós-jogo" da Ge TV não confirmado; (6) subtítulo/resumo alterados pelo editor; (7) cosméticos.
 - **Ficha editorial:** [[2026-11-20 - Onde Assistir Palmeiras x Flamengo]].
+- **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações. Correções no portal dependem do editor.
+
+
+## Publicação confirmada — Onde Assistir Basquete Cearense x Flamengo (21/11/2026)
+
+- **Estado:** publicada em 21/11/2026, conforme confirmação do editor.
+- **Título:** *Basquete Cearense x Flamengo: onde assistir ao vivo, horário e informações do jogo pelo NBB*.
+- **URL confirmada (preview/staging):** https://fla10news--fla10news-prod-2026.us-east4.hosted.app/noticias/basquete-cearense-x-flamengo-onde-assistir-ao-vivo-horario-e-informacoes-do-jogo-pelo-nbb
+- **URL pública provável:** https://fla10.news/noticias/basquete-cearense-x-flamengo-onde-assistir-ao-vivo-horario-e-informacoes-do-jogo-pelo-nbb (confirmar após deploy)
+- **Formato:** Onde Assistir — NBB. Autoria: Mariana Costa.
+- **Conteúdo:** jogo em 22/11, 11h, no CFO, em Fortaleza; transmissão pelo YouTube do NBB CAIXA e Flamengo TV; contexto das duas equipes; ficha.
+- **Revisão pós-publicação:** (1) Resumo para IA com frase quebrada ("A transmissão ao vivo."); (2) URL de preview/staging — confirmar domínio público após deploy; (3) cosméticos.
+- **Correção de agenda:** horário do jogo corrigido de 16h para 11h no Painel e no Controle NBB.
+- **Ficha editorial:** [[2026-11-21 - Basquete Cearense x Flamengo - Onde Assistir NBB]].
 - **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações. Correções no portal dependem do editor.
 
 ## Publicação confirmada — Bustos de Arrascaeta e Bruno Henrique na Gávea (15/11/2026)
