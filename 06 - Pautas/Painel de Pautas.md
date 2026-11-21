@@ -2048,11 +2048,11 @@ A pesquisa acadêmica reforça que a identificação com o clube, o comprometime
 - **Notícia financeira — espaço master sem Betano:** **publicada em 20/11/2026.** Acordos pontuais e preservação do valor do patrocínio. URL e ficha registradas na publicação confirmada. [[2026-11-20 - Sem Betano espaço master - notícia financeira]].
 - **Pré-jogo do rival — Abel e o Palmeiras:** **publicado em 20/11/2026.** Como o Verdão chega para a decisão. URL e ficha registradas na publicação confirmada. [[2026-11-20 - Abel e o Palmeiras - pré-jogo rival]].
 - **Cobertura do AeroFla — desencontro no Galeão:** **publicada em 20/11/2026.** Torcida não encontra a delegação; Boto e Danilo pedem desculpas. URL e ficha registradas na publicação confirmada. [[2026-11-20 - AeroFla desencontro - notícia]].
-- **Onde Assistir — Palmeiras x Flamengo:** publicação prevista para 20/11, **somente após 20h30** (determinação do editor). Confirmar transmissão antes de produzir.
+- **Onde Assistir — Palmeiras x Flamengo:** **publicado em 20/11/2026, às 23h16** (dentro da janela determinada pelo editor, após 20h30). URL e ficha registradas na publicação confirmada. [[2026-11-20 - Onde Assistir Palmeiras x Flamengo]].
 
 ### 21/11/2026 — sábado
 - **Evento:** Palmeiras x Flamengo — Brasileirão; 16h30, Nubank Parque.
-- **Pauta de serviço:** Onde assistir — 20/11, após 20h30.
+- **Pauta de serviço:** Onde assistir — **publicado em 20/11/2026, após 20h30**.
 - **Cobertura no evento:** pré-jogo pela manhã; pós-jogo; análise jornalística; Depois do Apito; Raio-X Tático.
 - **Fla Tirinhas:** pauta transferida de 20/11 para 21/11 por determinação do editor. **Tema a definir**; produção e publicação previstas para 21/11.
 - **Reportagem Fla10 — O Flamengo que arrecada mais, mas precisa rever sua estratégia financeira:** **transferida de 20/11 para 21/11 por decisão do editor.** Apuração documental e redação pendentes; mesma base de checagem da ficha [[2026-11-09 - Reportagem Fla10 - financas]].
@@ -3462,6 +3462,18 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 - **Conteúdo:** concentração no Terminal de Cargas, migração para o Salão Nobre, ônibus pelo acesso vazio, comunicado do clube, versão de Boto, desculpas de Danilo, recepção em Guarulhos, contexto do jogo.
 - **Revisão pós-publicação:** (1) Resumo para IA colado ao corpo; (2) reprodução literal de provocação ("chiqueiro") — avaliar; (3) cosméticos.
 - **Ficha editorial:** [[2026-11-20 - AeroFla desencontro - notícia]].
+- **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações. Correções no portal dependem do editor.
+
+
+## Publicação confirmada — Onde Assistir Palmeiras x Flamengo (20/11/2026)
+
+- **Estado:** publicada em 20/11/2026, às 23h16, conforme confirmação do editor.
+- **Título:** *Palmeiras x Flamengo: onde assistir ao vivo, horário e escalações da decisão do Brasileirão*.
+- **URL pública:** https://fla10.news/noticias/palmeiras-x-flamengo-onde-assistir-ao-vivo-horario-e-escalacoes-da-decisao-do-brasileirao
+- **Formato:** Onde Assistir — Brasileirão. Autoria: Thiago Silva.
+- **Conteúdo:** transmissão (Globo, Premiere e Ge TV); cenário do título; prováveis escalações; desfalques; arbitragem completa; palco; finais do Palmeiras.
+- **Revisão pós-publicação (comparação com a versão publicada):** (1) faltou "em casa" na frase do histórico de 2017, tornando-a falsa/contraditória; (2) quarto árbitro ausente; (3) final da Libertadores genérica (editor especificou Estudiantes, 28/11); (4) "bom desempenho em casa" genérico; (5) "pré-jogo e pós-jogo" da Ge TV não confirmado; (6) subtítulo/resumo alterados pelo editor; (7) cosméticos.
+- **Ficha editorial:** [[2026-11-20 - Onde Assistir Palmeiras x Flamengo]].
 - **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações. Correções no portal dependem do editor.
 
 ## Publicação confirmada — Bustos de Arrascaeta e Bruno Henrique na Gávea (15/11/2026)

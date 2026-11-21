@@ -1897,6 +1897,17 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - Alterações documentais realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.
 
 
+## 2026-11-20 — Publicação confirmada: Onde Assistir Palmeiras x Flamengo
+- O editor confirmou a publicação e forneceu a URL; o texto foi comparado com a versão produzida pela IA.
+- **URL pública:** https://fla10.news/noticias/palmeiras-x-flamengo-onde-assistir-ao-vivo-horario-e-escalacoes-da-decisao-do-brasileirao
+- **Formato:** Onde Assistir — Brasileirão; autoria de Thiago Silva.
+- **Publicado dentro da janela:** após 20h30 de 20/11, conforme determinação do editor.
+- **Erros identificados na comparação:** (1) faltou "em casa" na frase sobre o histórico de 2017 — sem isso, a frase é falsa e contradiz a vitória palmeirense por 3 a 0 no primeiro turno; (2) quarto árbitro ausente; (3) final da Libertadores genérica (o editor especificou Estudiantes, em 28/11); (4) "bom desempenho em casa" sem dado; (5) "pré-jogo e pós-jogo" da Ge TV não confirmado; (6) subtítulo e resumo alterados pelo editor.
+- **Correção pendente no portal:** incluir "em casa" na frase do histórico.
+- Ficha da pauta criada; Painel e Log atualizados.
+- Alterações documentais realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.
+
+
 ## 2026-11-20 — Publicação confirmada: explicador dos cenários do título
 - O editor confirmou a publicação e forneceu a URL.
 - Matéria: **“A um empate do título: os cenários do Flamengo para ser campeão no sábado”**, seção Brasileirão, autoria de Thiago Silva.
