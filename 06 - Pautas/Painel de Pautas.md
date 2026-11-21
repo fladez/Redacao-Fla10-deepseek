@@ -2054,6 +2054,7 @@ A pesquisa acadêmica reforça que a identificação com o clube, o comprometime
 - **Evento:** Palmeiras x Flamengo — Brasileirão; 16h30, Nubank Parque.
 - **Pauta de serviço:** Onde assistir — **publicado em 20/11/2026, após 20h30**.
 - **Cobertura no evento:** pré-jogo pela manhã; pós-jogo; análise jornalística; Depois do Apito; Raio-X Tático.
+- **Pré-jogo publicado em 21/11/2026.** "A conta para o decacampeonato, os desfalques e o que cada time precisa fazer". URL e ficha registradas na publicação confirmada. [[2026-11-21 - Pré-jogo Palmeiras x Flamengo - cenário]].
 - **Fla Tirinhas:** pauta transferida de 20/11 para 21/11 por determinação do editor. **Tema a definir**; produção e publicação previstas para 21/11.
 - **Reportagem Fla10 — O Flamengo que arrecada mais, mas precisa rever sua estratégia financeira:** **transferida de 20/11 para 21/11 por decisão do editor.** Apuração documental e redação pendentes; mesma base de checagem da ficha [[2026-11-09 - Reportagem Fla10 - financas]].
 - **Classificação editorial:** futebol masculino profissional — equipe principal.
@@ -3489,6 +3490,18 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 - **Revisão pós-publicação:** (1) Resumo para IA com frase quebrada ("A transmissão ao vivo."); (2) URL de preview/staging — confirmar domínio público após deploy; (3) cosméticos.
 - **Correção de agenda:** horário do jogo corrigido de 16h para 11h no Painel e no Controle NBB.
 - **Ficha editorial:** [[2026-11-21 - Basquete Cearense x Flamengo - Onde Assistir NBB]].
+- **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações. Correções no portal dependem do editor.
+
+
+## Publicação confirmada — Pré-jogo Palmeiras x Flamengo (21/11/2026)
+
+- **Estado:** publicada em 21/11/2026, conforme confirmação do editor.
+- **Título:** *Palmeiras x Flamengo: a conta para o decacampeonato, os desfalques e o que cada time precisa fazer*.
+- **URL pública:** https://fla10.news/noticias/palmeiras-x-flamengo-a-conta-para-o-decacampeonato-os-desfalques-e-o-que-cada-time-precisa-fazer
+- **Formato:** Pré-jogo — Brasileirão. Autoria: Mariana Costa.
+- **Conteúdo:** conta do título; desfalques e provável escalação do Flamengo; contexto e provável escalação do Palmeiras; questões táticas; o que observar; transmissão; troféu; ficha.
+- **Revisão pós-publicação:** (1) contradição entre as duas escalações prováveis do Palmeiras; (2) linha fina afirma "irá poupar" e termina com pergunta retórica; (3) "umas vantagem"; (4) duplicação do serviço do Onde Assistir; (5) "payperview", "FlamengoTV" e narração não confirmada; (6) negrito fora do padrão; (7) cosméticos.
+- **Ficha editorial:** [[2026-11-21 - Pré-jogo Palmeiras x Flamengo - cenário]].
 - **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações. Correções no portal dependem do editor.
 
 ## Publicação confirmada — Bustos de Arrascaeta e Bruno Henrique na Gávea (15/11/2026)

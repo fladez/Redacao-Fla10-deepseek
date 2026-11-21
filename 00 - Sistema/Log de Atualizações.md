@@ -1920,6 +1920,16 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - Alterações documentais realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.
 
 
+## 2026-11-21 — Publicação confirmada: pré-jogo Palmeiras x Flamengo
+- O editor confirmou a publicação e forneceu a URL.
+- Matéria: **“Palmeiras x Flamengo: a conta para o decacampeonato, os desfalques e o que cada time precisa fazer”**, seção Brasileirão, autoria de Mariana Costa.
+- **URL pública:** https://fla10.news/noticias/palmeiras-x-flamengo-a-conta-para-o-decacampeonato-os-desfalques-e-o-que-cada-time-precisa-fazer
+- **Conteúdo:** conta do título; desfalques e provável escalação do Flamengo; contexto e provável escalação do Palmeiras; questões táticas; o que observar; transmissão; troféu; ficha.
+- **Revisão pós-publicação (achados para o editor):** (1) contradição entre as duas escalações prováveis do Palmeiras (Khellven/Sosa/Vitor Roque x Giay/Arias/Mauricio/Flaco López); (2) linha fina afirma "irá poupar" e termina com pergunta retórica; (3) "umas vantagem"; (4) duplicação do serviço do Onde Assistir; (5) "payperview", "FlamengoTV" e narração de João Guilherme não confirmada; (6) negrito fora do padrão; (7) cosméticos do site.
+- Ficha da pauta criada; Painel e Log atualizados.
+- Alterações documentais realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.
+
+
 ## 2026-11-20 — Publicação confirmada: explicador dos cenários do título
 - O editor confirmou a publicação e forneceu a URL.
 - Matéria: **“A um empate do título: os cenários do Flamengo para ser campeão no sábado”**, seção Brasileirão, autoria de Thiago Silva.
